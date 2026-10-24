@@ -1,0 +1,146 @@
+1	Having broken through the castle gate, Leif's "Liberation Army" pours into the castle all at once.
+2	Their one and only goal: the throne of Leonster Castle.
+3	The restoration of the kingdom, the long-cherished wish of Leif and his people, was becoming a reality...
+4	Xavier! You understand, don't you!!
+5	Understand what...?
+6	I did not kill you, a defeated general, and for these ten-odd years I have favored you as my right hand.
+7	You have not forgotten that debt, I trust!
+8	Debt? ...I, too, believe I have worked hard for you, Marquis...
+9	Mm, you have certainly been useful. But I believe I have granted your requests as far as I could, too.
+10	Heh...
+11	What? Are you saying you have a complaint! If you do, say it.
+12	It is already too late. The dead do not come back to life...
+13	Ugh... In any case, Xavier, you and I are equally guilty.
+14	They resent you as a traitor.
+15	Even if you tried to switch sides now, they would not accept you.
+16	I am well aware of that! How could I show my face and meet them now?
+17	Marquis, you need not be afraid. As a warrior of sorts, I at least know how to meet my end!!
+18	August, was this really the right thing? Isn't dividing our forces dangerous?
+19	To keep the treasures in the castle from being carried off, it is better to split into two groups. Besides, rescuing the hostages is necessary too.
+20	And persuading General Xavier?
+21	I must say it is quite difficult.
+22	We free the hostages and have them persuade the eight heavy knights under the general's command,
+23	but if the imperial soldiers on watch spot them, everything is over. Do not let your guard down...
+24	Understood. Then, everyone, let's go!
+25	Let us raise this banner of Gae Bolg once more over the royal castle of Leonster!
+26	Father! Stop it now!
+27	Ohh, you were safe! Thank goodness... With you back, who'd work for the Empire!
+28	Dear!
+29	So you were safe! Then there's no need to be here any longer. Come, let's go home...
+30	Dad! It's me! Dad!
+31	What! How did you get here? ...Well, never mind that. Anyway, let's get out of here quick!
+32	Stop it now! You don't have to fight anymore!
+33	...As long as you're safe, I have no business here. Let's get away together!
+34	Hey! What are you doing in a place like this! We're getting out of here, now!
+35	No, well, you were captured so I had no choice... Hey, wait for me~
+36	I'm sorry... All this, because of me...
+37	It's fine, it's fine. As long as you're safe, Pops, that's all that matters. Come on, let's go...
+38	......
+39	It's all right, Mother. You don't have to say anything. Come, let's go home...
+40	Waaah, Daddy...
+41	There, there, it's all right now. Come on, let's go home together with Daddy, okay?
+42	General Xavier!?
+43	Prince Leif... You have grown up splendidly... I had wished to see you just once.
+44	With this, I have nothing left to regret.
+45	General, what are you saying? I...
+46	No.
+47	Whatever the reason may have been, it does not change the fact that I betrayed the lord to whom I owed so much.
+48	But Prince, the guilt lies with this old man alone.
+49	Please, forgive my subordinates. Everything was at my order. My subordinates bear no guilt.
+50	General... What a man you are...
+51	Please, raise your head. I am the one who must apologize.
+52	I should have protected the people, yet I abandoned them and fled the castle.
+53	I was unable to fulfill a single one of my responsibilities as royalty.
+54	And you, General, kept fulfilling them in my place, all alone!
+55	Lord Leif... Kh... such words... I... I...
+56	I am glad I lived until today... That a day like this... should come again...
+57	Xavier, I apologize as well. I was wrong. Forgive me...
+58	Lord Dorias... "Forgive me" is more than I deserve... I only...
+59	Xavier, Lord Leif needs a man like you.
+60	Lend him your strength.
+61	Yes, sir... If an old man like me will do, command me as you will.
+62	To fight the Empire is my dearest wish. Nothing could make me happier!
+63	Prince, the whole castle has been secured. In its fourteenth year, Leonster has at last returned to our hands!
+64	Dorias... thank you.
+65	It is thanks to you that I was able to come this far... I'm grateful.
+66	Lord Leif...
+67	Finn... we've finally come home. Returning together with you was my dream...
+68	...Thank you. I'm truly grateful...
+69	Lord Leif...
+70	Prince! Forgive me for interrupting, but what became of your promise!
+71	Princess Miranda? If it's the liberation of Ulster, I haven't forgotten.
+72	Then please march out right now. If you dawdle, it will be too late!
+73	What do you mean? Has something happened in Ulster?
+74	The citizens are plotting a revolt. But they can't win on their own. At this rate there will be many victims.
+75	Prince Leif, help them! Please help Ulster!!
+76	Prince, forgive me for interrupting, but someone has come wishing an audience.
+77	I am told she has come from Ulster... ah, hey, wait! We do not yet have the prince's permission...
+78	You are Prince Leif!
+79	Please, I beg of you. Ulster... please save Ulster.
+80	Ulster? What do you mean? Would you explain in detail?
+81	I believe you know that our Ulster swore obedience to the Empire, and was thereby allowed to continue.
+82	But the tyranny only grew worse by the day,
+83	and the citizens, unable to bear it, rose in revolt yesterday.
+84	A revolt... But civilians alone can't manage it. Did the Ulster army join them?
+85	No...
+86	We asked the army's commander, Count Conomor, many times,
+87	but he only told us to wait and would not give his leave.
+88	In the end, we rose up without his leave.
+89	But the revolt failed, the imperial army struck back, and many were killed.
+90	Lord Leif, please, please save the people of Ulster! I beg you!!
+91	Understood. Then let's head for Ulster right now.
+92	Lord Leif, you must not!
+93	I understand how you feel, but we do not have the strength now to save Ulster.
+94	Now is the time to defend this Leonster and build up our forces!
+95	I am of the same mind as Lord Dorias.
+96	We must not underestimate the Empire. If we fight them head-on, we have no chance of victory.
+97	Prince, you must not grow proud! Our victories so far were, so to speak, due to the Empire's blunders.
+98	Do not forget that!
+99	Then are you both, Dorias and August, telling me to leave the people of Ulster to die!
+100	When I was small I was sheltered in Ulster, and kept alive by the love of Queen Ethnia.
+101	My father would never forgive forgetting that debt!
+102	If you absolutely will not consent, I will go even by myself. You wait in this castle!
+103	Well, this is a problem... I had thought he had grown up a little more, but Lord Leif seems still very much a child...
+104	...Understood. Then let us go to the relief of Ulster.
+105	First, I will set out ahead, taking half the soldiers.
+106	Prince, you depart tomorrow morning with the remaining soldiers. August, that is acceptable?
+107	Hmm...... So that is how it is......
+108	In that case, I would have you order me to go ahead.
+109	The prince needs you. Stay by his side. There were times we differed, but without you we would not be where we are.
+110	...Continue to be Lord Leif's strength from here on.
+111	...... If you insist so far, there is no help for it.
+112	Dorias, why not the whole army? If you're going ahead, I'll go with you.
+113	Prince! Enough of your willfulness! The soldiers are utterly exhausted.
+114	The veterans especially, with the taking of Leonster as their only support, have pushed themselves beyond all limits.
+115	There, look. Even now they are all sleeping like the dead.
+116	But if you ride out, Prince, they will follow even if they must force themselves.
+117	Is it all right with you to make them push themselves like that?
+118	...I'm sorry. It's as you say, Dorias... I was wrong. But will that be enough fighting strength?
+119	...With the liberation of Leonster, those who had been in hiding
+120	and those who had been working under the Empire against their will have joined us in numbers.
+121	I will take them along to make up the shortfall.
+122	I see. Then I will set out too as soon as preparations are done.
+123	Dorias, I leave the people of Ulster to you. Protect them!
+124	Yes.
+125	But Lord Leif, before I ride out, let me tell you one important thing.
+126	An important thing? What is it, Dorias, so formal all of a sudden?
+127	Leonster has been liberated, and our kingdom has been restored.
+128	With this, Lord Leif, you are formally the heir to the throne of Leonster.
+129	That is to say, you have become "Prince."
+130	Please become a fine sovereign who does not shame that name.
+131	Oh, is that all. I know. I'll become stronger, you'll see.
+132	Until I get Eyvel back, my fight isn't over.
+133	You'll come to Munster with me too, won't you, Dorias?
+134	Sir... Now then, Lord Leif, I ride out.
+135	May God's protection be with you, Lord Leif!
+136	There are some who request an audience with the prince...
+137	It seems they were being forced to work in this castle and were saved by us, or so they say...
+138	Good, I'll see them. Bring them here.
+139	Prince Leif, congratulations on retaking Leonster.
+140	We, too, were saved thanks to you, Prince.
+141	This is just a small token of our thanks. Please accept it.
+142	...I will be your opponent...
+143	Forgive me... Lord Leif... Glory to our Leonster!!
+144	I cannot bear to live in shame any longer... This is the end...
+145	Curse you! I won't lose to the likes of you! I won't lose!
+146	Guh... To the likes of them... I was careless...

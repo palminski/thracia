@@ -1,0 +1,89 @@
+1	Having swept away the pirates who were rampaging in Ith,
+2	Leif and his companions hurry on toward Munster.
+3	And then they passed by a small fort known as the "Gate of Kelves"...
+4	Lobos, is the child hunt progressing?
+5	Yes, Lord Raydrik. We have finished gathering all the children in this area.
+6	We have put them in the cells for now. What shall we do with them?
+7	Good work. Leave them as they are until the Loptr Church comes to collect them.
+8	The Magi Squad might come to take them back, so don't neglect the guard.
+9	The Magi Squad? Ah, the rebel group in Munster.
+10	Are they still surviving?
+11	I thought we had destroyed them once, but lately they've been gaining strength again.
+12	It seems a new leader has appeared. Honestly, what annoying flies...
+13	Quite so.
+14	Will you be returning to Munster now?
+15	No. I'm tired from the long journey, so I'll rest at this fort for a while.
+16	In this impregnable Fort Kelves, one can sleep at ease.
+17	Lobos, I leave the rest to you!
+18	Yes, sir! Leave it to me!
+19	That is the entrance to Munster, the "Gate of Kelves."
+20	As forts go it is a small one, but for the people who live around here, it could be called a place more fearsome than hell.
+21	Why?
+22	Because lately it has become a base for the child hunts...
+23	Child hunts?
+24	All children from seven to thirteen years old are sent to the imperial capital, Belhalla.
+25	There, I am told, they are reborn as servants of the god Loptous.
+26	That's absurd...
+27	Absurd it is, but it is a fact.
+28	Many children are, in fact, being held in Fort Kelves right now.
+29	Ugh. And they call themselves human...
+30	August, I'm going to free the children. It's a pity, but let's part ways here.
+31	I see... Then let me offer one last word of advice.
+32	Mounted units cannot enter the castle, so please dismount and proceed on foot.
+33	Also, the children cannot move, so carry them in your arms and take them to the village.
+34	If you do, the villagers will surely be very grateful.
+35	Well then, Prince, fortune in battle...
+36	!?
+37	...August, did you know that I'm the prince?
+38	Of course.
+39	This August intends to lend his strength to the prince's great conquest.
+40	Let us meet in Munster at a later date.
+41	Ahh, Romeo, thank goodness you're safe...
+42	Thank you so much!
+43	It's not much by way of thanks, but this is a magic bracelet handed down in our family. Please take it.
+44	Please, I beg of you! Save my son Romeo!
+45	Lucia, thank goodness, you're safe. Oh... how I worried...
+46	Thank you.
+47	I can't offer much of a reward, but let me give you this ancient manuscript.
+48	We don't really understand it ourselves, but they say just carrying it grants you a mysterious power...
+49	I hope it will be of use...
+50	My daughter... please bring Lucia back!! I beg you!
+51	Ahh, Hubert, you're safe! Thank goodness, I was so, so worried...
+52	Thank you.
+53	My older brother is an imperial knight, but if you should happen to meet him,
+54	please tell him what happened to our little brother.
+55	His name is Dalsin.
+56	I'm sure he will help you, so please don't forget.
+57	My little brother Hubert was taken away by imperial soldiers.
+58	Please, get my brother back!
+59	Ohh, Master Coirpre, so you were safe. Thank goodness, I was worried.
+60	Young one, I am much obliged.
+61	This child had come to the village as a messenger for a certain person, but he was mistaken for a village child.
+62	If anything had happened to this child, it would have been a terrible thing. You have my thanks.
+63	Master Coirpre has been taken away. Ahh, what am I to do...
+64	Phew. It seems we managed to seize the fort...
+65	Boy, I'd like to praise you for making it here, but this is as far as you go.
+66	If you value this girl's life, throw down your weapons!
+67	Nanna!?
+68	...Raydrik! You...
+69	Lord Leif, never mind about me! Run!!
+70	Ugh... All right... I'll throw down my weapon. So don't lay a hand on Nanna!
+71	Heh... You seem to be quite reasonable.
+72	All right, seize Prince Leif! Capture the others too, every last one!
+73	What... Lord Leif was captured?
+74	Then I will go with Lord Leif.
+75	You all get away, and work to rescue the prince. Understood?
+76	I see. So Eyvel said that...
+77	It can't be helped. We'll withdraw for now.
+78	Lord Leif, please wait for me. I will come for you, without fail!!
+79	Ugh, so this is it...
+80	Tch... Guess there's no choice. Leif! I'll come save you, so don't you go dying on me!
+81	O God, please protect the prince...
+82	What, the prince was captured?
+83	Tch, no choice. We're heading back to Purple Dragon Mountain for now!
+84	If it's come to this, we'll just round up our comrades and storm Munster.
+85	Y-you people, who on earth are you?
+86	Do you think you'll get away with doing this!?
+87	Urgh... Don't think this is over... Gah!
+88	Tch, you people will regret this...
+89	I'm telling Lord Raydrik!

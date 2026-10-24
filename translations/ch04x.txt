@@ -1,0 +1,106 @@
+1	Lord Ced, are the children safe?
+2	I think they'll only be sent to the capital after many more have been gathered.
+3	It's all right, Asbel. We're still in time.
+4	Thank goodness. Let's rescue them quickly and return them to their mothers.
+5	Yes. But there are many guards, too. Don't let your guard down.
+6	Yes.
+7	Once we've rescued the children, Asbel, look for Prince Leif together with Brighton.
+8	What? ...Prince Leif!?
+9	Yes. It seems he fell into Raydrik's trap and was sent to this castle.
+10	...What's wrong, Asbel? You seem quite surprised.
+11	Lord Leif is a very important person to me.
+12	After we parted in the city of Tahra, I kept traveling, searching for Lord Leif the whole time.
+13	It's been three years already...
+14	So that's how it was...
+15	Then find the prince and escape Munster with him.
+16	I intend to evacuate the members of the Magi Squad outside the castle as well.
+17	As things stand, we'd only be waiting to be wiped out.
+18	Then what will you do, Lord Ced?
+19	I intend to stay in Munster a while longer.
+20	I must protect the citizens who are left.
+21	I'm sorry. You taught me so much, and I couldn't be of any use...
+22	Don't worry about that. All I taught you was that Grafcalibur.
+23	From now on, use it for Prince Leif's sake.
+24	...Lord Ced, we'll meet again, won't we?
+25	If Prince Leif is a true hero, Thracia will be liberated someday.
+26	...We'll meet again. Here in Munster.
+27	In Munster... Yes. In Munster, for sure!
+28	Sniff, sniff...
+29	Stop crying already...
+30	But... sniff...
+31	The soldiers will get mad at us again. "You're noisy," they'll say...
+32	I don't care if they get mad!
+33	If they get mad and hate me, maybe they'll let me go home...
+34	I want to go home...
+35	Lord Leif!! I've finally found you! It's me, Asbel!!
+36	Asbel!? ...Why are you in a place like this? Weren't you in Tahra?
+37	After you left the city, Lord Leif, I went after you right away.
+38	But I didn't know where you'd gone, and I've been in this town since half a year ago...
+39	Right away!? ...Then, ever since three years ago...
+40	Yes. Because we promised, didn't we?
+41	That we'd join forces and take back Thracia.
+42	And yet you left me behind all alone. That's cruel, Lord Leif.
+43	I'm sorry... But there was no other way back then.
+44	Tahra was surrounded by the imperial army, and I had already resigned myself to dying.
+45	I never thought I'd be able to escape.
+46	So I didn't want to drag you into it, Asbel.
+47	Don't say that... We swore to share life and death, didn't we?
+48	Or was that oath just a game between children?
+49	I still remember it. I decided I would be your strength, Lord Leif.
+50	Asbel...
+51	Lord Leif, please take back Thracia. For that, I'll endure any hardship!
+52	Lord Ced!! Ahh, it really is Lord Ced!
+53	Hm? Isn't that Karin...?
+54	What's going on? Did you leave the country?
+55	Yes! To look for you, Prince!
+56	To look for me? ...Did Fee ask you to? Or was it Mother...
+57	...... Lord Ced, I have to tell you something important.
+58	What is it? Tell me.
+59	The truth is... Ahh... ......
+60	Karin, if you have something to say, say it clearly. I can't understand if you only cry!
+61	Yes... The truth is, the Queen...
+62	Mother!? I-it can't be...!
+63	Yes... Two months ago already...
+64	Mother... Mother has passed away...
+65	Lord Ced...
+66	So I wasn't in time... I wanted to let her see Father... even just once...
+67	Lord Ced, please return to Silesse. Lady Fee is waiting.
+68	Fee... How is she? Is she well?
+69	In front of everyone she tries desperately not to cry, but when she's alone with me, she cries until her tears run dry...
+70	You're too cruel, Lord Ced. Pushing everything onto young Lady Fee, while you yourself are in a place like this...
+71	As the prince who inherited Forseti, it's only natural you'd be called a hero.
+72	But to get full of yourself over that and neglect your mother and sister,
+73	can you call yourself the prince of Silesse!?
+74	Karin... You're certainly right.
+75	But only Father could cure Mother's illness,
+76	and even if I had been at her side, there was not a single thing I could have done.
+77	Only watch Mother grow weaker... That's why... I wanted to find Father no matter what.
+78	Then why Munster?
+79	Father was in Munster until half a year ago. I came as soon as I heard the rumor, but he had already departed.
+80	But the people of this town were so pitiful that I couldn't abandon them.
+81	So that's how it was... I'm sorry for saying such terrible things...
+82	Karin, I'm sorry, but could you give me just a little more time?
+83	Once I've driven Raydrik out of this town, I'll return to Silesse.
+84	It won't take that long. At least another half a year...
+85	Then I'll stay in this town with you, Lord Ced.
+86	Karin, I'm glad for the thought, but I can't fight with you here. Go back home.
+87	...You're right. Far from being useful to you, I'd only be a burden...
+88	All right. I'll go back home.
+89	Lord Ced, you will come back to Silesse, won't you? For sure... It's a promise.
+90	Yes, I promise. As a token of it, I'll give this to you, Karin.
+91	What is it? This worn old scrap of cloth...?
+92	This is a treasure of the Silessean royal family.
+93	It's an ancient manuscript said to have been written by the Crusader Ced, and a mysterious power is hidden in it.
+94	It's really something to be given when welcoming a queen, but I'll leave it in your keeping, Karin.
+95	Something so precious, to me? I-I couldn't possibly!
+96	Karin... I'm sorry about Mother.
+97	I'm also grateful that you helped Fee.
+98	This is how I feel. I want you to accept it.
+99	...All right. But I'm only keeping it for you.
+100	When you return to Silesse, I'll be sure to give it back!
+101	Karin, let's meet again in Silesse. Stay well until then.
+102	Yes! Please stay well too, Lord Ced!
+103	Huh, I can go back to my dad?
+104	I know. I just have to escape through the corridor on the right. Thank you!
+105	I want to go home quick... Sniff, sniff. How do I get home?
+106	Okay, by the path on the right... Then I'll do that... sniff... Thank you...

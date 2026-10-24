@@ -1,0 +1,150 @@
+1	Taking Dorias's counsel, Leif and his army make for Leonster along the coast.
+2	But to reach Leonster by this highway,
+3	they must break through an imperial fort called "Fort Norden."
+4	There, an elite Friege corps had been deployed, seeking to block the "Liberation Army's" advance.
+5	Kempf, your preparations are complete, I trust.
+6	Leave it to me, General Nikalaf. They style themselves a liberation army, but their fighting strength is beneath that of bandits.
+7	With my army alone I shall crush them with ease.
+8	"With ease," you say? Hold your tongue, boy!!
+9	Who was it who, though in charge of Fort Dandrum, abandoned his men and came shamelessly running back alone!
+10	They are the Lanzenritter of Leonster.
+11	With Prince Leif as their leader, and with their homeland before their eyes, their morale all but reaches the heavens.
+12	Take them lightly and you will be inviting death!
+13	Sir... My apologies...
+14	Your unit is to defend the bridge here to the death. The ballista units will support you from the rear.
+15	I will not permit you to fight outside their range! Understand, this is an order!!
+16	Sir...
+17	The all-out attack comes after the reinforcements from Ulster arrive. We pincer them front and rear and smash the enemy in one stroke.
+18	Reinforcements from Ulster?
+19	Yes. Count Conomor is coming with about a hundred riders.
+20	The enemy will be attacked from behind by the strongest corps in northern Thracia.
+21	I see... But then it won't be my achievement...
+22	I'd like somehow to take them down with my own hands...
+23	Prince, word from the soldiers sent ahead. The enemy's formation is like this.
+24	A large ballista force around Fort Norden... Unless we do something about that, we can't take the fort.
+25	To cross to the far side of the river, we have no choice but to seize this bridge.
+26	However, an armored corps is holding it firmly, and fighting within the shooters' range puts us at a disadvantage.
+27	Which means we just have to lure this armored corps out of range.
+28	However, I do not think the enemy will move so easily.
+29	But I think it's worth considering. There must be some way...
+30	Lord Leif, please give that task to me. I know that commander. I can lure him off the bridge.
+31	You, Olwen!? No. I can't let you do something so dangerous.
+32	Please. I want to be of use to you, Prince!!
+33	Father, it seems a battle is about to begin outside. It's dangerous to go out now. Please rest in this house a while longer.
+34	Yes. Then I shall accept your kindness...
+35	Tch... Why do I have to be the vanguard for an idiot like that?
+36	So a commoner like me is, in the end, nothing more than a shield for the nobles...
+37	Good, all troops charge as one. Fight in a way that does honor to the name of Ulster!!
+38	Lord Conomor, is this truly all right? Win or lose, we will lose our homeland.
+39	If we lose this opportunity, there will never again be a chance to retake our homeland...
+40	I know.
+41	But if we turn traitor, Princess Miranda, who is being held hostage, will lose her life.
+42	The princess is still fifteen... Do you not think she is far too young to end her life in that dark monastery...
+43	Hey, hey, mister...
+44	What? Who are you? Stop scurrying around in front of me!
+45	Hey, please, won't you take our side?
+46	Hey, hey, what are you coming out with so abruptly?
+47	You're a weird one, honestly...
+48	No good after all? ...Well, I figured it'd be a no.
+49	Okay then. Goodbye...
+50	Hey! Wait a second!
+51	What?
+52	Fine. Depending on the terms, I might switch sides.
+53	Really! So, what are the terms?
+54	Let's see. If Leonster is restored, how about making me a noble?
+55	I think that'd be easy, but do you want to be a noble?
+56	Are you a commoner, by any chance? Then you're a real hard worker.
+57	A commoner who's a senior knight is rare in the Friege army.
+58	Stop saying commoner, commoner!
+59	Yes! I'm commoner-born all right, but it's not as if I'm ashamed of it.
+60	I take pride in being a commoner!
+61	Then there's no need to become a noble.
+62	Well... that's true, but... never mind about that!
+63	My name's Karin. What's your name?
+64	I-I'm Ilios...
+65	The name alone sounds really noble. Is it a fake name, by any chance?
+66	Don't be stupid! It's not a fake name!
+67	It's the name my old man gave me because he looked up to nobles. It's my real name!!
+68	Then your noble complex is because of that name.
+69	I think you should change it. Not Ilios; make it Olson.
+70	That definitely suits you better.
+71	O-Olson...!? Hey, don't go changing a person's name on your own...
+72	Okay then, Mr. Olson, we're comrades from now on. Nice to meet you!
+73	H-hey...
+74	General Kempf. It has been a while.
+75	You're Olwen!? You traitor!!
+76	If I am a traitor, then you are a beaten dog. No, a coward.
+77	Wh-what!! How am I a coward!
+78	You don't have the courage to fight, do you? I hear you ran about at Dandrum, too.
+79	Even now you're only hiding in your soldiers' shadow and trembling.
+80	Like that, you'll never beat my brother Reinhardt, not ever!
+81	Grrr... If I let you go on!!
+82	Someone! Seize this woman!! I'll kill you all, every last one... I'll kill you!!!
+83	Lord Leif, my task is done... I wish you fortune in battle...
+84	Hey, order all troops to charge! Tell them whoever takes an enemy head gets a bounty!
+85	Cut them down to the last one!
+86	P-please wait, General! That goes against General Nikalaf's order!
+87	As long as we win, anything can be smoothed over. Have you forgotten that my house belongs to the royal family!
+88	All troops! Charge!! Cut down the enemy, don't let a single one escape!!!
+89	...As expected of the Lanzenritter of Leonster. It would be wiser to pull back for now...
+90	All troops, we now move to withdraw!
+91	Ah, you are Lord Leif!
+92	Yes. The priest of Solwood told me to meet you.
+93	But how did you know?
+94	It is as I saw at the Tower of Bragi... The boy who bears the light of Zwei... a great power...
+95	Lord Claud... It is just as you said...
+96	The Tower of Bragi? The light of Zwei? What on earth do you mean?
+97	When the time comes, you will understand.
+98	Prince Leif, I shall accompany you for a while. That is acceptable, yes?
+99	The Father is resting. He says he doesn't wish to see anyone.
+100	Honestly, ever since this area was incorporated into the Kingdom of North Thracia, nothing good has come of it.
+101	I miss the days of Leonster...
+102	Back then I'd go far off to find work, but now you can't even travel in peace.
+103	I don't need it anymore, so I'll give you this key.
+104	What, you people are connected to Leonster?
+105	Then it'll be the age of the Kingdom of Leonster again.
+106	This is holy water. Please use it. I don't need any thanks. We want to be of use too!
+107	I hear you folks are fighting to liberate this Thracia.
+108	I'll give you this "Knight's Crest," so keep at it until the day Thracia is liberated.
+109	Prince, splendidly done. You have triumphed well over this difficult situation.
+110	Your homeland Leonster is before your eyes. The people have long awaited your return.
+111	Leonster... my homeland...
+112	Indeed. You were still small, Prince, so you may not remember it, but...
+113	I remember. That night especially, I'll never forget as long as I live.
+114	That night?
+115	The night Leonster fell... The sky was bright red with soaring flames.
+116	In Finn's arms, I just stared blankly up at the sky.
+117	At first I didn't really understand.
+118	But when I saw Finn's face, a deep sorrow suddenly welled up in me.
+119	It was the first time in my life I had ever felt so sad...
+120	I pushed a painful duty onto Finn. But there was no one but him to whom I could entrust you.
+121	As long as the prince is safe, Leonster will rise again someday without fail.
+122	Telling him that, I had him escape from the burning castle.
+123	That day was the last time I saw Finn's tears.
+124	Since then, he seems to have forgotten how to cry... no, even how to smile...
+125	His heart is surely still in Leonster.
+126	No, not only his. We all left our hearts behind in Leonster...
+127	But when Ulster's army appeared from behind, honestly, I wondered what would become of us.
+128	The enemy's lack of coordination saved us.
+129	But that is Count Conomor for you.
+130	The swiftness with which he gathered his soldiers the moment he saw the odds were against him was admirable, enemy though he is.
+131	Count Conomor?
+132	Ulster's finest brave general, an excellent knight with more than his share of devotion to righteousness and of patriotism for his homeland.
+133	Why would such a man side with the Empire?
+134	Doesn't he want to do something about this imperial tyranny?
+135	He must have circumstances that leave him no choice...
+136	In any case, there is no doubt he is an opponent I would not wish to fight a second time.
+137	Damn it, if only you weren't here... if only you weren't heeere!
+138	Absurd... M-me... to the likes of them...
+139	Curse you... I won't forget this! Remember that!
+140	You rebels! Take my blade, if you can!
+141	Guh... This is... not the end...
+142	So even I am made light of...
+143	You mean to fight me?
+144	Hmph, interesting. Can you defeat the great Ilios!
+145	So I end up finishing as a commoner after all...
+146	Tch... Working me to the bone because they think I'm just a commoner...
+147	I can't take this anymore.
+148	I bear you no grudge, but this too is fate. Forgive me!
+149	May Ulster... rise... once again...
+150	Mmh... Must I live on in shame...

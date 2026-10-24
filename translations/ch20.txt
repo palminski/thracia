@@ -1,0 +1,103 @@
+1	...A little over half a year passed after that.
+2	The attack on Leonster by the Friege army under Barath, burning to retake it, was ferocious,
+3	and though Leif's "Liberation Army" fought well, they were gradually driven into a corner of the castle.
+4	By now, in anyone's eyes, the fall of Leonster was only a matter of time...
+5	Lord Barath, how goes the battle?
+6	Reinhardt. I've been waiting. You brought reinforcements, I trust.
+7	One corps is on its way here from Ulster. It should arrive shortly.
+8	I see. Then our numbers will be complete.
+9	We have already occupied most of the castle; only this area remains. It will not take much time.
+10	I hope so...
+11	Hm? What do you mean? Is there some problem?
+12	...It has already been half a year since the siege began. And King Bloom is greatly angered that Leonster has still not fallen.
+13	It is not for a youngster such as myself to interject, but I think you would do well to hurry...
+14	...I know.
+15	The King's temper only worsens by the day.
+16	Losing Prince Ishtore at Melgen Castle must have hit him very hard.
+17	How far has the Isaachian army come?
+18	I am told they have already entered the Thracian peninsula.
+19	Cohen's 26th Corps and the mage forces of the three Vampa sisters and Lady Tine are meeting them,
+20	but after all, these are the foes who defeated Lady Liza. A hard fight is unavoidable.
+21	And what is the King himself doing?
+22	It seems he intends to take command at Ulster.
+23	Should the Isaachian army come to threaten Ulster, he will likely call you back, my lord.
+24	If at that time Leonster is still in enemy hands, your own position...
+25	Kh... I know that much!
+26	Then, as I must return to Connacht, I will take my leave...
+27	Hey, someone!!
+28	Sir...
+29	Tell all troops! An all-out attack! Attack, attack, and keep on attacking!
+30	Falling back is not permitted. Smash the enemy with all your strength!
+31	Sir! At once!!
+32	Lord Leif, it has begun. The enemy's all-out attack...
+33	August, can we hold?
+34	Everyone able to move has taken up the defense.
+35	For if this place falls, there is nowhere left to run.
+36	Facing the Empire's great army, I think we've done well to hold out this long.
+37	Half a year under siege already... We may be nearing our limit.
+38	You must not speak so faintheartedly.
+39	That would be betraying those who have fought desperately until now.
+40	It is because we are tying down a large enemy force that Seliph's army can advance with ease.
+41	Until we have joined up with them, we must never give up!
+42	I'm sorry, August. I know...
+43	I want to meet Lord Seliph too. It's only that I can't bear the pity of the soldiers who are dying...
+44	If you feel that way, then all the more.
+45	For the sake of those who fell with their aims half-achieved, too,
+46	we must keep fighting until the last one of us!
+47	Lord Leif, the enemy has begun to withdraw!
+48	What!? What on earth does this mean?
+49	Seliph's army has come!
+50	I am told they are already besieging and attacking Ulster Castle. We are saved!
+51	I see... Lord Seliph...
+52	But August, how did you learn that?
+53	Ah, how careless of me... A messenger came from Lord Seliph a short while ago.
+54	I have him waiting in the inner room.
+55	From Lord Seliph... I want to see him! Show him in at once!
+56	Prince Leif, it is an honor to meet you for the first time.
+57	I serve under Lord Seliph. My name is Diarmuid.
+58	Diarmuid!? Then you are Nanna's brother!?
+59	Yes.
+60	I had been looking forward to meeting Nanna... It is a great pity.
+61	I'm sorry. All because I lacked the strength...
+62	No. It is not your fault, Lord Leif.
+63	I... believe my sister was happy to have been at your side.
+64	Diarmuid...
+65	Lord Leif, this is a letter from Lord Seliph. Please look it over...
+66	I see...
+67	According to this letter, the taking of Ulster won't take much longer...
+68	Yes. Within the next few days...
+69	Then let us head for Ulster too. I want to meet Lord Seliph as soon as possible!
+70	Understood. Then I will guide you.
+71	Diarmuid, that concludes your official business, doesn't it?
+72	Yes...
+73	Then please meet Nanna.
+74	Diarmuid... Brother...
+75	Nanna!? Is it you, Nanna!!
+76	Yes...
+77	Nanna... I'm sorry it has been so long.
+78	If I had known sooner, I would have come for you whatever it took,
+79	but until Lord Lewyn told me, I didn't know about you...
+80	Lord Lewyn...?
+81	Yes. He is Lord Seliph's strategist, and he knows about everything.
+82	He told me about Mother too. That she set out for Isaach to fetch me, but all word of her was lost in the Yied Desert...
+83	!... Then, after all...
+84	I had prepared myself, but so Mother really is... Ahh...
+85	I'm sorry, Nanna. Mother, for my sake...
+86	No... When I was little I resented it, but I understand now.
+87	As a woman myself, how Mother Lachesis felt...
+88	Nanna, I haven't given up.
+89	Lord Lewyn, too, said that Mother is alive.
+90	When this war is over, let's go and look for Mother, the two of us.
+91	So... don't cry anymore.
+92	Prince Leif, I have a request.
+93	Would you let me join your army, Lord Leif?
+94	Of course, I will obtain Lord Seliph's permission.
+95	Yes. For Nanna's sake too, I'd very much like you to.
+96	I'll ask Lord Seliph myself as well.
+97	Prince Leif, the throne has fallen into Friege's hands!
+98	Seeing this, our soldiers are fleeing one after another! Our fight ends here...
+99	Um... is the castle finally in danger?
+100	Please use this staff. We don't really understand it, but it's a magic staff, they say...
+101	Please, don't abandon us! We don't want to go back to those terrifying days!
+102	I won't let the likes of you get in my way!
+103	Guh... So this... is it...

@@ -1,0 +1,85 @@
+1	Around the time Leif and his people, having finished settling affairs after the battle in Leonster, set out for Ulster,
+2	the Isaachian "Liberation Army" led by Lord Seliph succeeded in taking Ulster.
+3	Bloom, the King of Friege, fled to Connacht,
+4	and Ulster was liberated by Seliph's forces.
+5	In this Ulster, Leif would have his first meeting with his cousin, and the one who would become his lifelong sworn friend,
+6	the "Prince of Light," Lord Seliph of Chalphy.
+7	Lord Seliph, it is about time you returned...
+8	Oh, Julia, is it that late already?
+9	Prince Leif, we could talk forever, but we must be getting back now.
+10	It will be fine. Leave the taking of Connacht to us, and go straight to Munster, Prince.
+11	Lord Seliph, I'm sorry for being selfish.
+12	No, I understand how you feel very well, Prince. There is nothing to worry about. Then let us meet in Munster at a later date.
+13	Yes, in Munster, without fail!
+14	I shall be praying for your fortune in battle, Lord Leif...
+15	Please take care too, Lady Julia...
+16	Prince Leif, how was your meeting with Lord Seliph?
+17	He's a fine man. I can't believe he's only one year older than me.
+18	Indeed. At that young age, he commands a force ten times ours and came across the Yied Desert.
+19	He is certainly no ordinary person.
+20	You once said "a hero who was made," August.
+21	I mean that there is that side to it.
+22	But as far as Lord Seliph is concerned, it is also a fact that his own gifts are outstanding.
+23	He will far surpass his father, Lord Sigurd.
+24	I still have a long way to go. It makes me ashamed of myself...
+25	Not at all. You have grown a great deal this past year, Prince.
+26	In another year or so, you will be just as Lord Seliph is now.
+27	Well, setting that aside, how was the coming strategy decided?
+28	Lord Seliph's main force will, as planned, advance east along the coast and aim to take Connacht.
+29	Then our army goes on to Danzig as is?
+30	Lord Seliph gladly accepted my wish.
+31	It goes without saying, but I want to get to Munster as soon as I possibly can.
+32	I want to leave Connacht to Lord Seliph and aim to take Munster.
+33	Then, in any case, Fort Danzig must be taken. That fort is the key to the inland route.
+34	Prince Leif, preparations to march are complete.
+35	Then let's take the fort in one stroke!
+36	You understand. We are a mercenary unit.
+37	There is no need to fight when we don't have to. When the enemy divides its forces, we settle it in one go.
+38	Until then, do not leave your posts!
+39	Oh... You are Lady Linoan of Tahra.
+40	What? How do you know me?
+41	Your father and I were not exactly strangers.
+42	I knew your late mother well, too. You are the very image of your mother.
+43	Is that so...
+44	I hear you are fighting alongside Prince Leif.
+45	Yes.
+46	Hmm... So the blood of the crusaders will tell after all...
+47	Crusaders? Do you mean... me?
+48	Hm? Did your father tell you nothing?
+49	The ducal house of Tahra is a bloodline connected to the royal house of Grannvale, a family that carries the blood of the Crusader Heim.
+50	I... carry the blood of Heim...
+51	From the look of you, you have not yet noticed the power of Naga that you hold...
+52	Come with me. I shall awaken the blood of Naga that sleeps in your body.
+53	Yes...
+54	You are from the Liberation Army? From here eastward you draw near the imperial army's stronghold, so the fighting will grow harder still.
+55	Take this holy water. It will come in handy at some time or other.
+56	Ever since the Empire took over, this area too has become utterly desolate...
+57	I only hope we can go back to how it used to be...
+58	For that, too, please drive the Empire out of this area.
+59	This is nothing much, but please take it. I'm sure it will be of use.
+60	If I were twenty... no, ten years younger, I'd fight alongside you.
+61	Won't you at least let this sword I cherished take part in the fight? I want to be of use to the Liberation Army too...
+62	August! This is no mere fort. The enemy's defense is too tight.
+63	It appears this is a prison camp.
+64	With our encirclement, it seems the enemy has begun executing the prisoners.
+65	What!? Then there's not a moment to lose. Let's go rescue the prisoners right now.
+66	Lord Leif, the soldiers are exhausted.
+67	There is also information that Loptr's mage corps has come. Please pull back for now.
+68	No, I can't, August.
+69	I can't abandon my comrades. I'll rescue those who were captured even if I have to do it alone!
+70	Heh... It cannot be helped.
+71	Then take a small number with you. We will let the others rest.
+72	August, what's the situation inside the fort?
+73	Hmm... It is completely deserted.
+74	It appears this was a prison camp, but it does not seem to be in use at present.
+75	I see...
+76	Then let's hurry on. Beyond the Thracia River is Munster already, isn't it?
+77	Sir...
+78	But Prince, the enemy will have built a defensive line on the Thracia River and be lying in wait.
+79	We cannot let our guard down yet.
+80	On my honor as a warrior, I will not let this fort be taken!!
+81	Guh... how bitter...
+82	I was spared... But what am I to do from here...
+83	Soldiers of Leonster! Prepare yourselves!
+84	...Your Majesty... forgive... me... gah!
+85	How can I apologize to His Majesty...

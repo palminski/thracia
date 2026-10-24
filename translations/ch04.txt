@@ -1,0 +1,184 @@
+1	Having fallen into Raydrik's hands, Leif
+2	is escorted to Munster by imperial soldiers.
+3	It lay under the rule of House Friege, entrusted with northern Thracia by the Emperor of Grannvale,
+4	and Baron Raydrik, a former general of the royal guard of the Kingdom of Connacht who won merit by secretly siding with the Empire,
+5	had been entrusted with governing it as a subordinate of Bloom, the head of House Friege, who resides in Connacht.
+6	What Leif saw there was...
+7	Heh heh heh. With this, my advancement is assured.
+8	Dalsin! Don't let that brat escape until they come from Connacht to collect him!
+9	...Yes, sir...
+10	I am going to the arena. Woman, you come along too.
+11	Why should I...
+12	Don't you want to see the girls?
+13	The girls? ...Mareeta and Nanna?
+14	That's right. Both of them are well.
+15	Don't worry. I haven't laid a finger on them.
+16	...Will you really let me see them?
+17	I promise.
+18	...Very well. Lead the way...
+19	That's more like it. Heh heh heh...
+20	......
+21	Brighton, you and the others rescue the people held in this dungeon.
+22	I will go with Asbel to look for the children.
+23	Understood. Once we've freed the citizens, we'll come to back you up.
+24	I see. Then we'll meet again later. I wish you good luck!
+25	Lara, your skill is the only thing we can rely on. You'll be all right?
+26	Yeah. Leave the lock-picking to me.
+27	But you'd better protect me properly.
+28	If worst comes to worst, just steal your opponent's weapon. You can manage that.
+29	Don't say it so lightly. I can't carry heavy weapons.
+30	Don't worry. Brighton and I are with you. Come on, let's go!
+31	Damn it... I've got no luck...
+32	Um... by any chance... aren't you Boss Lifis of the Lifis Pirates?
+33	Y-yeah, that's me...
+34	I knew it!
+35	See, you look just like the wanted poster, so I thought maybe...
+36	Heh heh... I'm pretty famous, huh... Wait... I can use this guy...
+37	Huh, what's wrong, Mr. Lifis? You've got an awfully serious look on your face...
+38	...Truth is, I was thinking up a way to break out of this cell.
+39	Whaat!? Can you do that?
+40	Idiot, think about it. The great me has been caught like this.
+41	There's no way my dear underlings would just sit by and watch.
+42	So I'll be saying goodbye before long. It won't be for long, but nice knowing you.
+43	I-if that's how it is, Mr. Lifis, please take me with you.
+44	Hmm... Well, depending on how you work, I might think about it.
+45	R-really!?
+46	Leave it to me. I'm confident in my muscle.
+47	A jailer like that, I'll flatten in one punch.
+48	Mr. Lifis, let me in on that too.
+49	Me too, me too.
+50	Heh heh... Idiots are easy to handle, which helps. Now, how to make my chance...
+51	Got lively all of a sudden. What did you get caught for?
+52	...Who are you?
+53	I'm Fergus. A wandering mercenary.
+54	Man, what a mess.
+55	A soldier was hassling a girl, so I tried to stop him and got arrested.
+56	It's a rotten deal, honestly.
+57	That was just "trying to stop him"?
+58	Poor guy, that soldier was half dead. Honestly, you're outrageous...
+59	Hey, hey, that's not fair. You're the one who stepped in to stop it first.
+60	And thanks to you, they thought I was with you and I got caught too!
+61	Geez, what are you going to do about it!? Take responsibility!
+62	Ahaha. Well, let's not fret over what's done.
+63	Yaaawn. I'm getting kind of sleepy. Wake me up when it's mealtime. See ya.
+64	Geez, what a guy, honestly...
+65	Oh, sorry. My name's Karin. Nice to meet you.
+66	Karin? ...That's an unusual name in Thracia.
+67	I came from Silesse. I only just arrived in this town.
+68	And yet, thanks to this guy, I've had a terrible time.
+69	Silesse... That's a country far to the north. I've only heard the name.
+70	What did you come from Silesse for?
+71	Our prince left the country.
+72	The Queen has passed away, and the princess is still young,
+73	so we didn't know what to do anymore, and I came to look for the prince.
+74	I heard the Kingdom of Silesse was destroyed by the Empire, but is the royal family safe?
+75	Yes. Those who oppose the Empire
+76	moved to a town far in the north called Tófa, and have kept protecting the royal family.
+77	Someday I'll become a pegasus knight of the royal guard and help them, too.
+78	That's amazing. If you'll be a pegasus knight, then you can fly.
+79	Yeah, I can fly.
+80	I'm not a knight yet, so just flying is all I can manage, but my pegasus and I understand each other.
+81	His name is Hermes.
+82	He's really cute, and smart, too.
+83	Even now, I think he's circling in the sky looking for me.
+84	So why did the prince leave the country?
+85	He said he was going to look for the King... But the King is a strange person,
+86	he leaves his country and family to themselves and hasn't been in the country for ages.
+87	Everyone's angry. They say they don't expect anything from the King anymore.
+88	So we want Prince Ced to come back and become king.
+89	That's why I came to bring him home, but thanks to this guy...
+90	Thanks to who?
+91	Can't you keep it down a little? This is a prison. You're bothering everyone who's sleeping.
+92	You're about the only one who could snore away in a situation like this.
+93	Geez, you really are insensitive!
+94	Hey! You lot are noisy! Keep quiet!!
+95	See, we got told off. Ahahaha...
+96	Hmph...
+97	......
+98	You seem kind of gloomy. Tell me about it if you like. I'll help you out.
+99	...Right. If it's you two...
+100	Cough, cough, cough...
+101	Granny, are you all right?
+102	There's no need to worry about me. I haven't long to live anyway. More than that, my grandchild... cough, cough, cough...
+103	Now, now, you mustn't push yourself. Just lie down, Granny.
+104	Even an old woman like that...
+105	That's right. That's why we can't let those people keep throwing their weight around forever.
+106	But... can the Magi Squad's strength really overturn the Empire's rule?
+107	It won't be easy.
+108	But if we don't do it, the chance is zero.
+109	So there's nothing for it but to believe in that man.
+110	The hero... Lord Ced...
+111	That's right.
+112	Before he showed up, the Magi Squad had been cornered by the Empire's lot and was on the brink of destruction.
+113	And how about now?
+114	They've become a force that can give that lot a real scare, haven't they?
+115	...Not that I'm one to talk big, having gotten caught.
+116	Anyway, believe in him.
+117	As long as you believe in him, you can't go wrong.
+118	Mr. Lifis, the lock's open! Amazing, it's just like you said!
+119	......
+120	Huh, what's wrong?
+121	Your underlings came to save you, aren't you happy?
+122	N-no, that's not it...
+123	Hey, hey, did someone really come to the rescue... Guess it pays to talk big...
+124	Prince Leif, looks like someone's come to rescue us. Shall we make our escape too?
+125	Who on earth are they?
+126	Think about that after we're out. For now, just run.
+127	If you get to the "north stairs" you can escape. I'll hold off the enemy, so you go on ahead, Prince.
+128	But if I escape, what happens to you all?
+129	Everyone left behind will be captured, I guess. Well, as long as the prince is safe, that's fine.
+130	I can't do that!
+131	I will "escape" only after everyone else has "escaped"!
+132	Heh... You're gonna make me cry.
+133	Well, fine. I'll stick with you for a while too.
+134	Now that I've heard your story, I can't just leave you.
+135	Hmm. You're a better man than you look.
+136	Fallen for me?
+137	D-don't say stupid things!!
+138	I'm joking. So, what'll you do?
+139	I hear the Magi Squad's leader is a guy called Ced.
+140	Isn't he the prince you're looking for?
+141	Yes, probably. But right now I'm worried about Lord Leif.
+142	Taking girls hostage... that Raydrik is absolutely unforgivable.
+143	I'll help with the rescue too.
+144	You? ...Can you fight?
+145	I'm not confident, but I'll do my best!
+146	Phew... What a pain. Now there are too many people to protect. This'll be rough...
+147	Our comrades are here, this is our chance! Everyone, let's get out!
+148	I'm sure there were stairs up to the surface in the west corridor. Head for those!
+149	Oh, you're from the Magi Squad. We're grateful. Everyone, let us make our escape.
+150	I believe there were stairs in the east corridor we could escape by.
+151	What!? Even my little brother, in the child hunt!?
+152	I see... I'm in your debt.
+153	I'm fed up with the Empire and with Raydrik both.
+154	I'll entrust my life to you!
+155	Veld, is the child hunt progressing?
+156	Yes, Lord Manfroy. There was resistance from some residents, but otherwise it is going smoothly.
+157	Then all that remains is the city of Tahra.
+158	If they absolutely refuse, I don't care. Burn the whole city.
+159	It will serve as an example for the future. Show no mercy.
+160	Yes. That is my intention.
+161	However, the generals of House Friege seem to be hesitant,
+162	and though they have surrounded it, it remains untouched.
+163	Princess Ishtar.
+164	Your father appears to lack the will to fight. What does he intend?
+165	My father is troubled.
+166	It is because many of his chief vassals oppose the child hunts.
+167	Of course, my brother and I also strongly oppose this matter.
+168	Archbishop Manfroy, I beg of you. Please stop the child hunts.
+169	To tear children of such a tender age away from their parents is too cruel.
+170	And to make them sacrifices to the god Loptous is no act for a human being!
+171	Ishtar, are you not misunderstanding something?
+172	I am not saying to kill the children.
+173	I only want to educate them and make them into people fit for my empire.
+174	Those who endure the trials will become subjects of the Empire and rule over the lowly humans.
+175	In other words, they will become the new nobility.
+176	This is a chance to seize happiness.
+177	Made to hate one another and fight, and only by surviving are they recognized as subjects of the Empire...
+178	Can that be called happiness?
+179	...Well, never mind. You'll understand too, in time.
+180	More importantly, Ishtar, there's a beautiful flower bed in the back garden. Let's go see it together.
+181	...Lord Julius...
+182	You people, I'm telling you for your own good. Go back to your cells!
+183	Diana... Your brother can't come home... Take care... of Hubert...
+184	Soft-hearted people... But I owe you one now.

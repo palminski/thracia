@@ -1,0 +1,98 @@
+1	Lifis, I think you know this, but don't lay a hand on that sister.
+2	Y-yeah... I got it...
+3	Hey, Safy, please. I'll grant any wish you have.
+4	So do what I say.
+5	I'm sorry. I have an important mission entrusted to me by Lady Linoan.
+6	Or would you fight for Tahra, Lifis?
+7	You're telling me to fight the imperial army?
+8	That's crazy. There's no way we'd win.
+9	I know I'm asking the impossible.
+10	But to offer up innocent children as sacrifices...
+11	as human beings, that is not something that can be forgiven.
+12	We are prepared to be wiped out. Even so, we decided to resist.
+13	...The citizens of Tahra do not fight only for themselves.
+14	Before long, this whole world will be covered in darkness.
+15	If we don't rise up now, the world will be ruled by the dark god Loptous.
+16	Please, Lifis, lend me your strength!
+17	For Tahra... no, for our future, I want you to fight with us!
+18	Hmm...
+19	If I said OK, would you grant my wish?
+20	Yes, if it's something I can do...
+21	All right. I'll persuade my men and go to Tahra. In return, keep your promise.
+22	Yes!
+23	The sun has set. I can't see anything...
+24	If we had a torch, we could see our surroundings for a little while...
+25	Would fighting without one be hard after all?
+26	The range of vision is quite different, after all.
+27	However, there are probably torches on this island too. There is no need to worry.
+28	Then let's go.
+29	We can't waste time in a place like this!
+30	Boss, are we really going to Tahra?
+31	We don't want to. Fighting the Empire? No thanks. We don't want to die yet.
+32	I know.
+33	It's just a pretext to make that girl mine.
+34	Who'd go to a place like Tahra?
+35	Damn that Shiva.
+36	A mere mercenary, showing weird sympathy!
+37	Boss, it's noisy over to the west.
+38	Looks like some rats have gotten in.
+39	What!? Damn it, they've got some nerve!
+40	All right, everyone move out. Catch them quick and turn them into fish food!
+41	Eyvel, there are quite a lot of pirates. Can we win?
+42	We'll be fine. As long as we don't overreach, there is nothing to fear.
+43	Eyvel, do you know this man Lifis?
+44	Yes... Lifis is just a petty crook. He isn't even worth killing.
+45	Lord Leif, if you capture Lifis, please don't let him go.
+46	Let's take him back to the village of Ith and make him atone to the villagers.
+47	Heh. Foolish people...
+48	Impossible... To the likes of them...
+49	Soft-hearted people... But I owe you one now...
+50	W-wait! I was wrong! Don't kill me!
+51	Ugh... It hurts, Safy...
+52	Looks like I'll just have to start over again. So long, fools.
+53	The pirates seem to have fled, but is the sister safe?
+54	I have brought her here.
+55	Thank you very much. Thanks to you... Huh!? ...It can't be...
+56	Sister, is there something on my face?
+57	Lord Leif, have you forgotten?
+58	It's me, Safy of Tahra!!
+59	Safy... The girl who was at the convent in Tahra... Come to think of it, her name was Safy...
+60	I only met you two or three times, Prince,
+61	so it's no wonder you don't remember.
+62	But I remember clearly.
+63	When you fled from Tahra,
+64	I was the one who comforted Lady Linoan as she broke down in tears...
+65	Come to think of it, you were Linoan's friend. A priest's daughter, I believe...
+66	Friend? Oh, no...
+67	Lady Linoan is the daughter of the ducal house of Tahra.
+68	I am one who serves Lady Linoan.
+69	So why are you in a place like this? Is Linoan well?
+70	Prince, do you not know what has happened in Tahra?
+71	After the Duke passed away, Tahra was governed by imperial officials,
+72	but on top of continued terrible misrule, this year the child hunts began.
+73	Child hunts...
+74	The townspeople could not bear this, and with Lady Linoan as their leader, they rose in revolt.
+75	They hired many mercenaries, and sent large bribes to high imperial officials as well,
+76	striving to win back self-rule.
+77	But King Bloom would not allow it, and the city was surrounded by a great imperial army.
+78	The frightened mercenaries ran away, and now a handful of volunteers and citizens are fighting a hopeless battle.
+79	By Lady Linoan's order, seeking warriors who will fight for Tahra,
+80	I have been visiting places all over Thracia.
+81	So that's what's been happening in Tahra...
+82	The Duke of Tahra sheltered me for five whole years, and was executed by the Empire for that crime.
+83	I will never forget my debt to the Duke.
+84	I'm going to Tahra.
+85	I will save Tahra, I swear it.
+86	Safy, let's go back together.
+87	Yes, Lord Leif! Thank you so much!!
+88	Hey, hey, what's going to happen to me?
+89	You'll be handed over to the villagers. They'll decide your punishment.
+90	W-wait! If you do that, I'll be killed!
+91	Come on, help me. Safy, say something for me too.
+92	Didn't we promise to go to Tahra together?
+93	Lord Leif, this man is not such a bad person.
+94	Piracy is wrong, but he has already repented. Please spare him.
+95	If Safy says that much... All right. We'll watch him for a while.
+96	Heh. I'm saved. Maybe I'll find a chance and slip away...
+97	Wait. If this guy really is the prince, selling him to the Empire is an option too...
+98	Well, whatever, I'll think it over slowly. Either way, it comes after I've made Safy mine...

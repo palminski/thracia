@@ -1,0 +1,43 @@
+1	This is a difficult turn of events. Retreating from Tahra is one thing, but with citizens along...
+2	Citizens?
+3	I'm sorry, Lord Leif. I tried to persuade them that it was dangerous, but they insist on coming with us...
+4	Is that so... And how many are there?
+5	Roughly six hundred. They are following behind us in scattered groups.
+6	But we can't take them all the way to Leonster.
+7	No. We have no strength to spare to protect citizens.
+8	As it is, even getting through this valley looks difficult.
+9	But at least until they get through this valley, we have no choice but to protect them.
+10	Tell everyone as well: do your utmost to protect the citizens.
+11	Yes, understood.
+12	General Misha, the pegasus units have been arranged, I trust.
+13	Yes. I brought half of the mercenary company. Deployment will be finished shortly.
+14	Then you go back to Leonster. You are no longer needed.
+15	I must take command of the unit.
+16	This mission is mopping up stragglers. It can hardly be to your liking.
+17	But my subordinates...
+18	General Misha, this is an order. Return to Leonster!
+19	Understood. Then...
+20	Thanks. I'll leave this S Drink, so make use of it.
+21	You saved me... In thanks, I'll leave this S Drink.
+22	Thank you! Here's an S Drink as thanks!
+23	I'm sorry for the trouble. Please take this S Drink in thanks.
+24	Sorry about this. I'll leave this S Drink, so make use of it!
+25	I'm sorry... I'll leave this S Drink, so use it...
+26	We've made it through the valley somehow.
+27	And from here on?
+28	We plan to pass through the Dofa highlands and come out on the northern highway.
+29	The northern highway? We head east along the coast?
+30	That is my thinking, but I must hear August's opinion too.
+31	In any case, crossing these mountains comes first. Let us hurry on, Lord Leif.
+32	Wait, August.
+33	Lord Lewyn!? Why are you in a place like this?
+34	I learned of Tahra's fall and thought you'd probably take this route. You seem to be having quite a hard time.
+35	It is because my own ability falls short... Forgive me.
+36	No, you're doing well. Tahra's fall is as planned. It's nothing for you to worry about.
+37	Sir...
+38	After I go around Orgahil, I'll return to Isaach.
+39	We should be able to meet again in a year. Well then, August, I leave the rest to you...
+40	One more year... So my role isn't over yet either...
+41	Heh heh heh. Foolish ones...
+42	O god Loptous... save my soul...
+43	...We do not fear death... gah!

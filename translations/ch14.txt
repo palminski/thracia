@@ -1,0 +1,164 @@
+1	The free city of Tahra, with Linoan, daughter of its former lord, as its mayor,
+2	had been resisting with all its might the Empire's evil deeds, such as the child hunts.
+3	But already
+4	it lay under siege by the imperial army led by General Paulus,
+5	and recovering from this disadvantage was expected to be extremely difficult.
+6	When the Grannvale Empire invaded northern Thracia, Tahra, by not defying the Empire,
+7	had preserved its existence as a free city, but that too seemed like a candle in the wind.
+8	I don't see List...
+9	Sir. It is thought he was either killed in battle or taken prisoner.
+10	...That was an unfortunate thing.
+11	With respect, List made light of your orders, Commander. I believe it is the natural result.
+12	...No, one cannot say only that.
+13	I had no enthusiasm for this operation, and it could be said that my hesitation, as a result, cost us many officers and men.
+14	...It is my responsibility. Laugh at me, Baldack. Even this Paulus has grown old.
+15	Commander...
+16	But I will hesitate no more. I am a soldier of Friege. I must fulfill my responsibility.
+17	Baldack, you will lend me your strength?
+18	Yes, sir. Leave it to me, Commander Paulus!
+19	The main force of my 8th Corps has also arrived. Let us begin the advance at once.
+20	Mm. I will send my own corps in support as soon as it is ready.
+21	Knowing you, General, I expect no oversights, but do be very careful.
+22	Sir. On my honor, I will accomplish the capture of Tahra without fail!!
+23	Lady Linoan, it has begun at last.
+24	The Empire's all-out attack. What is Lord Leif doing?
+25	The prince is in a war council with the other commanders.
+26	I see... Is Dean with them too?
+27	My brother said war councils don't suit his nature, and went to guard the south gate...
+28	He is a willful man.
+29	When I look at Dean, I remember the tale of the dragon knight Dain that I was told as a child.
+30	Free and easy, untroubled by small things, big, and kind, and a knight of the skies second to none...
+31	H-he is not such a fine person. You misunderstand him, Lady Linoan.
+32	No. If he had not come, I feel I would have been finished.
+33	My father was killed, the lord's mansion taken, and for two years I could not even walk freely outside,
+34	and the cruel acting governor pressed me at every turn to tell him where the prince was.
+35	When I remember how horrible it was, I still cringe.
+36	The one who rescued me from that was him... Dean.
+37	After that, too, he kept protecting me from imperial assassins, and always cheerfully encouraged me when I was apt to lose heart.
+38	He laughed and denied it, but even so I thought he must be a very renowned mercenary.
+39	But to think he was Lord Arion's subordinate...
+40	His Highness was pained by Tahra's crisis, and secretly summoned my brother and ordered him to rescue you, Lady Linoan.
+41	My brother rejoiced at the depth of His Highness's trust, and deserted the army to carry out that order.
+42	To go that far... Lord Arion...
+43	He himself could not leave his country, and yet he could not leave you, his betrothed, to die either.
+44	...It appeared to me that His Highness's distress was very deep.
+45	It will be all right, Lady Linoan. Dain and Nova will not forsake your kindness.
+46	Please believe in victory and wait. Well then, I too will now go into battle!!
+47	Hey, why are you getting your things together? You planning to leave this city?
+48	Heh... That's obvious...
+49	Hey, hey, you can't do that.
+50	The folks in this city wanted you to save them, that's why they treated you so well.
+51	Everyone's going to resent you. And a woman's grudge especially is a fearsome thing.
+52	N-no, an escort came from my country... I'm a prince of a nation too, so I can't be away from my country so much...
+53	The prince of Isaach, eh? Give it a rest. You can't fool my eyes.
+54	Urk... You knew!?
+55	I'm a bard, for all that. I know what Prince Shannan looks like, at least.
+56	Well, whatever. Do as you like. Everyone values their own life.
+57	There's no obligation to share this city's fate.
+58	Then you too...?
+59	Yeah, I'm leaving the city tomorrow. After I've taken my time enjoying tonight...
+60	I see. Then I'm off. If fate allows, we'll meet again.
+61	Hold on a sec. Meeting like this is some kind of fate too. At least tell me your real name.
+62	......Shannam.
+63	So the name at least is sort of similar... So long, Prince Shannam.
+64	It is about time... McCloy, you understand, I trust.
+65	We are entering the war by virtue of our alliance with the Empire. Whatever you do, do not start anything with the imperial army.
+66	...And then, taking advantage of the exhausted Empire's opening, we occupy Tahra...
+67	Just so. It will be an important card against Bloom. With as little damage to it as possible.
+68	Understood.
+69	Father, won't attacking Tahra only benefit the Empire?
+70	The citizens hate the Empire. If we side with them now, might we not build a new relationship between our two lands...
+71	No, it's no good. Even if we join hands with Tahra, we cannot beat the Empire.
+72	Recall Melgen Valley. Even gathering nearly all the strength of north and south Thracia, we were no match for the Empire.
+73	But that was because of that Raydrik's despicable betrayal...
+74	That may be so.
+75	But as a result of that battle, we were forced into a humiliating peace.
+76	The territory of northern Thracia we had gone to such lengths to gain fell into the Empire's hands,
+77	and it would be no exaggeration to say the Empire's national strength is now ten times ours.
+78	Would you still dare to challenge them? Are you confident you can win? Many of our people will die. Is that acceptable?
+79	No... It is as you say, Father. I was rash.
+80	...Father, I have one request...
+81	What is it?
+82	Please let me help with the capture of Tahra.
+83	...It seems you have something in mind. Well, fine.
+84	If this rich city becomes Thracia's, I do not care about the method.
+85	Try doing it as you see fit!
+86	Yes. Thank you, Father!
+87	But do not drag it out too long.
+88	Otherwise I will have to commit my main force. Do not put me to that trouble.
+89	Yes, sir.
+90	At this rate many citizens will die... I must somehow persuade Linoan...
+91	Linoan! Where are you? It's me! Arion!!
+92	Lord Arion!? Why are you here?
+93	Never mind that. Have the citizens lay down their arms. Surrender now, at once.
+94	At this rate, something irreversible will happen.
+95	Why... why is that? I can hardly believe these are your words, Prince. What on earth has happened?
+96	My father is preparing to attack with a great army.
+97	!!
+98	That is not all. Loptr's warrior monks are also heading this way.
+99	If the Berg Rosen, the "Black Rose," comes, the citizens will be massacred to the last one.
+100	The Berg Rosen... Ahh, the thing I feared most...
+101	Linoan, leave it to me. Thracia will occupy Tahra. The citizens will be given every protection.
+102	Naturally I will never permit anything like the child hunts. I promise I will protect you as well, Linoan.
+103	Then what will become of Lord Leif and the other knights?
+104	They will have to escape. The Empire will not forgive the prince, and my father, too, fears him.
+105	...I understand. I will trust your word, Your Highness.
+106	Mm. Thank you for deciding.
+107	However, I will go with Lord Leif.
+108	It pains me, as it feels like abandoning the citizens who fought alongside us, but I believe that is the best way for now.
+109	And I will return to Tahra without fail. With Prince Leif, having defeated the Empire...
+110	When that time comes, Prince Arion, you will promise to return Tahra to me without fail, won't you?
+111	...Destroy the Empire, hm... Very well, I promise.
+112	But is Prince Leif a man so worthy of trust?
+113	Will he, I wonder, become an enemy to Thracia, or an ally...
+114	Either way, I would like to meet him once. With Altena, too...
+115	Ooh... nice. For you, I'd even cancel a prior engagement.
+116	What? ...What are you talking about?
+117	Like I said, I'm leaving the city after tonight.
+118	I'd like to love everyone, but I've only got the one body... hey, come on, you don't just slap a guy out of nowhere.
+119	Did I say something wrong!?
+120	What are you thinking!
+121	Even the elderly and the children are working desperately to protect this city,
+122	and you're drinking from the middle of the day... Aren't you ashamed!!
+123	Hey, there's no need to cry.
+124	Okay, okay. I just have to help too, right?
+125	But I've got a weak constitution, so spare me the heavy labor, okay?
+126	I've got no business with kids. You're interrupting my nap. Go home.
+127	I've got no business with men. Hurry up and leave.
+128	Hmm... Sorry. I'm already booked up for tonight.
+129	I've got no use for a town with this much trouble! I want out of here fast!
+130	I wonder if Tahra's done for... I'd like to start over somewhere new.
+131	My old man and my mom were both killed... I've had enough of this town!
+132	I came to this town to escape the rule of the Empire and Thracia.
+133	If it's going to be ruled by the Empire or Thracia, I have no use for this town.
+134	What on earth will happen from here? I wonder if we could live more normally in another town...
+135	I can't stand this place anymore! I want to go somewhere far away...
+136	Um... where might Lord Dean be at the moment?
+137	Oh, Lord Dean. Lady Altena is waiting for you. This way...
+138	Dean, it's been a long time. I'm relieved to see you looking well.
+139	Lady Altena!? What on earth brings you here?
+140	Heehee... You're the same as ever, Dean.
+141	And after I came all this way to give you this lance.
+142	A lance? ...This is Prince Arion's Dragon Lance.
+143	Why something so important...
+144	My brother wants you to use it. He said it is the least he can do to make amends for making you a traitor.
+145	Leaving the army was my own decision. I'm glad for the thought, but I can't accept this.
+146	Dean, don't let my brother's feelings go to waste. If you still refuse, I order you as a princess of Thracia.
+147	Heh... I'm no longer a knight of Thracia, though...
+148	Understood. If it is your order, Lady Altena, it can't be helped.
+149	I will hold on to this Dragon Lance for a while.
+150	I'm glad... Dean, protect Linoan with that lance.
+151	Linoan and my brother are promised to each other...
+152	In truth my brother would surely like to protect her himself, but he can't leave the country right now...
+153	That is why I think he entrusted that lance to you.
+154	Me, in His Highness's place...?
+155	You seem to be under some misapprehension, Lady Altena, but very well.
+156	You need not worry about Lady Linoan. I will protect her even at the cost of my life!
+157	Oh, you folks are from the Liberation Army.
+158	Sorry, but could you give this book to Lady Linoan?
+159	It was entrusted to me by the late Duke. For when the time comes, he said...
+160	I see... So that is how it is...
+161	Duke Bloom... please... realize it... If it is now... there is still... gah!
+162	I am obliged... But I must take responsibility for the defeat...
+163	Interesting. Can you defeat me, I wonder.
+164	Absurd... Why has it come to this...

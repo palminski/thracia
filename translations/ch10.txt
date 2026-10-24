@@ -1,0 +1,80 @@
+1	Adding the surviving retainers of the Kingdom of Leonster to the Fiana Freeblades and the Magi Squad,
+2	Leif's "Liberation Army," having put together, after a fashion, the makeup of an army,
+3	in order to head at last to the relief of Tahra,
+4	was about to cross the border between the Empire and Thracia once more.
+5	It was a small ravine deep in the mountains that people call "Noel Canyon"...
+6	General Largo, is all well?
+7	Why, Lady Olwen. Out scouting again today?
+8	There's hardly going to be a battle this deep in the mountains. You work hard every day.
+9	The scouting duty is General Kempf's order. He assigns it only to Lady Olwen... I can only think it is harassment.
+10	Oh, Fred, I'd rather be outside than in Fort Dandrum.
+11	After all, I don't have to see that Kempf's face.
+12	Ho ho ho. My, what spirit you have.
+13	But General Kempf is a troublesome man, too.
+14	Born to the high nobility, with his future assured, and yet he is somehow small as a person.
+15	To envy General Reinhardt's fame and harass you, his sister... Truly, it is conduct shameful in a soldier.
+16	General Kempf is convinced that my brother is his rival.
+17	...They are close in age, and both became generals young. It is not that I can't understand the feeling, but...
+18	But my brother doesn't think of it that way at all...
+19	That, too, is probably something General Kempf does not like.
+20	? Why is that?
+21	!? You don't understand? ...No wonder, you are still young.
+22	? ?
+23	That aside, since you have come all this way, take your time and rest...
+24	Yes, thank you. Then I shall take you up on that...
+25	Lord Leif, this is Noel Canyon. What you see over there is the fort guarding the Empire's border.
+26	So at last we advance into imperial territory. What is the enemy's strength?
+27	The garrison is small, but they have long-range bows called long arches.
+28	Their power is tremendous, and unless we destroy them first, taking the fort is impossible.
+29	Then what do we do?
+30	There are three ways.
+31	Draw the enemy with the main force, and meanwhile take them out with a detached force. That is the middling plan.
+32	Use cavalry and pour in all at once. That is the poor plan.
+33	And the best plan, the important one?
+34	Having said this much, you surely understand already, Lord Leif.
+35	There should be no need for me to spell it out.
+36	Lady Olwen, someone has launched an attack.
+37	I will hold them here, so I would like you to convey this to Dandrum.
+38	If possible, I would like to help as well. Won't you permit me?
+39	No. Your duty is scouting. Reporting comes first.
+40	I am glad for the thought, but you had better return to Dandrum.
+41	Then at least, for as long as time allows...
+42	...If you insist that much.
+43	But only until the time you must return to Dandrum. Is that clear?
+44	Thank you. Fred, let's go!
+45	Yes!
+46	I have to get back to Dandrum soon...
+47	Sir Largo, I will return with reinforcements without fail. Please stay safe until then...
+48	General Largo... He was quite the warrior.
+49	That was my first time fighting the Friege army, but they fought splendidly.
+50	If that was a small frontline unit, I dread the battles ahead.
+51	Yes. House Friege is an illustrious house, so even its lowest soldiers value honor.
+52	Their discipline as an army is probably among the top one or two on the continent.
+53	For that reason they can be called a formidable foe, but your way of fighting was no less splendid than the enemy's, Prince.
+54	Are you talking about taking General Largo prisoner without killing him?
+55	Yes.
+56	To fight this holy war through with righteousness is to carry on the will of the late Prince Quan.
+57	From here on as well, I hope we will not lose our pride as knights and will always fight fair and square.
+58	Pride as knights... huh.
+59	You're right. Needless slaughter is the one thing I don't want to commit...
+60	August, did you see the enemy mage knight who withdrew in the middle of the battle?
+61	A female knight. She was quite a tough opponent.
+62	Who could she be?
+63	She went toward Fort Dandrum, so she probably went back to report on us.
+64	Which means the enemy is lying in wait for us.
+65	That is so. Fort Dandrum is, to begin with, a sturdy fortress said to be impregnable.
+66	On top of that, we have given the enemy the leeway to prepare a defense.
+67	If Dandrum's commander is an able general, we will be forced into a hard fight.
+68	But there's no other route, is there?
+69	Correct. To go to Tahra, there is no way but through Dandrum.
+70	Then we have no choice but to go. If we dawdle, we'll only be at a greater disadvantage!
+71	You who violate our territory, what on earth is your aim!
+72	Mmh... So this is the end...
+73	I need no mercy! Strike off my head!!
+74	This is imperial territory. Leave at once!
+75	You dare violate Friege's territory? Who are you people!
+76	Oh, aren't you the Liberation Army people?
+77	Do your best. Drive the invaders out of this Thracia for us.
+78	I know, take this staff with you. I'm sure it will come in handy.
+79	You're members of the Liberation Army, right? Hang in there. I'm rooting for you.
+80	I know, take this staff. It's sure to come in handy.

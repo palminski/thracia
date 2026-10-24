@@ -1,0 +1,137 @@
+1	Having passed through the so-called "thieves' forest," before the eyes of Leif's "Liberation Army,"
+2	the fortress city of Tahra at last revealed itself.
+3	General List, what is the situation?
+4	Sir. The encirclement of Tahra is complete, Commander Paulus.
+5	I am thinking of launching an all-out attack now.
+6	I see... But Baldack's 8th Corps should arrive soon.
+7	Don't force things too hard. There is no need to lose soldiers for nothing.
+8	Sir, I am aware of that.
+9	Hmph. As if I'd let Baldack snatch away my glory.
+10	All troops, we now launch an all-out attack! No retreat is allowed! Attack, attack, and keep on attacking!
+11	So the all-out attack has begun at last... Well, what now, Glade?
+12	The plain fact is the difference in numbers is too great... At this rate, it is only a matter of time before we are wiped out.
+13	Shall I go and throw the enemy into confusion? I think it would buy us some time...
+14	No, that's no good. The enemy has long arches. Go in alone and you'll just be the perfect target.
+15	A dragon knight's basics are to strike by surprise and get out. Eda, impatience is forbidden.
+16	Yes, brother.
+17	For now, I'll send out my knights.
+18	Will your unit alone be enough, Glade? The mercenaries have all run off.
+19	Mm. What about Prince Shannan?
+20	If he is a direct descendant of the Sword Saint Od, his power should be beyond compare with ours.
+21	Why does he refuse to cooperate?
+22	Ah... that man.
+23	...I don't really understand it, but he says he has no interest in the battles of commoners, or some such.
+24	Hmph. And if he then busies himself chasing women, there's no helping him.
+25	...It can't be helped. We'll go by ourselves.
+26	Don't push too hard. It's only just begun. There's still a long way to go.
+27	I know.
+28	Prince, what you see beyond that mountain is the fortress city of Tahra.
+29	...Mm, this is bad.
+30	It seems the Empire's all-out attack has already begun.
+31	We can't leave the people of Tahra to die. Let's break into Tahra at once.
+32	However, only part of our forces has arrived so far.
+33	What's more, the besieging army has many long arches deployed. Is it not somewhat dangerous?
+34	I know the danger, but there is no other way. If we allow Tahra to fall, our fight ends here too.
+35	Isn't that right, August?
+36	Indeed. We would lose the people's support completely.
+37	With our present strength, if we lose even the people's support, all that remains is to vanish.
+38	Glade? ...Is that you, Sir Glade!
+39	? ...Prince Leif!? I-it can't be...
+40	Glade, you seem surprised. This is indeed Prince Leif.
+41	The lord who leads our army of the Kingdom of Leonster, and also the leader of the Liberation Army of northern Thracia.
+42	The army of the Kingdom of Leonster...
+43	Then, Lord Dorias, our long-cherished wish will finally be fulfilled!
+44	That's right, Glade. We are going home to Leonster.
+45	With our own hands we will liberate the people suffering under the Empire's tyranny,
+46	and raise this banner of Gae Bolg once more over the royal castle of Nova!
+47	Ahh... At last, this day...
+48	Lord Leif! Now that King Calf and Prince Quan are gone, you are our only hope.
+49	Please carry on your father's will!
+50	Of course! Glade, let's take back Leonster together.
+51	Yes, sir!
+52	We retainers of Leonster will follow you anywhere, Lord Leif!
+53	Glade, you're safe!
+54	Finn. It's been a long time.
+55	Not since the battle at Ulster. It's been ten years already...
+56	So it has... It was a long time, but you protected Lord Leif well.
+57	I must thank you.
+58	That goes both ways. You helped Lord Dorias and raised the Lanzenritter.
+59	Without that force, Lord Leif could not have come this far.
+60	Back then, we made a promise.
+61	That I would keep protecting the flag of Leonster, and you Prince Leif, even at the cost of our lives.
+62	Yes... And now, at last, it has been fulfilled.
+63	But Glade, the battle has only just begun. We can't afford to relax.
+64	True. Not until the banner of Gae Bolg flies over Leonster again...
+65	Finn, sharing a drink with you comes after that.
+66	For now, take Lord Leif and get inside Tahra castle.
+67	There is also word that a large enemy force is approaching. It's dangerous to stay like this!
+68	Glade, you're safe. Thank goodness...
+69	Selphina... You came too.
+70	Yes. I heard of Tahra's crisis and came with Lord Leif.
+71	But I'm truly glad I could see you...
+72	I'm sorry for making you worry.
+73	But Selphina... I have let many young men die again.
+74	When I think, if only I had more strength, I can't stop regretting it...
+75	No! You are the finest knight in Leonster.
+76	I am proud to be your wife.
+77	So please don't blame yourself so...
+78	Thank you, Selphina. Seeing you has given me strength. Oh, that's right, look at this.
+79	What is this? ...It can't be... the legendary Brave Bow!?
+80	So it seems. I found it by chance in the city of Tahra.
+81	I bought it thinking of you. Will you use it?
+82	Yes, of course! Thank you, dear!
+83	Glade, you're safe. Thank goodness...
+84	Selphina... You came too.
+85	Yes. I heard of Tahra's crisis and came with Lord Leif.
+86	I see. I met the prince a moment ago, and I was surprised at how much he's changed.
+87	Ten years since we parted at Ulster... He's fifteen already...
+88	I was surprised too when I first saw him.
+89	To think he had grown so big.
+90	...He's become a fine young man. It was like looking at Lord Quan in his youth.
+91	I thought he resembled Lady Ethlyn. Around the eyes, he's really just like her.
+92	Is that so? I think those eyes come from Lord Quan...
+93	No, they're Lady Ethlyn's!
+94	She doted on me like a little sister, so I remember well!
+95	Hey, hey, no need to get so worked up.
+96	He's their child. Of course he resembles them.
+97	Oh... you're right, I'm sorry.
+98	I ended up remembering all sorts of things about Lady Ethlyn, and so I just...
+99	Yes... Leaving behind her newborn prince, how much she must have regretted it...
+100	Yes...
+101	In those days... Lady Altena was often jealous of little Lord Leif, and Lady Ethlyn was at a loss.
+102	But she looked truly happy, and I wished that when I grew up I'd be a mother like Lady Ethlyn.
+103	And then, that... nightmarish event in the Yied...
+104	Selphina...?
+105	I'm sorry... I swore I would never cry again...
+106	No, it's all right. More to the point, look at this bow.
+107	What is this...? It can't be... the legendary Brave Bow!?
+108	So it seems.
+109	I found it by chance in the city of Tahra. I bought it thinking of you. Will you use it?
+110	Yes, of course! Thank you, dear!
+111	Hey, I hear you're going to Tahra. A lot of the imperial soldiers are heavily armored. Take this Armorslayer with you.
+112	Welcome. I have heard of your exploits.
+113	I'll give you this Knight Proof. Put it to good use.
+114	My, you're going to Tahra's relief? That takes courage.
+115	But with few weapons, you'd be ill-prepared. Take this hammer with you.
+116	...Lord Leif?
+117	Linoan!! Thank goodness, we've finally met.
+118	Lord Leif!... You truly... came for us...
+119	Ahh, God... I thank you for your will!
+120	...Linoan, I'm sorry. I should have come sooner.
+121	I never imagined Tahra, which raised me, was in such a miserable state.
+122	And all of it, just because I was here... Even your father...
+123	No, that's not so!
+124	My father was prepared from the moment he took you in, Lord Leif.
+125	He had made up his mind that he did not care if he became a sacrificial stone, in order to open up a new world.
+126	I am proud of that father.
+127	My father's death was sad, and the Empire's tyranny was hard,
+128	but believing only that I would see you again, Lord Leif, I have held on until today.
+129	But... because of my shortcomings, the lives of tens of thousands of Tahra's citizens are about to be lost.
+130	I no longer know what I should do...
+131	Linoan, it's all right. You don't need to worry anymore.
+132	I will protect Tahra and you without fail. I swear it on this sword!
+133	Tahra has fallen!
+134	Now that Tahra has been taken by the Empire, the people's hearts will not side with us.
+135	Our fight ends here...
+136	Damn it, how can this be!!
+137	Mmgh... My glory... gah!

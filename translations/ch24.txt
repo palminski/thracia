@@ -1,0 +1,130 @@
+1	Having overcome numerous obstacles, Leif's army has reached Munster.
+2	As if to bar their way, the castle of Munster towers high above them.
+3	Into that "Demon King's Castle," from which they once fled, Leif and his army set foot once more.
+4	To take back what was lost... To carve open a new age...
+5	Raydrik, I hear you have let the rebels get in as far as the castle.
+6	Sir... But if you will grant me just a little more time, I will drive them from this castle without fail...
+7	Do not speak of what you cannot do. It is plain to anyone that the rebels have the overwhelming advantage...
+8	......
+9	I had thought you would be a little more useful, but so this is all... Our association ends here.
+10	Please wait, Bishop Veld! If you abandon us, we...
+11	Then do something about it. As a parting gift at least, I will lend you a detachment of the Berg Rosen.
+12	Prince, don't let your guard down. Raydrik has almost no soldiers left, but mercenaries lie in wait inside the palace.
+13	Among them, a swordsman named Galzus is dangerous. Face him head-on and you have no chance of winning.
+14	Galzus... Then... what should we do?
+15	All we can do is lure him in skillfully and bring him down with my Forseti, but even then I can't say whether he can be beaten.
+16	We have too few soldiers here. August, why did you divide the soldiers into three places?
+17	One unit is to take back the children; one unit is to seize the Loptr priests.
+18	Both are a race against time, so I had them go in separately.
+19	I understand rescuing the children, but what's this about Loptr priests?
+20	In the eastern corner there is a Loptr chapel, and many priests are stationed there.
+21	They use Berserk and Sleep staves, so it is dangerous to leave them be.
+22	I see... But then you mean for us alone to fight Raydrik?
+23	Indeed. There is no leeway for the others to join us.
+24	Prince Leif, it is certainly a hard fight, but it can't be helped.
+25	I'll do something about the enemy in front. You think only of defeating Raydrik!
+26	Yes! I will defeat Raydrik without fail!
+27	Prince, do not let your guard down. Raydrik has almost no soldiers left,
+28	but mercenaries lie in wait inside the palace. In particular, you must not engage the swordsman named Galzus.
+29	Galzus... Then... what should we do?
+30	I cannot say anything for certain, but if the girl named Mareeta is with you, something may be done.
+31	Galzus seems to have some deep connection with that girl.
+32	Mareeta... August! Why did you divide the soldiers into three places?
+33	One unit is to take back the children; one unit is to seize the Loptr priests.
+34	Both are a race against time, so I had them go in separately.
+35	I understand rescuing the children, but what's this about Loptr priests?
+36	In the eastern corner there is a Loptr chapel, and many priests are stationed there.
+37	They use Berserk and Sleep staves, so it is dangerous to leave them be.
+38	I see... But then you mean for us alone to fight Raydrik?
+39	Indeed. There is no leeway for the others to join us.
+40	Prince Leif, it is certainly a hard fight, but it cannot be helped.
+41	I, too, will do all I can. Prince, please think only of defeating Raydrik!
+42	Yes! I will defeat Raydrik without fail, you'll see!
+43	Prince, do not let your guard down. Raydrik has almost no soldiers left,
+44	but mercenaries lie in wait inside the palace. Among them, against the swordsman named Galzus you have no chance of winning.
+45	Galzus... Then what do you say we should do, August?
+46	There is likely nothing for it but to lure him in and bury him in one stroke. Even then I cannot say whether he can be beaten...
+47	We have too few soldiers here. August, why did you divide the soldiers into three places?
+48	One unit is to take back the children; one unit is to seize the Loptr priests.
+49	Both are a race against time, so I had them go in separately.
+50	I understand rescuing the children, but what's this about Loptr priests?
+51	In the eastern corner there is a Loptr chapel, and many priests are stationed there.
+52	They use Berserk and Sleep staves, so it is dangerous to leave them be.
+53	I see... But then you mean for us alone to fight Raydrik?
+54	Indeed. There is no leeway for the others to join us.
+55	Prince Leif, it is certainly a hard fight, but now that it has come to this, we can only ask you to do your utmost, Lord Leif!
+56	I know. I will defeat Raydrik without fail, you'll see!!
+57	Prince, do not let your guard down.
+58	Raydrik has almost no soldiers left, but mercenaries lie in wait inside the palace.
+59	August, why did you divide the soldiers into three places?
+60	One unit is to take back the children; one unit is to seize the Loptr priests.
+61	Both are a race against time, so I had them go in separately.
+62	I understand rescuing the children, but what's this about Loptr priests?
+63	In the eastern corner there is a Loptr chapel, and many priests are stationed there.
+64	They use Berserk and Sleep staves, so it is dangerous to leave them be.
+65	I see... But then you mean for us alone to fight Raydrik?
+66	Indeed. There is no leeway for the others to join us.
+67	Prince Leif, it is certainly a hard fight, but now that it has come to this, we can only ask you to do your utmost, Lord Leif!
+68	I know. I will defeat Raydrik without fail, you'll see!!
+69	Huh? I've come somewhere strange. What's this door?
+70	Whoa, it looks kind of scary... Hey, everyone, wait for meee!
+71	You are... the swordsman who rescued me... I've wanted to meet you all this time.
+72	Why did you come back? You're a woman, and still a child at that. A sword is not a toy.
+73	Back then... bewitched by the cursed sword, I met my father in a dream.
+74	I was still small when I was separated from my father, but even so I remember clearly.
+75	My father was big, and strong, and a kind man.
+76	Swordsman Galzus... you... are my father, aren't you!
+77	!...
+78	Why won't you say anything! Please! Tell me it's so!!
+79	Don't you... resent me...?
+80	Resent you? Never...
+81	I was caught by the slave traders because I didn't do as you told me, Father.
+82	Besides, right after that, Lady Eyvel saved me.
+83	I have never resented you, Father, not even once!
+84	I'm sorry. I kept searching all this time, but I couldn't find you...
+85	And I am now utterly stained with people's blood. I thought it better to have nothing more to do with you.
+86	No!... Whatever may happen, I am your daughter, Father...
+87	...... The one who saved you and raised you is that swordswoman who was turned to stone?
+88	Yes...
+89	......
+90	Then I cannot leave it be. As an Isaachian of sorts myself, I always repay a debt I owe!
+91	It was a severe battle, but it seems the palace has largely been secured. The way you fought was splendid too, Prince.
+92	But August, was Raydrik really defeated?
+93	I'm sure I dealt the finishing blow, but his form vanished like an illusion.
+94	This castle seems to be shrouded in some evil power.
+95	A secret temple of the Loptr Church has been built beneath Munster Castle, so that may be the cause.
+96	Unless that is destroyed, it cannot be said that liberation has truly been achieved.
+97	A secret temple... Loptr's stronghold in Thracia.
+98	Yes. The one in charge of it is Bishop Veld, Manfroy's confidant.
+99	Bishop Veld... What kind of man is he?
+100	As the one responsible for the Thracian diocese, he directed everything.
+101	Pushing forward the child hunts, having the Berg Rosen burn villages: it was all his doing.
+102	The likes of Raydrik are nothing more than errand boys.
+103	According to the prisoners, it was also Veld who turned Lady Eyvel to stone.
+104	Wh-what! I won't forgive him!... That man, Veld!...
+105	August! Do we know where the temple is?
+106	Yes. We have already located it.
+107	However, Bishop Veld is holed up there with numerous mage soldiers, so taking it will not be easy.
+108	We could also wait until Lord Seliph's army arrives, but in that case there is a risk of letting Veld escape.
+109	The tragedy he brought to Thracia is beyond anything Raydrik did.
+110	We cannot let Veld escape! Isn't that right, August!!
+111	But... rescuing Eyvel comes first now. August, what should we do!
+112	We have obtained the Kia Staff,
+113	but as I said before, only those of Manfroy's bloodline can use this staff.
+114	Regrettably, there is nothing we can do at present...
+115	So it's no use after all! We can't save Eyvel!!
+116	Ahh... What on earth was it all for!...
+117	That's not true. I can use that staff.
+118	Sara!?... You?... Is that true!!
+119	Yes, I can use it. I can tell. That seal... it's Grandfather's.
+120	Grandfather...? It can't be... Sara, are you Manfroy's granddaughter!?
+121	I don't want to talk about Grandfather. I hate him. What does it matter?
+122	Come on, let's go, Lord Leif. Don't forget the Kia Staff!
+123	Hmph. You say you've come to defeat me!?
+124	Fools! You are the ones who will die!!
+125	Ugh... Absurd... Why has it come to this...
+126	Bishop Veld... please... I don't want to die yet...
+127	...Save... me... gwah...
+128	Pitiful. Curse your own fate...
+129	Kh... Mareeta... I...
+130	Heh... How far I've fallen, to be shown mercy by an enemy...

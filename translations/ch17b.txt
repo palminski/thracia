@@ -1,0 +1,111 @@
+1	Having come through the forest, Leif's "Liberation Army" at last reaches the south gate of Leonster.
+2	But even the south gate, which should have been thinly held, was protected by high cliffs and numerous shooters,
+3	and was in a state that could not easily be approached.
+4	Prince, Leonster Castle is in sight. This is the back side, so the enemy will be off their guard.
+5	But August, the east side is all cliffs; we can't reach the castle.
+6	If we circle around from the west, the shooters will pick us off. What on earth do you intend to do?
+7	Indeed... That there would be so many ballista units is beyond what I expected.
+8	That said, if we dawdle, enemy reinforcements will appear. This is a difficulty...
+9	Dorias, your opinion?
+10	Unless we take out the shooters, advancing is impossible. Send people in by magic, or attack from the sky...
+11	Either way, we must be prepared for some sacrifices.
+12	Understood. Let me think whether there's some good way.
+13	General Amalda, for someone of your standing to be assigned to guard the back gate... what on earth happened?
+14	It seems my opinion offended Marquis Gustav...
+15	The matter of the child hunts. Did you argue again?
+16	Marquis Gustav, without any order from the King, is taking children from the villages around here.
+17	He means to make them offerings to the Loptr Church.
+18	Do you think such a thing should be allowed?
+19	Now, now, Lady Amalda.
+20	I understand how you feel, but the gathering of children is something Emperor Arvis himself has assented to.
+21	Sooner or later the children around here will all be taken away to the capital. Your opposing it alone will change nothing.
+22	Kh, how did it come to this!!
+23	I believed in Emperor Arvis. I became a soldier because I admired him. What on earth has become of him?
+24	Hey, been waiting for you. I've heard the story from the boss. Well, good luck.
+25	The castle is in danger... All troops, we now go to its relief. Don't fall behind the rebels!
+26	Ahh... Lord Leif... How good of you to return.
+27	How long we, the people of Leonster, have waited for this day...
+28	Village head... and everyone in the village, I'm sorry for making you suffer for so long.
+29	But it's all right now.
+30	We now head to retake the castle with the full strength of the Leonster knights. I want you to believe in our victory.
+31	Prince, I have a request. Please let us help with the advance on the castle too.
+32	Help... You're saying the villagers will fight?
+33	Yes. Until now we have endured every abuse from the Empire.
+34	But thinking that someday, surely, our homeland would be liberated, we secretly gathered weapons and prepared.
+35	But village head, they say there are many ballistae inside the castle.
+36	Militia without proper equipment will be picked off.
+37	Naturally, we do not expect to come back alive. It is enough if we can become the prince's shield.
+38	We will draw the ballistae. Meanwhile, Prince, take the castle...
+39	Absurd! What is victory for, if we lose you! I won't allow such a thing!
+40	Lord Leif... Do you know how much we have suffered these ten-odd years?
+41	Our young daughters were taken by the lord, Gustav; our children were taken by the Loptr Church.
+42	Those who resisted were treated with real cruelty and killed along with their families.
+43	Prince... the weak, such as we, cannot live if we lose our country.
+44	So if the country can be regained, we will cooperate in anything whatsoever.
+45	Our lives we do not begrudge in the least.
+46	Village head...
+47	Prince Leif, do you understand? When a country falls, the most pitiable are the people left behind.
+48	They are not saying they will die out of the cheap sort of loyalty knights speak of.
+49	You must not trample on their feelings with childish sentimentality.
+50	...August, are you saying I should ask for their cooperation!?
+51	I am saying that is one way.
+52	Dorias, your opinion?
+53	It is not that I can't understand the villagers' feelings, but I am still opposed.
+54	But in any case, it is for you to judge, Lord Leif.
+55	What shall we do? → Have the residents cooperate / Attack by our own strength
+56	You're with the Leonster army, aren't you? Where might Lord Leif be?
+57	Hey, you folks. You're attacking Leonster Castle, right? I've got a tip worth hearing...
+58	Truth is, there's a little trick to the east gate of that castle.
+59	It's rigged so that if we just work it a bit, the gate opens.
+60	How about it? Care to make use of us?
+61	Of course it won't be free. Something along the lines of you stacking up 20000G...
+62	What, expensive? Don't be stupid. We're risking our lives too. We've got to get that much.
+63	If you don't want to, fine. What'll it be? → Pay 20000G / That's a waste; attack from the front
+64	What's this, what's this. I've got no business with folks who have no money. Go on, get out of here.
+65	We've finally reached the castle gate. What is the situation inside?
+66	August, tell me the information you've gathered.
+67	Sir...
+68	The castle's commander is a man named Gustav, a close aide of King Bloom. A man with a great many problems.
+69	Marquis Gustav... The man who, as lord of Leonster these ten-odd years, has committed every kind of tyranny...
+70	Indeed. As a commander he is second-rate,
+71	but having spared no expense, he is equipped with excellent arms and armor, so he may be quite a tough foe.
+72	What else...?
+73	The problem is General Xavier.
+74	He appears to be quite the warrior, and the heavy knights under him are thought to be considerable men as well.
+75	Xavier, you say! Kh... that traitor!!!
+76	Dorias...? Do you know him?
+77	Sir...
+78	It is shameful to say, but Xavier was once a general of Leonster.
+79	Everyone trusted him as a man of honor,
+80	but the moment Leonster fell, he turned his coat and went over to the enemy!
+81	I cannot forgive him! That shameless wretch I will bring down with my own hands, without fail!!
+82	Lord Dorias!! That is not so!
+83	Village head...? What are you saying? Do you mean to defend a traitor!
+84	It is not that. General Xavier surrendered against his will, in order to protect us.
+85	The country had fallen, and we common folk were left behind in the midst of the enemy.
+86	The general took pity on us, and saved us in exchange for his own honor.
+87	Had the general not been here, we could not have survived.
+88	What!... Is that true!!
+89	But if so, why does he still sit idle now that the prince has returned?
+90	If he led the soldiers under him and raised a revolt inside the castle, the castle could easily be taken...
+91	Well... the general has eight adjutants who have shared his joys and sorrows,
+92	and their wives and children are held hostage inside the castle.
+93	Even the general can do nothing without those adjutants' consent.
+94	After all, he is a kind man who cares for his subordinates...
+95	Then if we rescue those hostages, the general will be freed!!
+96	But it will not be so easy...
+97	I must apologize to the general. As the surviving royal, I have to ask his forgiveness!
+98	Then, Lord Leif, please take this from us.
+99	This is a Knight Proof... a knight's crest.
+100	Yes. Since we could be of no help in taking the castle,
+101	we thought at least this much, and brought it.
+102	Thank you, village head. Please give my regards to everyone in the village.
+103	When you retake the castle, Lord Leif, you will formally become "Prince."
+104	Given the times, it cannot be a grand ceremony,
+105	but all the people are looking forward to seeing you in your glory, Prince.
+106	I will not hand this castle to the likes of you!
+107	...Friege... is far away...
+108	I can no longer live as a soldier. I'll go back home for now...
+109	What on earth am I doing...
+110	This is fine... For me... covered in blood... an unsightly end is what's fitting...
+111	So I must see more of this nightmare...

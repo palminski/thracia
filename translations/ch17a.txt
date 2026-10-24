@@ -1,0 +1,158 @@
+1	Having taken Norden, Leif's "Liberation Army" at last reaches the east gate of Leonster.
+2	But there, an army greater than the one at Fort Norden lay in wait for Leif and his forces.
+3	Nikalaf, have the rebels still not been dealt with!
+4	Sir...
+5	Because of Kempf's selfish actions, we missed our chance for victory... My apologies!
+6	Kh... that Kempf... repaying kindness with spite!
+7	As you said, that man should have been sent back home.
+8	No, I was too lenient. But there is no longer any need to worry.
+9	Before the castle are my armored knights and Bishop Moore's mage corps.
+10	To the enemy's rear, Reinhardt's Gelben Ritter.
+11	And further, as reserve forces, I have the Silessean pegasus knights standing by.
+12	With this much strength, we can defeat any enemy whatsoever.
+13	I see... Well, it is you saying it, General. There should be no mistake.
+14	And I forgot to mention, I am told Father Saias will be stopping by.
+15	He is in the middle of a journey, but it seems he will lend us his strength.
+16	That genius strategist, Sir Saias? Is that true!?
+17	According to the message, he should arrive in a few more hours.
+18	Understood.
+19	Then we will first firm up our defense, and as soon as the strategist arrives, launch an offensive all at once.
+20	Marquis Gustav, please await the good news inside the castle.
+21	Mm, I'm counting on you, Nikalaf!
+22	Prince, this is no good. There is not the slightest opening in the enemy's formation.
+23	What do you mean?
+24	The problem is the Silessean mercenary army encamped to the northwest.
+25	If we head for the castle, we will be attacked from behind.
+26	What about splitting our soldiers and having some deal with them?
+27	We have already left half our soldiers behind as a defense against Reinhardt's army in the rear.
+28	Splitting our soldiers any further is not wise.
+29	Then what do we do?
+30	Just how much will to fight does the Silessean mercenary army have... That is the question...
+31	So, do you understand the plan, General Misha?
+32	Understood...
+33	Then I ask that there be no slips. By the way...
+34	Yes?
+35	I heard that your mother was slain in the civil war long ago by the traitor Sigurd. Is that true?
+36	......
+37	And so you volunteered to become a mercenary for the Empire?
+38	My mother has nothing to do with it.
+39	We are working to save the starving children in our country.
+40	We want money to get bread and milk. That is all...
+41	I see... No, I said something uncalled for. I'd be grateful if you would forget it.
+42	...Then, excuse me.
+43	General Nikalaf, it has been a long time.
+44	Ohh, Lord Saias. We have been awaiting you!
+45	So, how goes the battle?
+46	The enemy's attack is fiercer than expected, and we are having a little trouble.
+47	But now that Lord Saias, hailed even as a god of war, has come, the soldiers' morale will soar at once!
+48	Has Lord Reinhardt's Gelben Ritter not yet arrived?
+49	They will break through the enemy's rear guard and arrive shortly.
+50	Then let us move to an all-out attack. Please convey as much to the Silessean mercenary army as well.
+51	Sir, understood!!
+52	...How goes the battle?
+53	L-Lord Saias!
+54	...The enemy's attack is fiercer than expected, and we are having a little trouble. General Nikalaf, too... a short while ago...
+55	I see...
+56	But Lord Saias, hailed even as a god of war, has come.
+57	With this, the soldiers' morale will soar at once!
+58	Has Lord Reinhardt's Gelben Ritter not yet arrived?
+59	They will break through the enemy's rear guard and arrive shortly.
+60	Then let us move to an all-out attack. Please convey as much to the Silessean mercenary army as well.
+61	Sir, understood!!
+62	What is this!? The enemy's morale seems to have shot up all at once!
+63	The thing I feared most has happened. Prince, there is not a moment to lose. Quickly, give the order to retreat.
+64	What do you mean? Explain!
+65	Lord Saias, the young court priest of Velthomer and genius strategist, has appeared.
+66	As long as he is on the battlefield, we have no chance of victory.
+67	The Empire had such a person?
+68	He is the son of General Aida, the closest of Emperor Arvis's confidants.
+69	After she met a mysterious death, he was placed in a monastery of Bragi, or so I hear...
+70	...But if we retreat now, we'll lose many soldiers. What on earth should I do...
+71	Good, now is our chance. We'll sweep away the rebels! Put a bridge across the river!
+72	Damn, we've been held up unexpectedly. All right, give all troops the order to charge!
+73	General Muller, what has become of Captain Reinhardt?
+74	He went to Connacht with Princess Ishtar.
+75	I don't know the reason, but the princess was acting strangely. He must have been worried.
+76	Minding the princess with a battle before us? What a problem...
+77	Watch your tongue! That is insolent!!
+78	Sir! My apologies!!
+79	But in truth, it is a problem...
+80	Lord Saias, so you were here!
+81	Princess Ishtar? And even Lord Reinhardt. What has you in such a hurry?
+82	His Highness Julius's condition is strange! He has a high fever... and he is moaning terribly in his sleep!
+83	He has always been weak of body, but it has become especially bad of late. And... the Loptr priests?
+84	I have not let those people near him!
+85	Then not even Lord Manfroy!? Why is that?
+86	You, the court priest, must know that best of all, Lord Saias. Please understand my heart.
+87	...I understand. If I can be of help, I will go. So, where is His Highness Julius?
+88	In my room in Connacht...
+89	I see... Then let us go, Princess Ishtar.
+90	What, Lord Saias has gone to Connacht? This is bad... We'll firm up our defense here. Drop the river bridge!
+91	General Misha, the Empire is a hated enemy for us Silesseans too, isn't it?
+92	So why do you side with them!
+93	I have something I must protect. That is all...
+94	...Something you must protect?
+95	It has nothing to do with you. Go now. The battle is starting.
+96	We have somehow managed to break through the castle gate, but many enemies remain inside the castle.
+97	Lord Leif, do not let your guard down.
+98	Even if it means pushing ourselves somewhat, we have no choice but to settle it in one go.
+99	The lord of the castle, Marquis Gustav, is the man who, as King Bloom's right hand, tormented the people of Leonster.
+100	How many people have lost their lives until now by his order...
+101	Indeed. Slay Gustav and display his head on the castle gate.
+102	Mercy is uncalled for. You must fulfill your duty as a sovereign, Prince!
+103	Lord Leif, we have captured the Silessean commander. What shall we do?
+104	I'd like to meet her. Bring her in.
+105	You are the commander of the Silessean army?
+106	I have no intention of accepting mercy. It is a waste of time; kill me quickly!
+107	Prince, it's no use. The pegasus knights of Silesse prize honor above all.
+108	To have let many subordinates die and then be captured and live on in shame is more than she can bear.
+109	I think the merciful thing here is to let her die as she wishes...
+110	Count Dorias, don't say such foolish things!
+111	Misha, you had something to protect, didn't you?
+112	What good is dying in a place like this!
+113	Don't you feel sorry for the children waiting in Silesse!
+114	! ...How do you know about that?
+115	I heard it from someone who was under your command. She had fallen on the battlefield, and I tried to save her, but...
+116	That's when she told me. I... I didn't know...
+117	That in the places the Empire rules, so many people were starving...
+118	So many children... wasting away... and dying.
+119	So wanting to get food, they became mercenaries for the Empire, she said.
+120	......
+121	Lady Misha, is that not somewhat wrong?
+122	To save the children close to you, it cannot be right to sacrifice the children of another country.
+123	The Empire is hunting children in Thracia. Before long it will begin in Silesse too.
+124	When that time comes, who exactly will protect the children?
+125	Child hunts... What do you mean?
+126	You don't know... Then live a little longer, and look at this reality.
+127	I want you to know our suffering and sorrow!
+128	...I'm sorry... I am a little confused.
+129	Please give me time. I want to think a little more...
+130	Well come. Leonster Castle is vast inside, so you'll have trouble getting scattered about.
+131	Take this Rescue staff with you.
+132	At last we can break free of the Empire's rule. Ahh, it's like a dream...
+133	Please do your best! I'll give you this Warp staff. Drive the Empire out!
+134	Hold on, you're attacking Leonster with gear like that? Are you really all right?
+135	I'll give you this Magic Ring, so at least use this before you go.
+136	I hear there are quite a lot of Loptr types in Leonster Castle. Take this holy water.
+137	......
+138	Now, Sara, where are you going?
+139	......
+140	Oh, are you from the Liberation Army? Did this child say something? Please don't mind it too much.
+141	This child sometimes blurts out strange things... She is a child with something a little mysterious about her.
+142	...Going...
+143	Going? Where to?
+144	...Going... I'm going with this person...
+145	With them, you say, but this person is from an army... Now, Sara, wait!
+146	Going... Take me with you...
+147	As if the likes of you could defeat me! Come on, have at me!
+148	Mmgh... You're... not bad at all... gah!
+149	......
+150	...O god Loptous... to the new age... I offer... this body...
+151	......
+152	Do you mean to get in my way!
+153	Heh... So I, too... am going... to where Mother Deetvar is...
+154	I thank you for sparing me. But I must fight.
+155	Learn well the terror of the Gelben Ritter!
+156	Gah... Absurd... That we should be defeated...
+157	...Naive...
+158	Withdraw... You cannot defeat me...

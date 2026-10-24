@@ -1,0 +1,170 @@
+1	...Raydrik, too, proved unexpectedly useless. Now, how shall I deal with them...
+2	...Veld...
+3	L-Lord Manfroy! When did you come here...
+4	Never mind such things. What is taking you so long over one mere whelp of Leonster?
+5	Sir, I have no excuse. Before long, I will have Prince Leif's head without fail...
+6	Understand: you are to slay that whelp without fail.
+7	Otherwise there would have been no point in going so far as to incite Thracia to strike down Prince Quan.
+8	...Those people still seem to think Travant is the one who killed Prince Quan...
+9	Heh heh heh, pitiful creatures. As if the likes of Thracia had the intelligence to pinpoint when Leonster would march.
+10	Using Travant's ambition to make north and south Thracia devour each other... your scheme hit the mark, in short.
+11	I am humbled by your praise...
+12	But what came after is the problem. Did you not underestimate the whelp of Leonster a little too much?
+13	Perhaps, after all, he should have been assassinated when Leonster fell...
+14	However, it is surely a fact that Prince Leif has united the rebellious elements of northern Thracia into one.
+15	If we strike them all together, the rebels' morale will fall to the ground. The greater the hope, the greater the backlash...
+16	And still more conveniently, he seems to be defeating for us even Friege, which has been in our way in various respects...
+17	Why, he may carry the blood of the crusaders, but in the end he cannot even wield the earth lance Gae Bolg handed down in Leonster.
+18	He is no match for this Veld.
+19	I hope so... To be safe, I will lend you five deadlords.
+20	I am grateful. Together with the one I made myself, six... With this the barrier is complete...
+21	Hmm...
+22	Then, Veld, I am counting on you. I await good news...
+23	Sir...
+24	August, will everyone be all right?
+25	The arrangements are in place. All that remains is for each to fulfill their responsibility...
+26	Unless the six barriers are broken, the altar will not open. That's it, isn't it?
+27	Yes...
+28	For that, the center of each tower must be seized in six places at the same time.
+29	If we dawdle, there is a risk reinforcements will appear.
+30	Here, even if it means accepting some sacrifices, we seize them in one stroke.
+31	I see... Understood. Then, let's go.
+32	Wh-what! The seal has been broken, you say!!
+33	Grr... Leif... what impudence...
+34	Then I'll take you people along on the road to the next world too!
+35	With this Stone, become stone and sleep!
+36	...Did we... win...?
+37	Yes...
+38	The power of Loptr in northern Thracia has now been extinguished.
+39	The people of Thracia have at last been freed from Loptr's yoke.
+40	This, too, is all through your strength, Prince. Truly... you have done well.
+41	No... August... it's thanks to you. You guided me.
+42	I knew nothing, and you taught me what a sovereign should be.
+43	August, thank you. I was fortunate to have met you. I thank you from my heart...
+44	This... puts me at a loss...
+45	I can say it now: I became your strategist, Prince, by the order of a certain person.
+46	At first, to be honest, I thought the liberation of northern Thracia was impossible.
+47	But seeing how utterly single-minded you were, Prince,
+48	before I knew it, I came to think that you were the very one.
+49	For that reason I said various discourteous things as well. Please forgive me.
+50	No. Your words always weighed heavily on my heart, August.
+51	I learned from you the depth of people's suffering and sorrow.
+52	August, I want you to go on helping me. I need you.
+53	Sir... If you wish it, Prince...
+54	Lord Leif.
+55	According to word from Seliph's army, Connacht has been seized by the Liberation Army!
+56	What, Connacht has fallen! Then Lord Seliph...?
+57	I am told he is heading this way to help in taking Munster.
+58	He must not yet know of our victory.
+59	I see... To take that strong Connacht Castle in just one day... that's Lord Seliph for you.
+60	But if I could have, I'd have liked to strike down King Bloom with my own hands.
+61	Yes... But Lord Leif, with this, northern Thracia has at last been liberated.
+62	The people rejoice at the Liberation Army's victory. Here in Munster, too, the people are shouting your name in a frenzy.
+63	That Thracia was liberated by the child of the hero Quan...
+64	Finn, they certainly were long and painful days.
+65	But because you were there, Finn, I was able to bear it.
+66	Because it must have been far more painful for you than for me.
+67	You sacrificed yourself and raised me this far.
+68	I as good as grew up on your knee.
+69	What can I do to repay you?
+70	Lord Leif, the four kingdoms of northern Thracia,
+71	Leonster, Ulster, Connacht, and Munster,
+72	have, apart from your Kingdom of Leonster, no male heir to the throne.
+73	Therefore their peoples wish to be unified under you, Lord Leif.
+74	Lord Leif, please grant their wish.
+75	Thracia's tragedy comes from the rivalry of small states and from wars repeated over and over.
+76	To unify Thracia and build the ideal kingdom that once prospered under Dain and Nova...
+77	That was the late Lord Quan's dream, and it is my wish as well.
+78	Yes, I know. I'm not running anymore.
+79	I have a duty to protect northern Thracia.
+80	Whether the unification of Thracia comes about depends on what King Travant does, but I want to do everything I can.
+81	Finn, is that all right...
+82	Yes, Lord Leif.
+83	Lord Leif, I'm sorry, but we must go back to Fiana now.
+84	What! Why? Aren't you coming with me, Eyvel!?
+85	I hear pirates are rampaging on the coast again. We cannot abandon the villagers.
+86	Besides, we can no longer be of use in the battles to come.
+87	But... Eyvel...
+88	Lord Leif, I look forward to the day you win the war with the Empire and return to Leonster.
+89	When that time comes, I'll hurry there with everyone from Fiana to celebrate.
+90	...Right... I understand, Eyvel. I'll come back for sure.
+91	Wait for me...
+92	Yes. I'll be waiting, Lord Leif...
+93	Prince Leif, may I have a moment?
+94	Princess Miranda? What is it?
+95	I... have something I must apologize to you for.
+96	If it's about Dorias, it's all right now. That was my responsibility, and it's nothing for you to worry about, Miranda.
+97	Besides, Ulster was liberated by Seliph's army,
+98	and the people must be glad to learn that Princess Miranda is safe too.
+99	Yes, well... But the people want union with Leonster,
+100	and the chief vassals keep nagging me to become the prince's consort. They look down on me because I'm a woman.
+101	Of the four royal houses, only you and I survived, Miranda, so it can't be helped if some think that way.
+102	But I'm not yet...
+103	Do you dislike me, Prince? If so, that's fine with me, but...
+104	It's not that. I still have things I must do.
+105	The war with Thracia, the matter of the dark cult, and the Grannvale Empire still stands, and I must protect northern Thracia too.
+106	Right now I don't have the leeway to think about liking or disliking someone.
+107	......
+108	Fine. Then I'll wait in Ulster for your return, Prince.
+109	But a man who can't even defeat Thracia, I'd turn down myself. Understand, Prince Leif!
+110	Lord Leif...
+111	Linoan, northern Thracia has returned to our hands, but Tahra is still held by Thracia.
+112	But I will take it back for sure. You'll come with me, won't you, Linoan?
+113	Yes, of course! Lord Leif.
+114	Lady Linoan, I'm sorry, but I can't go with you.
+115	What? Why, Dean? Why!
+116	Thracia is my homeland. I can't fight any further.
+117	You should go with the prince, Linoan. From now on the prince will protect you.
+118	Dean... Why do you say such a thing...
+119	I... can't manage without you, Dean.
+120	Linoan...?
+121	If you don't want to, Dean, I'll give up on going back to Tahra.
+122	So please stay with me like this...
+123	Don't talk nonsense, Linoan. It isn't like you!
+124	But... let me think it over a little more. As things stand, both Prince Leif and that man will end up hurt.
+125	That alone must be avoided at all costs...
+126	......
+127	Lady Nanna, come on, just say it already!
+128	B-but...
+129	If you can't say it now, you'll regret it forever. Are you fine with staying the cute little sister for good?
+130	But, Mareeta...
+131	Oh, honestly, you're so exasperating!
+132	Lord Leif!
+133	Mareeta? What is it, with such a scary face?
+134	Go on, Lady Nanna...
+135	Lord Leif...
+136	Nanna, thank you. It's thanks to you that I was able to come this far.
+137	Oh no, I didn't do anything...
+138	No.
+139	You and I grew up like brother and sister, but the one being helped was always me.
+140	Because you supported me, because you always gave me courage, I think I was able to keep going this far.
+141	Nanna, when this war is over, I'll go and look for Lachesis too.
+142	And if I can meet Lachesis, I mean to say it plainly.
+143	Please give me... Nanna... whom I love...
+144	!... Lord Leif...
+145	Our fight is still far from over, but Nanna, you'll come with me, won't you?
+146	Yes, Lord Leif...
+147	Lord Leif, Lord Seliph has arrived.
+148	Prince Leif, I came to back you up, but it seems there was no need.
+149	I'm relieved that you're safe.
+150	Lord Seliph! This, too, is all thanks to you. Thank you so very much.
+151	No, the liberation of northern Thracia is something you accomplished by your own strength, Prince. I did nothing.
+152	Northern Thracia will come together as one country under you, Prince.
+153	If that rich and great country will fight against the Empire,
+154	nothing could be more heartening to us in the Liberation Army.
+155	Prince Leif, will you go on advancing together with us?
+156	There is still much that we must do. Surely many hardships await.
+157	But I think that with you, Prince Leif, the two of us can overcome them.
+158	Just as our fathers once were, I want us too to swear lifelong, unchanging friendship as friends who can share life and death.
+159	Yes!
+160	I think of you as an older brother, Lord Seliph. If I can be of help to you, nothing could make me happier.
+161	Then let us swear on this sword. Though we were born at different times, we shall die together.
+162	As friends, as brothers, let us swear to join hands and save this world!
+163	Yes! Lord Seliph!!...
+164	Heh heh heh... You defy me knowing nothing... Then learn my power!
+165	Guh... I... Absurd...
+166	But... it is not over yet...
+167	Even if I die... Loptr will not perish...
+168	The revival of the Loptr Empire... is close... at hand...
+169	Struggle all you can until then... Heh heh heh... hahahahaha...
+170	Lord Manfroy, forgive me... gah...

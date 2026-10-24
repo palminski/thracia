@@ -1,0 +1,146 @@
+1	Having escaped the burning Leonster Castle and barely survived, Prince Leif,
+2	together with Finn, the knight who protects him, and his daughter Nanna,
+3	[evading] Thracia, and the one that defeated Thracia and seized control of northern Thracia,
+4	the great western power, the Grannvale Empire, and other pursuers,
+5	Ulster,
+6	drifted from place to place, Tahra among them,
+7	and washed up in a small village called Fiana, near the sea in the east of the Thracian region.
+8	It was an independent village governed by a swordswoman named Eyvel,
+9	where brawny men took up arms and protected the neighboring villages from bandits.
+10	Eyvel welcomed them gladly.
+11	Leif, deepening his friendships with the village youths who gathered out of admiration for her,
+12	gradually grew toward adulthood.
+13	And then, Gran Year 776...
+14	Well? Have you found the prince?
+15	No, sir. We have searched every corner of the village, but we have not found him yet.
+16	You fool! What are you dawdling for?
+17	There is no doubt that a survivor of the Kingdom of Leonster is hiding in this village.
+18	Squeeze the villagers and make them spit out where he is!
+19	Yes, sir. Of course, we are doing so.
+20	However, it seems to be true that he is not in this village.
+21	The villagers say that the prince and his companions went with the Fiana Freeblades to help a village attacked by pirates.
+22	Fiana Freeblades? What is that...?
+23	It seems this village was originally a bandits' den.
+24	A dozen or so years ago, a traveling mercenary named Eyvel subdued the bandits and settled in as its ruler,
+25	and now they call themselves a volunteer army and are said to protect the nearby villages. I hear she is quite a skilled woman...
+26	Hmm... That is a bit of a nuisance.
+27	There is no need to worry.
+28	We have captured Eyvel's daughter and are holding her hostage.
+29	We also captured the daughter of the knight Finn, the prince's bodyguard. With this, they won't be able to resist.
+30	Oh? Well done, for you.
+31	Very well. I will take the girls back to Munster.
+32	You stay in the village and wait for the rebels to return.
+33	When the prince comes back, be sure to capture him!
+34	Yes, sir. Leave it to me.
+35	Someone! Bring the girls here!
+36	Girl, what is your name?
+37	Hmph...
+38	Heh. A strong will has its own charm.
+39	And the other one...
+40	Oh, so you are Finn's daughter. I hear your mother is a princess of the Kingdom of Nordion.
+41	Blood will tell, indeed. Even out here in the backwoods, you have not lost your refinement.
+42	......
+43	Heh heh heh, an unexpected souvenir. Very well, let us return to Munster.
+44	Weissman, I leave the rest to you!
+45	Yes, sir!
+46	I wonder what's wrong. Something seems off...
+47	Lady Eyvel, I'll go take a look. Please wait a moment.
+48	Lady Eyvel, the village is full of imperial soldiers. It seems it was attacked while we were away...
+49	What!? Damn it, those imperial bastards, pulling a stunt like this!
+50	Lady Eyvel, let's hurry to the village!
+51	Calm down, Osian. If we go back to the village without any preparation, the imperial soldiers will just turn the tables on us.
+52	Halvan, how can you be so calm!? The village is under attack!
+53	Halvan is right. Osian, calm down a little.
+54	Lord Leif, it seems the Empire has found us out.
+55	I'm sorry, but this is where we part.
+56	While we draw the imperial soldiers' attention, please flee as far away as you can.
+57	Finn, you go with the prince too...
+58	Eyvel!
+59	Nanna is in the village. We can't run away on our own.
+60	I will get Lady Nanna back. Please don't worry, Lord Leif.
+61	No, that's not it. I'm not running anymore. I've decided that.
+62	Finn, what about you? Are you fine with putting the prince in danger?
+63	The prince has turned fifteen. He is already of an age to decide his own fate.
+64	As one of his retainers, I will follow the prince's will.
+65	I see, fifteen... So that's why you brought him along on the pirate hunt.
+66	Understood. If Finn says so, I have no objection.
+67	...I don't really get it, but if you're done talking, let's get going already!
+68	Yes, but be careful. Imperial soldiers they may be, but the low-ranking ones are civilians who were conscripted by force.
+69	If you can, capture them without killing them, take their weapons, and then release them. Understood?
+70	But it's fine to rough them up enough that they can't fight back, right? Otherwise we'll be the ones getting done in.
+71	Well, yes, that's true, but don't rough them up so much that you kill them.
+72	You especially need to be careful, Osian.
+73	Tch, so you don't trust me?
+74	Then let's go. Everyone, fight in a way that does honor to the name of the Fiana Freeblades!
+75	Pops, it's already started.
+76	This is bad.
+77	Even Eyvel can't handle imperial soldiers... Let's hurry.
+78	Oh, man, what a mess...
+79	Dagdar!? You came.
+80	Oh, Eyvel. I'm glad you're safe.
+81	For the imperial army to come all the way out to the backwoods, there must be quite a reason. It's about that child after all...
+82	Yes. The truth is, that child is the prince of the fallen Kingdom of Leonster.
+83	I sheltered him on my own judgment. I'm sorry for hiding it.
+84	I figured it was something like that.
+85	Well, fine. If I get to fight the imperial army, I have no complaints.
+86	Hey, if it isn't Tanya. What are you doing?
+87	Osian!? Can't you tell by looking? I came all this way to help you!
+88	"Came to help"? We're not so pathetic that we need help from you.
+89	Go on, kids should run along home.
+90	K-kid!? You're the kid here!!
+91	I'll go home without being told! Who'd come to a place like this because they wanted to, you idiot!
+92	Little Miss Mareeta and little Miss Nanna were taken away by the imperial soldiers. Please hurry and rescue them.
+93	Oh, that's right. Take this magic bracelet with you. I think it'll come in handy.
+94	But just carrying it won't do, mind. You have to actually use it.
+95	Everyone, you came back! Thank goodness...
+96	Please, save the village... save the village!
+97	This... is a vulnerary. Please use it.
+98	No, it's fine. Compared to the kindness we've received from Lady Eyvel, this is nothing...
+99	Weapons are expensive things, so poor folk like us can't buy them.
+100	It's a sorry thing to say, but I suppose there's nothing for it but to capture enemies and take theirs.
+101	Look, just like this, I swiped one from an imperial soldier myself.
+102	Though I did it while the fellow was snoring. Ho ho ho.
+103	If junk like this will do, I'll give it to you.
+104	If you don't need it, just sell it off at the item shop over there. It'll fetch a little money.
+105	Oh, big brother! I'll give you something good. Won't this be useful?
+106	? ...What's this axe?
+107	Looks like a good axe, doesn't it?
+108	The other day when I was walking in the hills out back, I got it from a weird lady who came out of a spring.
+109	But I don't think I really need it, so you use it, big brother.
+110	Have you seen big brother Halvan? I wonder if he's doing well...
+111	Osian, are you taking things seriously? Don't you go being a burden on Lady Eyvel.
+112	Damn old man. I've had enough lectures.
+113	You delinquent son, only your mouth has grown up.
+114	Well, fine. Here, this is what you came for, isn't it?
+115	Oh, thanks. I just can't settle down unless it's this axe.
+116	Honestly, what a blunderer.
+117	I've never heard of a guy who forgets his own weapon when he goes off to battle.
+118	Tch. That's why I said I've had enough lectures.
+119	Hmph. Now hurry up and go help Lady Eyvel!
+120	I'll do that without being told.
+121	Where's that Osian fooling around? That good-for-nothing!
+122	Nanna! Mareeta! Where are you!? Answer me!!
+123	It seems the two of them were taken away by Baron Raydrik.
+124	What!? Then, to Munster?
+125	Probably. He must intend to use them as hostages. Just the sort of thing Raydrik would think of...
+126	Ugh... Eyvel, let's go after them. Let's save them!
+127	But, Lord Leif, you...
+128	They were captured in my place, Eyvel.
+129	I'm not a child anymore. I hate living at the cost of someone else's sacrifice!
+130	...Understood. Then we will set out tomorrow morning.
+131	It will be a hard journey. Please rest well tonight.
+132	Nanna! Mareeta! Where are you!? Answer me!!
+133	Oh, Lord Leif. So you are safe.
+134	Forgive us. Even though we were with her, Lady Nanna...
+135	Nanna? What happened to Nanna?
+136	The imperial soldiers took her away.
+137	Lady Mareeta did her best to let at least Lady Nanna escape,
+138	but in the end even Lady Mareeta was caught...
+139	So where were they taken?
+140	Well, as for that...
+141	Oh! Come to think of it, a soldier outside was saying "back to Munster" or some such.
+142	Munster, then. I understand. It's all right, don't worry.
+143	Nanna, Mareeta, and Eyvel too... I'll get them all back!
+144	If you kill me, the hostages' lives are forfeit. Do you understand that!?
+145	Damn it... You people will regret this...
+146	D-damn it! Y-you'll remember this!

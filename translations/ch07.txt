@@ -1,0 +1,181 @@
+1	...With bitter regret still held in their hearts,
+2	Leif and his companions escaped Munster.
+3	Many members of the Magi Squad also accompany them, hoping for a comeback.
+4	But the danger had not passed.
+5	Many bounty hunters were after Leif's head and the high price on it,
+6	and behind them, Munster's pursuing troops were closing in.
+7	Prince, at this rate the Munster army will catch up with us.
+8	What should we do?
+9	There are two ways. Flee into the Thracian mountains to the west and shake off the knights' pursuit,
+10	or continue south as we are and take refuge in Meath Castle...
+11	In either case, it will be necessary to seek Thracia's protection.
+12	Seek Thracia's protection?
+13	Absurd. Thracia is the hated enemy that destroyed my homeland and took my father and mother.
+14	I have no intention of accepting Thracia's protection!!
+15	Do you intend to put your soldiers in danger over your own feelings alone, Prince?
+16	Do not misunderstand. We are not fighting to help you take your revenge.
+17	We rose up to liberate northern Thracia from the Empire's tyranny.
+18	That's true, but... can Thracia be trusted? They are the Empire's allies.
+19	If another country violates its border, even the Thracian army will not stay silent.
+20	In particular, General Hannibal of Meath Castle is a warrior so renowned he is called the "Shield of Thracia."
+21	If we say we have fled from Raydrik of Munster, he will surely help us.
+22	All right. Then let's take refuge in Meath Castle for now. Going to Tahra comes after that.
+23	Tahra, you say? ...I hear the city of Tahra resisted the child hunts and is under siege by the imperial army.
+24	Heading for Tahra with this small force means death. Is that acceptable to you?
+25	Tahra is my second home. Its lord, the Duke of Tahra, was killed by the Empire for protecting me.
+26	I have many friends there too. August! I want to save Tahra!
+27	...Understood. Let us discuss that matter again later.
+28	For now, please think only of escaping!
+29	The rebels are mainly infantry, so they cannot get very far.
+30	Eisenau, lead the cavalry and annihilate them in one stroke.
+31	Dispose of every one of them before they get near Meath Castle.
+32	Yes. ...However, Thracia is our ally.
+33	Will the rebels really flee into Meath Castle?
+34	...The Empire and Thracia may be allied, but they are by no means on good terms.
+35	If anything, one might say they are on bad terms.
+36	If there is anyone among that lot with even a little foresight,
+37	he will surely think to make use of this situation.
+38	I see.
+39	If I am worrying over nothing, so much the better. In any case, hurry.
+40	However, Hannibal's armored corps is stationed at Meath Castle.
+41	Whatever you do, you must not fight them. Understood!?
+42	Yes, sir!
+43	It's noisy. What's going on...
+44	Seems there was a commotion in Munster.
+45	Word is the ringleader is some youngster called Leif, a survivor of the Leonster royal family.
+46	Kill him or capture him, and there's a fat bounty... A tasty bit of prey for the first time in a while.
+47	Hmm...
+48	Welcome back, General Hannibal.
+49	It seems there are people held in the cells. Did something happen while I was away?
+50	Sir. There were suspicious persons in our territory, so we apprehended them.
+51	Most likely bandits who came from around the eastern frontier...
+52	Hmm... What do they themselves say?
+53	They say foolish things like "we're just villagers,"
+54	but judging from their brazenness, they must be considerable villains.
+55	However... there was one who appeared to be a knight, and we let that man get away.
+56	We currently have men split up searching for him.
+57	Mm, understood. I will hear what they have to say later.
+58	More to the point, things seem noisy around Munster.
+59	That Raydrik may be plotting something. Do not relax your vigilance!
+60	Sir, understood!
+61	I wonder if Lord Leif is safe... I must hurry and go to him...
+62	I must be going now. Sister, please go back to the town.
+63	Sir Finn, am I a burden after all?
+64	No, not at all. Your help is reassuring, but I am not confident I can protect you, Sister.
+65	When I left Tahra, I swore to Heim, the god of war,
+66	that for the sake of the hero who will protect Tahra, I would not shrink even from being called to God.
+67	Sir Finn, there is no need to concern yourself over me. If I can be of use, please take me with you.
+68	Very well. If you go so far as to say that, Sister...
+69	Then let us go. We must find the prince before the sun sets.
+70	I wonder if Lord Leif is safe...
+71	What, the Munster army is closing in on this castle?
+72	Hmph, Raydrik, do you take me lightly!?
+73	Armored corps! Sortie at once!
+74	Let us teach them just how fearsome our corps is!!
+75	What, Hannibal has come out? This is bad...
+76	It can't be helped. Pull back. All troops, retreat to Munster!
+77	Lord Leif!! You were safe!
+78	Finn. I made you worry.
+79	No, knowing you, Lord Leif, I believed you would surely be safe, but to think I would see you again so soon...
+80	This is all thanks to the Magi Squad.
+81	The Magi Squad? ...They are called the Magi Squad?
+82	There seem to be knights and mercenaries among them. Who on earth are they?
+83	They are Munster's rebel army. They said they would help me until the day the city is liberated.
+84	That is good news indeed. By the way, Lord Leif, I don't see Eyvel...
+85	Eyvel is in Munster... She was turned to stone by a priest of Loptr.
+86	There's nothing we can do right now...
+87	!... How could such a thing... Lord Leif... forgive me...
+88	There's nothing for you to apologize for, Finn. Besides, Eyvel... I will get her back, I swear!
+89	Listen, Finn. We will get Eyvel back with our own hands!
+90	So don't die, Finn! Until the day we return to Munster, you absolutely must not die!
+91	Yes, sir. I swear on this Brave Lance, I will never again leave your side, Lord Leif!!
+92	Mm... By the way, Finn, what happened to everyone else?
+93	They are being held in Meath Castle.
+94	I considered a rescue, but I thought I should see you first, Prince, and left things as they were.
+95	I see. So either way, we're meant to go to Meath...
+96	Finn, let's join up with everyone in Meath, and after that go to Tahra!
+97	That city must be nostalgic for you too, Finn.
+98	Yes, Lord Leif!
+99	Father!?
+100	Nanna... I'm glad you're safe. Are you all right? You're not hurt anywhere?
+101	Yes. Eyvel protected me...
+102	I see... Good.
+103	If something were to happen to you, what could I ever say to apologize to her...
+104	Father...
+105	Hm? What is it? Is something wrong?
+106	No... I'm sorry. It's nothing...
+107	Heh... What a strange girl. Anyway, fall back to the rear.
+108	We need your support with staves, but it is still too early for you to fight.
+109	Yes, Father...
+110	Oh, you're...
+111	The sister... It's been a while.
+112	Why are you doing something like this? You're not a bad person...
+113	This is my job. It has nothing to do with you, Sister. Now, step aside.
+114	No. I won't move.
+115	...Are you saying you'd throw away your life for that boy, Sister?
+116	Yes. If you wish it!
+117	......
+118	Prince Leif is irreplaceable to Thracia.
+119	If my life can be exchanged for his, I'll gladly give it.
+120	Hmph... What a foolish thing for a woman to say... Fine... do as you like.
+121	What!? Then you'll help the prince?
+122	Yeah... It's started to seem kind of stupid.
+123	But Sister, let me tell you one thing.
+124	Don't speak lightly of death in front of me. I can't stand people who rush to their deaths!
+125	I'm sorry... I'll be careful.
+126	Sister, may I ask you one thing? What is your wish?
+127	What would it take for you to laugh brightly?
+128	My wish is for all people to be happy. If everyone smiles, I can smile too.
+129	I see... I was a fool to ask.
+130	Well, fine. I'm Shiva of Savan. Your name?
+131	Safy. Safy of Tahra.
+132	I hear you're going to Tahra? Then take this antidote with you.
+133	When you've been poisoned, rub this medicine on the wound and the poison's gone in an instant.
+134	Rumor has it that among the thieves who hold sway in the west, there are some who use poisoned weapons.
+135	Take poison lightly and you'll be in for it. So take this along.
+136	Eek! Forgive me! It was just a moment of weakness...
+137	Huh? You're not the Meath Castle garrison? What, don't scare me like that.
+138	Forget what just happened, okay? In exchange, I'll give you this.
+139	If you like, why not try going to the arena to the south?
+140	If you fight and win there you'll get money, and it's a bit of a test of your skill, too.
+141	Oh, but losing there means losing your life,
+142	so don't get carried away and do anything too reckless. "In moderation" is best in all things!
+143	If you're going, I'll give you this for emergencies. I think it'll be of some use.
+144	I hear you fled from Munster. What happened?
+145	Yes. We lived on the east coast,
+146	and were arrested for the crime of resisting the child hunts.
+147	But we were saved by the town's resistance and escaped together with them.
+148	Hmm... You are still young, but you have quite a fine face. Your name?
+149	Lugh Faris, General Hannibal.
+150	Hmm, a resemblance...
+151	Huh? ...To what?
+152	No, it is nothing. More importantly, what do you intend to do now?
+153	I intend to go to Tahra. I have friends in that city.
+154	Do you intend to cross the central mountains?
+155	Yes. We are rebels. We cannot walk through imperial territory.
+156	I see... There are many bandits in that area. Go carefully.
+157	Yes. Then will you release my companions?
+158	Yes, of course. Someone, bring them here!
+159	Sir!...
+160	Prince Leif! You came. Sorry, we were no help at all...
+161	Damn those Thracians! Next time I see them, I won't let them off easy!!
+162	Prince Leif, forgive us. All because we lacked the strength...
+163	It is not much of an apology, but...
+164	Carrion, guide these people.
+165	The central mountains have many hard passes. And around Purple Dragon Mountain, a large-scale bandit hunt is under way.
+166	If you were mistaken for them again, this time you might lose your lives.
+167	Yes, sir. As you command.
+168	General, you needn't go that far. We'll be...
+169	Please take me with you. I want to go with you!
+170	...If you insist, then please, as far as Purple Dragon Mountain.
+171	Yes!
+172	Hello!
+173	Oh, you're the one from Kelves... Why are you here?
+174	Hannibal is my father. And so, this...
+175	It's a very powerful staff called the Warp staff. I'm giving it to you as thanks.
+176	Thank you. But is it really all right...
+177	Sir Lugh, the sun will set. You had best be setting out soon.
+178	Yes. Thank you for everything, General Hannibal.
+179	I will never forget this kindness!
+180	You whelps! Do you think you can defeat me!!
+181	Absurd... How can this be...

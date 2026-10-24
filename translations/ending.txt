@@ -1,0 +1,279 @@
+1	Thus the battle of Leif and his companions, which began in the village of Fiana, produced a result of sorts in the form of the liberation of northern Thracia.
+2	But the fighting was not yet over.
+3	In southern Thracia, the Kingdom of Thracia led by Travant holds great power,
+4	and in the Grannvale Empire, the Loptr Church and Prince Julius, called the incarnation of the dark god Loptous, still stand strong.
+5	Gran Year 777. The age was about to enter a new phase...
+6	Chapter 1: The Warrior of Fiana — cleared in ○○○ turns
+7	Chapter 2: The Coast of Ith — cleared in ○○○ turns
+8	Chapter 2x: Pirate Island — cleared in ○○○ turns
+9	Chapter 3: The Gate of Kelves — cleared in ○○○ turns
+10	Chapter 4: The Dungeon — cleared in ○○○ turns
+11	Chapter 4x: The Hero of Wind — cleared in ○○○ turns
+12	Chapter 5: Mother and Daughter — cleared in ○○○ turns
+13	Chapter 6: Escape — cleared in ○○○ turns
+14	Chapter 7: The Shield of Thracia — cleared in ○○○ turns
+15	Chapter 8: Purple Dragon Mountain — cleared in ○○○ turns
+16	Chapter 8x: Dagdar's Mansion — cleared in ○○○ turns
+17	Chapter 9: The Crest of Nova — cleared in ○○○ turns
+18	Chapter 10: Noel Canyon — cleared in ○○○ turns
+19	Chapter 11: Fort Dandrum — cleared in ○○○ turns
+20	Chapter 11x: Murder Holes — cleared in ○○○ turns
+21	Chapter 12: The Thieves of Dakia — cleared in ○○○ turns
+22	Chapter 12x: Dandelion — cleared in ○○○ turns
+23	Chapter 13: The Fortress City — cleared in ○○○ turns
+24	Chapter 14: All-Out Attack — cleared in ○○○ turns
+25	Chapter 14x: In Search of Freedom — cleared in ○○○ turns
+26	Chapter 15: Two Roads — cleared in ○○○ turns
+27	Chapter 16: The Norden Line — cleared in ○○○ turns
+28	Chapter 17: Leonster Gate — cleared in ○○○ turns
+29	Chapter 16: The Dark Forest — cleared in ○○○ turns
+30	Chapter 17: May Rain — cleared in ○○○ turns
+31	Chapter 18: Liberation of the Capital — cleared in ○○○ turns
+32	Chapter 19: The Empire Strikes Back — cleared in ○○○ turns
+33	Chapter 20: The Prince of Light — cleared in ○○○ turns
+34	Chapter 21: The War of Liberation — cleared in ○○○ turns
+35	Chapter 21x: The Prison Camp — cleared in ○○○ turns
+36	Chapter 22: The River Crossing — cleared in ○○○ turns
+37	Chapter 23: The Demon King's Castle — cleared in ○○○ turns
+38	Chapter 24: The Baron in Black — cleared in ○○○ turns
+39	Chapter 24x: The Altar of Loptous — cleared in ○○○ turns
+40	Final Chapter: The Sword of Oaths — cleared in ○○○ turns
+41	~ Overall Record ~
+42	Total: cleared in ○○○ turns
+43	Survivors: ×× people
+44	Overall rank: SSS SS S AAA AA A B C D E
+45	Game Design ■ Scenario Shouzou Kaga (already in English in the game)
+46	Super Advisor Kentarou Nishimura (already in English in the game)
+47	Program Chief Tohru Narihiro (already in English in the game)
+48	System Program Takafumi Kaneko (already in English in the game)
+49	Cp Program Chikara Yamamoto (already in English in the game)
+50	Effect Program Takanori Hino (already in English in the game)
+51	Event Program Ryuichirou Kouguchi (already in English in the game)
+52	Graphic Chief Masahiro Higuchi (already in English in the game)
+53	Character Graphic Sachiko Wada Yuka Hongou (already in English in the game)
+54	Battle Animation Ryou Hirata Maki Takemori (already in English in the game)
+55	Map Design Junko Umehara (already in English in the game)
+56	Character Design Mayumi Hirota (already in English in the game)
+57	Scenario Masayuki Horikawa (already in English in the game)
+58	Sound Create Yuka Tsujiyoko (already in English in the game)
+59	Sound Create ■ Sound Program Atsuko Matsumoto (already in English in the game)
+60	Sound Support Kenichi Nishimaki (already in English in the game)
+61	Art Work Taeko Kaneda Fujiko Nomura Yasuo Inoue (already in English in the game)
+62	Publicity Yuusuke Kitanishi (already in English in the game)
+63	Special Thanks Masatoshi Okuno Takaya Fujii Super Mario Club (already in English in the game)
+64	Producer Takehiro Izushi (already in English in the game)
+65	Leif, Prince of Leonster
+66	Together with Prince Seliph, he led the war to liberate Jugdral. Even after the victory at Belhalla he fought on from place to place,
+67	and his fame is said to have surpassed even that of the Holy King Seliph.
+68	In Gran Year 780, he founded the "New Kingdom of Thracia," uniting north and south Thracia, and took its throne.
+69	Together with his queen Nanna and his sister Altena, he loved the people of Thracia above all,
+70	and as "the one who carries on the will" of Dain and Nova, he went on devoting his life to the unity and prosperity of his homeland.
+71	The name of the wise King Leif will never be forgotten, for as long as Thracia has a history...
+72	Together with Prince Seliph, he led the war to liberate Jugdral. Even after the victory at Belhalla he fought on from place to place,
+73	and his fame is said to have surpassed even that of the Holy King Seliph.
+74	In Gran Year 780, he founded the "New Kingdom of Thracia," uniting north and south Thracia, and took its throne.
+75	Together with his sister Altena, he loved the people of Thracia above all,
+76	and as "the one who carries on the will" of Dain and Nova, he went on devoting his life to the unity and prosperity of his homeland.
+77	The name of the wise King Leif will never be forgotten, for as long as Thracia has a history...
+78	Finn, the legendary lance knight
+79	After seeing Leif's coronation through, he suddenly vanished from people's sight.
+80	It was three years later that he appeared again.
+81	Where he went and what he did in those "three blank years" is not recorded at all in the official histories.
+82	There remains only a stray account that someone saw him in the Yied Desert.
+83	Nanna, Princess of Nordion
+84	After the victory at Belhalla, she threw herself into the war to liberate Agustria together with Prince Leif.
+85	Later she was wed to Leif, King of Thracia, and devoted all her strength to the relief of orphans.
+86	For her loveliness and kindness, even after she became queen, the people
+87	fondly called her "Princess Nanna," and it is told that her life was a happy one.
+88	Eyvel, the goddess of Fiana
+89	She returned to Fiana and for a while passed a peaceful time.
+90	With the disappearance of the "geis," the pact with the dragon tribe,
+91	she regained her memory seven years after the victory in the holy war.
+92	The tale of her reunion with her children will surely be told again someday, to the sound of a bard's lute...
+93	Mareeta, swordswoman of the moon and stars
+94	Ashamed of her own immaturity in having been controlled by a cursed sword, she set out alone on a journey of training.
+95	In time she too grew into a swordswoman whose name was known across the whole continent,
+96	but all her life, it is said, she kept saying, "I am nowhere near my mother."
+97	Dagdar, former bandit of Purple Dragon Mountain
+98	He returned to Purple Dragon Mountain, gathered his former men together, and began once more to take on the cultivation of the wasteland.
+99	After several years, the area around Purple Dragon Mountain is said to have been reborn as rich land.
+100	Tanya, the daughter Dagdar loved
+101	She moved to Fiana, later married, and was blessed with many children.
+102	With her forthright nature and a helpfulness bordering on meddling,
+103	she was relied upon and held dear by the villagers all her life, it is said.
+104	Halvan, the quiet hero
+105	After Eyvel was gone, he became the leader of Fiana village.
+106	He showed his talent as a lord as well, and Fiana village grew into a village so prosperous that its neighbors envied it.
+107	Osian, the raging axe fighter
+108	He returned to Fiana, later married, and was blessed with many children.
+109	His open-handedness and quick temper never changed his whole life,
+110	and as "the village's famous old man" he was, it is said, a presence people kept at arm's length yet relied upon.
+111	Marty, the man Dagdar loved
+112	He returned to Purple Dragon Mountain and, with his former comrades, began once more to take on the cultivation of the wasteland.
+113	A little slow, but with his simple, unaffected character, he was well loved by his comrades' children, it is said.
+114	Ronan, youth of Ith village
+115	He went home to Ith, where his mother waited, and returned once more to the life of a hunter.
+116	Later he married and seems to have led a modest but happy life.
+117	Safy, one who serves God
+118	She returned to Tahra and devoted her strength to saving the sick and the poor.
+119	It is told that the sight of her appeared to people's eyes just like that of a goddess.
+120	Tina, the playful sister
+121	Even after returning to Tahra she drifted about as ever, and kept those around her on edge, it is said.
+122	Did the day ever come when she settled down?
+123	Unfortunately, no history book has records that go that far.
+124	Lifis, the shy thief
+125	For a while he held an official post, but eventually he disappeared from it.
+126	Around the same time, the pirates' islands were completely subdued by the Kelves garrison.
+127	No record remains of anyone having seen him after that.
+128	Fergus, the carefree free knight
+129	After the war, he left like the wind.
+130	A prince of the blood of Connacht's royal house, or the hidden child of the legendary knight Beowolf,
+131	he was a man about whom rumors never ceased, but by now there is no longer any way to know.
+132	Karin, the girl who rides a pegasus
+133	She returned to her home, Silesse, and joined the "Pegasus Knights" she had longed for.
+134	After that, no notable achievements remain on record,
+135	but she seems to have become an excellent pegasus knight.
+136	Misha, one of Silesse's four pegasus knights
+137	She returned to Silesse and was welcomed into the "Pegasus Knights."
+138	In the Silesse liberation war that followed, her distinguished service was remarkable, and she became the first commander of the pegasus knights of the reborn Kingdom of Silesse.
+139	As an able and fair commander, she was trusted deeply by those above and below her alike, it is said.
+140	Ced, crusader of the wind
+141	He returned to Silesse and, giving way to the people's ardent wishes, took the throne.
+142	Through his indomitable spirit and tireless effort,
+143	Silesse, laid waste by war, slowly but steadily comes back to life as the beautiful land it once was.
+144	Asbel, the boy guided by the wind
+145	In the liberation war he walked the road of hardship to the very end at Leif's side as his close aide.
+146	After the war he returned to Frest, the place of his birth, and succeeded his father as a priest.
+147	It would be a dozen or more years later still that the name of the sage Asbel became known in every corner of the continent.
+148	Brighton, knight of Munster
+149	He returned to Munster and poured his strength into rebuilding it, while teaching people the sword on the side.
+150	Later, it is said, he opened a small shop with his wife.
+151	Machyua, swordswoman of the gale
+152	She returned to Munster and poured her passion into rebuilding it.
+153	In time she married a former comrade-in-arms and bore a child,
+154	but her passion for rebuilding Munster never changed all her life, it is said.
+155	Lara, the lovely thief
+156	She went back to her original trade of "dancer" and kept dancing all over Thracia.
+157	Her beautiful "dance," brimming with life, in time became a symbol of Thracia's revival,
+158	and gave courage to many people, it is said.
+159	Dalsin, a man of fiery passion
+160	Volunteering himself, he took up a post at Fort Kelves, and fought bravely day and night against thieves to protect people's livelihoods.
+161	As a result, the gangs of thieves around the fort were all but destroyed.
+162	In time, the "place more fearsome than hell"
+163	came to be praised as the "place safer than heaven," it is said.
+164	Hicks, the axe knight with a child
+165	Taking no official post, he returned to his home village and led a peaceful life with his family.
+166	But even while working, he kept an axe planted at his side,
+167	and it is said he never neglected to be prepared for an emergency.
+168	Shiva, mercenary of Savan
+169	After the war ended, he slipped away without anyone knowing.
+170	About him there are far too many mysteries,
+171	and various theories have been put forward about his origins and what came after, but not one is certain.
+172	Glade, the dutiful lance knight
+173	He was appointed "Grand General," the highest military rank among the retainers, and entrusted with reorganizing the overgrown army.
+174	He succeeded in making the army small and elite by reassigning surplus personnel and introducing new troop types,
+175	and greatly helped the kingdom as it suffered from financial difficulty, it is said.
+176	Selphina, the beautiful bow knight
+177	After New Thracia was founded, she resigned as commander of the royal guard, took children who had lost their parents into her mansion, and became a mother to them.
+178	The small lives Selphina saved in time bloomed greatly and produced many heroes who would carry the next age.
+179	Hence the knight Selphina was also called the Mother of Thracia, and her strength and kindness were spoken of into later ages, it is said.
+180	Cain, lance knight of Leonster
+181	He laid down his sword and became a civil official.
+182	In reorganizing the army, in policies for restoring the land and more, he carried out bold measures one after another,
+183	and as a "taciturn man of practical affairs," he was deeply trusted by Leif and successive prime ministers, it is told.
+184	Alva, lance knight of Leonster
+185	He took up a post in the old Thracia region and, under the King's sister Altena, worked to restore public order.
+186	At first he seems to have been shunned by the people as "a man of the north,"
+187	but his natural cheerfulness and frank character won over the hearts of what were, at bottom, simple people, it is said.
+188	Robert, bow knight of Leonster
+189	At his own strong request, he was assigned to New Thracia's royal guard.
+190	He himself seems to have meant to be doing his best as a veteran knight,
+191	but his unreliability and haplessness were secretly the talk of the ladies-in-waiting at court, it is said.
+192	Carrion, the young noble of Leonster
+193	At Leif's wish, he took up a post at Meath Castle together with Hannibal.
+194	From then on he skillfully held together north and south Thracia, which were apt to strike discordant notes,
+195	and contributed greatly to the "unification" of north and south, it is said.
+196	Xavier, the loyal old general
+197	With Leif and the others, he devoted his strength to the founding of New Thracia.
+198	His opinions, backed by rich experience and knowledge, were always on the mark,
+199	and he was prized in the royal government of New Thracia's founding period, in which there were many young people, it is said.
+200	Fred, paladin of Friege
+201	After the war he returned to the Duchy of Friege and, aiding his young lord, devoted his strength to his homeland's revival.
+202	He was later wed to a young woman of his lord's line, but the difference in their ages was such that those around him teased him greatly, it is said.
+203	Olwen, the blue mage knight
+204	After the war she returned to the Duchy of Friege and, aiding her young lord, devoted her strength to her homeland's revival.
+205	When she thinks of her brother Reinhardt, she feels anger at how pitiable he was, the knight Olwen later said.
+206	Perhaps for that reason, the partner she chose was a man so ordinary that it surprised those around her, it is said.
+207	Perne, thief of Dakia
+208	Leaving the words "I'm going back home," he left Leif and the others, after which all word of him ceased.
+209	As for him after that,
+210	there are various theories, such as "it seems he went back to the thieving trade" and "he lent his strength to Tahra's revival."
+211	Troude, the man called the Reaper
+212	In the confusion right after the war's end, he vanished from people's sight.
+213	What became of him afterward is not certain,
+214	but according to various accounts, he seems to have gone back to a bodyguard's life.
+215	Salem, the dark mage
+216	After the war ended, he shut himself away in a remote countryside and set down his own experiences in a memoir.
+217	The memoir of Salem, who had once been a member of the Loptr Church,
+218	would come to be prized as a valuable historical source that observed from within just what Loptr had been.
+219	Linoan, the flower that blooms in Tahra
+220	She returned to Tahra and restored this city ravaged by war.
+221	She achieved a prosperity greater than before, and helped Leif's great work from behind the scenes.
+222	But despite her beauty, she remained unmarried all her life,
+223	which would invite all manner of speculation from later generations.
+224	Dean, the hero of the blue skies
+225	After the war ended, he protected the wounded Arion and returned to old Thracia.
+226	It would be several years later that he appears again on the main stage of history,
+227	as head of the dragon knights of the reborn Thracian army.
+228	Eda, dragon knight of Thracia
+229	After New Thracia was founded, as a close aide to Altena, she kept encouraging her while she was sunk in despair.
+230	Because of her earnest nature, she never sought her own happiness,
+231	and devoted her life to the revival of her homeland Thracia and to loyalty to Altena, it is said.
+232	Homer, the wandering bard
+233	As a bard he traveled all over Thracia and kept singing the saga of Leif and his companions.
+234	That saga, based on his own experience, was loved by the people of Thracia more widely than any other saga, it is said.
+235	Ralf, the drifter mercenary
+236	He exchanged his sword for farm tools and poured his strength into the revival of devastated Thracia.
+237	About Ralf afterward, nothing at all is handed down beyond this.
+238	Did Ralf choose to become one of the countless people who support the foundations of recovery, and be buried in history...?
+239	Ilios, the ambitious knight
+240	In the New Kingdom of Thracia, he at last became the noble he had longed to be.
+241	But he seems not to have been suited to peacetime administration, and failed in managing the region entrusted to him.
+242	As a "meritorious retainer of the founding," he was not severely punished,
+243	but he was shunted to a sinecure of honor only, and would catch hold of his subordinates and repeat tales of his old exploits in arms, it is said.
+244	Sleuf, priest of Bragi
+245	Even after the war ended he did not return to the Tower of Bragi, but wandered the continent spreading the teachings of Edda.
+246	Through the earnest missionary work of the Edda priests, beginning with this Sleuf,
+247	the Edda Church came once more to gather faith as the spiritual support of many people.
+248	Amalda, the troubled lady knight
+249	She returned to Friege and devoted her strength to the revival of the Duchy of Friege.
+250	Friege's national strength had been exhausted by the destruction of the main Friege house in northern Thracia,
+251	but through the earnest efforts of Amalda and the others, it gradually regained the brilliance of former years.
+252	Shannam, the tall-tale swordsman
+253	Without serving New Thracia, he returned to his home, Isaach.
+254	After that, it is told, he quit the mercenary work that didn't suit him and led a respectable life.
+255	Miranda, the willful princess
+256	While waiting for Leif in Ulster, she fell in love with a certain knight and simply disappeared, it is said.
+257	Because of her fierce temperament she was often misunderstood, but it is told that she led a happy life as a wife and as a mother.
+258	Conomor, knight of Ulster
+259	He gave up knighthood and retired to private life.
+260	Thereafter he made his home on the outskirts of Ulster and quietly lived out his remaining years, it is said.
+261	Diarmuid, the knight of charisma
+262	After the war ended, he headed for Agustria together with his cousin, Prince Ares.
+263	Through their efforts, the unified Agustria would achieve unprecedented development.
+264	Galzus, the black swordsman of Od
+265	After Munster's liberation, he vanished to parts unknown.
+266	About him thereafter, even counting the official histories, the various accounts, stray reports and sagas, no record remains at all.
+267	Did he vanish into the darkness of history, or was he buried in the darkness of history? There is no way to confirm even that.
+268	Saias, priest of the red flame
+269	He returned to Velthomer and devoted his strength to rebuilding that land.
+270	At the request of the Holy King Seliph, who saw promise in his talent, he served the reborn Kingdom of Grannvale and contributed greatly to rebuilding the kingdom.
+271	Sara, the girl of sorrowful fate
+272	She quietly disappeared.
+273	According to various accounts, under Leif's protection she led a modest but rich-hearted life.
+274	In Chapter ○○, ×××× (chapter title): missing
+275	In Chapter ○○, ×××× (chapter title): died
+276	In Chapter ○○, ×××× (chapter title): felled by △△△
+277	In Chapter ○○, ×××× (chapter title): died of poison
+278	In Chapter ○○, ×××× (chapter title): self-destructed with the Devil Axe
+279	Fin

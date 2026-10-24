@@ -1,0 +1,141 @@
+# Central grammar list: id | pattern | explanation.
+renyou|verb stem, … (連用中止)|Ending a clause on the verb stem (脱出し, やぶり) links it to the next clause, like "and". A written, formal alternative to the て-form.
+totomoni|〜とともに|"Together with".
+nado|〜など|"Such as, and the like".
+nagara|〜ながら|"While doing": two actions at the same time. Attaches to the verb stem.
+nagara-although|〜ながら (contrast)|Here ながら means "although, even though", not "while".
+toiu|A という B|"B called A": names or defines the following noun.
+de-copula|〜で (copula て-form)|で here is the て-form of だ: "it is … and".
+teiru|〜ている|Ongoing action or resulting state ("is doing", "has done"). Past: 〜ていた.
+teru|〜てる／〜てんだ|Spoken contraction of 〜ている (やってる, 落ち着いてんだ = 落ち着いているのだ).
+teoru|〜ておる／〜ております|Same as 〜ている. ております is humble; plain ておる sounds old or lordly.
+toru|〜とる／〜とり|Dialect / old-man contraction of 〜ておる (= 〜ている).
+teiku|〜ていく|Action moving away or continuing onward from now ("go on doing").
+tekuru|〜てくる|Go do something and come back, or a change that has been coming up to now.
+ga-but|〜が、|Clause-final が = "but"; often just softens the lead-in.
+koto|〜こと|Turns a clause into a noun ("the fact that …").
+no-nominal|〜のは|の turns the clause into a noun: "the fact that … is …".
+noda|〜のだ／〜のです|Explanatory ending: states something as the explanation or as an emphatic fact.
+nda|〜んだ／〜んです|Spoken form of 〜のだ: explanatory or emphatic; in questions, asks for an explanation.
+nano|〜なの|Soft (often feminine) explanatory ending after a noun; = なのだ.
+noda-command|〜のだ (order)|Said to a subordinate, 〜のだ works as a firm order: "you are to …".
+no-command|〜の／〜のよ (instruction)|Sentence-final の as a gentle but firm instruction (feminine).
+causative|〜せる／〜させる|Causative: make or let someone do. はかせろ = "make (them) spit it out".
+imperative|command form|Plain imperative: 待て, 帰れ, 連れてこい, しろ／せよ. Blunt; used by superiors and rough speakers.
+youda|〜ようだ／〜ようです|"It seems that …", judging from evidence.
+passive|〜れる／〜られる (passive)|Passive: "be …-ed". The doer is marked with に.
+rareru-honorific|〜れる／〜られる (respect)|The passive form used as an honorific: なられた = "has become" (respectful).
+potential|potential form|"Can do": 戦える, ゆける, 買えん. Negative = cannot.
+ni-iku|stem + に行く／来る|Purpose of going or coming: 助けに行く = "go to help".
+to-quote|〜と (quote)|と marks what is said, thought or heard.
+tte-quote|〜って|Casual quoting particle (= と).
+domo|〜ども|Plural suffix that looks down on the group (山賊ども).
+me|〜め|Insulting suffix on a name or noun (こぞうめ = "that brat").
+souda-hearsay|〜そうだ (hearsay)|After a plain form: "I hear that …".
+toka|〜とか|Vague hearsay: "… or something, I hear".
+niwa-oyobanai|〜には及ばない|"There is no need to …".
+nu-neg|〜ぬ／〜ん (negative)|Old negative, = ない. できぬ = できない, かえん = 買えない. Typical of nobles, soldiers and old men.
+deshou|〜でしょう／〜だろう|Conjecture: "probably", or seeking agreement.
+nishiteha|〜にしては|"For (someone like) …": better or worse than expected.
+volitional|〜よう／〜おう|Volitional: "let's …" or "I shall …".
+toshiyou|〜とするか／〜としよう|"Let's …, shall we": deciding to do something now.
+mashou|〜ましょう|Polite "let's …" / "I shall …".
+tara|〜たら|"When / if …" (once that has happened).
+ba|〜ば|Conditional "if".
+ba-ii|〜ばいい|"It would be good if …; you should just …".
+nara|〜なら|"If it is the case that …; if you mean …".
+temo|〜ても|"Even if / even though".
+temo-ii|〜てもいい|"It's all right to …"; as a question, asks permission or acceptance.
+nakutemo|〜なくても／〜なくたって|"Even without …-ing": 言われなくても = "without being told".
+o-kudasai|お + stem + ください|Respectful request: お待ちください = "please wait".
+tekudasai|〜てください|Polite request: "please do".
+tekudasaru|〜てくださる|Honorific "do for me/us": someone of higher status does a favor.
+tekureru|〜てくれる|Someone does something for the speaker's side. Can be sarcastic (よけいなことをしてくれた).
+tekure|〜てくれ|Plain, masculine request: "do … for me".
+teokure|〜ておくれ|Folksy, gentle request (= 〜てください).
+teageru|〜てあげる|Do something for someone else's benefit.
+teyaru|〜てやる|Do something for (or to) someone of lower status; also a threat or boast.
+temiseru|〜てみせる|"I'll … , you'll see": strong resolve to accomplish it.
+teshimau|〜てしまう／〜てしもうた|Done completely, often with regret.
+chimau|〜ちまう／〜じまう|Rough contraction of 〜てしまう／〜でしまう.
+teoku|〜ておく|Do in advance, or leave in that state.
+toku|〜とく|Contraction of 〜ておく (おぼえとけ = 覚えておけ).
+o-suru|お + stem + する／いたす|Humble form: the speaker does something for a superior (お連れする, お会いいたす).
+kenjou|humble verbs|Humble speech for one's own actions: 申す (say), 参る (go/come), いたす (do), 存じる (think).
+degozaimasu|〜でございます／〜にございます|Very polite です.
+nasaru|なさる|Honorific する. 心配なさらないで = "please don't worry".
+nasai|〜なさい|Gentle command, from someone in a caring or superior position.
+naide|〜ないで|"Please don't …" (request, short for ないでください).
+na-prohib|dictionary form + な|Prohibition: "don't …" (するな).
+njanai|〜んじゃない／〜んじゃねえ|"Don't you …": a rough prohibition.
+ta-command|〜た、〜た|Repeated past form as a brusque order: 帰った、帰った = "go on, off home with you".
+te-request|〜て (request)|Bare て-form as a casual request: 逃げて = "run!".
+yagaru|stem + やがる|Shows contempt or anger at someone's action.
+oru-contempt|stem + おる／おって|Old-style way to speak scornfully of another's action (図に乗りおって).
+nee|〜ねえ (= ない)|Rough masculine ない／ai → ee: わかんねえ, うるせえ, すまねえ.
+ja-old|じゃ／じゃろう|Old-man speech: じゃ = だ, じゃろう = だろう, のう = ね. Goes with わし.
+rashii|〜らしい|"Apparently": based on what one has heard or seen.
+sou-looks|stem + そうだ|"Looks like": よさそう = "looks good", ありそう = "seems there is".
+sou-likely|stem + そうな|"The kind of thing (someone) would …": 考えそうなこと.
+kashira|〜かしら|"I wonder" (feminine).
+kana|〜かな|"I wonder".
+zuni|〜ず／〜ずに|"Without doing" (= ないで). 殺さず = "without killing".
+tari|〜たり|"Do things like …".
+dake|〜だけ|"Only, just".
+shikanai|〜しかない|"Have no choice but to …".
+aidani|〜間に|"While …": within that span of time.
+demo-even|〜でも|"Even (just)": すこしでも = "even a little".
+ikura-demo|いくら〜でも|"No matter how …; even …".
+made-even|〜まで (even)|"Even": extends to an unexpected case.
+made|〜まで|"Until".
+madeda|〜までだ|"All that's left is to …; I'll simply …".
+wake-niwa-ikanai|〜わけにはいかない|"Can't very well …": circumstances or duty don't allow it.
+toshite|〜として|"As (in the role of)".
+nitotte|〜にとって|"For, from the standpoint of".
+tohaie|〜とはいえ|"Even though they are …; that said".
+toha|〜とは|Surprise at the fact just stated: "to think that …".
+ta-ato|〜たあと|"After doing".
+toki|〜とき|"When".
+kurai|〜くらい|Extent: "to the degree that …", "about this much".
+hodo|〜ほど|Extent: "so … that", "to the point of".
+sugiru|stem + すぎる|"Too much".
+youni|〜ないように|"So that … not": take care that it doesn't happen.
+te-yokatta|〜てよかった|"I'm glad that …".
+te-reason|〜て／〜で (reason)|て-form giving a cause or feeling: 心配で = "I was so worried".
+darou-to-omou|〜だろうと思う|"I thought it was probably …".
+to-omou|〜と思う|"I think that …".
+janaika|〜じゃないか／〜じゃねえか|"Isn't it …!": surprise, pointing out, or mild conjecture (んじゃないかな).
+desutte|〜ですって|Repeating someone's words in disbelief: "…, you say!?".
+monoka|〜ものか／〜もんですか|Rhetorical "as if I would …!": strong denial.
+monoda|〜ものだ|Reflective "that's how it is": a general truth or feeling.
+toiumonoda|〜というものだ|"That's what you'd call …".
+naito|〜ないと|"Have to …" (short for ないといけない).
+nakya|〜なきゃ|Contraction of なければ: "unless; have to".
+neba|〜ねばならぬ|Old-style "must" (= なければならない).
+shi|〜し|Lists a reason: "and besides …".
+kara|〜から|Reason: "because, so".
+node|〜ので|Reason, softer than から.
+yue|〜ゆえ|Formal, old-fashioned "because, therefore" (= から).
+noni|〜のに|"Even though" (with regret or complaint).
+nanza|〜なんざ|Rough なんか／など: belittles what comes before.
+nante|〜なんて|"Something like": surprise or belittling.
+takotogaaru|〜たことがある／ない|Experience: "have (never) done".
+tsumori|〜つもり|Intention: "mean to …".
+you-to-suru|〜ようとする|"Try to …".
+tame|〜ため(に)|Purpose "in order to", or "for the sake of".
+nowa-da|〜のは〜だ|Emphasis by splitting: "the one who … is …".
+dakenokotohaaru|〜だけのことはある|"No wonder; that's what you'd expect from …".
+sae-ba|〜さえ〜ば|"If only …; as long as …".
+sasete-kudasai|〜させてください|"Please let me …" (causative + request).
+sasete-itadaku|〜させていただく|"Be allowed to …": very humble way to ask or announce one's action.
+cha|〜ちゃ／〜ては|Contraction of ては: "if (that happens, it's bad)".
+toittehanan|〜といってはなんですが|Set phrase: "it's not much of a …, but".
+toittemo|〜といっても|"Though I say so …".
+tai|stem + たい|"Want to".
+owaru|stem + おわる|"Finish doing".
+kamoshirenai|〜かもしれない／〜かもしれぬ|"Might".
+toiukoto|〜ということ|"The fact that …".
+kotoka|〜ことか|Exclamation: "how (much) …!".
+ka-embedded|question + か|Embedded question: 何がおこったか = "what happened".
+tokoroda|〜たいところだが|"I'd like to …, but".
+kuba|〜くば|Classical conditional of adjectives: おしくば = 惜しければ "if you value".

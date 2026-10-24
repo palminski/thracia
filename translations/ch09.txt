@@ -1,0 +1,158 @@
+1	Having settled the bandit trouble at Purple Dragon Mountain, Leif's "Liberation Army,"
+2	in order to join the surviving retainers of Leonster, whom they had learned were safe,
+3	heads for Hannibal's mountain villa, where they are said to be living in hiding...
+4	Merloch, it is around here, yes?
+5	Sir. There is no mistake.
+6	Even so, those bandits, to torment my people of Thracia... they will not get off lightly.
+7	Even so, there was no need for you to come all the way out here yourself, Father...
+8	No. One who is king must know of every matter, however trifling.
+9	Besides, Altena, it has been a long time since I went on an outing with you. It is fine.
+10	Yes. I am happy to be with you, Father.
+11	I invited Arion as well, but he had the nerve to say he could not leave the main castle unattended. An unsociable fellow.
+12	My brother is working hard because he wants to be of help to you, Father.
+13	Well, when I was his age, I was managing everything as king.
+14	Arion, too, will have to work hard, but...
+15	I, too, want to do my utmost and be of help to you and my brother, Father.
+16	Yes. To the two of you I wish to entrust the future of this Thracia.
+17	In the north, rich harvests cover the fields; in the south, great wealth lies buried in the mountains.
+18	If either is lacking, Thracia cannot stand on its own.
+19	To make this Thracia one again... yes, to return it to the ideal country that Dain and Nova built: that is my wish.
+20	For that, I would not shrink even from falling into hell...
+21	...Father?
+22	Altena...
+23	Yes.
+24	...The wind seems to have picked up. Shall we leave this to Merloch and go back?
+25	Yes, Father!
+26	Mm. Merloch!
+27	Sir!
+28	I leave the rest to you. I have given you this many soldiers. I will absolutely not tolerate failure!
+29	Wipe out the bandits. Kill every last one.
+30	Teach them how dearly they will pay for tormenting my people!
+31	Sir, leave it to me!
+32	Father! It's the Thracian army! They're attacking up across the whole south!!
+33	Travant, so he has noticed us!
+34	But this is bad.
+35	Glade has gone to Tahra. All who are in this villa now are youths who have never known real battle.
+36	I will draw the enemy off. Father, take them and escape.
+37	That won't do. According to word from General Hannibal,
+38	Lord Leif is leading the warriors of Fiana and Munster and heading this way.
+39	I must wait for the prince.
+40	Understood. Then I will take command of the defense.
+41	Until the prince arrives, I will hold out, you'll see.
+42	Cain! Alva! Robert!
+43	We're heading out! Follow me!
+44	That is the villa we are looking for.
+45	I wonder if everyone is well...
+46	...There seems to be an army around it. Is it Dorias and the others?
+47	An army, you say? ...This is bad! That equipment is the Thracian army's!
+48	What!? Isn't that General Hannibal's villa?
+49	Perhaps those in hiding were discovered. Or else General Hannibal informed on them...
+50	Stop it, August! General Hannibal is not that kind of man.
+51	...In any case, we must go to their aid.
+52	Should the villa fall, the liberation of Thracia and the rebuilding of Leonster would be all but hopeless.
+53	Lord Leif! How I've missed you!! It's me! Selphina!
+54	Selphina! Is it really you, Selphina!
+55	Lord Leif... truly... this isn't a dream, is it?
+56	That little Lord Leif... the Lord Leif who used to sleep so comfortably on my lap...
+57	has grown up so splendidly... Ahh, what can I say...
+58	Selphina, I'm the one who feels like crying.
+59	I was sure you and Dorias had both been killed because of me...
+60	I never imagined I could see you again...
+61	I don't remember my mother or my sister. I don't know the warmth of family.
+62	So I thought of Lachesis as a mother, and of you, Selphina, as an older sister.
+63	I was always asking impossible things of you. I still remember it clearly.
+64	Lord Leif... Such words... are more than I deserve...
+65	...Lady Lachesis has still not returned...?
+66	No... She went off to Isaach and hasn't come back...
+67	...I see...
+68	It will be all right. This is Lady Lachesis. I'm sure she is living well somewhere.
+69	Surely, surely you'll meet again, Lord Leif. After all, even we were able to meet.
+70	Sir Finn, it has been a long time!
+71	You are...?
+72	Have you forgotten me? It's Selphina, Sir Finn.
+73	Selphina? Count Dorias's daughter?
+74	Yes.
+75	...It can't be... that girl with the braids...
+76	A woman changes in ten years. And I am Glade's wife now.
+77	Glade!? Is he safe? I want to see him! Let me see him!
+78	He is away at present. He has gone to the relief of Tahra...
+79	I see... That's a pity. If it's military duty, it can't be helped, but...
+80	It seems you are more interested in Glade than in me, Sir Finn.
+81	You haven't changed at all since the old days. You always were cold to women.
+82	Cold? ...I don't mean to be...
+83	Then why did you leave Lady Lachesis alone?
+84	You must have understood her sorrow...
+85	...I don't know what you are talking about...
+86	No! You do understand, Sir Finn.
+87	And yet you pretend not to. That is cowardly of you, Sir Finn!
+88	Selphina, we are meeting for the first time in so long. That's enough, surely...
+89	Oh... I'm sorry. You're right.
+90	We meet after so long, and I say nothing but rude things...
+91	No, it's fine. Let me hear about that another time. For now, we must fight.
+92	Yes, Sir Finn...
+93	Lady Selphina, I have just returned.
+94	Carrion, thank you for carrying out such an important duty.
+95	No, this is about all someone like me can be of use for.
+96	I, too, hope to quickly become a splendid knight like Sir Glade
+97	and be of use to Lord Leif, but... I can't stand how powerless I am.
+98	Carrion, you mustn't be impatient. That is how one loses one's life.
+99	But perhaps it is about time I gave you this.
+100	What is this...? It's quite a splendid sword...
+101	This is what is called the Elite Sword. I was keeping it for your mother.
+102	She asked me to give it to you when you had become a fine knight...
+103	My mother!?
+104	Yes. When she passed away from illness, you were still small...
+105	I'm told this sword was the favorite of your father, who died in battle.
+106	My father's... The sword of my father, who was a paladin of Leonster...
+107	That's right. You must treasure it.
+108	Yes! Lady Selphina, thank you so much!!
+109	Lord Leif! Terrible news! The villa has fallen!
+110	What!? Then Dorias and the others...
+111	I am told nearly all of Leonster's former retainers had gathered at this villa.
+112	Now that they have been wiped out,
+113	regrettably, there is nothing for it but to give up on rebuilding the Kingdom of Leonster.
+114	Dorias!!
+115	Lord Leif... How good that you are safe... You have grown up splendidly...
+116	It's all thanks to you and Finn, Dorias.
+117	Thanks to your sacrifices, I have been able to live this long...
+118	Such undeserved words... Ah, how unlike me...
+119	Perhaps it is my age, but I have become easily moved to tears...
+120	Age? Don't say that...
+121	!! Dorias! Your right arm... it can't be...
+122	Ah, this? No, it is nothing much.
+123	In the battle at Ulster, I let my guard down a little... It is embarrassing.
+124	At Ulster... Then, to let us escape...
+125	H-how terrible! For my sake... for my sake, Dorias, you...
+126	Hahaha. You need not let it trouble you so.
+127	This decrepit old body was never of much use to begin with.
+128	More importantly, Lord Leif, if you are going to Tahra, there is no time to dawdle.
+129	According to word from Glade, the Empire's all-out attack looks set to begin shortly.
+130	Now, beneath the battle flag of Nova, the brave have gathered.
+131	The reborn army of the Kingdom of Leonster, let us set forth to liberate northern Thracia!!
+132	For that, first, there are the Thracian soldiers outside.
+133	On that matter, the Thracian army's movements are somehow strange.
+134	They have stopped attacking us and are not moving.
+135	That's odd...
+136	Lord Leif, thinking about it will get us nowhere. I will go and take a quick look. Please wait here a moment.
+137	Hmm, it is as that man said. They have stopped attacking us.
+138	But what on earth has happened?
+139	Hm? What? That female dragon knight... she seems to be about to say something to the Thracian army...
+140	I address the whole Thracian army. I am Princess Altena.
+141	Urgent word has come from General Hannibal.
+142	Those in this villa are not bandits.
+143	They are, I am told, a mercenary unit the general organized to protect the people from bandits.
+144	Therefore, further fighting is needless! All troops, withdraw at once!
+145	Hmm, the bandits still haven't been wiped out?
+146	It can't be helped. Send the signal to charge to the lance armor unit.
+147	Curse you, what are you dawdling for! All troops, we now move to an all-out attack. Sweep away the bandits at all costs!
+148	Are you acquainted with the people living in the villa?
+149	I found this in the hills out back; I wonder if it belongs to them. Please take it to them.
+150	You're looking a bit pale. Aren't you working too hard?
+151	At times like that, I recommend this S Drink.
+152	Gulp down one bottle into a tired body, and in an instant you're bursting with energy. It's great stuff.
+153	Even when someone's too tired to sortie, just having them carry it does the trick.
+154	I'll give you one as a sample, so if you like it, buy some at the item shop next door.
+155	Miss it here, and the only other place that sells it is the city of Tahra.
+156	You'd better buy some even if it takes all the money you've got.
+157	You people aren't bandits! Who on earth are you!
+158	Your Majesty King Travant, forgive me...

@@ -1,0 +1,102 @@
+1	Passing Fort Danzig, Leif's "Liberation Army" presses on along the road to Munster.
+2	Before their eyes, the greatest river of the Thracian peninsula, the great Thracia River, reveals its vast form.
+3	The great Thracia River, which with its abundant waters has until now bestowed many blessings on the region of northern Thracia.
+4	Once across this great Thracia River, Munster lies right before them.
+5	The great river of Thracia... Whenever I see it, this vastness captivates me.
+6	And how pure this water is. Truly the blessing of the earth mother goddess Ethnia.
+7	Is that so? To me it looks like a river of bright red blood...
+8	Certainly, this great river has given us many blessings.
+9	But for that very reason, it invites people's insatiable greed,
+10	and countless times until now, battles have been fought over this river.
+11	The former King of Leonster, your grandfather, Prince, also fell in battle at this river.
+12	That's right... My grandfather, at this river...
+13	To be exact, not here, but at the Great Thracia Bridge, located farther downstream.
+14	Through Connacht's sudden betrayal, the army collapsed entirely, and the King too was killed.
+15	This river is easy to defend and hard to attack. Therefore the enemy, too, will come with a powerful lineup to stop us here.
+16	Prince Leif, this battle is expected to be harder than any battle so far.
+17	I ask that you face it with your mind braced...
+18	Saias, enough. Leave now!
+19	No. I will stay by your side to the end, Count.
+20	If you wish to save me, first listen to what I say.
+21	You remember as well, surely.
+22	My daughter Aida was killed by that Manfroy, trying to protect you.
+23	I hid you in a church far from any village, and withstood Manfroy's persistent threats.
+24	That I am exposed on this frontier as a mere army commander is all Manfroy's doing.
+25	More than ten years since then... Your ability was recognized, and you rose even to court priest of Velthomer.
+26	Trusted by His Majesty, I rejoiced that not even Manfroy could touch you now.
+27	But with His Highness Julius's awakening, the power of the Loptr Church has come to surpass even the Emperor's.
+28	Saias, the Brand of Fala has appeared on you, has it not?
+29	That is something neither Prince Julius nor Princess Julia had.
+30	And it is for that reason that Manfroy feared you.
+31	Saias, preserve your life. You are a warrior of Fala... You must leave behind the blood of Velthomer.
+32	For now, hide that fact and build up your strength.
+33	Lord Saias, it has been a long time.
+34	General Reinhardt! Why are you here?
+35	I heard that Princess Ishtar had returned home. Were you not with her?
+36	As I am anxious about my sister, I decided to remain for a while.
+37	Besides, I am told Lady Ishtar no longer needs me.
+38	The princess said so?
+39	Yes. Because of Lord Julius as well, she told me not to concern myself with her anymore...
+40	......
+41	Lord Reinhardt.
+42	It is a hard thing to say, but I have heard that Lady Olwen has gone over to the enemy?
+43	...Yes.
+44	But Olwen is still a child. She has surely been deceived. I believe she will understand if I talk to her.
+45	I understand how you feel, but she is a full-grown adult now.
+46	She is not forever the girl running after you.
+47	She has her own way of living. That, at least, you should understand.
+48	Olwen's way of living... Are you saying, Father, that there is a way of living different from mine?
+49	Yes...
+50	But in any case, it would be well for you to talk it over once. If there is a chance, that is...
+51	Brother!...
+52	When I saw the Gelben Ritter I thought it might be, and it was you after all!
+53	Olwen. It's been a long time... I'm glad to see you.
+54	Brother... I...
+55	Never mind. We'll talk at leisure later.
+56	For now, I just want to be glad you're safe. Everyone is worried.
+57	Olwen... let's go back home together.
+58	No... I will not return to Friege.
+59	I will go home after taking the children back from Loptr... That is what I decided.
+60	Olwen, please. Do as I say.
+61	You're my precious sister. I don't want to lose you!
+62	As one human being, I thought, agonized, and suffered through it, and made this decision.
+63	Even at your word, Brother, I cannot change it.
+64	Then... we will be enemies. Are you saying you'll fight me, Olwen?
+65	If you mean to bar our way, Brother... then, when that time comes...
+66	Heh... You seem to be serious...
+67	It is indeed as Lord Saias says. It seems you've grown up. All right, enough... do as you like.
+68	This is my last feeling as your brother. Take it!
+69	This is!? Isn't this the sword you treasured most, Brother!
+70	Yes...
+71	It is the holy sword I received from Lady Ishtar, but I no longer need it. You should use it.
+72	But why? When you treasured it so...
+73	This conversation is over. Return to your army, Olwen!
+74	The next time we meet on the battlefield, I will show no mercy, sister or not! Understood!!
+75	The enemy has come that far... Enough, Saias. Leave!
+76	No, I will stay with you after all, Count...
+77	Silence! Can you not do as I say! Go!
+78	Please wait! I...
+79	Count... So I... must not... die after all...
+80	...Good, now! Drop the bridges! Give the Gelben Ritter the order to attack!
+81	Now! Drop the bridges!
+82	The enemy is drawing near at last! On the name of the Gelben Ritter, do not let them near this castle!
+83	We have crossed the river at last.
+84	A river where many have shed blood... hm. I feel I somehow understand what you were trying to say, August.
+85	...Blood once spilled does not return.
+86	What matters is how to make that blood worth something.
+87	Now, Munster is very near. Let us hurry on, Prince Leif.
+88	The far side of the river is full of imperial soldiers. I hear there are some among them who use terrifying magic.
+89	It's dangerous to go without any preparation. Take this holy water with you.
+90	The great Thracia River is wide...
+91	Advance the straightforward way, and you'll take the Empire's all-out attack head-on before you're even across.
+92	If you use this Warp staff to, say, attack the imperial army from behind, it ought to get a good deal easier.
+93	The great Thracia River is wide...
+94	So if you don't advance carefully, you'll get separated in no time.
+95	Use this Rescue staff and you can bring someone right back to your side... It's a handy staff, this one.
+96	You shall advance no farther!
+97	The Empire... will not lose... gah!
+98	...I have nothing to say.
+99	Is this, too, fate... Forgive me...
+100	So this... is it...
+101	...We'll meet again...
+102	Withdraw... You cannot defeat me...

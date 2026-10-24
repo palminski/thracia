@@ -2,7 +2,7 @@
 
 Static site with the full Japanese script of Fire Emblem: Thracia 776, one page per chapter.
 
-- Open `index.html` in a browser. No server needed.
+- Open `public/index.html` in a browser. No server needed.
 - Rebuild after any change: `python3 tools/build.py` (standard library only).
 
 ## Layout
@@ -11,11 +11,11 @@ Static site with the full Japanese script of Fire Emblem: Thracia 776, one page 
   the [Pegasus Knight Master Bible 会話集](https://www.pegasusknight.com/mb/fe5/st_index.html)).
   All dialogue comes from these files; the transcriber's own commentary (†) is left out.
 - `tools/build.py` – parser + page generator. Chapter titles are listed at the top.
-- `chapters/`, `index.html` – generated pages. Don't edit by hand; they are overwritten.
+- `public/` – everything the web server serves (set it as the web directory). `public/chapters/`, `public/index.html` – generated pages. Don't edit by hand; they are overwritten.
 - `data/script.json` – the parsed script (scene → text window → lines), also generated.
-- `css/style.css` – all styling.
-- `img/placeholder.svg` – stand-in portrait.
-- `img/portraits/` – put `<name>.png` here and rebuild; `README.txt` in that folder lists
+- `public/css/style.css` – all styling.
+- `public/img/placeholder.svg` – stand-in portrait.
+- `public/img/portraits/` – put `<name>.png` here and rebuild; `README.txt` in that folder lists
   every file name the pages look for.
 
 ## Reading the pages
@@ -28,7 +28,7 @@ Static site with the full Japanese script of Fire Emblem: Thracia 776, one page 
 ## Portraits
 
 `python3 tools/fetch_portraits.py` downloads the 48×64 portraits from the
-[Fire Emblem Wiki](https://fireemblemwiki.org) into `img/portraits/`, saved under the
+[Fire Emblem Wiki](https://fireemblemwiki.org) into `public/img/portraits/`, saved under the
 Japanese speaker name. The name mapping is at the top of that script. Unnamed townspeople
 (`市民(男)` etc.) use a best-match villager face, not necessarily the one shown in each scene.
 
@@ -53,7 +53,7 @@ credited in the footer):
     python3 tools/build.py
 
 It writes `data/tokens.json` and `data/glossary.json`; the build puts each chapter's
-glossary and translations in `chapters/gloss/`. This part is machine output and is sometimes
+glossary and translations in `public/chapters/gloss/`. This part is machine output and is sometimes
 wrong, mainly where the game spells a word in kana that has homophones. Corrections go in
 the tables at the top of `tools/analyze.py`: `OVERRIDES` / `COMPOUNDS` (readings),
 `GLOSS_FIXES` (meanings), `PROPER` (names and places). `build.py` itself needs no packages.
@@ -71,8 +71,8 @@ chapters that have them (the build prints which ones do).
   worth noting are simply left out.
 
 The build checks that every word is in the bubble's text and that every key and id exists,
-and prints `STUDY:` lines for anything that doesn't. It also generates `grammar.html` and
-`vocab.html` from the two central files. Chapters without a `study/<chapter>.txt` keep the
+and prints `STUDY:` lines for anything that doesn't. It also generates `public/grammar.html` and
+`public/vocab.html` from the two central files. Chapters without a `study/<chapter>.txt` keep the
 automatic dictionary vocabulary and say so in the panel.
 
 Everyday words (見る, 行く, この, 私 …) are included too; only particles, auxiliary verbs,

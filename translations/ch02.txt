@@ -1,0 +1,71 @@
+1	To rescue Nanna and the others, carried off by Raydrik,
+2	Leif heads for Munster.
+3	On the way, in a coastal region called the "Coast of Ith," there was a small settlement...
+4	Bucks, you kill too much. Plundering can't be helped, but don't take lives needlessly.
+5	Shut up.
+6	Strategist or whatever you are, I'm the one in charge here. Don't go sticking your nose in.
+7	Even that damned band of Fiana warriors can't lay a finger on us right now.
+8	After all, it was our boss who tipped off that they're sheltering the prince of Leonster.
+9	Prince Leif!? Is that true?
+10	Yeah. We grabbed a villager and made him talk. He died, though.
+11	Torture, was it...
+12	That's right. The boss said he learned how to torture from you, too.
+13	He laughed and said, "No wonder he got himself excommunicated as a priest."
+14	That brat Lifis, getting carried away...
+15	Well, no matter... As long as the prince is found, I have no more use for him.
+16	Now... as for what to do next... First I must report to that person...
+17	Eyvel! The village is under attack!
+18	Lifis's gang. And after they'd kept quiet for a while, too...
+19	We can't just leave it. Let's save the village!
+20	Finn! The village is under attack!
+21	It's Lifis's gang. They had been quiet for a while, but...
+22	We can't just leave it. Let's save the village!
+23	Hm, that's... The village is under attack! So it's Lifis's gang.
+24	I can't just leave it. Let's save the village!
+25	A traveling sister was taken away by the pirates. Please, please help her.
+26	And also, this... It's a vulnerary. Please use it.
+27	The boat was wrecked. You can't get to the pirate island...
+28	Ronan, wait! Ronan!
+29	Mother, don't stop me. I've already decided.
+30	Ah, you're from the Fiana Freeblades, aren't you?
+31	Please, let me fight alongside you.
+32	I'm confident with a bow. I'll never be a burden...
+33	But you've never once fought...
+34	That doesn't matter!
+35	At this rate, we'll have to live in fear of them forever!
+36	I can't stand it anymore!
+37	The boat's been wrecked. Can't get to the pirate island now...
+38	You people did something uncalled for.
+39	At this rate, the pirates will take revenge and slaughter every villager.
+40	What on earth are you going to do about it!!
+41	Brother! That's no way to talk!
+42	These people are fighting for our sake!
+43	Shut up! Even so, if we get killed, it's all for nothing!
+44	Tch. Quit your meddling and get out of here!
+45	...I'm sorry. My brother didn't used to be like that.
+46	He says no matter how hard you try, nothing is ever rewarded, and he's become completely bitter...
+47	It's not much of an apology, but I'll give you this magic bracelet.
+48	I'm rooting for everyone in the Freeblades. Please do your best.
+49	The boat's wrecked. You can't get to the pirate island...
+50	You are Lord Leif, yes?
+51	...And you are?
+52	My name is August. I am a wandering priest of Bragi.
+53	Do you want something with me?
+54	I heard you have resolved to head for the pirates' island for the villagers' sake...
+55	Yes. At this rate they would suffer the pirates' revenge,
+56	and I also heard that a sister is being held on the island.
+57	Then I shall guide you to the pirate island.
+58	What? You, a priest?
+59	Do not be surprised. Nothing is impossible for this August. Leave everything to me.
+60	You are Lord Leif, yes?
+61	...And you are?
+62	My name is August. I am a wandering priest of Bragi.
+63	Do you want something with me?
+64	I wish to go to Munster, but with pirates running rampant, I am in difficulty.
+65	If you don't mind, might I be allowed to accompany you?
+66	As far as the vicinity of Fort Kelves, I don't mind.
+67	I am most grateful. Along the way I shall teach you various things.
+68	This August wishes to be of service to you.
+69	You punks, don't you underestimate the great Bucks!!
+70	Urgh... You punks... remember this...
+71	Sorry. I'll quit doing bad things and become a fisherman. So long.

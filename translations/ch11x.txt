@@ -1,0 +1,91 @@
+1	Father Oltoph, the enemy are survivors of the Kingdom of Leonster.
+2	And what's more, their commander appears to be Prince Leif, who escaped from Munster.
+3	This is no ordinary matter. I must report to the imperial army's general headquarters,
+4	so you hole up in this fortress and buy time!
+5	But General, the enemy has already penetrated inside the fortress.
+6	With us alone, we cannot possibly hold out...
+7	Hmm... It can't be helped. The last resort. Activate the Murder Holes.
+8	...The Murder Holes... Then you are telling us to die...
+9	If you can annihilate the enemy, you won't have to die. You do need to be prepared for it, though.
+10	Understood... If it is an order, it cannot be helped...
+11	Don't forget to dispose of the prisoners in the cells, either. If they manage to survive, it will be trouble later.
+12	Sir...
+13	I'm counting on you, then. Your deaths will never be in vain.
+14	......
+15	You're an imperial soldier! You devil! Did you come to kill us!?
+16	...No. I was captured... Why are you all here?
+17	Soldiers attacked our village... and we were brought here by force... What's going to happen to us...
+18	What's going to happen? It's obvious! We'll be made sacrifices to the dark god.
+19	We'll be sent to the capital at Belhalla, and everyone will be killed...
+20	My big sister was taken away too, and she never came back...
+21	I don't want that! I want to go back to the village... I want to see Mom and Dad...
+22	...Is this the child hunt? I'd heard rumors of it, but to think it's real...
+23	It's terrible, too terrible... You're telling me this is the doing of Friege, the country I believed in!
+24	Big sis, please! Help us!! Take us back to the village!!
+25	Yes. It's all right. Don't worry.
+26	I won't let them lay a hand on you. I'll protect you, no matter what. Even if it costs me my life...
+27	Lady Olwen! Where are you!! Please answer me!!
+28	Fred? You came... Over here, the children are with me!!
+29	But Kempf's soldiers are here too, so don't let your guard down!!
+30	Hmph. Order or not, as if I'd go along with something when I know full well it means dying!
+31	Something has come up that I must report to the commander. I'm going to the commander.
+32	Then I'll...
+33	It has to be me! I leave the rest to you.
+34	......
+35	It seems you helped the children. Who are you?
+36	And you are?
+37	I'm the leader of this army... My name is Leif.
+38	Leif? Then you are Prince Leif of Leonster?
+39	I am... I am Olwen, a mage knight of Friege.
+40	Of Friege? ...Then why...
+41	Where should I begin... So much has happened that I'm confused...
+42	If you would permit it, might I accompany you for a while, Prince?
+43	I don't mind, but... I must hear Dorias's and August's opinions too.
+44	Could you wait until the battle is over?
+45	Yes. I'm sorry for asking so much.
+46	Fred, I've decided to act together with these people.
+47	So you are free to...
+48	What are you saying! I am your adjutant, Lady Olwen.
+49	If that is what you have decided, I will simply follow.
+50	Fred... thank you.
+51	Lady Olwen!
+52	Fred... Thank you, you saved me...
+53	I'm glad you're safe... Quickly, let's escape... What's the matter? Your face is deathly pale.
+54	Fred, what have we been fighting for all this time...
+55	Lady Olwen, what on earth are you...
+56	What have I been doing until now? Helping to take small children from parents who've done nothing wrong?
+57	Or helping to send children to the capital at Belhalla to be made sacrifices?
+58	Lady Olwen...
+59	...Until now, I never once doubted what I was doing.
+60	I thought that as long as I just kept chasing after my brother's back, I couldn't go wrong.
+61	And yet... now I don't understand anything! I can't believe in anything! What on earth should I...
+62	...The only thing I can say is that the place you belong is not within the imperial army.
+63	Lady Olwen, let us join Prince Leif's army together.
+64	Prince Leif's? But until now they have always been our enemy...
+65	...I am acquainted with Prince Leif. His ideals are far closer to ours than the Empire's.
+66	What you have lost sight of, Lady Olwen... let us search for it in his army!
+67	...All right. If you go that far, Fred...
+68	Children here too... I understand well why the citizens of Tahra rose up.
+69	Indeed. And that is exactly why the Empire is desperate.
+70	If it lets Tahra off, similar revolts will break out everywhere.
+71	Corps are being gathered from every region to utterly crush a single city.
+72	There is even information that they have called the Gelben Ritter back from the capital.
+73	The Gelben Ritter... House Friege's royal guard corps.
+74	Yes. A mage knight order centered on the Friege family, and an elite force among the top one or two on the continent.
+75	Its commander is Princess Ishtar, feared as the Goddess of Thunder.
+76	And her second-in-command, Lord Reinhardt, is also a fine warrior, so much so that he is called the second coming of the Crusader Thrud.
+77	You call a man who lends a hand to child hunts "fine"?
+78	Honestly, knights are a nuisance. They know nothing of reality...
+79	August, is that not a rude way to speak! What do you say I do not know?
+80	Reinhardt is guardian to Princess Ishtar. Ishtar is Prince Julius's lover.
+81	And Julius is said to be the incarnation of the dark god Loptous.
+82	In other words, they are all servants of Loptous, those who would lead this world to destruction...
+83	That's not true! My brother... my brother Reinhardt is no servant of Loptous!!
+84	...And you are?
+85	Olwen... Reinhardt's sister...
+86	For certain reasons she is accompanying our army. I allowed it.
+87	Is that so. Then see it well with your own eyes.
+88	Just what manner of thing the Empire is.
+89	You shall not pass here! Take this!
+90	Glory to Friege... gah!
+91	This is how Leonster fights? Perhaps I was mistaken...

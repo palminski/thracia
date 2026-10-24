@@ -1,0 +1,24 @@
+1	This here's an armory. Buy and sell all you like. → Buy / Sell
+2	This here's an item shop. Buy and sell all you like. → Buy / Sell
+3	Which one do you want?
+4	That item all right with you? → Yes / No
+5	Looks like your hands are full. You can't buy any more.
+6	You don't have enough money.
+7	Anything else you want?
+8	Which of your things are you selling?
+9	That all right with you? → Yes / No
+10	I can't buy that item off you.
+11	Selling anything else?
+12	You've got nothing to sell.
+13	Got some other business? → Buy / Sell
+14	Thanks. Come again.
+15	This is the arena.
+16	The wager is ○○○○ gold. Want to give it a try? → Yes / No
+17	The match goes on until it's settled, but if you want to give up, you can quit with the B button.
+18	Well, do your best, short of dying.
+19	What, giving up? Then I'll be keeping the wager. Come again.
+20	Tch, so you won. Here's your prize money, ○○○○ gold. See ya, so long.
+21	Aw, went and died. What a fool.
+22	Looks like it wasn't settled. I'll give your wager back. See ya, so long.
+23	You don't have enough money. Come back another time.
+24	What, just window-shopping? You're in the way. Get lost.

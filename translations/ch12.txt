@@ -1,0 +1,109 @@
+1	Having broken through "Fort Dandrum," Leif's "Liberation Army,"
+2	receiving word that the all-out attack on Tahra is near, hurries day and night along the road to Tahra.
+3	And when at last they came to the "Forest of Dakia" that spreads east of Tahra,
+4	the surroundings were covered in deep darkness.
+5	Perne, it's time to change shifts. I'll take the watch.
+6	Come to think of it, it's night already. But Salem, are you well enough now?
+7	Yes... Thanks to you, I've recovered. I'm fine now.
+8	Still, those Loptr people do terrible things.
+9	If we hadn't happened by back then, you'd definitely be dead.
+10	...... The Church does not forgive traitors. That is the law...
+11	Traitor? All you did was try to leave the Church. I'd think they didn't have to kill you for it.
+12	...But why did you try to leave?
+13	These days they say a Loptr priest is greater than even the emperor.
+14	I no longer understood... That is the only reason...
+15	Hmm... Well, that's fine.
+16	I like you, and if I can, I'd like you to join us.
+17	You are a thief, but you do not steal from the poor. Nor do you kill.
+18	As long as that holds, I intend to stay here.
+19	I don't kill. It's not to my taste.
+20	But lately we've got more members, and some who won't listen.
+21	Kolkho and his underlings especially are hot-blooded and a problem.
+22	Kolkho is evil. They are attacking travelers.
+23	Yeah, I know. I mean to cut ties with them. Troude and Salem are all I need.
+24	And Tina, hm... Don't do too much mischief. That girl is still a child.
+25	Hahahaha... Well then, I'm counting on you for the watch. The imperial army might come.
+26	I know. To any who approach, I shall grant peaceful slumber with this Sleep staff...
+27	...I must be going now. I'm sorry for the trouble, but please take good care of this girl.
+28	Yes, Father. Please leave it to me.
+29	Lord Saias... Are you leaving?
+30	Yes. I must return to my country.
+31	It pains me to leave you behind, but your illness seems to have healed,
+32	and you should be all right on your own now.
+33	...Father, thank you so very much.
+34	If you hadn't saved me, I...
+35	You seem to regret turning your sword on your mother, but you should forget it now.
+36	That was something you did unavoidably, controlled by Loptr's dark sword.
+37	I have also undone that sword's curse. I will give this to you.
+38	This sword, to me... But...
+39	You said you wanted to become a fine swordswoman like your mother. If so, you must not resent the sword.
+40	A superior sword becomes a cursed sword or a holy sword depending on its wielder's heart.
+41	This sword, too, was not a cursed sword from the beginning.
+42	If you wish to live as a swordswoman, you must love your sword, whatever sword it may be.
+43	If you cannot do that, you cannot be called a fine swordswoman.
+44	Yes... I understand... I will treasure this sword as my bond with Mother.
+45	That is good.
+46	As long as that sword is in your hand, you will one day be reunited with your mother. I have that feeling.
+47	Now, I must be going. We will likely never meet again, but I pray for your happiness.
+48	Thank you. Please take care too, Lord Saias...
+49	Hey, you lot. Some prey's wandered in.
+50	Sneak up and kill 'em. We'll all split the valuables.
+51	Nah, no need to mind what Perne says.
+52	I'll take care of that brat myself. Hit the village while you're at it!!
+53	It seems noisy. Has something happened?
+54	Bandits are attacking a village. Everyone is frightened that they might come to this village too.
+55	Is it the gang of thieves the villagers were talking about?
+56	No, the Dandelion might help us, but they'd never attack a village.
+57	They're probably ruffians who came from somewhere else.
+58	I understand. But please don't worry. I will protect this village.
+59	Don't say foolish things. A girl like you couldn't possibly fight bandits.
+60	No, I am a swordswoman, for all that. I am the daughter of Eyvel of Fiana! I won't lose to bandits!!
+61	Mr. Salem.
+62	Tina. What is it?
+63	Here, a late-night snack. It's cold, so I made something to warm you up.
+64	Thank you. But the night is dangerous. You should go to bed now, Tina.
+65	Okay...
+66	...Are you worried about your sister? Safy, I believe her name was.
+67	It's all right, you'll surely see her. When this wound heals, I'll look for her with you.
+68	Really!? Thank you, Mr. Salem.
+69	Well, good night.
+70	Lord Leif, day has broken. Our field of view opens up.
+71	Lord Leif, this appears to be the hideout of a gang of thieves.
+72	As day has not yet broken, I think we should go in and clear them out...
+73	Yes. But aren't the soldiers tired?
+74	Only the fit ones... let me see... about five would be fine.
+75	Mm, then let's subdue them. The villagers will be glad too.
+76	I am told the thieves of this forest steal money and goods from nobles who side with the Empire and share them out among the poor.
+77	Their leader is a youth named Perne, and the villagers call them noble thieves.
+78	I see... Then let's leave them be. Day has broken, after all.
+79	That would be best. Then let us hurry on. The city of Tahra is very near.
+80	Lord Leif...?
+81	...Mareeta!? Is it you, Mareeta!! Why are you in a place like this...
+82	I'm surprised too.
+83	To think I'd see you and everyone from Fiana again so soon, Lord Leif... it's like I'm dreaming.
+84	Mareeta... I want you to forgive me. Eyvel, for my sake...
+85	No, it is not your fault, Lord Leif. It's because I was immature... because I lost to a cursed sword...
+86	Mareeta, I promise. I will get Eyvel back with my own hands, without fail!
+87	Then me too, with you!
+88	I'll become stronger! So please, take me with you too!
+89	Of course. We can't right away, but someday we'll go back to Munster for sure.
+90	When that time comes, you'll come with us, Mareeta.
+91	Yes! Lord Leif!!
+92	This village is dangerous enough with the thieves around. And now an army on top of that...
+93	Take this vulnerary with you. I hope it's of some use...
+94	Oh, big sis! I was waiting for you. This is yours, right?
+95	I found it in the fort, but I forgot to give it to you. Sorry.
+96	Ahh... Rosa... please come home...
+97	What!? You're the ones who saved my grandchild!
+98	Ohh, I'm so grateful... I'm obliged to you...
+99	This is our family's heirloom. I'll give it to you in thanks. Please make use of it.
+100	Cough, cough, cough... I don't have long either... I wanted to see my grandchild's face one last time...
+101	Ahh, I've been waiting! I heard the story from my son. I hear you took good care of him...
+102	This is my treasure. I'll give it to you in thanks.
+103	I've no business with you! Go away!!
+104	You who violate our forest, begone from here!
+105	Perne... This was for the best...
+106	I see... So you are...
+107	Tch, I blew it. You lot were soldiers!
+108	Graaaaah, now you've done it!
+109	Damn iiiit, you'll remember this!!

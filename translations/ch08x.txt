@@ -1,0 +1,71 @@
+1	Tanya, you run away by yourself. I'll hold them off.
+2	No way. If we're running, you're coming too, Pops!
+3	You'd only slow me down if you're with me. Shut up and do as I say!
+4	Geez... fine, I got it...
+5	Whoa there. Think you can run? Not happening.
+6	I'll have the both of you drop dead right here!
+7	Gomez! Think it over. I don't want to fight you all.
+8	I've had enough! What good comes of plowing barren land like this?
+9	No matter how hard we work, we can't even eat our fill.
+10	You've been taken in by that vixen Eyvel.
+11	It's disgraceful at your age, you lovesick old geezer!
+12	What!? A brat who used to run my errands, don't you talk big to me!
+13	All right, let's do this! Come at me, the whole lot of you!!
+14	Tanya! So you're safe. Geez, making me worry like that... you idiot!
+15	I-idiot? What do you mean, idiot!
+16	For starters, nobody asked the likes of you to worry about me!
+17	Come on, can't you be a little more honestly grateful at a time like this?
+18	What! It's because you pick a fight with me!
+19	...You're the one, Osian... at a time like this, you could be a little kinder to me...
+20	Whoa, y-you idiot, there's no need to cry...
+21	No, um, I mean, well... A-anyway, I'm glad. That you're safe. Yeah.
+22	Dagdar, are you all right?
+23	This is nothing.
+24	But I never thought... that you'd come, Prince Leif. Is Eyvel with you too?
+25	......
+26	What's wrong, Prince?
+27	...Eyvel is... in Munster. We couldn't rescue her with our strength...
+28	What!? What on earth were you people doing!
+29	There was nothing we could do! With my strength... nothing...
+30	......
+31	If I... had been even a little stronger... If I... had even a little more power...
+32	...Prince, that's enough. Don't blame yourself so much.
+33	But...
+34	Sorry. I ended up shouting. It was just so unexpected.
+35	But when I think about it, you're not that soft a man, Prince. I said a bad thing.
+36	Dagdar...
+37	Hey, no need to worry. From now on I'll help you, Prince.
+38	I may be no match for Eyvel, but I won't lose to the young pups around here yet.
+39	And then, let's go together and take Eyvel back!
+40	I feel sorry for Dagdar. Why can't they just work honestly?
+41	Even if they want to work, they have no land. Most of those men are probably the children of Thracian farmers.
+42	Abandoned when they were small, they became bandits out of necessity.
+43	It means they could not survive otherwise.
+44	That's absurd. What parent would abandon their own child!
+45	Oh? Though you lived as a wanderer, Prince, it seems you do not know the pain of hunger.
+46	While being hunted by the Empire, how did you manage your daily food?
+47	Food? ...I don't know... But I never went hungry.
+48	It seems you were blessed with good attendants, Prince. But with that sense of things, you will not understand the people's suffering.
+49	Southern Thracia is a land that is almost entirely steep mountains.
+50	The soil is poor, and the climate is harsh.
+51	The farmers work themselves to the bone, and still they cannot eat.
+52	Either everyone starves to death, or they abandon one or two and survive.
+53	Prince, this is not a matter of logic. It is the reality of Thracia.
+54	Can't they buy food from other countries? In northern Thracia, every town was overflowing with food.
+55	The countries of northern Thracia, by treaty, have cut off trade with the south.
+56	Food in particular is strictly monitored.
+57	...Why would they do such a thing!?
+58	The direct cause is the war of a hundred years ago, but the situation does not change because neither side tries to understand the other.
+59	The nobles of northern Thracia in particular are selfish.
+60	I was always told that the Kingdom of Thracia is a warlike military state.
+61	But to think there was such a miserable reality...
+62	Why? Why do they hate each other so much?
+63	They were originally a single kingdom...
+64	That is precisely the tragedy surrounding the two holy lances, Gae Bolg and Gungnir.
+65	The people become wise or foolish depending on who leads them.
+66	As one who will rule a country, Prince, I would have you learn many things from now on. So that you do not repeat your father's mistakes...
+67	Damn it! Don't you underestimate the immortal Gomez!
+68	Boss Dagdar, I'm sorry...
+69	At this rate, everyone's going to starve to death...
+70	You're saying you'll spare me...?
+71	Ugh, I can't beat you people. I can't beat youuu!

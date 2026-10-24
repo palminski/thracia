@@ -1,0 +1,155 @@
+1	Prince Leif, this way.
+2	Father August!? Why are you here?
+3	I had been devising a plan to rescue you, Prince, but it seems that is no longer necessary.
+4	...You seem to have been through a great deal, but I am glad you are safe above all.
+5	August, I have never hated the Empire as much as I do now.
+6	It took my parents, and now it has taken someone precious, someone I could call a mother...
+7	I hate the Empire... and I hate Raydrik, who commits every atrocity as its pawn!!
+8	Tell me, August. What must I do to fight them?
+9	If I can get her back, I'll do anything.
+10	Tell me, August!
+11	I am told Lady Eyvel was turned to stone by petrification magic.
+12	If that is true, I must ask you to give her up.
+13	! ...What do you mean!? Are you saying there's no way to turn her back!?
+14	No. With the holy staff called Kia, petrification can be undone.
+15	However, that staff was sealed by Manfroy, Archbishop of Loptr,
+16	and it is said that only those of his bloodline can use it.
+17	Manfroy's bloodline... No...
+18	This is a rumor, but deep beneath the Yied Desert there is a secret temple of Loptr,
+19	and they say the stone statues of many warriors are displayed there.
+20	Among them, I hear, are the young warriors captured in the Battle of Belhalla over a decade ago...
+21	Lady Eyvel's statue too will no doubt be placed in that temple in time.
+22	No... How can something so absurd be allowed!
+23	Your anger is entirely justified, but at present, all over this world, the "absurd things" you speak of are happening.
+24	Even on this Thracian peninsula, already thousands...
+25	no, tens of thousands of children have been captured and sent to the imperial capital, Belhalla.
+26	Especially here in Munster, where Loptr's power is strong, and in your homeland of Leonster, it is nearly every last one...
+27	One no longer sees children in the streets.
+28	Are the parents fine with having their children taken!? Why don't they fight for themselves!?
+29	Of course the citizens are fighting. It is so in Munster as well; resistance is occurring everywhere.
+30	But in the end they are unarmed citizens; they cannot hope to match the imperial army and the Loptr Church.
+31	Killed on the spot, or captured and executed... it is a pitiful thing.
+32	In particular, the methods of Loptr's mage corps, the "Berg Rosen," are cruelty itself.
+33	If even one person resists, they burn every resident of that village at the stake or bury them alive. It is the very "Dark Age" of legend...
+34	The people have lost even the will to resist, and are in a state like slaves.
+35	It's that bad...
+36	Yes. Northern Thracia once had blue skies and was rich in green,
+37	but now it is covered by dark clouds that never clear...
+38	Prince, I understand that you are anxious about Lady Eyvel,
+39	but you surely have a more important mission.
+40	What is needed most in northern Thracia now
+41	is a hero who can draw out the strength of the people of northern Thracia and bind them together as a group that fights.
+42	...Whether he excels in valor or strategy is not the issue. It is the "hero" as an illusion.
+43	You, Prince, as the child of the tragic heroes Quan and Ethlyn, have that qualification by birth.
+44	Do you understand? If you rise up, the anti-imperial forces of northern Thracia will unite as one,
+45	and as a result, it may be possible to drive out the forces of the Empire and Loptr.
+46	I haven't given up on Eyvel, but I understand what you're saying, August.
+47	If you tell me to become the banner of northern Thracia's liberation, that's just what I want.
+48	To restore the Kingdom of Leonster, lead its army, and defeat the imperial forces...
+49	That is the dream Finn and I have always talked about together!
+50	If you'll assist me as my strategist, August, I won't shrink from any hardship!
+51	But can it really be done?
+52	Understood. Hearing that resolve is all I needed.
+53	For now, please think only of escaping.
+54	Many soldiers have sortied in pursuit of us. Is there a safe route?
+55	I believe it would be best to flee through the east service gate... But the problem is when you enter the castle town.
+56	If the lookouts spot you, it will summon a large enemy force, and escape will become difficult.
+57	Without being spotted by the lookouts? Is such a thing possible...
+58	We just have to stay out of the town, right? Then leave it to me.
+59	One at a time, I can put you on my Hermes and carry you.
+60	From the sky we can go over the walls, and there's no worry about the enemy spotting us.
+61	I see. Then we can escape without fighting. But will you two be all right?
+62	Hermes says he'll do his best for me.
+63	The truth is, pegasi only open their hearts to girls. They don't even like being touched by men.
+64	But Hermes says he'll put up with it... He's a boy, so he's good at enduring.
+65	...As for the escape, that will do.
+66	What remains is whether or not to visit the castle town... That is the question.
+67	Hey, you all right?
+68	I've heard the story. Hurry and get out of here.
+69	In a little while, Lord Ced and the others should come to help. Then things'll get a bit easier.
+70	Father, my apologies. It seems I've pushed extra baggage on you.
+71	Galzus, I believe you said. You are employed by Lord Raydrik, are you not?
+72	Why this girl... Is she someone connected to you?
+73	No... It's not like that, but...
+74	...Very well. She's rather large baggage for a man traveling alone, but I will look after her for a while.
+75	Well then, Sir Galzus, fortune in battle!
+76	I didn't notice... To think it was you...
+77	Good. Prince Leif seems to be safe still.
+78	Yes. It seems we made it in time somehow.
+79	Then from here, we will act as decoys and aid the prince's escape.
+80	I'm sorry to ask this of everyone, but we cannot let him die. Lend me your help.
+81	Yes, Lord Ced!
+82	We're about at our limit...
+83	We're moving to retreat now. Everyone withdraw before the enemy's main force arrives. Hurry!
+84	Ohh, swordsman Galzus, you're late!
+85	Do you want something with me?
+86	You can see for yourself. Prisoners have escaped. They're quite formidable. Lend me your strength!
+87	Heh, trifling...
+88	My little brother Boy was taken to a safe village by the people of the Magi Squad.
+89	Thank you so very much. I'll never forget this kindness as long as I live.
+90	It's not much by way of thanks, but I'll give you this secret book handed down in my family.
+91	It's said to be a book that bestows mysterious power. I wonder if it will be of use...
+92	I've already given up on Boy. No, it's all right. I don't hold a grudge against you...
+93	Hey, I've been waiting. Thanks for rescuing my sister Leena!
+94	Yeah, I know, I know. Here, take this!
+95	I don't really get it, but it turned up at the roots of the tree in the back garden.
+96	I think it's a page from some book. Looks like it has a story behind it, right?
+97	Maybe something good'll happen if you hold onto it. Not that I'd know!
+98	Tch, some liberation army. My sister Leena is still a prisoner!
+99	Don't you people act cool, when you can't do a thing!
+100	You are the ones who saved my daughter Emily, aren't you?
+101	Ahh, how can I ever thank you?
+102	This is our family heirloom, a Knight's Crest. I'm sure it will be of use.
+103	Ahh, Emily... where have you gone...
+104	Ohh, it's you people. I've been waiting.
+105	I hear you rescued my son Murphy.
+106	Thanks to you, I was able to hide him somewhere safe. Along with the other children, of course.
+107	I'm Hicks, an axe knight of Munster.
+108	I'm thoroughly fed up with that bastard Raydrik.
+109	I'll fight alongside you too. Glad to be with you!
+110	Go away! I've no business with you!
+111	Some liberation army. Some prince of Leonster.
+112	Don't talk big when you can't even save a single child.
+113	I hear you saved my little sister Bella. Thank you.
+114	We're poor, so we can't give you much of a reward,
+115	but if you like, please take this holy water.
+116	Bella... isn't coming back... Never mind... I won't expect anything from you...
+117	So you're the ones who rescued my grandson Cliff.
+118	Mm, just what I'd expect from companions of the hero Ced. I'm grateful.
+119	Oh, that's right, I forgot. I'll give you this rapier.
+120	No, no need to hold back. It's just a token of my feelings.
+121	Well, it can't be helped... Cliff isn't coming back, but one can't ask much of you, who aren't even crusaders.
+122	So the sun rises from the east after all...
+123	Lord Raydrik, it appears Prince Leif has escaped outside the castle.
+124	You fools, what are you doing!? Can't you catch one small fry like that!?
+125	Sir! My apologies!
+126	Have General Eisenau lead the knights in pursuit at once!
+127	If he flees into Thracian territory, it will become troublesome.
+128	Sir. Understood.
+129	By the way, what happened to that girl, Mareeta? I don't see her...
+130	...I had intended to report it later, but... the guard was attacked by someone, and the girl was taken...
+131	My apologies!
+132	Grr, useless, every last one of you!
+133	Do you not even have a guess as to whose doing it was!?
+134	There is no doubt they are highly skilled.
+135	Someone saw that bodyguard, Galzus, near the scene. Can he be trusted?
+136	Hmm... Galzus...
+137	There are those who say they saw the Brand of Od on that man's back.
+138	If that is true, he would be Isaachian royalty...
+139	Heh. I am not such a fool as to hire a bodyguard without checking his background.
+140	He is indeed Isaachian royalty.
+141	He is a prince of the fallen royal house of Ribaut, and since their parents were siblings, he is cousin to Prince Shannan of Isaach.
+142	Prince Shannan is one of the leaders of the anti-imperial forces, is he not?
+143	Is it not dangerous to keep a relative of such a man inside the castle?
+144	Heh. Do you know nothing?
+145	Galzus's clan, that is, the royalty of Ribaut, was destroyed in the civil war long ago by the Isaachian army led by Shannan's grandfather.
+146	Because of that, he apparently went through all manner of hardship from a young age.
+147	Such a man would hardly cooperate with Prince Shannan, his clan's enemy.
+148	I see. So that is how it is...
+149	I can guess the reason he let that girl go.
+150	After all, the Brand was on that girl's back too... Heh heh heh...
+151	Sir?
+152	N-no, it's nothing. Well, never mind. Leave Galzus alone.
+153	Forget about the girl. I can't afford to lose a bodyguard like Galzus...
+154	Pitiful. Curse your own fate...
+155	Heh... At the end... I met... someone interesting...

@@ -1,0 +1,158 @@
+1	By the promise between Arion and Linoan, the "Liberation Army" withdrew from Tahra.
+2	As for the next objective,
+3	the Fiana Freeblades and the Magi Squad, who wished to liberate Munster first,
+4	and Leonster's surviving retainers and the Tahra mercenaries, who wished to liberate Leonster first,
+5	were split into two opinions, but in the end, also in order to move the army efficiently,
+6	it was settled that taking Leonster first was the realistic course.
+7	However,
+8	Leif would here once again be asked to make a new choice...
+9	Lord Leif, to come out on the northern highway, we must descend this pass to the west.
+10	Count Dorias, so you do intend to advance east along the coast.
+11	I believe we should descend the pass to the east and attack from the lightly defended south side.
+12	South of Leonster is the Melfiye forest region.
+13	Do you not know that forest is called the "Forest of the Lost"?
+14	Naturally I am aware of the difficulty.
+15	But for that very reason the Empire should be off its guard.
+16	For us, inferior in strength, making nature our ally is surely the basis of tactics.
+17	I am opposed.
+18	Our fight is being watched by Thracia... no, by all the people of this continent.
+19	It is not enough merely to win.
+20	It must be something that gives courage and strength to the people groaning under the Empire's tyranny.
+21	We should raise the flag of Leonster and advance openly from the front.
+22	The northern highway is Leonster's front door. A great enemy army lies in wait. Many soldiers will die.
+23	Naturally I am prepared for that. That is exactly why I wish for an honorable death.
+24	Honor?
+25	...Lord Dorias, this battle does not belong to knights alone.
+26	It is a nuisance to have your way of thinking forced upon us one-sidedly.
+27	August, is that not a somewhat insolent way to speak?
+28	...Well, never mind. It is Lord Leif who decides. There is no need for us to quarrel.
+29	Quite so. All shall be as the prince decides...
+30	Boss, we've found the perfect prey. Let's take that village today.
+31	Tch, what a run-down village. Even if we torch that, it won't amount to much of a haul.
+32	But there seem to be a fair number of young women.
+33	How about we catch 'em and sell 'em off to the slave traders?
+34	I see... not bad.
+35	All right, we'll catch just the young women and kill the rest.
+36	Well then, Father, please take good care of the children.
+37	Leave it to us. Even imperial soldiers should not reach as far as a poor village in mountains like these.
+38	We will protect the children in our care even at the cost of our lives.
+39	But Lady Amalda, will you be all right?
+40	If the Empire learns of this, will harm not come to you...
+41	I am ashamed.
+42	That as a knight of the proud House Friege, I can save children only in a manner like this...
+43	Every day, many children are captured and sent to the capital,
+44	and those I can save are no more than a tiny handful.
+45	I have meant to remonstrate with His Majesty the King, even if it should cost my life,
+46	and have requested an audience many times, but that has still not been permitted.
+47	As a general entrusted with an army, however unworthy, I agonize every day over what I should do.
+48	Lady Amalda, I well understand how you feel. But you must not be impatient.
+49	But, Father Sleuf, I...
+50	To lose you now
+51	would mean losing even the children who might be saved from here on.
+52	Yes... Thank you. Then I will take my leave...
+53	She, too, is in a painful position. Not that our own anguish is any different...
+54	Mm... But it is true that, at this rate, the world will be destroyed.
+55	Even knowing that, all we can do is pray...
+56	Father, at the Tower of Bragi, I truly heard it.
+57	"When the three lights become one, the darkness of this world shall be dispelled."
+58	The voice of Father Claud, who is supposed to have died...
+59	Yes. And he also said this: "Thou who art good, servant of Bragi,
+60	in place of me who cannot move, become thou my eyes, and see the world through to the end"...
+61	I understand. You should set out on your journey. There is no need to worry about the children.
+62	Yes... Forgive me. Please pardon my selfishness.
+63	Father, trouble. Bandits are bearing down from the north.
+64	What, is that true?
+65	Yes, no mistake.
+66	The lady knight says she'll fight, but with just her and me, I don't know how long we can hold out.
+67	Father, take the women and children and get away.
+68	I see... Understood. Ralf, I'm sorry...
+69	That a mercenary of your caliber fights for a small village like this... everyone is grateful for it.
+70	Heh... This too is some kind of fate. Can't be helped!
+71	Oh, thank you for saving the village.
+72	I would like to thank your leader as well. Where might he be?
+73	Oh, thank you for saving the village.
+74	You have saved us.
+75	This is a token of the villagers' feelings. Please accept it.
+76	Then we'll be on our way...
+77	Where will you be going from here?
+78	East... We intend to head for Leonster.
+79	Then I have one request. A disciple of mine named Sleuf has set out on a journey.
+80	If you should happen to meet him, I would like you to call out to him, Lord Leif.
+81	Now, with this Warp staff, let me send you part of the way.
+82	As for the road to Leonster, there is the way out to the south of Leonster through the forest of Melfiye, the so-called "Forest of the Lost,"
+83	and the way of advancing east along the coast and crossing Fort Norden. There are these two.
+84	Which will you choose? → Fort Norden / Forest of Melfiye
+85	You people are strong. You look like you could handle this sword.
+86	I'll give it to you as thanks for coming to help.
+87	Hey, you folks, good timing. I'll give you this bracelet.
+88	Don't worry about it. Even if I kept it, they'd just steal it from me.
+89	Oh, you folks came to save the village? Much obliged.
+90	I'll give you this lance in thanks. It's a good one... supposedly, but I can't really tell.
+91	After all, I can't use it myself. Wahahaha...
+92	Hey you, what do you make of this scrap of paper?
+93	I picked it up on the road the other day, but isn't it kind of creepy?
+94	But I'd hate to throw it away and get cursed or something...
+95	Huh? You'll take it off my hands? Thank you, take it right away.
+96	If we pass north from here, we come out on the Leonster highway.
+97	The Empire's regular army lies in wait, and a difficult battle is expected,
+98	but is that acceptable? → Yes / No
+99	If we head north from here, we come out in a deep forest region called the "Forest of the Lost."
+100	The enemy will likely be few, but unforeseen difficulties may await.
+101	Is that acceptable? → Yes / No
+102	Are you the village's mercenary?
+103	No, I don't recall taking any money from the village. Not that I'd want to take any from a village this poor.
+104	Then why for the village's sake?
+105	They looked after me on my travels, so I'm just lending a hand.
+106	You're a brat full of blunt questions. Who on earth are you?
+107	Ah, pardon me. I am Leif of Leonster.
+108	Leif? ...Oho... So you're Prince Leif.
+109	This is a good place to run into you. I'm a humble mercenary called Ralf. Would you let me join your army, Prince?
+110	Of course. For someone like you, I'd almost be the one asking.
+111	But why? Would you tell me your reason?
+112	Is "I can't stand the imperial soldiers' tyranny" not reason enough?
+113	Understood. That's enough.
+114	Mercenary Ralf, my wish is to liberate the people suffering under the Empire's tyranny.
+115	Can you swear to fight for that?
+116	Yeah, leave it to me!
+117	It seems that army will save the village. That's a relief.
+118	...I should be getting back to the army as well.
+119	Who goes there! A pawn of the Empire!?
+120	Nothing so boorish as that. If you don't want to die, don't point your sword at me.
+121	My Astra does not exist to cut down a little girl like you.
+122	Astra? ...Isn't that the technique said to be the secret art of the Isaachian royal family... Which means, could you be...
+123	Heh... You're quick on the uptake. That's right. I am Shannan, Prince of Isaach.
+124	But for certain reasons I am hiding my identity now. So forget that you met me and...
+125	Lord Shannan! I have a request!
+126	Whoa! Wh-what, so suddenly! You startled me.
+127	Please teach me the sword!
+128	Even a little is fine. If you could teach me just the barest touch of that Astra...
+129	......
+130	Please! I want to become strong! I want to become strong no matter what!!
+131	...Well, if it's just a touch...
+132	R-really? Please do!
+133	Hmm, this has gotten troublesome. Well, I'll bluff my way through and be done with it...
+134	With Astra, the technique itself matters, but what's important is the heart.
+135	Only when technique and heart become one does the path to Astra open.
+136	Technique and heart...?
+137	Mm. First, try swinging your sword.
+138	But how should I swing it... Could you show me an example once?
+139	Mmgh... N-no, true Astra can't be used unless you master it through countless attempts.
+140	Once you've seen the technique, you'd just run to imitating it. Yes...
+141	Is that how it is... Then I'll give it a try for now. Hah!
+142	No good. You haven't got it at all.
+143	Hyah!
+144	No, no. Your feelings are running ahead of you... Put your heart into the technique, your heart.
+145	...Man, I'm really just making stuff up...
+146	Put my heart into the technique... put my heart into the technique... Haaah!
+147	Huh, this is... it can't be...
+148	...No way...
+149	...No, it can't be. It couldn't possibly be done this easily. Isn't that right, Lord Shannan!
+150	Huh? ...Y-yeah, o-o-of course. Th-this can't be called Astra...
+151	I thought so... I nearly got the wrong idea.
+152	A-anyway, I've kept my promise to teach you just a touch. I'll be going now.
+153	Yes. Thank you very much, Lord Shannan!
+154	Put my heart into the technique, put my heart into the technique...
+155	What is with that girl~
+156	Keh heh heh.
+157	You're ten years too early to pick a fight with me.
+158	Guoh! D-damn it... gah...

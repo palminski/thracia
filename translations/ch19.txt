@@ -1,0 +1,124 @@
+1	A day behind Dorias and his men, Leif and the others, their preparations finally complete,
+2	were just about to begin their advance on Ulster.
+3	At that moment, an unexpected report was brought from Dorias's unit, which had gone ahead.
+4	It announced the beginning of the road of hardship that Leif and his people would come to walk.
+5	August, it seems everyone is assembled. Then we march for Ulster.
+6	Prince, someone has come to the castle. Most likely one of Lord Dorias's men...
+7	Prince Leif! ...It is bitter news...
+8	What's wrong? What happened?
+9	We were hit by the imperial army's counterattack, and our unit was... wiped out...
+10	What!? Where is Dorias? Where is he?
+11	Lord Dorias... to aid our retreat...
+12	cut into the enemy army himself... and m-met... a bitter end...
+13	!! ......
+14	All because our strength fell short... Forgive us!
+15	Impossible... such a thing...
+16	Prince, our allies are retreating this way. Unless we hurry, they cannot escape annihilation. Cover them...
+17	...Impossible... no...
+18	Prince! Pull yourself together!
+19	If we let our allies be wiped out like this, Lord Dorias's sacrifice will be in vain! Rescue as many soldiers as possible!
+20	...You maggots. Have you learned the might of my empire!
+21	Wolf, I leave the rest to you. On the name of House Friege, retake Leonster without fail!
+22	Sir, without fail!!
+23	Many citizens have died... But as long as I am here, I will not let Ulster perish...
+24	I have a duty to protect my subordinates' lives. But is this truly right...
+25	Father Sleuf, please tell me. What should I do...
+26	Conomor, stop this now!
+27	Princess Miranda!? Why are you in a place like this!
+28	I was saved by Prince Leif. In answer to my plea, he tried to save Ulster.
+29	For that he lost many soldiers and even a precious close retainer.
+30	And yet, what are you doing!
+31	With the elite army of Ulster in your hands, you've sunk to being the Empire's lapdog. What on earth are you thinking!
+32	Yes... I have no excuse...
+33	The enemy is not Leonster. The Empire is our hated enemy.
+34	Order the knights under your command: aid the Leonster army's retreat!
+35	From this moment, all of Ulster as a nation joins Prince Leif's Liberation Army of northern Thracia!
+36	Understood. Then, at once.
+37	Hear this, all the army of Ulster!
+38	From this moment we join the Liberation Army. Knights, aid the Leonster army with all your strength!
+39	We shall go into exile in Leonster and aim to retake our homeland, Ulster.
+40	Know that this is the order of our princess, Princess Miranda!
+41	Lady Amalda, please lower your sword. It is I, Sleuf.
+42	Father Sleuf. Why have you come to a place like this?
+43	I came for you. Prince Leif's Liberation Army is waiting for you.
+44	You tell me to betray my country?
+45	Father Sleuf, that is impossible. If I could do that, I would not be suffering so.
+46	Lady Amalda, a country is surely not the private property of kings and nobles.
+47	When it is headed in the wrong direction, setting it right is also a knight's duty.
+48	Fearing the stigma of traitor, do you mean to overlook your country's wrongs?
+49	It is not that, but... only, when I think what will become of my subordinates...
+50	That is for them to decide. You should be honest with your own heart.
+51	I understand... Father Sleuf, I will fight alongside the Liberation Army.
+52	To take back the stolen children! That is my wish!!
+53	Is it true the Leonster army lost? Will it go back to the age of the Empire again...
+54	What, you won't let that happen? How reassuring.
+55	I'll give you this holy water, so please put it to use.
+56	I wonder if this area will become a battlefield again. Oh, how awful, how awful.
+57	You're with the Leonster army, aren't you? I'll give you this silver sword, so do something about it.
+58	I hear the rebel army was beaten at Ulster. Are you all right?
+59	Take this Killer Lance. I think it's pretty easy to use.
+60	What, for people who say they'll save Thracia, you look pretty sluggish.
+61	I'll give you this Speed Ring, so get a bit quicker. Enough to startle your opponents.
+62	What, you're fighting to liberate this Thracia?
+63	An admirable spirit. Yes, I like it. I'll give you this holy water.
+64	Many in the imperial army use magic. It's sure to come in handy.
+65	They say the imperial army is closing in with tremendous force?
+66	There must be many wounded soldiers, too.
+67	This is a Heal staff. Please use it.
+68	So the imperial army is strong after all... But don't you lose. You people are our hope.
+69	I know, I'll give you this M Up staff. Use it and you'll be able to fight at more of an advantage.
+70	Your comrades are all covered in wounds.
+71	I'll give you this Heal staff, so hurry and patch them up.
+72	Um... if you'd like, please use this spellbook.
+73	I'm told it's a book of wind magic called Wind, or something...
+74	So... well... please protect us.
+75	It appears the Empire's all-out counterattack has begun.
+76	At this rate we cannot hold them off. Let us retreat inside the castle for now.
+77	August, this is my mistake. I was a fool... It's as good as if I killed Dorias myself...
+78	This is no time to be saying such things.
+79	Apologize to Lord Dorias after you have defended this Leonster to the end.
+80	In any case, for now you must endure.
+81	You're right...
+82	Do not be so downcast. It is not all bad news.
+83	This is only a rumor, but a great revolt has broken out in the Kingdom of Isaach to the east, and they are fighting well against the Empire.
+84	Can you guess who the leader of that rebel army is?
+85	If it's Isaach, it must be Prince Shannan? I've heard of him from Finn.
+86	He has the finest skill as a swordsman, is loved by the people, and is a wonderful man, they say...
+87	A far cry from me...
+88	Naturally, Prince Shannan should be there too, but the leader is someone else.
+89	What...?
+90	Lord Seliph of Chalphy... The Isaachians hail him as Grannvale's Prince of Light.
+91	Lord Seliph!? ...Is that true!
+92	Yes.
+93	Lord Seliph's father was your uncle as well, Prince.
+94	The paladin Sigurd... Until about ten years ago he was treated as a traitor, yet now he is hugely popular.
+95	He saw through the Emperor's ambition early and fought to save the world, but met an untimely death...
+96	This tale, spread by bards, has spread among the people suffering under the Empire's tyranny, and he has now become a legendary hero.
+97	And that hero's child is bravely trying to carry on his father's will...
+98	The people must be glad. For the young lord's sake they would not shrink even from death. It is, in short, the perfect scenario.
+99	...... What on earth are you trying to say?
+100	That Lord Seliph's fame, at the least, is not due to his own strength.
+101	The age demands a hero. In answer to that demand, someone is trying to fashion the young lord into a hero.
+102	A hero is not something one becomes by one's own will; it is something made as need requires.
+103	Then was I made by you, August?
+104	You may think of it that way. Prince, let me say this plainly on this occasion.
+105	Lord Dorias once lost an arm to save you, Prince.
+106	And now once more, he took your place and ended his life.
+107	Why did things come to that?
+108	Why are you kept alive at such cost? Why are you called a hero for killing people?
+109	Please think hard on the meaning of that...
+110	You say you have business with the prince, but the prince wishes to see no one at present.
+111	I will hear it in his place.
+112	We are people who fled from Ulster.
+113	We were being chased by imperial soldiers and in danger when the Leonster army saved us.
+114	So in thanks, we wished to give this Knight Proof...
+115	...I have indeed received it. I will report it to the prince.
+116	Thank you kindly.
+117	Do you, too, wish to fall prey to my blade!
+118	Gwah... It... can't be...
+119	Pull your soldiers back at once! There is no need to throw lives away!
+120	This is fine... For me... covered in blood... an unsightly end is what's fitting...
+121	What on earth am I doing...
+122	This, too, is for Ulster. Forgive me!
+123	May Ulster... rise... once again...
+124	To suffer the humiliation of captivity... But for now I must live...

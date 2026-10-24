@@ -1,0 +1,207 @@
+1	Having crossed the great Thracia River, Leif's army makes straight for Munster in one push.
+2	Meanwhile in Munster, in response to the movements of Leif's army, citizens were attempting to escape one after another,
+3	and between the "Magi Squad" led by Ced, supporting them, and the Munster army, trying to stop them,
+4	fierce fighting was being waged day after day.
+5	Lord Ced, even our last hideout has been found by Raydrik.
+6	At this rate, the children...
+7	It would be good if I could take them and flee,
+8	but then there would be no one to command the revolt. If only there were someone I could trust...
+9	Shall I take on that duty?
+10	Who's there!... Who are you!?
+11	Merely a passerby, but I have heard what you were saying.
+12	If you wish to evacuate the children outside the castle, shall I help?
+13	Or can you not trust me?
+14	No... You are wrapped in a gentle wind.
+15	You do not seem to be a person of ill will, but who are you? From your appearance, a priest of the Empire...
+16	Regrettably, I can say nothing now. But if you will trust me, I will protect the children.
+17	I understand... Then, I ask it of you. And one more thing: this sword, please...
+18	A sword...?
+19	This is the "Bragi Sword." I had heard it was within the castle, but you did well to get hold of it.
+20	Yes. Raydrik is protected by the "Loptr Sword."
+21	Without this sword, he cannot be defeated.
+22	I see... And what would you have me do?
+23	This sword can only be used by a swordsman who has the blood of the crusaders.
+24	I want you to entrust it to Prince Leif of the Liberation Army, who is said to be heading for this castle.
+25	Understood. If I am able to meet him, I will hand it over.
+26	Thank you.
+27	Ah... Father! At least your name...
+28	Forgive my rudeness. I am Saias, of Velthomer...
+29	What, there are people fleeing from this Munster!?
+30	Sir. It appears the Magi Squad's people are secretly helping children escape.
+31	Curse them. Children are precious goods that must be offered up to the Empire...
+32	Farden, while we're at it, dispose of the fleeing children.
+33	Show the citizens remaining in the castle what happens if they run.
+34	Leave it to me.
+35	Lord Raydrik, I heard you summoned me...
+36	Alphand. You are to guard the gate of Munster Castle.
+37	I hear the whelp of Leonster is marching on Munster.
+38	And the Magi Squad lot inside the castle are not to be underestimated either.
+39	In any case, the gate must not be handed to them. Understood!
+40	Yes. Then I shall take up the defense of the gate at once.
+41	Munster at last.
+42	...It seems that in Munster, skirmishes continue between the Magi Squad and the Munster army.
+43	Though its power has declined from before, the Munster army is still strong.
+44	Without the Magi Squad's help, taking it will be impossible.
+45	...Oh? There is some movement in that Munster...
+46	It appears children have come fleeing out.
+47	What!? Let's rescue them at once!
+48	Coulter, how do things look in Munster?
+49	No major movement for the moment. But if our information is correct, there should be a major movement within days.
+50	We judge that chance, and in one stroke...
+51	But to drag the citizens into it for that...
+52	If Munster is freed from the Empire's hands, that in itself is to our country's benefit.
+53	Is that not good enough as it is?
+54	Well... but this is His Majesty's order...
+55	...I will try somehow to persuade my father.
+56	Lady Altena is too soft... Now is the best chance to get hold of Munster.
+57	His Majesty is soft on Her Highness the princess too, but I hear that on this matter even he will not lend an ear.
+58	Here, it is best simply to act according to His Majesty's order...
+59	You called, Lord Alphand?
+60	Hey, I can't find my tome. Go look for it.
+61	What, again...
+62	What? Did you say something just now?
+63	No, nothing... So, which tome is it this time?
+64	...The tome called Poison. Without it I can't attack distant enemies.
+65	Understood. I will go and look, so please wait.
+66	I hope it's somewhere easier to find than last time...
+67	Lord Alphand, I've found it!
+68	Really! Well done!
+69	Just you watch, rebels. I'll teach you the terror of this magic!
+70	Before that, at least put your tomes away properly...
+71	Mm! It seems there has been a major movement in Munster.
+72	It is our chance! We will now attack into Munster.
+73	Wait! If we attack into Munster now, even the citizens will be caught up in it.
+74	I will somehow persuade them to surrender...
+75	This is the order of His Majesty the King! Even Your Highness the princess must not interfere!
+76	I am the commander!
+77	This unit is my unit! And it is His Majesty's order that the attack must not be eased, whatever Lady Altena may say!
+78	Wha...
+79	...If it displeases you, you may stay here and watch.
+80	All troops, move out!
+81	Coulter! Wait! Coulter!
+82	I must somehow persuade Father and have the attack called off...
+83	Mmh! Who are you!
+84	I am Ced of the Magi Squad. Except for one part of the castle interior, Munster has been secured by our Magi Squad.
+85	If you surrender to us quietly, your lives are guaranteed...
+86	Don't mock me! Who would believe such nonsense!
+87	You are...? The hero Ced!?
+88	Prince Leif!?... You've finally come!
+89	I'm sorry to be so late.
+90	I haven't even thanked you yet for saving me, Prince Ced...
+91	Never mind that, but how do you know I'm a prince? Ah, did you hear it from Karin?
+92	Yes. I heard that though by rights you ought to return to your country before anything else,
+93	you stayed, having no choice, in order to protect the people of Munster.
+94	All because I was so useless. I'm truly sorry.
+95	It's nothing for you to apologize for, Prince.
+96	I meant to liberate it sooner,
+97	but even with this Forseti, I could not break Raydrik's "Loptr Sword."
+98	Because of that, I lost many whom I should have saved.
+99	It is all because my strength fell short... It is no responsibility of yours, Prince.
+100	No... I envy you.
+101	That power for which you are called a hero is truly that of the Crusader Ced. I have no such power.
+102	I... am different from Lord Seliph and from you.
+103	I... am not a crusader...
+104	Prince Leif...? What on earth are you saying!?
+105	What exactly is a crusader? Simply one who inherits a holy weapon? Surely not.
+106	Once, this Jugdral, for a span of several hundred years,
+107	was ruled by an evil empire that worshipped the dark god Loptous.
+108	Those who rescued the people from that rule: those are the heroes who were called crusaders.
+109	Prince Leif, you have already been waging that battle for a year. It must have been a painful and difficult fight.
+110	But to save the people, you have fought this holy war, Prince.
+111	I don't think Lord Seliph or I am any greater than you.
+112	You, who were the youngest, grew up amid the greatest hardship and have fought longer than anyone.
+113	If that is not a crusader, then what on earth is!
+114	Prince Leif, have more confidence!
+115	You are, without a doubt, a crusader who carries on the will of Nova!
+116	Prince Ced... thank you.
+117	Meeting Lord Seliph and you, I was overwhelmed by the difference in stature, and so I lost my nerve...
+118	Perhaps I'm still a child.
+119	That's not so. Or are you saying I was saved by a child?
+120	Ah... no, I didn't mean...
+121	Hahaha... No, this was no time for joking.
+122	About Raydrik: we managed to corner him in one part of the castle.
+123	But he has taken children hostage and barricaded himself in.
+124	The Magi Squad has its hands full securing the town, and has no strength left over to fight.
+125	Prince Leif, you'll lend me your strength?
+126	Of course! Raydrik is a hated enemy to me as well.
+127	If I can fight alongside you, nothing could make me happier.
+128	I see. Just what I'd expect of the prince of Leonster. I'm looking forward to it too!
+129	Father!? You, with the children?
+130	Yes. Sir Ced of the Magi Squad asked it of me.
+131	Thank you for coming to our aid.
+132	No, I'm the one who should thank you. Thank you for saving the children.
+133	Leave the rest to us, and please withdraw to a safe place, Father.
+134	Yes... This is the first time we meet, but you are Prince Leif, are you not?
+135	Yes, I am, but how did you...
+136	As I thought... Then please accept this sword.
+137	It is called the "Bragi Sword," and it is indispensable for fighting Raydrik.
+138	This? To me...
+139	Yes. Sir Ced asked that it be given to you...
+140	This sword is a holy sword that only one with the blood of the crusaders can wield.
+141	But as Sir Ced cannot use swords, he must have entrusted it to you.
+142	A holy sword... This is the holy sword of Bragi!...
+143	I understand. If it is a sword for defeating Raydrik, I could ask for nothing better.
+144	Father, I am grateful.
+145	In the coming battle, please do not forget it... Well then, Sir Leif, until later...
+146	What, the Magi Squad has been wiped out?
+147	Having lost its leader, the Magi Squad collapsed entirely, and it seems Munster has been seized by Thracia.
+148	Without the Magi Squad's cooperation, our taking of Munster is impossible...
+149	Prince Leif, we have managed to reach the castle gate, but what now?
+150	I'm told the Magi Squad has secured the town, so there's no worry there,
+151	but Raydrik seems to have taken children hostage and fled into the palace. A coward as always.
+152	I am told Raydrik is protected by a cursed sword of Loptr. If that is true, we must devise a countermeasure.
+153	That's all right. A priest who escaped from inside the castle entrusted me with a sword.
+154	It seems to be what's called the "Bragi Sword," the counterpart of the "Loptr Sword."
+155	He said that with that sword, one can fight evenly even against the Loptr Sword.
+156	Hmm... That is good news.
+157	Then in the coming battle, be sure that you yourself equip the "Bragi Sword," Prince!
+158	Lord Leif, is it not reckless to advance as things stand?
+159	Then what would you have me do, August?
+160	Think it over once more.
+161	Whether you have forgotten something important, whether you have lost something important.
+162	It will not be too late to advance into the castle after that.
+163	You need not worry about that. I have been entrusted with this sword by Sir Ced.
+164	Sir Leif, with the blood of the crusaders, should be able to wield it.
+165	What sword is this?
+166	What is called the "Bragi Sword," the counterpart of the "Loptr Sword."
+167	With this sword, one should be able to fight evenly even against the Loptr Sword.
+168	The holy sword of Bragi... What a magnificent sword! Father Saias, I am grateful.
+169	Your thanks should go to Sir Ced. I was merely keeping it.
+170	Yes...
+171	By the way, Father, what will you do now?
+172	I no longer have a place to return to. Only... there is one thing I have left undone.
+173	To receive the oracle for it, I intend to go to the Tower of Bragi.
+174	...Even if I ask your circumstances, you won't tell me, will you?
+175	No. Not yet, nothing...
+176	Father, if your journey is not urgent, would you lend us your strength just a little longer?
+177	We need you.
+178	I am sorry, but I cannot bring myself to do so now.
+179	Sir Leif, I shall pray for your fortune in battle from the distant Tower of Bragi.
+180	Then, I take my leave...
+181	To defeat Raydrik...?
+182	......Very well.
+183	If this, too, is God's will, it cannot be helped.
+184	I shall remain a little while longer.
+185	Everyone in the Liberation Army, please save us from the Empire!
+186	This is a vulnerary. I hope it can be of use to you all...
+187	So you're attacking Munster? Then take this holy water with you.
+188	Munster is full of Loptr monks. One can't be too careful.
+189	I wonder if the people who fled Munster are all right. I hope they get away safely.
+190	You, I'll give you this Physic staff, so help them if they get into danger.
+191	You must not underestimate Raydrik.
+192	That man has the Loptr Church on his side, and holds a terrible sword called the "Loptr Sword."
+193	Fight against that sword the ordinary way, and you have no chance of winning.
+194	In the past there was a sword in the castle that could counter it...
+195	but I hear that, too, has now been lost somewhere.
+196	The power of darkness is fearsome... for it has the power to turn all living things to stone.
+197	But according to tradition, the darkness also has the power to restore those turned to stone.
+198	Though for that, it seems a staff with a special power is needed.
+199	Heh heh heh... Sorry, but you'll have to die.
+200	...Glory... to Thracia! ...gah!
+201	...It won't go like this next time. I'll make you regret sparing me, without fail!
+202	Wh-what, they've come even to a place like this...
+203	Gwah... I don't... want to die... yet...
+204	You'll spare me! I see, I'm grateful...
+205	Rebels! I'll teach you the strength of our Munster army!
+206	Ugh... It wasn't supposed to go like this...
+207	Sorry, I owe you...

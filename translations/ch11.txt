@@ -1,0 +1,86 @@
+1	Breaking through the border, Leif's "Liberation Army" has at last advanced into imperial territory.
+2	But an imperial fortress that boasts of being impregnable stands in their way.
+3	Unless they get past this "Fort Dandrum," the road to Tahra will not open...
+4	So, as I have said many times, an enemy has appeared at Fort Noel.
+5	If we don't send reinforcements at once, General Largo is in danger!
+6	Please, General Kempf! Permit my corps to sortie!
+7	You say an enemy has appeared, but who exactly are they?
+8	What is your duty? Scouting, is it not?
+9	You come sauntering back without even grasping that much, and then tell me to send out troops? What is the meaning of that?
+10	The situation was pressing. Every moment counts! That is why I came back to report first.
+11	But if this "enemy" you speak of is a decoy to lure us out, what then?
+12	This Fort Dandrum is called impregnable precisely because my 12th Corps is here.
+13	As if I could move troops lightly without even knowing the enemy's true state.
+14	Then what becomes of General Largo! Even as we speak, General Largo is in danger...
+15	One or two old men like that are no great matter to our army.
+16	Left alone he'll drop dead sooner or later. It saves us the trouble.
+17	H-how can you say such a thing... General Kempf!! And you call yourself...
+18	What is that look? Are you saying you'll rebel against me?
+19	Interesting. You surely know what happens if you rebel against a superior officer.
+20	Can you still rebel against me, eh?
+21	Kh...
+22	What's wrong? You talk big, but in the end you can't do anything?
+23	......
+24	Well, you're a naive young lady fresh out of the officers' academy.
+25	About all you can do is go crying to your beloved big brother Reinhardt.
+26	What! What did you just say!
+27	Hm? Didn't you hear?
+28	I said, about all you can do is go crying to your beloved big brother Reinhardt.
+29	...Why, you...
+30	That's right, he'd be sweet to you. After all, seducing women is that man's specialty. Wahahaha.
+31	You dare insult my brother! I won't forgive it!
+32	Oh, you've drawn your sword? And what now, kill me? Heh, you fool.
+33	Guards! Throw General Olwen in prison. Insubordination toward a superior officer, and the crime of rebellion!
+34	Sir!
+35	General Olwen, please come with us.
+36	Kh... General Kempf... how despicable...
+37	Heh. That takes care of that impertinent girl.
+38	If his sister is executed for rebellion, Reinhardt will lose his standing. I can't wait to see his face. Heh heh heh.
+39	General Kempf! What on earth is the meaning of this!
+40	Hm? What's the matter, Fred? You've gone so pale. Did something happen?
+41	Don't play dumb. What exactly are you saying Lady Olwen did?
+42	Humiliating a subordinate over a private grudge is against military law.
+43	Release her from prison at once. Otherwise, I will report this to Princess Ishtar!
+44	"Private"? I can't let that pass. General Olwen drew her sword right here. Trying to kill me, her superior.
+45	What!? Surely not... such a thing...
+46	Under military law, what did turning one's sword on a superior officer mean again?
+47	I seem to recall it was a grave crime deserving of death...
+48	...So that was your aim... How cowardly...
+49	Well, that aside, shall I have you take responsibility as adjutant to the traitor Olwen?
+50	I order you to sortie. However, this is a sortie as punishment.
+51	No retreat is allowed; fight until you die. If you slack off, I execute Olwen immediately. Understood!
+52	Kempf!... You shameless wretch!!
+53	Hm? Did you say something? I can't hear you. Wahahahaha...
+54	What! The enemy is flying the flag of Leonster!?
+55	And on top of that, you say the commander is a boy of fourteen or fifteen!
+56	Hmm... That is probably Prince Leif.
+57	Heh, interesting. This may be a chance to win some glory.
+58	All right, I have a plan. Lure them into the east corridor. Operation name: "Port Chris."
+59	Whatever you do, don't let the enemy see through it!
+60	That was quite splendidly done. At this speed, the enemy will have had no chance to escape.
+61	But we must not rest our hands. Most likely, children are being held in this fortress as well.
+62	Let us clear the entire castle and rescue the children as soon as possible!
+63	It took a little time, but to avoid losing soldiers, it could not be helped.
+64	This fort no longer has any strategic value.
+65	Leave the enemy who fled, and for now let us head to the rescue of Tahra as quickly as possible!
+66	Paladin of Friege, is this how you people do things?
+67	When we fought at Noel Canyon, I was impressed, thinking this is the honor-loving Friege army indeed,
+68	but it seems I was mistaken.
+69	For the honor of my duchy, let me say this: a battle like this is not something the Crusader Thrud would recognize.
+70	It all came from that man... from General Kempf's foolishness.
+71	I do not shrink from dying as a knight, but I cannot bear it done this way.
+72	...If you have no will to fight, we will not lay a hand on you.
+73	Not that either of us should have the strength to spare.
+74	True. I, too, still have something left to do.
+75	Very well... Let us each think only of getting out.
+76	Understood. We will try to break into the castle; you should escape to the south.
+77	We'll do something about the door.
+78	It seems I owe you one... I am Fred, a knight of House Schutze. Your name?
+79	...Leif, of the Kingdom of Leonster.
+80	Of Leonster? ...I see... so that's how it is... Then, Sir Leif, we shall meet again someday!
+81	Heh heh heh. He fell for it. The fool.
+82	All right, do it!
+83	Absurd! You mean to fight in a situation like this!!
+84	Olwen... I meant to get you out... Forgive me...
+85	Tch... To think the invincible Dandrum would be breached...
+86	Urgh... How can this be... It can't be helped. We withdraw for now!

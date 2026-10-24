@@ -1,0 +1,137 @@
+1	Something seems off. Did something happen outside?
+2	It seems someone has gotten into the mansion. Could be an army.
+3	The Empire's security force... What happened to Salem?
+4	He may have been taken down... I'll go take a look. You wait here.
+5	What's wrong? ...Did something happen?
+6	An army's come to catch us... Damn it, those annoying bastards!
+7	An army...
+8	You smiled just now. Oho, did you think you could get away from me?
+9	Fool, not a chance. Someone as handy as you, I'm never letting go.
+10	Why... why do you do such awful things... Please let me go, I'm begging you.
+11	I said no.
+12	Try anything stupid like running away, and I'll put you through something awful like before. You want that!?
+13	No!! Anything but that!! I'm sorry, please forgive me!
+14	Heh, as long as you understand.
+15	Now back Troude up with that Thief staff! Come on, come on, hurry up, you slowpoke!
+16	I will persuade Perne. He's a man who understands if you talk to him.
+17	Salem, you'll help us?
+18	I still don't really understand, but... for now there's nothing else for it...
+19	What's wrong, Lifis? You look pale.
+20	Prince, I, uh, this place is a bit... Sorry, but couldn't you pick someone else?
+21	...Come to think of it, you said you lived around here as a child. Do you know someone among the thieves?
+22	No, well, uh... There's a guy I'm not good with, so...
+23	As if that were a reason. Get to your position quickly!
+24	Please! Just this once, let me off!
+25	That won't do. It is the prince's order!
+26	Um...
+27	Lara? What is it?
+28	Perne isn't a bad person.
+29	Do you know him, Lara?
+30	Yes... I... until a year ago I was a dancer in a troupe of traveling performers.
+31	Every day was unbearably hard, but I'd been sold for money when I was little, so I couldn't even run away...
+32	The one who rescued me from that was Perne.
+33	Is that so. So that's how you became a thief...
+34	Lord Leif, please let me talk to him. I... I want to talk to Perne!
+35	Perne, stop this now!
+36	Salem!? Why are you in among the enemy?
+37	Don't tell me you sold us out.
+38	Don't be absurd. These people are not enemies. They are Prince Leif's Liberation Army.
+39	"Liberation Army"? What's that?
+40	People who share our ideals. I'll explain later. For now, just put away your sword!
+41	Hmm... I don't really get it, but basically you're saying stop fighting.
+42	...It's you saying it. You must've thought it through deeply.
+43	All right, I'll trust you. Do whatever you like.
+44	Troude is still fighting. He only listens to what you say. Won't you persuade him?
+45	Sure. He's a valuable comrade. I can't have him dying on me.
+46	Tch, this is bad!
+47	What? ...Are you Lifis? ...Hey, long time no see!
+48	L-long time no see... Mr.... Perne...
+49	You haven't changed a bit. Just like when you were a brat. Did you ever get over wetting yourself?
+50	P-please stop. That's ancient history!
+51	Is it? Man, you were the biggest crybaby in the village,
+52	and it feels like only yesterday that all kinds of guys were bullying you to no end.
+53	...The one who bullied me first and foremost was you, Mr. Perne...
+54	Hm? You say something?
+55	No, it's nothing...
+56	Right. So, this place you're working, is this that Liberation Army I've heard rumors about?
+57	Looks pretty interesting. Yeah, I like it. Introduce me to your leader.
+58	Whaat!
+59	What! You got a problem with that?
+60	...No...
+61	From now on let's get along just like old times, eh!
+62	Ugh... Stuck with this bastard again...
+63	What's with you? You look pale.
+64	Huh? D-d-do I? M-m-maybe I caught a cold? Aha, aha, ahaha...
+65	?
+66	More importantly, Mr. Perne, please do something about that mercenary. Nobody can handle him and it's a real problem.
+67	Hm? You mean Troude? Leave it to me. He's a valuable comrade. I can't have him dying on me.
+68	Hey, Troude. That's enough. Put away your sword.
+69	Hm? ...What do you mean?
+70	I'm joining the Liberation Army. You help out too.
+71	I see... so these are the Liberation Army... I thought their morale was too high for imperial troops; that explains it.
+72	Well, all right. Sounds interesting.
+73	Good, glad to hear it. You and I go way back. I didn't want to make trouble with you.
+74	Well, I'll be counting on you from here on too.
+75	Heh, leave it to me.
+76	Tina!? What are you doing in a place like this!!
+77	Oh, big sister Safy!! Waaah...
+78	I can't understand if you're crying! What on earth happened? Why did you leave Tahra?
+79	I wanted to help you, big sis, so I left the city...
+80	And then I got caught by a thief called Perne, and m-made a slave...
+81	A slave!? It can't be!? What on earth did he do to you?
+82	He told me to help with thieving... You know, since I can use the Thief and Unlock staves.
+83	Why didn't you refuse?
+84	I said I didn't want to. And then, he does awful things.
+85	Awful things!?
+86	Yeah...
+87	Tina! Say it clearly. Depending on what it is, I too am prepared to act!
+88	That guy... he dangles caterpillars, which I hate, in front of my face, and puts them on top of my head.
+89	It was so, so scary, I really thought I'd die.
+90	...Is that all?
+91	Yeah... But it was really scary. Even now just remembering gives me chills.
+92	Tina...
+93	Yes?
+94	I told you to wait in Tahra until I got back, didn't I?
+95	This is what happens when you don't do as I say. Reflect on it.
+96	Okay, I'm sorry... But hey, big sis, Lord Leif is so cool, isn't he!
+97	Someone like the prince is my ideal. Hey, hey, what do you think, big sis?
+98	Tina... I... seem to be a little tired. Let's talk again later.
+99	Okaaay, big sister Safy!
+100	Perne!
+101	Hm? If it isn't Lara... What are you doing here?
+102	Oho... So you missed me and came back, is that it?
+103	If I said yes, would you be happy?
+104	Hey, hey, what are you saying with that serious face?
+105	I've got no use for a kid like you. Hurry on back to Munster.
+106	You say that and drive me away again. Back when I was dancing, I thought you liked me, Perne.
+107	I mean, you came to watch so eagerly.
+108	Yeah, back then I didn't know you were such a kid.
+109	That's right. I liked your dancing.
+110	It's like, strength wells up in your body, or... it gives you a strange feeling.
+111	But it was hard on you, right? It's good that you quit.
+112	Yeah... But I don't dislike dancing.
+113	So... if that's what you want, Perne, I don't mind going back to being a dancer.
+114	Don't be stupid...
+115	It's not only for you, Perne.
+116	If my dancing can cheer everyone up even a little, I thought that might be nice too...
+117	Who's "everyone"?
+118	Prince Leif's Liberation Army of northern Thracia. I'm helping out too. Not that I'm much use.
+119	Hmm... I see. So that's how it is...
+120	All right, Lara, go back to being a dancer. Do that, and I'll join the Liberation Army.
+121	Really, Perne!? I can believe you!
+122	Yeah. I can't be a thief of Dakia forever, either.
+123	The liberation of northern Thracia, huh... This looks like it'll get interesting.
+124	Now, day has broken. The soldiers are well rested. Let us set out for Tahra!
+125	Hey, release Troude, the one you've got captive.
+126	He's a valuable comrade of mine. I'll have Troude join the Liberation Army too. No problem with that, right?
+127	I see. You care about your friends, Perne.
+128	The prince doesn't know what this bastard is really like... This is dangerous, dangerous...
+129	Hmph, you fools. Don't think the great Perne is just some thief!
+130	Tch... What a mess...
+131	Hmph. You think you've done me a favor? Don't underestimate the great Perne!
+132	This is the end. Die!
+133	Kh... For me, of all people...
+134	I won't thank you. Next time we meet, I'll kill you!
+135	Big sister Safy... help me...
+136	Big sis... I'm sorry...
+137	Thank you for sparing me. I'm going to look for big sister Safy.
