@@ -196,3 +196,5 @@ narinari|〜なり〜なり|"Whether … or …": presents options, implying oth
 wakeda|〜わけだ|"No wonder; that explains it; so that's why".|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A0
 tonareba|〜となれば|"If it comes to …; were that the case" (formal conditional).|
 tote|〜とて|Old-fashioned "even, even though" (= でも／といっても).|
+zaruwoenai|〜ざるを得ない|"Can't help doing; have no choice but to", often said reluctantly.|https://bunpro.jp/grammar_points/%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%84
+madomonai|〜までもない|"There's no need to even …": too obvious or minor to be worth it.|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84

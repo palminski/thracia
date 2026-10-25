@@ -72,7 +72,6 @@
 元々|もともと|originally
 山賊|さんぞく|mountain bandit
 根城|ねじろ|stronghold, den
-十数年前|じゅうすうねんまえ|ten-odd years ago
 旅|たび|journey, travel
 傭兵|ようへい|mercenary
 平らげる|たいらげる|to subdue, to put down
@@ -175,7 +174,6 @@
 捕まえる|つかまえる|to catch
 武器|ぶき|weapon
 奪う|うばう|to take away, to steal
-解放する|かいほうする|to release, to liberate
 痛めつける|いためつける|to rough up
 やられる||to be done in, to be beaten
 特に|とくに|especially
@@ -372,7 +370,6 @@
 我慢|がまん|endurance, putting up with
 仕返し|しかえし|revenge
 皆殺し|みなごろし|massacre
-一体|いったい|on earth (emphasis in questions)
 言い方|いいかた|way of speaking
 だからって||even so
 元も子もない|もともこもない|to lose everything, all for nothing
@@ -453,7 +450,7 @@
 帝都|ていと|imperial capital
 送る|おくる|to send; to escort
 神|かみ|god
-僕|しもべ|servant
+僕#servant|しもべ|servant
 生まれ変わる|うまれかわる|to be reborn
 馬鹿な|ばかな|absurd, ridiculous
 事実|じじつ|fact
@@ -515,7 +512,6 @@
 引っ捕える|ひっとらえる|to seize, to arrest
 一人残らず|ひとりのこらず|every last one
 落ち延びる|おちのびる|to get away safely
-救出|きゅうしゅつ|rescue
 図る|はかる|to plan, to work toward
 ひとまず||for the time being
 離脱|りだつ|withdrawal
@@ -529,7 +525,6 @@
 仲間|なかま|comrade, companion
 かき集める|かきあつめる|to round up, to scrape together
 攻め込む|せめこむ|to invade, to storm
-何者|なにもの|who, what kind of person
 ただで済む|ただですむ|to get away with it
 様|さま|Lord, Lady, Mr./Ms. (respectful title)
 ない||there is no, not exist
@@ -854,7 +849,6 @@
 生けにえ|いけにえ|sacrifice, offering
 なにか|なにか|something
 勘違い|かんちがい|misunderstanding
-ただ|ただ|only, merely
 教育する|きょういくする|to educate
 ふさわしい|ふさわしい|suitable, fitting
 試練|しれん|trial, ordeal
@@ -1234,7 +1228,6 @@
 救出|きゅうしゅつ|rescue
 何者|なにもの|who, what sort of person
 策|さく|plan, measure
-なくなる|なくなる|to disappear, to run out
 つらい|つらい|hard, painful
 なにより|なにより|above all, more than anything
 両親|りょうしん|parents
@@ -1524,3 +1517,125 @@
 感情|かんじょう|emotion, feelings
 市|し|city
 かける#worry|かける|to cause (worry): 心配をかける
+再会|さいかい|reunion
+果たす|はたす|to fulfill, to accomplish
+導く|みちびく|to guide, to lead
+ご存知|ごぞんじ|(polite) to know, to be aware
+噂|うわさ|rumor
+行き渡る|いきわたる|to spread, to reach everywhere
+まとめる|まとめる|to unite, to bring together
+光栄|こうえい|honor, privilege
+加える|くわえる|to add
+育てる|そだてる|to raise, to train
+伯爵|はくしゃく|count, earl
+お話|おはなし|talk, conversation (polite 話)
+働く|はたらく|to work
+片付ける|かたづける|to deal with, to finish off
+引き上げる|ひきあげる|to withdraw, to pull out
+目立つ|めだつ|to stand out
+手下|てか|underling, subordinate
+やっつける|やっつける|to beat, to defeat
+切り開く|きりひらく|to clear (land), to open up
+めちゃくちゃ|めちゃくちゃ|a mess, ruined
+ほざく|ほざく|to spout off, to talk big (derogatory)
+全然|ぜんぜん|(not) at all
+ちくしょう|ちくしょう|damn it, dammit
+だます|だます|to deceive, to trick
+こそこそ|こそこそ|sneakily, furtively
+人違い|ひとちがい|mistaken identity
+見分け|みわけ|distinction, telling apart
+無視|むし|disregard, ignoring
+うっとうしい|うっとうしい|annoying, irritating
+味方|みかた|ally, friend (side)
+がっかり|がっかり|disappointed
+責める|せめる|to blame, to criticize
+裏切る|うらぎる|to betray
+首領|しゅりょう|leader, chief (of a gang)
+哀れみ|あわれみ|pity, mercy
+路頭|ろとう|street, roadside (路頭に迷う: to be left destitute)
+迷う|まよう|to be lost, to be at a loss
+身分|みぶん|identity, social standing
+詮索|せんさく|prying, probing
+行方|ゆくえ|whereabouts
+解放する|かいほうする|to release, to set free
+どなる|どなる|to shout, to yell
+竜|りゅう|dragon
+天馬|てんま|pegasus, winged horse
+主|あるじ|master, owner (of a household)
+廃る|すたる|to lose honor, to go out of fashion
+ことわざ|ことわざ|proverb, saying
+心する|こころする|to be mindful, to resolve firmly
+妻|つま|wife
+もともと|もともと|originally, from the start
+恩に着る|おんにきる|to feel deeply grateful, to owe someone
+こりごり|こりごり|fed up, had enough
+どうしようもない|どうしようもない|there's nothing that can be done
+思いもかけない|おもいもかけない|unexpected
+まるで|まるで|as if, just like; (not) at all (with negative)
+正しい|ただしい|right, correct
+商人|しょうにん|merchant
+さっさと|さっさと|quickly, promptly, without delay
+役|やく|role, duty
+付ける|つける|to attach; to assign
+麓|ふもと|the foot (of a mountain)
+さしかかる|さしかかる|to approach, to come near (a place)
+中#during|ちゅう|in the middle of, during (suffix)
+地|ち|land, territory
+何もかも|なにもかも|everything, one and all
+すでに|すでに|already
+むろん|むろん|of course, naturally
+参加する|さんかする|to participate, to take part
+先|さき|previous, prior
+戦死する|せんしする|to die in battle
+申し訳ありません|もうしわけありません|I'm very sorry (polite apology)
+よこす|よこす|to hand over, to send
+早く|はやく|quickly
+やばい|やばい|risky, in trouble (slang)
+館|やかた|mansion, hall
+アルバイト|アルバイト|part-time job, side job
+まったく|まったく|really, honestly (exasperation)
+出かける|でかける|to go out, to leave
+あいつ|あいつ|that guy (rough)
+プレゼント|プレゼント|present, gift
+後ろ|うしろ|behind, back
+向く|むく|to face, to turn toward
+今日|きょう|today
+じゃあ|じゃあ|well then, in that case
+わかる|わかる|to understand, to know
+無視する|むしする|to ignore, to disregard
+場|ば|place, occasion
+歯止め|はどめ|brake, check (on something)
+あらまし|あらまし|roughly, for the most part
+片付く|かたづく|to be settled, to be tidied up
+なくなる|なくなる|to come to an end, to stop (happening)
+通す|とおす|to let through, to show in
+軍装|ぐんそう|military uniform, military dress
+気|き|spirit, intention, feeling
+答える|こたえる|to answer
+いろいろ|いろいろ|various, many kinds
+内容|ないよう|content, substance
+以上|いじょう|more than, beyond (this point)
+追撃する|ついげきする|to pursue (an enemy)
+詮索する|せんさくする|to pry into, to probe
+ヤワ|ヤワ|soft, weak, flimsy
+その辺|そのへん|around there, that sort of thing
+まだまだ|まだまだ|still, not nearly (emphatic)
+そうか|そうか|I see, is that so
+よろしくお願いします|よろしくおねがいします|please take care of me (set phrase)
+まじめ|まじめ|serious, diligent
+こう|こう|like this, in this way
+つい|つい|accidentally, unintentionally
+父さん|とうさん|dad, father
+くれる|くれる|to give (to me); to do (a favor) for me
+もの|もの|thing, object (generic)
+元#under|もと|under someone's care, in someone's charge (もとに: to someone's side)
+生存|せいぞん|survival, being alive
+山荘|さんそう|mountain villa, mountain retreat
+協力する|きょうりょくする|to cooperate, to help out
+もう少し|もうすこし|a little more
+変な|へんな|strange, weird
+ちっと|ちっと|a little (dialectal ちょっと)
+たった|たった|only, just
+質問|しつもん|question
+いなくなる|いなくなる|to disappear, to be gone (of a person/animal)
+効く|きく|to take effect, to work
