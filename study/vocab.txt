@@ -1268,3 +1268,98 @@
 遅い|おそい|late, slow
 出会う|であう|to meet, to encounter
 つく|つく|to arrive at, to stick (見当がつく = "to get a clue")
+望み|のぞみ|wish, hope
+差し出す|さしだす|to hold out, to offer up
+願い|ねがい|wish, request
+一緒|いっしょ|together
+未来|みらい|future
+部下|ぶか|subordinate
+説得|せっとく|persuasion
+かなえる|かなえる|to grant, to fulfill (a wish)
+暮れる|くれる|to get dark, to come to an end (of the day)
+周り|まわり|surroundings, vicinity
+視界|しかい|field of vision
+広さ|ひろさ|breadth, extent
+無駄|むだ|waste, futile
+過ごす|すごす|to spend (time)
+方便|ほうべん|pretext, expedient means
+情け|なさけ|sympathy, mercy
+かける#mercy|かける|to show (mercy, sympathy): 情けをかける
+騒がしい|さわがしい|noisy
+鼠|ねずみ|rat, mouse
+入り込む|はいりこむ|to get in, to intrude
+なめる|なめる|to lick; to make light of, to underestimate
+餌|えさ|bait, feed
+数|かず|number, count
+悪党|あくとう|villain, scoundrel
+小悪党|しょうあくとう|petty crook
+値する|ちする|to be worth, to deserve
+償う|つぐなう|to atone for, to make amends
+愚か|おろか|foolish
+借り|かり|debt, favor owed
+やり直す|やりなおす|to redo, to start over
+修道院|しゅうどういん|convent, monastery
+お目にかかる|おめにかかる|(humble) to meet
+泣き崩れる|なきくずれる|to break down crying
+慰める|なぐさめる|to comfort, console
+友達|ともだち|friend
+お嬢様|おじょうさま|young lady, miss (honorific)
+仕える|つかえる|to serve
+出来事|できごと|event, incident
+悪政|あくせい|misrule, bad government
+続く|つづく|to continue
+盟主|めいしゅ|leader (of an alliance)
+雇い入れる|やといいれる|to hire, to take on
+高官|こうかん|high-ranking official
+多額|たがく|large sum (of money)
+賄賂|わいろ|bribe
+自治|じち|self-government, autonomy
+得る|える|to obtain, to gain
+努力|どりょく|effort
+恐れをなす|おそれをなす|to be struck with fear
+一握り|ひとつかみ|a handful (of)
+絶望的|ぜつぼうてき|hopeless, desperate
+求める|もとめる|to seek, to request
+各地|かくち|various places, every region
+訪ねる|たずねる|to visit
+捕獲|ほかく|capture
+引き渡す|ひきわたす|to hand over
+処分|しょぶん|disposal, punishment
+悔い改める|くいあらためる|to repent
+売る|うる|to sell
+役人|やくにん|official
+公爵|こうしゃく|duke
+罪|つみ|crime, sin
+問う|とう|to ask, to question
+度|ど|degree; times, occasions
+けがれる|けがれる|to become impure, defiled
+まっぴら|まっぴら|absolutely not, no way (slang)
+妙|みょう|strange, odd
+魚|さかな|fish
+ただ|ただ|only, merely; free of charge
+おそらく|おそらく|probably
+いずれにしても|いずれにしても|in any case, either way
+物|もの|thing, object
+たいまつ|たいまつ|torch
+痛い|いたい|painful, it hurts
+ご存じ|ごぞんじ|(honorific) to know
+今年|ことし|this year
+再び|ふたたび|again, once more
+去る|さる|to leave, to depart
+仲|なか|relationship, terms (仲がいい, 約束した仲)
+行為|こうい|act, deed, conduct
+ごめんなさい|ごめんなさい|I'm sorry
+無茶|むちゃ|unreasonable, crazy
+上#basis|うえ|based on, after (覚悟の上, 〜の上で)
+たち|たち|plural suffix for people (私たち)
+やがて|やがて|soon, before long
+世界|せかい|world
+闇|やみ|darkness
+代わり|かわり|in exchange, instead
+なにも|なにも|nothing, not at all (with negative)
+たかが|たかが|merely, only (dismissively)
+たしか|たしか|if I recall correctly, I think
+オレ|おれ|I, me (rough masculine)
+逃げ去る|にげさる|to flee away, to run off
+方#direction|ほう|direction, side
+いえ#no|いえ|no (interjection)

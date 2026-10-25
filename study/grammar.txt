@@ -187,3 +187,4 @@ mama|〜まま|"Left as is; while remaining in that state".|https://bunpro.jp/gr
 kuseni|〜くせに|"Even though, and yet": despite, with an edge of criticism or scorn (compare the more neutral のに).|https://bunpro.jp/grammar_points/%E3%81%8F%E3%81%9B%E3%81%AB
 toieba|〜といえば|"Speaking of …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0
 tokorode|〜ところで|"By the way": changes the subject.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7
+shika|〜しか〜ない|"Only, nothing but": restrictive, always with a negative. Stronger than だけ.|https://bunpro.jp/grammar_points/%E3%81%97%E3%81%8B-%E3%81%AA%E3%81%84
