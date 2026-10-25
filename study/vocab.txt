@@ -1363,3 +1363,164 @@
 逃げ去る|にげさる|to flee away, to run off
 方#direction|ほう|direction, side
 いえ#no|いえ|no (interjection)
+再起|さいき|comeback, renewed effort
+期する|きする|to resolve, to set one's sights on
+同行する|どうこうする|to accompany
+危機|きき|crisis
+賞金稼ぎ|しょうきんかせぎ|bounty hunter
+高い|たかい|high; expensive
+値|ね|price, value
+付く#price|つく|to be set, to be attached (of a price)
+首|くび|neck; head (as a target)
+背後|はいご|behind, in the rear
+追いつく|おいつく|to catch up
+二つ|ふたつ|two
+山中|さんちゅう|in the mountains, mountain area
+南下する|なんかする|to go south, to head south
+保護|ほご|protection
+祖国|そこく|homeland, fatherland
+困る|こまる|to be troubled, to be at a loss
+仇討ち|あだうち|revenge, vendetta
+圧政|あっせい|tyranny, oppressive rule
+同盟者|どうめいしゃ|ally
+他国|たこく|another country, a foreign country
+国境|こっきょう|border
+侵す|おかす|to violate, to invade (territory)
+謳う|うたう|to sing the praises of, to extol
+武人|ぶじん|warrior, man of arms
+逃れる|のがれる|to escape, to flee
+戦力|せんりょく|military strength, forces
+意味する|いみする|to mean, to signify
+第二|だいに|second, number two
+故郷|こきょう|hometown
+領主|りょうしゅ|feudal lord
+かばう|かばう|to protect, to shield, to cover for
+相談|そうだん|consultation, discussion
+歩兵|ほへい|infantry
+主体|しゅたい|main part, principal element
+騎兵隊|きへいたい|cavalry unit
+一気に|いっきに|in one go, at once
+殲滅|せんめつ|annihilation
+近づく|ちかづく|to approach, to get near
+同盟国|どうめいこく|allied nation
+同盟|どうめい|alliance
+結ぶ|むすぶ|to tie, to form (a bond, an alliance)
+むしろ|むしろ|rather, if anything
+目先|めさき|the immediate future, what's right in front of one
+利く|きく|to be effective, to work (distinct from 聞く)
+取り越し苦労|とりこしぐろう|needless worry, worrying over nothing
+それに越したことはない|それにこしたことはない|that would be best, nothing better than that
+装甲|そうこう|armor, armored
+控える|ひかえる|to be stationed, to stand by
+何事|なにごと|what's going on, what matter
+一騒ぎ|ひとさわぎ|a commotion
+首謀者|しゅぼうしゃ|ringleader
+若造|わかぞう|young upstart, whippersnapper
+賞金|しょうきん|prize money, bounty
+たんまり|たんまり|a lot, plenty
+おいしい|おいしい|delicious; (fig.) profitable
+獲物|えもの|prey, quarry, catch
+ふむ|ふむ|hmm (pondering)
+おかえりなさい|おかえりなさい|welcome back
+不審|ふしん|suspicious, dubious
+あたり|あたり|around, in the vicinity of
+やってくる|やってくる|to come along, to arrive
+本人|ほんにん|the person himself, the person in question
+ふてぶてしい|ふてぶてしい|brazen, impudent
+察する|さっする|to guess, to infer, to sense
+取り逃がす|とりにがす|to let (someone) get away
+手分けする|てわけする|to divide up, to split up (work/search)
+うむ|うむ|mm, right (interjection)
+周辺|しゅうへん|surrounding area, vicinity
+たくらむ|たくらむ|to scheme, to plot
+注意|ちゅうい|caution, attention
+心強い|こころづよい|reassuring, encouraging
+軍神|ぐんしん|god of war
+誓う|ちかう|to swear, to vow
+召す|めす|to call, to summon (honorific)
+気遣う|きづかう|to be concerned about, to worry about (someone)
+日|ひ|day, sun
+侮る|あなどる|to look down on, to underestimate
+ただちに|ただちに|immediately, at once
+思い知る|おもいしる|to realize, to come to understand
+出てくる|でてくる|to come out, to emerge
+まずい|まずい|bad, awkward (a situation); troublesome
+引く|ひく|to pull; to retreat, to withdraw
+変える|かえる|to change, to turn (something) into
+謝る|あやまる|to apologize
+槍|やり|spear, lance
+二度と|にどと|never again (with negative)
+うん|うん|yeah, mm (casual)
+合流する|ごうりゅうする|to join up, to rendezvous
+なつかしい|なつかしい|nostalgic, dear to one's memory
+お父様|おとうさま|father (respectful, affectionate)
+詫びる|わびる|to apologize
+どうか#wrong|どうか|something wrong, amiss
+ふっ|ふっ|(a short scoffing laugh/breath) heh
+後方|こうほう|to the rear, behind
+支援|しえん|support, assistance
+あっ|あっ|oh! (interjection)
+仕事|しごと|work, job
+さあ|さあ|now then, come on (prompting)
+退く|どく|to move out of the way, to step aside
+かけがえのない|かけがえのない|irreplaceable
+代える|かえる|to exchange, to substitute
+喜ぶ|よろこぶ|to be glad, to rejoice
+フン|ふん|hmph
+好き|すき|liking, fond of
+えっ|えっ|huh!?
+ああ|ああ|ah, yeah
+馬鹿らしい|ばからしい|stupid, silly, ridiculous
+軽々しい|けいけいしい|rash, flippant, thoughtless
+口にする|くちにする|to put into words, to mention
+死に急ぐ|しにいそぐ|to rush to one's death
+嫌い|きらい|dislike, hate
+明るい|あかるい|bright, cheerful
+毒消し|どくけし|antidote
+持っていく|もっていく|to take along, to carry
+毒|どく|poison
+薬|くすり|medicine
+傷口|きずぐち|wound, cut
+塗る|ぬる|to apply, to smear, to rub on
+たちどころに|たちどころに|instantly, on the spot
+消える|きえる|to disappear, to vanish
+張る|はる|to spread, to stretch (勢力を張る: to hold sway)
+仕込む|しこむ|to load, to rig, to build in
+使い手|つかいて|user, wielder
+南|みなみ|south
+金|かね|money
+ちょっとした|ちょっとした|a bit of, slight
+腕試し|うでだめし|a test of one's skill
+あ|あ|ah (short interjection)
+負ける|まける|to lose (a fight, a contest)
+落とす|おとす|to drop; to lose (one's life)
+調子に乗る|ちょうしにのる|to get carried away, to get cocky
+ほどほど|ほどほど|moderation, just the right amount
+一番|いちばん|number one, best; most
+いざという|いざという|in case of, when it comes to (an emergency)
+ひえー|ひえー|eek! (startled cry)
+ほんの|ほんの|mere, just a
+出来心|できごころ|a sudden urge, an impulse
+え|え|huh? (interjection)
+守備隊|しゅびたい|defense garrison
+おどかす|おどかす|to scare, to startle
+住む|すむ|to live, to reside
+レジスタンス||resistance (movement)
+友人|ゆうじん|friend
+中央山脈|ちゅうおうさんみゃく|the central mountain range
+似る|にる|to resemble, to be similar
+今度|こんど|this time, next time
+済ませる|すませる|to settle, to finish off; to get away with
+難所|なんしょ|a difficult pass, a hard spot
+大がかりな|おおがかりな|large-scale
+行う|おこなう|to carry out, to conduct
+かしこまりました|かしこまりました|certainly, understood (very polite)
+おっしゃる|おっしゃる|to say (honorific)
+こんにちは||hello
+強力#power|きょうりょく|powerful, strong
+どの|どの|Mr./Ms. (formal honorific suffix, archaic)
+そろそろ|そろそろ|soon, about time to
+こわっぱ|こわっぱ|whelp, young upstart (contemptuous)
+感情|かんじょう|emotion, feelings
+市|し|city
+かける#worry|かける|to cause (worry): 心配をかける

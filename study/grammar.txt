@@ -188,3 +188,11 @@ kuseni|〜くせに|"Even though, and yet": despite, with an edge of criticism o
 toieba|〜といえば|"Speaking of …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0
 tokorode|〜ところで|"By the way": changes the subject.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7
 shika|〜しか〜ない|"Only, nothing but": restrictive, always with a negative. Stronger than だけ.|https://bunpro.jp/grammar_points/%E3%81%97%E3%81%8B-%E3%81%AA%E3%81%84
+tsutsuaru|verb stem + つつある|"To be in the process of …; gradually continuing/changing". More formal than ている, used for ongoing change (increase, decrease, decline) rather than simple physical motion.|https://bunpro.jp/grammar_points/%E3%81%A4%E3%81%A4%E3%81%82%E3%82%8B
+nichigainai|〜にちがいない／〜にちがいありません|"There's no doubt that …; must be".|https://bunpro.jp/grammar_points/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84
+tehanaranai|〜てはならない|"Must not, cannot": formal/written prohibition, stronger than てはいけない.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+hougaii|〜(た)方がいい|"Had better …; it would be better to …": advice.|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+narinari|〜なり〜なり|"Whether … or …": presents options, implying other similar choices would do too.|https://bunpro.jp/grammar_points/-%E3%81%AA%E3%82%8A-%E3%81%AA%E3%82%8A
+wakeda|〜わけだ|"No wonder; that explains it; so that's why".|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A0
+tonareba|〜となれば|"If it comes to …; were that the case" (formal conditional).|
+tote|〜とて|Old-fashioned "even, even though" (= でも／といっても).|
