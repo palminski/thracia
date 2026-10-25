@@ -110,6 +110,13 @@
         a.lang = "ja";
         a.href = "../grammar.html#" + encodeURIComponent(id);
         dt.appendChild(a);
+        if (g[2]) {
+          var b = el("a", "bunpro", "Bunpro ↗");
+          b.href = g[2];
+          b.target = "_blank";
+          b.rel = "noopener";
+          dt.appendChild(b);
+        }
         gl.appendChild(dt);
         gl.appendChild(el("dd", "", g[1]));
       });

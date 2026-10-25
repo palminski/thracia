@@ -613,3 +613,286 @@
 名前|なまえ|name
 他|ほか|other
 一度|いちど|once
+十二聖戦士|じゅうにせいせんし|the Twelve Crusaders (legendary warriors)
+伝説|でんせつ|legend
+全土|ぜんど|the whole land, whole territory
+大乱|たいらん|great rebellion, upheaval
+行軍|こうぐん|march (military)
+奇襲|きしゅう|surprise attack
+砂漠|さばく|desert
+散る|ちる|to fall (in battle), to scatter
+悲劇|ひげき|tragedy
+胸|むね|chest; heart, feelings
+王|おう|king
+だが||but, however
+友軍|ゆうぐん|allied army, friendly forces
+裏切り|うらぎり|betrayal
+無念|むねん|regret, chagrin
+最期|さいご|one's final moment, death
+遂げる|とげる|to accomplish; to meet (an end)
+全軍|ぜんぐん|the whole army
+襲撃|しゅうげき|assault, attack
+善戦|ぜんせん|fighting well, putting up a good fight
+むなしい||empty, futile, in vain
+落ちる|おちる|to fall
+抱く|だく|to hold, to embrace
+姿|すがた|figure, appearance
+腕|うで|arm
+見つめる|みつめる|to gaze at, to stare at
+はたして||indeed; (in questions) I wonder if
+瞳|ひとみ|eyes (poetic), pupils
+映る|うつる|to be reflected, to show
+後#go|ご|later, after (number + 後)
+勝負|しょうぶ|match, contest, showdown
+ころ||around, about (a time); often voiced ごろ after a noun
+手|て|hand; to fall into someone's hands (idiom: 手に落ちる)
+皇帝|こうてい|emperor
+あずかる||to be entrusted with, to take charge of
+家#house|け|house, family line (家 after a name: フリージ家)
+支配下|しはいか|under the control of
+元|もと|former
+近衛将軍|こんえいしょうぐん|general of the royal guard
+内通する|ないつうする|to secretly collude with
+功を立てる|こうをたてる|to achieve merit, distinction
+当主|とうしゅ|head (of a family/house)
+配下|はいか|subordinate, retainer
+統治|とうち|rule, governance
+護送する|ごそうする|to escort (a prisoner)
+出世|しゅっせ|success in life, advancement
+ついてくる||to come along, to follow
+闘技場|とうぎじょう|arena, colosseum
+指|ゆび|finger
+ふれる||to touch
+約束|やくそく|promise
+きみ|きみ|you (casual, familiar)
+地下牢|ちかろう|dungeon, underground cell
+とらわれる||to be held captive, to be imprisoned
+承知する|しょうちする|to understand, to agree, to comply
+我々|われわれ|we, us (more formal than 私たち)
+後ほど|のちほど|later, afterward (polite)
+幸運|こううん|good fortune, luck
+祈る|いのる|to pray, to wish
+腕#skill|うで|skill, ability
+頼り|たより|reliance, something to rely on
+鍵開け|かぎあけ|lock-picking
+だけど||but, however (casual)
+万が一|まんがいち|if the worst happens, just in case
+気安い|きやすい|relaxed, familiar, carefree
+重い|おもい|heavy
+あたし|あたし|I, me (feminine, casual)
+ひょっとして||by any chance, perhaps
+親分|おやぶん|boss, chief (informal)
+賞金首|しょうきんくび|wanted criminal, bounty head
+はり紙|はりがみ|poster, notice
+そっくり||exactly alike, just like
+なんで#since|なんで|since, because (casual contraction of なので)
+もしや||perhaps, by any chance
+けっこう||quite, fairly
+有名|ゆうめい|famous
+利用する|りようする|to use, to utilize
+偉い|えらい|great, impressive; (dialect えれえ) awfully, terribly
+難しい|むずかしい|difficult
+顔|かお|face
+逃げ出す|にげだす|to break out, to run away
+手はず|てはず|arrangements, plan
+子分|こぶん|underling, henchman
+黙る|だまる|to be silent, to shut up
+働き|はたらき|work, performance
+うでっぷし|うでっぷし|brute strength, muscle (腕っ節)
+牢番|ろうばん|jailer, guard
+一発|いっぱつ|one blow, one shot
+のす||to flatten, to knock out (slang)
+一口|ひとくち|a bite, a share
+かます||to let have a share (slang); to let bite into
+扱いやすい|あつかいやすい|easy to handle
+助かる|たすかる|to be saved, to be relieved
+チャンス||chance, opportunity
+どうやって||how, in what way
+作る|つくる|to make
+急に|きゅうに|suddenly
+にぎやか|にぎやか|lively
+ちょっかい|ちょっかい|meddling, interference
+出す|だす|to put out; to do (something to someone)
+ひどい|ひどい|terrible, awful
+かわいそう|かわいそう|pitiful, poor thing
+半分|はんぶん|half
+死にかける|しにかける|to be on the verge of dying
+むちゃくちゃ|むちゃくちゃ|outrageous, reckless
+はじめに|はじめに|at first, first of all
+おかげ|おかげ|thanks to, owing to (favorable)
+どうして|どうして|why, how
+責任|せきにん|responsibility
+済む|すむ|to be settled, to be done
+くよくよ|くよくよ|to fret, to worry needlessly
+よす||to stop, to quit (doing)
+眠い|ねむい|sleepy
+めし|めし|meal, food (casual)
+起こす|おこす|to wake someone up
+珍しい|めずらしい|rare, unusual
+街|まち|town, city
+着く|つく|to arrive
+国|くに|country
+王妃|おうひ|queen
+亡くなる|なくなる|to pass away
+けど||but, though (casual)
+王家|おうけ|royal family
+移り住む|うつりすむ|to move and settle, to relocate
+続ける|つづける|to continue (doing)
+いつか|いつか|someday
+近衛|こんえい|royal guard
+天馬騎士|てんまきし|pegasus knight
+お手伝い|おてつだい|help, assistance
+すごい|すごい|amazing, great
+空|そら|sky
+飛ぶ|とぶ|to fly
+ナイト||knight (loanword)
+精一杯|せいいっぱい|to the utmost, as much as possible
+ペガサス||pegasus
+心|こころ|heart, mind
+通じる|つうじる|to be understood, to connect (with)
+賢い|かしこい|clever, smart
+でも||but, however
+国王|こくおう|king
+家族|かぞく|family
+ほったらかす||to neglect, to leave unattended
+いらっしゃる||to be (honorific)
+期待する|きたいする|to expect, to hope for
+いただく||to receive (humble)
+どいつ|どいつ|which guy (rough)
+ちょっと|ちょっと|a little, a bit
+静か|しずか|quiet
+牢獄|ろうごく|prison, dungeon
+寝る|ねる|to sleep
+みなさん||everyone (polite)
+迷惑|めいわく|trouble, nuisance
+状況|じょうきょう|situation
+無神経|むしんけい|insensitive, thick-skinned
+暗い|くらい|dark; gloomy
+話す|はなす|to talk, to speak
+ばあさん|ばあさん|granny, old woman (casual)
+どうせ|どうせ|anyway, in any case
+老い先短い|おいさきみじかい|not long left to live (idiom)
+それより||more than that, rather than that
+孫|まご|grandchild
+無理|むり|unreasonable, overdoing it
+いけない||no good, must not
+横になる|よこになる|to lie down
+おばあさん||old woman, grandmother
+いつまでも|いつまでも|forever, no matter how long
+のさばる||to throw one's weight around, to run rampant
+支配|しはい|rule, control
+くつがえす||to overturn
+簡単|かんたん|simple, easy
+可能性|かのうせい|possibility
+ゼロ||zero
+信じる|しんじる|to believe, to trust
+勇者|ゆうしゃ|hero, brave warrior
+前|まえ|before
+追い詰める|おいつめる|to corner, to drive into a corner
+寸前|すんぜん|on the verge of, just before
+ひと泡吹かせる|ひとあわふかせる|to give someone a good scare (idiom)
+存在|そんざい|existence, presence
+もっとも|もっとも|although, it is true that
+とにかく|とにかく|anyway, in any case
+間違い|まちがい|mistake, error
+鍵|かぎ|key, lock
+開く|あく|to open (intransitive)
+嬉しい|うれしい|happy, glad
+誰か|だれか|someone
+ホラをふく|ほらをふく|to talk big, to bluff
+階段|かいだん|stairs
+食い止める|くいとめる|to hold off, to check (an advance)
+先に|さきに|ahead, first
+者|もの|person, one (who) (distinct from もの "thing")
+泣く|なく|to cry
+付き合う|つきあう|to keep company with, to go along with
+見かけ|みかけ|appearance, looks
+ほれる||to fall for, to fall in love with
+冗談|じょうだん|joke
+女の子|おんなのこ|girl
+絶対に|ぜったいに|absolutely, definitely
+許す|ゆるす|to forgive, to allow
+多い|おおい|many, a lot
+確か|たしか|certain, if I recall correctly
+西|にし|west
+通路|つうろ|passage, corridor
+地上|ちじょう|ground level, surface
+抜ける|ぬける|to get through, to pass through
+目指す|めざす|to aim for, to head for
+みなのしゅう||everyone (archaic, polite)
+東|ひがし|east
+なんだと||what did you say!? (idiom)
+世話になる|せわになる|to be in someone's debt/care
+愛想が尽きる|あいそがつきる|to become fed up with
+預ける|あずける|to entrust, to leave in someone's care
+一部|いちぶ|a part, some
+抵抗|ていこう|resistance
+それ以外|それいがい|other than that
+とどこおる||to stagnate, to be delayed
+将軍|しょうぐん|general
+及び腰|およびごし|hesitant, half-hearted stance
+包囲|ほうい|siege, encirclement
+いまだ|いまだ|still, as yet (formal)
+手つかず|てつかず|untouched, unaddressed
+王女|おうじょ|princess
+貴女|あなた|you (formal, to a woman)
+お父上|おとううえ|father (respectful)
+戦意|せんい|will to fight
+乏しい|とぼしい|lacking, scarce
+どういう|どういう|what kind of
+父|ちち|father
+悩む|なやむ|to worry, to be troubled
+重臣|じゅうしん|chief vassal, senior retainer
+一件|いっけん|a matter, this case
+強い|つよい|strong
+大司教|だいしきょう|archbishop
+年端もいかない|としはもいかない|of tender age, too young (idiom)
+親|おや|parent
+引き離す|ひきはなす|to tear apart, to separate
+むごい|むごい|cruel
+ましてや|ましてや|much less, let alone
+生けにえ|いけにえ|sacrifice, offering
+なにか|なにか|something
+勘違い|かんちがい|misunderstanding
+ただ|ただ|only, merely
+教育する|きょういくする|to educate
+ふさわしい|ふさわしい|suitable, fitting
+試練|しれん|trial, ordeal
+耐える|たえる|to endure, to withstand
+臣民|しんみん|subject (of an empire)
+下等|かとう|low-ranking, inferior
+つまり|つまり|in other words
+貴族|きぞく|noble, aristocrat
+幸せ|しあわせ|happiness
+つかむ||to grasp, to seize
+互いに|たがいに|mutually, each other
+憎み合う|にくみあう|to hate each other
+認める|みとめる|to recognize, to acknowledge
+そのうち|そのうち|before long, in time
+裏庭|うらにわ|back garden, backyard
+きれい|きれい|pretty, clean
+花壇|かだん|flower bed
+悪いことは言わない|わるいことはいわない|I'm telling you this for your own good (idiom)
+兄ちゃん|にいちゃん|older brother (casual)
+甘い|あまい|soft, naive, lenient
+借りができる|かりができる|to owe someone one, to be in debt
+付く#luck|つく|to have luck (ついてる = lucky; ついてない = unlucky)
+目に遭う|めにあう|to experience (something bad)
+舞う|まう|to flutter, to dance (in the air)
+怒る|おこる|to get angry
+反発する|はんぱつする|to oppose, to resist
+反対する|はんたいする|to oppose
+状態|じょうたい|state, condition
+支配する|しはいする|to rule over, to control
+こうして||like this, in this way
+近々|ちかぢか|soon, shortly
+おさらば||goodbye, parting (idiom)
+短い|みじかい|short
+よろしく||please (treat me well), nice to know you
+そういう||that kind of, such
+滅ぼす|ほろぼす|to destroy, to ruin
+どうしても||no matter what, by all means
+焼く|やく|to burn
+今後|こんご|from now on, hereafter
+見せしめ|みせしめ|an example, a warning (to others)
+容赦|ようしゃ|mercy, leniency

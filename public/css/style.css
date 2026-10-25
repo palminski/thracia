@@ -240,10 +240,12 @@ nav.tools { flex: none; display: flex; align-items: center; gap: 14px; font-size
 nav.tools a { color: var(--muted); }
 nav.tools a:hover { color: var(--gold); }
 .gloss-list.grammar .gw { font-size: 0.98rem; color: var(--gold); text-decoration: none; border-bottom: 1px dotted var(--gold); }
+a.bunpro { font-size: 0.72rem; color: var(--muted); text-decoration: none; border: 1px solid var(--line); border-radius: 3px; padding: 1px 5px; }
+a.bunpro:hover { color: var(--gold); border-color: var(--gold); }
 .gloss-auto { margin: 14px 0 0; color: var(--muted); font-size: 0.75rem; font-style: italic; }
 section.ref { margin: 0; padding: 14px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 64px; }
 section.ref:target { background: rgba(227, 198, 107, 0.08); box-shadow: -12px 0 0 rgba(227, 198, 107, 0.08), 12px 0 0 rgba(227, 198, 107, 0.08); }
-section.ref h2 { margin: 0 0 4px; font-size: 1.05rem; color: var(--gold); font-weight: 700; }
+section.ref h2 { margin: 0 0 4px; font-size: 1.05rem; color: var(--gold); font-weight: 700; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 section.ref p { margin: 0; color: #ddd2c0; font-size: 0.92rem; }
 table.vocab { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 table.vocab th { text-align: left; color: var(--gold); font-weight: 400; font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; padding: 6px 8px; border-bottom: 1px solid var(--line); }

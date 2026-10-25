@@ -346,19 +346,19 @@ def box_html(b):
     return f'<p class="box" data-n="{BOX_NO[0]}" tabindex="0">{render_lines(b["lines"])}</p>'
 
 
-def load_table(name):
-    """study/<name>.txt: "key | a | b" lines -> {key: [a, b]}  (lines starting with # are comments)"""
+def load_table(name, width=3):
+    """study/<name>.txt: "key | a | b | ..." lines -> {key: [a, b, ...]}  (# = comment)"""
     path, out = ROOT / "study" / f"{name}.txt", {}
     if path.exists():
         for line in path.read_text(encoding="utf-8").splitlines():
             parts = [p.strip() for p in line.split("|")]
-            if len(parts) == 3 and not line.startswith("#"):
+            if len(parts) == width and not line.startswith("#"):
                 out[parts[0]] = parts[1:]
     return out
 
 
-VOCAB = load_table("vocab")        # key -> [reading, meaning]
-GRAMMAR = load_table("grammar")    # id  -> [pattern, explanation]
+VOCAB = load_table("vocab")              # key -> [reading, meaning]
+GRAMMAR = load_table("grammar", 4)       # id  -> [pattern, explanation, bunpro url or ""]
 STUDY_PROBLEMS = []
 
 
@@ -521,8 +521,10 @@ def write_reference_pages(studied):
     """grammar.html and vocab.html: everything in study/grammar.txt and study/vocab.txt."""
     done = ", ".join(en.CHAPTERS[s][0] for s in studied) or "no chapters yet"
     rows = "\n".join(
-        f'<section class="ref" id="{esc(gid)}"><h2 lang="ja">{esc(pat)}</h2><p>{esc(expl)}</p></section>'
-        for gid, (pat, expl) in GRAMMAR.items())
+        f'<section class="ref" id="{esc(gid)}"><h2 lang="ja">{esc(pat)}'
+        + (f'<a class="bunpro" href="{esc(url)}" target="_blank" rel="noopener">Bunpro ↗</a>' if url else '')
+        + f'</h2><p>{esc(expl)}</p></section>'
+        for gid, (pat, expl, url) in GRAMMAR.items())
     body = ('<h1><span class="num">Reference</span>Grammar points</h1>\n'
             f'<p class="lead">Every grammar note used in the per-bubble notes so far ({esc(done)}). '
             'Click a speech bubble in a chapter to see which ones apply to it.</p>\n<main>' + rows + '</main>')
