@@ -166,3 +166,13 @@ goto|〜ごと|"Whole, including": 街ごと焼く = "burn the whole city, build
 monono|〜ものの|"Although, even though" (A is true, but B doesn't follow as expected).|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%AE
 hajimete|〜てはじめて|"Only after doing …; not until …".|https://bunpro.jp/grammar_points/%E3%81%A6%E5%88%9D%E3%82%81%E3%81%A6
 temorau|〜てもらう|"To have/get someone do something" (for the speaker's benefit).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
+nakerebanaranai|〜なければならない|"Must, have to": a double negative — if (A) is not done, it cannot stand.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+nakute|〜なくて|Negative て-form; with verbs it usually gives a reason or cause (わからなくて = "I don't understand, and so...").|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6-conjunction
+mon|〜もん|Casual, often childish/pouty contraction of もの as a sentence-ending reason marker.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE-%E3%82%82%E3%82%93
+kara-from|〜から (starting point)|"From": marks the starting point in time or place — the base meaning of から.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89
+mai|〜まい|Negative volitional: "won't, shall not", or conjecture "probably won't". Slightly formal/old-fashioned.|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%84
+nishika|〜にしか〜ない|Restrictive: "only... (nobody/nothing else)".|
+kotogadekiru|〜ことができる|"To be able to do": a more formal/written equivalent of the potential form られる.|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B
+dokoroka|〜どころか|"Far from …; let alone": strongly negates what precedes while emphasizing what follows.|https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B
+tehoshii|〜てほしい|"Want (someone else) to do" — compare たい (want to do oneself).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84
+nari|verb dictionary form + なり|"As soon as …": the moment A happens, B follows — often something surprising or driven by strong will. Formal/literary.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8A

@@ -896,3 +896,173 @@
 今後|こんご|from now on, hereafter
 見せしめ|みせしめ|an example, a warning (to others)
 容赦|ようしゃ|mercy, leniency
+間に合う|まにあう|to make it in time, not be too late
+大勢|おおぜい|many people, a crowd
+もっと|もっと|more, further
+返す|かえす|to return (something)
+見張り|みはり|watch, lookout
+油断する|ゆだんする|to let one's guard down
+いる|いる|to be, to exist (animate)
+はい|はい|yes
+罠|わな|trap
+どうする|どうする|what to do; how one is doing (どうした = "what's wrong?")
+ずいぶん|ずいぶん|quite, considerably
+とても|とても|very
+大切|たいせつ|important, precious
+別れる|わかれる|to part, to separate
+とき|とき|time, moment
+では|では|then, well then
+探し出す|さがしだす|to search out, to find
+メンバー||member
+城外|じょうがい|outside the castle
+避難する|ひなんする|to evacuate, to take refuge
+全滅|ぜんめつ|annihilation, total defeat
+とどまる|とどまる|to stay, to remain
+残す|のこす|to leave behind
+気にする|きにする|to mind, to worry about
+真|しん|true, real
+いずれ|いずれ|eventually, sooner or later
+やっと|やっと|finally, at last
+すぐ|すぐ|right away, soon
+だって|だって|but, because (casual)
+置く|おく|to put, to leave (in a place)
+死|し|death
+覚悟する|かくごする|to resign oneself to, to prepare oneself for
+包囲する|ほういする|to surround, to besiege
+まさか|まさか|no way, surely not
+巻き込む|まきこむ|to drag into, to involve
+生死|せいし|life and death
+誓い合う|ちかいあう|to swear to each other, to make a mutual vow
+それとも|それとも|or, or else
+誓い|ちかい|oath, vow
+同士|どうし|fellow, mutual, among (each other)
+母上|ははうえ|mother (respectful)
+大事|だいじ|important, serious
+はっきり|はっきり|clearly
+父上|ちちうえ|father (respectful)
+一目|ひとめ|a glance, one look
+苦労|くろう|hardship, trouble
+厭う|いとう|to spare, to be reluctant about (negative: not spare any effort)
+二月#duration|にかげつ|two months
+病気|びょうき|illness, sickness
+治す|なおす|to cure, to heal
+何一つ|なにひとつ|not a single thing (with negative)
+弱る|よわる|to weaken, to grow weak
+うわさ||rumor
+旅立つ|たびだつ|to depart, to set out on a journey
+あまりに|あまりに|too, excessively
+哀れ|あわれ|pitiful, miserable
+見捨てる|みすてる|to abandon, to forsake
+時間|じかん|time
+追い出す|おいだす|to drive out, to expel
+かかる#cost|かかる|to take (time/money), to cost
+せめて|せめて|at least
+気持ち|きもち|feeling
+しるし||sign, token
+渡す|わたす|to hand over, to give
+古びる|ふるびる|to become old, worn
+布切れ|ぬのぎれ|scrap of cloth
+宝物|たからもの|treasure
+聖戦士|せいせんし|Crusader (legendary warrior title)
+書き残す|かきのこす|to write down and leave behind
+迎える|むかえる|to welcome, to receive
+与える|あたえる|to give
+とんでもない|とんでもない|not at all, by no means
+受け取る|うけとる|to receive, to accept
+お父さん|おとうさん|father, dad
+右|みぎ|right (direction)
+道|みち|road, path
+そうする|そうする|to do that, to do so
+いい気になる|いいきになる|to get full of oneself, to be conceited
+押し付ける|おしつける|to push onto, to impose on
+なにもかも|なにもかも|everything, one and all
+幼い|おさない|young, childish
+継承者|けいしょうしゃ|successor, heir
+当然|とうぜん|natural, obvious, only to be expected
+妹君|いもとぎみ|younger sister (respectful)
+みな|みな|everyone, all
+必死|ひっし|desperate, frantic
+涙|なみだ|tears
+枯れる|かれる|to dry up, to run dry
+嫌う|きらう|to dislike
+帰す|かえす|to send home, to let go home
+合わせる|あわせる|to combine, to join (forces)
+秘める|ひめる|to hide, to conceal (within)
+兵隊|へいたい|soldier, troops
+半年|はんとし|half a year
+怪我|けが|injury
+どういうこと||what do you mean, what's going on
+騙す|だます|to deceive, to trick
+向こう|むこう|the other side, over there
+剣士|けんし|swordsman, swordswoman
+剣闘士|けんとうし|gladiator
+迫る|せまる|to approach, to close in
+下がる|さがる|to step back, to withdraw
+危険|きけん|danger, dangerous
+司教|しきょう|bishop
+貴公|きこう|you (formal, among men)
+暇|ひま|free time, leisure
+持て余す|もてあます|to not know what to do with, to have too much (time) on one's hands
+先ほど|さきほど|a while ago, earlier
+ちと||a little, somewhat (old-fashioned)
+趣|おもむき|gist, tenor, feel (of a thing)
+異なる|ことなる|to differ, to be different
+気がする|きがする|to feel like, to have a feeling
+なるほど|なるほど|I see, indeed
+楽しみ|たのしみ|looking forward to, pleasure
+通り|どおり|just as, in accordance with
+口ほどにもない|くちほどにもない|not as good as one's words; all talk
+致す|いたす|to do (humble, = する)
+勝る|まさる|to exceed, to surpass
+気に入る|きにいる|to take a liking to
+褒美|ほうび|reward, prize
+例の|れいの|that, the usual (one already mentioned)
+腕前|うでまえ|skill, ability
+隙|すき|opening, gap, chance
+狙う|ねらう|to aim for, to watch for (a chance)
+倒す|たおす|to defeat, to knock down
+対面|たいめん|meeting face to face
+とやら||"or something" (vague reference to a name just mentioned)
+久しぶり|ひさしぶり|(after) a long time
+愛する|あいする|to love
+剣|けん|sword
+宝物室|ほうもつしつ|treasure room
+とびっきり||choicest, exceptional
+やつ||guy, thing (casual, often derogatory)
+暗黒の剣|あんこくのけん|the Dark Sword (cursed blade, item name)
+魔剣|まけん|cursed sword, demon blade
+狂戦士|きょうせんし|berserker
+呪い|のろい|curse
+初耳|はつみみ|news to me, first time hearing (something)
+よくも||how dare (indignant)
+わが身||oneself, one's own position
+なにせ||after all, what with (giving a reason)
+威力|いりょく|power, might
+抜群|ばつぐん|outstanding, exceptional
+目を覚ます|めをさます|to wake up
+苦戦|くせん|hard fight, struggle
+完全|かんぜん|complete, perfect
+小娘|こむすめ|young girl, slip of a girl
+ごとき||the likes of, a mere (belittling)
+剣先|けんさき|tip/point of a sword
+鈍る|なまる|to become dull, to lose its edge
+離す|はなす|to let go of, to release
+気絶|きぜつ|fainting, loss of consciousness
+絶対|ぜったい|absolutely, never (with negative)
+化け物|ばけもの|monster
+勝つ|かつ|to win
+油断|ゆだん|carelessness, dropping one's guard
+一体|いったい|on earth, what the (emphasis in questions)
+せっかく||at great trouble; (after) all that effort
+情報|じょうほう|information
+誤り|あやまり|mistake, error
+あやつら||those guys, them (rough, = あいつら)
+始末|しまつ|to deal with, to finish off
+誰でも|だれでも|anyone, no matter who
+慌てる|あわてる|to panic, to lose one's head
+見事|みごと|splendid, admirable
+石像|せきぞう|stone statue
+恐れる|おそれる|to fear, to dread
+生かす|いかす|to let live, to spare
+見える|みえる|to be visible, to seem
+すべて|すべて|everything, all
