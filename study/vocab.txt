@@ -1066,3 +1066,205 @@
 生かす|いかす|to let live, to spare
 見える|みえる|to be visible, to seem
 すべて|すべて|everything, all
+こちら|こちら|this way, here
+思い|おもい|feeling, thought
+なさる|なさる|to do (honorific of する)
+手先|てさき|pawn, tool (of someone)
+悪逆|あくぎゃく|atrocity, villainy
+尽くす|つくす|to do to the utmost, to exhaust
+憎い|にくい|hateful
+石|いし|stone
+あきらめる|あきらめる|to give up
+戻す|もどす|to bring back, to restore
+方法|ほうほう|method, way
+解ける|とける|to come undone (a spell), to be solved
+杖|つえ|staff
+封印|ふういん|seal
+一族|いちぞく|clan, family line
+使える|つかえる|usable (potential of 使う)
+地下|ちか|underground
+深い|ふかい|deep
+秘密|ひみつ|secret
+神殿|しんでん|temple, shrine
+戦士|せんし|warrior
+飾る|かざる|to decorate, to display
+収める|おさめる|to put away, to store
+ごもっとも|ごもっとも|quite right (polite agreement)
+現在|げんざい|currently, present
+至る|いたる|to reach (いたるところ = "everywhere")
+起きる|おきる|to occur, to happen
+半島|はんとう|peninsula
+既に|すでに|already
+数千|すうせん|several thousand
+数万|すうまん|tens of thousands
+上る|のぼる|to amount to, to rise to
+勢力|せいりょく|power, force, influence
+故国|ここく|homeland
+根こそぎ|ねこそぎ|entirely, root and all
+もはや|もはや|(not) any longer
+街中|まちなか|around town, in the streets
+見かける|みかける|to catch sight of
+平気|へいき|unconcerned, fine with it
+無論|むろん|of course
+所詮|しょせん|in the end, after all (futility)
+叶う|かなう|to be a match for; to come true
+はず|はず|should be, bound to
+処刑|しょけい|execution
+魔道|まどう|sorcery, dark magic
+軍団|ぐんだん|corps, legion
+残虐|ざんぎゃく|cruelty
+火あぶり|ひあぶり|burning at the stake
+生き埋め|いきうめ|burying alive
+暗黒|あんこく|darkness
+時代|じだい|era
+人々|ひとびと|people
+奴隷|どれい|slave
+かつて|かつて|once, formerly
+青い|あおい|blue
+緑|みどり|green
+豊か|ゆたか|rich, abundant
+今や|いまや|now (more than ever)
+晴れる|はれる|to clear up
+暗雲|あんうん|dark clouds
+覆う|おおう|to cover
+気がかり|きがかり|worry
+使命|しめい|mission
+引き出す|ひきだす|to draw out
+集団|しゅうだん|group
+まとめあげる|まとめあげる|to unite, to pull together
+英雄|えいゆう|hero
+武勇|ぶゆう|military valor
+知略|ちりゃく|tactical cunning
+優れる|すぐれる|to excel
+問題|もんだい|problem
+生まれる|うまれる|to be born
+資格|しかく|qualification
+立ち上がる|たちあがる|to rise up
+一つ|ひとつ|one
+まとまる|まとまる|to come together
+結果|けっか|result
+訳|わけ|reason, circumstance
+一人旅|ひとりたび|solo journey
+大きい|おおきい|big
+預かる|あずかる|to look after, to keep
+死なせる|しなせる|to let die (causative of 死ぬ)
+協力|きょうりょく|cooperation
+限界|げんかい|limit
+退却|たいきゃく|retreat
+移る|うつる|to move, to shift
+本隊|ほんたい|main force
+囚人|しゅうじん|prisoner
+手強い|てごわい|formidable
+たわいもない|たわいもない|trifling, not worth mentioning
+一生|いっしょう|one's whole life
+秘伝|ひでん|secret tradition
+書|しょ|book, writing
+備わる|そなわる|to be endowed with
+恨む|うらむ|to resent, to hold a grudge
+妹|いもうと|younger sister
+根元|ねもと|root, base
+書物|しょもつ|book
+ページ|ぺーじ|page
+いわくありげ|いわくありげ|seeming to have a story behind it
+けっ|けっ|(contemptuous interjection) "tch"
+解放軍|かいほうぐん|liberation army
+カッコつける|かっこつける|to act cool
+家宝|かほう|family treasure, heirloom
+勲章|くんしょう|decoration, medal
+ヤロウ|やろう|bastard, damn guy
+愛想|あいそ|friendliness (愛想がつきる = "to be fed up with")
+たたく|たたく|to hit, to strike
+たいした|たいした|great, considerable
+聖水|せいすい|holy water
+期待|きたい|expectation, hope
+遠慮|えんりょ|reserve, holding back
+いらぬ|いらぬ|not needed (= いらない, old-fashioned)
+しかたない|しかたない|it can't be helped
+望む|のぞむ|to wish for
+望むところ|のぞむところ|just what one wants
+太陽|たいよう|sun
+東方|とうほう|the east
+ザコ|ざこ|small fry, weakling
+一匹|いっぴき|one (animal/creature)
+すぐに|すぐに|right away
+追撃|ついげき|pursuit
+領内|りょうない|within (one's) territory
+逃げ込む|にげこむ|to flee into
+見当たる|みあたる|to be found
+何者か|なにものか|someone (unidentified)
+おそう|おそう|to attack
+いったい|いったい|what on earth
+仕業|しわざ|deed, doing
+見当|けんとう|guess, estimate
+手練|てだれ|skilled person, veteran
+現場|げんば|the scene (of an event)
+素性|すじょう|identity, background
+調べる|しらべる|to check, to investigate
+雇う|やとう|to hire
+おろか|おろか|foolish
+滅亡|めつぼう|downfall, ruin
+姉弟|きょうだい|older sister and younger brother
+従兄弟|いとこ|cousin
+身内|みうち|family, relative
+内乱|ないらん|civil war
+祖父|そふ|grandfather
+さっし|さっし|guess, intuition (察しがつく = "to be able to guess")
+背中|せなか|back (body part)
+聖痕|せいこん|holy brand, sacred mark
+なんでもない|なんでもない|it's nothing
+かまう|かまう|to mind, to care about
+関係|かんけい|relationship, connection
+荷物|にもつ|baggage, luggage
+押しつける|おしつける|to push onto, to force upon
+理由|りゆう|reason
+呪う|のろう|to curse
+模様|もよう|signs are, it appears that
+承知|しょうち|understood, acknowledged
+おとり|おとり|decoy
+ほとほと|ほとほと|thoroughly, utterly
+石化|せきか|petrification
+旗印|はたじるし|banner, rallying flag
+部隊|ぶたい|unit, troop
+尽きる|つきる|to run out, to be exhausted
+用心棒|ようじんぼう|bodyguard
+王族|おうぞく|royalty, royal family
+かたき|かたき|enemy, nemesis
+十数年前|じゅうすうねんまえ|over a decade ago
+練る|ねる|to think through, to polish (a plan)
+救出|きゅうしゅつ|rescue
+何者|なにもの|who, what sort of person
+策|さく|plan, measure
+なくなる|なくなる|to disappear, to run out
+つらい|つらい|hard, painful
+なにより|なにより|above all, more than anything
+両親|りょうしん|parents
+母|はは|mother
+する|する|to do
+そう|そう|so, that way
+再興|さいこう|revival, restoration
+率いる|ひきいる|to lead (a group)
+打ち破る|うちやぶる|to defeat, to crush
+語る|かたる|to tell, to narrate
+夢|ゆめ|dream
+補佐|ほさ|assistance, aide
+いとわない|いとわない|to not mind, to not shrink from
+覚悟|かくご|resolve, readiness
+追う|おう|to chase, to pursue
+多数|たすう|many, a large number
+出撃|しゅつげき|sortie, sally
+ルート|るーと|route
+安全|あんぜん|safe, safety
+通用門|つうようもん|service gate, side gate
+城下|じょうか|castle town
+呼び寄せる|よびよせる|to summon, to call over
+困難|こんなん|difficult, difficulty
+乗せる|のせる|to put on board, to give a ride
+運ぶ|はこぶ|to carry, to transport
+城壁|じょうへき|castle wall
+越える|こえる|to cross over
+脱出|だっしゅつ|escape
+訪れる|おとずれる|to visit
+楽|らく|easy, comfortable
+遅い|おそい|late, slow
+出会う|であう|to meet, to encounter
+つく|つく|to arrive at, to stick (見当がつく = "to get a clue")

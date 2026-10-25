@@ -176,3 +176,14 @@ kotogadekiru|〜ことができる|"To be able to do": a more formal/written equ
 dokoroka|〜どころか|"Far from …; let alone": strongly negates what precedes while emphasizing what follows.|https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B
 tehoshii|〜てほしい|"Want (someone else) to do" — compare たい (want to do oneself).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84
 nari|verb dictionary form + なり|"As soon as …": the moment A happens, B follows — often something surprising or driven by strong will. Formal/literary.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8A
+nisuru|〜にする|"To decide on, to make it (A)": the speaker chooses a specific outcome.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%82%8B
+wakedehanai|〜わけではない|"It's not that …; that doesn't mean …": a softened denial.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84
+mitai|〜みたい|Casual equivalent of ようだ: "looks like, seems like".|https://bunpro.jp/grammar_points/%E3%81%BF%E3%81%9F%E3%81%84
+kadouka|〜かどうか|"Whether or not …".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B
+kotonisuru|〜ことにする|"To decide to …".|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB%E3%81%99%E3%82%8B
+maeni|〜前に|"Before doing …".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%88%E3%81%AB
+kedo|〜けど|Casual "but" (= が, けれども).|https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A9-%E3%81%A0%E3%81%91%E3%81%A9
+mama|〜まま|"Left as is; while remaining in that state".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%BE
+kuseni|〜くせに|"Even though, and yet": despite, with an edge of criticism or scorn (compare the more neutral のに).|https://bunpro.jp/grammar_points/%E3%81%8F%E3%81%9B%E3%81%AB
+toieba|〜といえば|"Speaking of …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0
+tokorode|〜ところで|"By the way": changes the subject.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7
