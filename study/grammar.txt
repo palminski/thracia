@@ -234,3 +234,5 @@ tomo-eventhough|〜とも|"Even if, no matter …": formal/literary emphatic con
 toiedomo|〜といえども|"Even if, although, even though" (formal/literary).|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%A9%E3%82%82
 nite|〜にて|Formal case particle, = で (location/means), used in formal writing/speech.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A6
 sae|〜さえ|"Even" (emphasis by extreme example), or "if only" in さえ〜ば.|https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88
+monowo|〜ものを|"If only... (regret)": expresses displeasure that a desired outcome (often set up with ば) didn't happen.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%82%92
+motte|〜をもって|Formal "with, by means of"; with time expressions, "as of, effective from".|https://bunpro.jp/grammar_points/%E3%82%92%E3%82%82%E3%81%A3%E3%81%A6
