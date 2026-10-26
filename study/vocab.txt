@@ -1868,3 +1868,110 @@
 ますます|ますます|increasingly, more and more
 風#way|ふう|manner, way (そんな風に = "in that way")
 方#way|かた|way of doing, manner (戦い方 = "way of fighting")
+突破する|とっぱする|to break through
+誇る|ほこる|to be proud of, to boast of
+要塞|ようさい|fortress
+立ちはだかる|たちはだかる|to stand in the way, to block
+開ける|ひらける|to open up, to become possible
+進攻|しんこう|advance, invasion
+何度|なんど|how many times
+許可|きょか|permission
+のこのこ|のこのこ|sauntering, shamelessly
+舞い戻る|まいもどる|to come back unexpectedly, to return
+切迫する|せっぱくする|to be pressing, to be imminent
+一刻|いっこく|a moment, an instant
+争う|あらそう|to contend, to dispute
+おびき出す|おびきだす|to lure out
+オトリ|おとり|decoy, bait
+軽々しく|けいけいしく|lightly, rashly
+動かす|うごかす|to move (something)
+老人|ろうじん|old man, old person
+ほうっておく|ほうっておく|to leave alone, to neglect
+手間|てま|trouble, time and effort
+はぶく|はぶく|to omit, to save (effort)
+反逆する|はんぎゃくする|to rebel, to betray
+わけ|わけ|reason, circumstance
+えらそう|えらそう|acting high-and-mighty, boastful
+結局|けっきょく|in the end, after all
+士官学校|しかんがっこう|officers' academy
+世間知らず|せけんしらず|naive, worldly inexperienced
+お嬢さん|おじょうさん|young lady, miss
+大好き|だいすき|very fond of, to love
+泣きつく|なきつく|to turn to in tears, to appeal tearfully
+聞こえる|きこえる|to be heard, audible
+可愛がる|かわいがる|to be affectionate to, to dote on
+たぶらかす|たぶらかす|to deceive, to seduce
+得意技|とくいわざ|specialty, forte
+抜く|ぬく|to draw (a sword), to pull out
+衛兵|えいへい|guard, sentry
+投獄する|とうごくする|to imprison
+ならびに|ならびに|and, as well as
+反乱罪|はんらんざい|crime of rebellion
+生意気|なまいき|cheeky, impudent
+かたづく|かたづく|to be settled, to be dealt with
+立場|たちば|position, standing
+みもの|みもの|a sight to see, something worth watching
+とぼける|とぼける|to play dumb, to feign ignorance
+私事|しじ|personal matter, private affair
+うらみ|うらみ|grudge, resentment
+はずかしめる|はずかしめる|to humiliate, to disgrace
+軍法|ぐんぽう|military law
+反する|はんする|to be contrary to, to violate
+さもなければ|さもなければ|otherwise, if not
+聞き捨てならぬ|ききすてならぬ|cannot let (something) go unchallenged
+死刑|しけい|death penalty
+重罪|じゅうざい|serious crime, felony
+おぼえ|おぼえ|memory, recollection
+ねらい|ねらい|aim, intention, goal
+副官|ふくかん|adjutant, aide
+罰|ばつ|punishment
+手を抜く|てをぬく|to slack off, to cut corners
+恥知らず|はじしらず|shameless (person)
+旗|はた|flag
+かかげる|かかげる|to hold up, to fly (a flag)
+おまけに|おまけに|on top of that, moreover
+指揮官|しきかん|commander
+少年|しょうねん|boy
+手柄|てがら|achievement, credit, glory
+立てる|たてる|to set up, to establish; to achieve
+誘いこむ|さそいこむ|to lure in, to draw in
+作戦名|さくせんめい|operation name, code name
+見破る|みやぶる|to see through (a plan)
+お手なみ|おてなみ|skill, performance
+掃討する|そうとうする|to mop up, to clear out
+戦略価値|せんりゃくかち|strategic value
+逃亡する|とうぼうする|to flee, to desert
+捨て置く|すておく|to leave alone, to abandon
+感心する|かんしんする|to be impressed, to admire
+思いちがい|おもいちがい|misunderstanding, mistaken belief
+公国|こうこく|duchy, principality
+がまん|がまん|patience, endurance
+突入する|とつにゅうする|to storm in, to break into
+なんとかする|なんとかする|to do something about, to manage somehow
+ひっかかる|ひっかかる|to get caught, to fall for (a trick)
+無敵|むてき|invincible
+一時|いちじ|for a time, temporarily
+対する|たいする|regarding, towards, against
+卑劣|ひれつ|despicable, base
+おもしろい|おもしろい|interesting, amusing
+どうなる|どうなる|what will become of, how will (it) turn out
+わが|わが|my, our (formal/literary possessive)
+許可する|きょかする|to permit, to allow
+早急|さっきゅう|urgent, immediate
+実情|じつじょう|actual situation, true state of affairs
+危ない|あぶない|dangerous
+上官|じょうかん|superior officer
+兄様|あにさま|(dear) older brother
+事|こと|matter, thing, affair
+血相|けっそう|complexion, look (血相を変える = to turn pale, to look flustered)
+向ける|むける|to point, to turn toward
+おまえ|おまえ|you (casual, familiar)
+捕らえる|とらえる|to catch, to capture
+そこなう|そこなう|to harm, to spoil, to lose
+いとう|いとう|to be reluctant to, to shrink from
+おたがい|おたがい|each other, mutually
+余力|よりょく|remaining strength, spare capacity
+やり残す|やりのこす|to leave undone, unfinished
+扉|とびら|door
+この場|このば|at this place, on this occasion
+手を休める|てをやすめる|to stop working, to rest one's hands

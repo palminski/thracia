@@ -210,3 +210,7 @@ beki|verb dictionary form + べき|"Should, ought to": moral or logical obligati
 ue|〜上に|Formal "in addition to, besides, on top of": adds a second fact of the same polarity.|https://bunpro.jp/grammar_points/337
 naidemonai|〜ないでもない|Double negative: "it's not that … isn't the case" — a hedged, tentative positive.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
 kagiri|〜限り|"As long as, to the extent that": while (A) holds, (B) follows.|https://bunpro.jp/grammar_points/%E9%99%90%E3%82%8A
+toshitara|〜としたら|"If it were the case that; supposing that": a hypothetical condition.|
+youni-manner|〜ように／〜ような|"As, like": shows a manner or comparison ("as I said", "as if").|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA
+bakoso|〜ばこそ|Formal "precisely because …": singles out A as the one true reason for B.|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%93%E3%81%9D
+toyara|〜とやら|Vague reference to something named or quoted: "the so-called …, something like …".|
