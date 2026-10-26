@@ -1963,7 +1963,6 @@
 血相|けっそう|complexion, look (血相を変える = to turn pale, to look flustered)
 向ける|むける|to point, to turn toward
 おまえ|おまえ|you (casual, familiar)
-捕らえる|とらえる|to catch, to capture
 そこなう|そこなう|to harm, to spoil, to lose
 いとう|いとう|to be reluctant to, to shrink from
 おたがい|おたがい|each other, mutually
@@ -2268,7 +2267,6 @@
 かける#attack|かける|to launch, to unleash (an attack): 攻撃をかける
 市長|しちょう|mayor
 悪行|あくぎょう|evil deed, wrongdoing
-予想する|よそうする|to expect, to predict
 命脈|めいみゃく|lifeline, continued existence
 風前のともしび|ふぜんのともしび|idiom: a candle in the wind (on the brink of ruin)
 気の毒|きのどく|unfortunate, a pity
@@ -2444,3 +2442,99 @@
 およそ|およそ|about, approximately
 海ぞい|うみぞい|along the coast
 足りる|たりる|to be enough, to suffice
+目標|もくひょう|goal, objective
+分かれる|わかれる|to be divided, to split (into)
+効率|こうりつ|efficiency
+現実的|げんじつてき|realistic
+選択|せんたく|choice, selection
+森林|しんりん|forest, woodland
+反対|はんたい|opposition, objection
+堂々|どうどう|boldly, grandly (堂々と)
+正面|しょうめん|front
+表玄関|おもてげんかん|front entrance, front door
+大軍|たいぐん|large army, great host
+一方的|いっぽうてき|one-sided
+無礼|ぶれい|rudeness, insolence
+決断|けつだん|decision, resolve
+稼ぎ|かせぎ|earnings, haul
+焼き討ち|やきうち|arson attack, burning raid
+害|がい|harm
+日々|ひび|day by day, daily
+思い悩む|おもいなやむ|to agonize, to be troubled over
+破滅する|はめつする|to be ruined, to be destroyed
+塔|とう|tower
+押し寄せる|おしよせる|to surge in, to press in on
+弟子|でし|disciple, pupil
+声|こえ|voice
+かける#call|かける|to call out (to): 声をかける
+気味が悪い|きみがわるい|creepy, unpleasant (eerie feeling)
+予期|よき|anticipation, expectation
+一体化|いったいか|becoming one, fusing together
+見本|みほん|example, sample, model
+試み|こころみ|attempt, trial
+途中|とちゅう|on the way, midway
+正規|せいき|regular, official (正規軍 = "regular army")
+しがない|しがない|humble, insignificant
+使いこなす|つかいこなす|to handle well, to master the use of
+無粋|ぶすい|boorish, unrefined
+流星剣|りゅうせいけん|Astra (a named sword technique)
+さわり|さわり|a taste, the gist (さわりだけ = "just a touch")
+技|わざ|technique, skill
+体得|たいとく|mastering through practice, learning by experience
+先走る|せんばしる|to get ahead of oneself, to act prematurely
+撤退する|てったいする|to withdraw, to retreat
+一安心|いちあんしん|a sense of relief, one less worry
+なりかわる|なりかわる|to take the place of, to substitute for
+払う|はらう|to pay
+なんじ|なんじ|thou (archaic "you")
+見とどける|みとどける|to see through to the end, to confirm with one's own eyes
+さびれる|さびれる|to become desolate, to fall into decline
+さっそく|さっそく|promptly, at once
+待ち構える|まちかまえる|to wait in readiness, to be poised for
+予想する|よそうする|to expect, to predict
+ぶしつけ|ぶしつけ|rude, unceremonious
+うそ|うそ|lie; no way!
+あやうく|あやうく|narrowly, nearly
+ケンカ|けんか|fight, quarrel
+やっかい|やっかい|troublesome
+失礼する|しつれいする|to be rude, to take one's leave
+自体|じたい|itself
+善|ぜん|good, virtue
+我|われ|I, self (formal/classical)
+横暴|おうぼう|tyranny, high-handedness
+突然|とつぜん|suddenly
+振る|ふる|to swing, to shake
+新た|あらた|new, fresh
+峠|とうげ|mountain pass
+下る|くだる|to descend, to go down
+防備|ぼうび|defense, defenses
+自然|しぜん|nature
+南側|みなみがわ|south side
+国王陛下|こくおうへいか|His Majesty the King
+さしちがえる|さしちがえる|to die together with (an enemy), to stab each other
+おいさめ|おいさめ|remonstration, admonishment (お諌め)
+いやしくも|いやしくも|however unworthy, for what it's worth
+攻略する|こうりゃくする|to capture, to conquer (a stronghold)
+見守る|みまもる|to watch over
+あえぐ|あえぐ|to groan, to gasp (under hardship)
+エモノ|えもの|prey, quarry (獲物)
+知れる|しれる|to become known
+形|かたち|shape, form
+捕らえる|とらえる|to catch, to capture
+お目通り|おめどおり|an audience (with someone of high status)
+紙切れ|かみきれ|scrap of paper
+拾う|ひろう|to pick up
+街道|かいどう|highway, main road
+お願いする|おねがいする|to ask, to request
+二通り|ふたとおり|two ways, two methods
+光|ひかり|light
+同じ|おなじ|the same
+切る|きる|to cut
+その通り|そのとおり|exactly, that's right
+数々|かずかず|many, countless
+一体化する|いったいかする|to become one, to fuse together
+体得する|たいとくする|to master through practice
+走る|はしる|to run
+適当|てきとう|appropriate; haphazard, random
+いい加減|いいかげん|irresponsible, half-baked; (adverb) honestly, really
+終わらす|おわらす|to bring to an end, to finish (something) off
