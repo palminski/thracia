@@ -214,3 +214,5 @@ toshitara|〜としたら|"If it were the case that; supposing that": a hypothet
 youni-manner|〜ように／〜ような|"As, like": shows a manner or comparison ("as I said", "as if").|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA
 bakoso|〜ばこそ|Formal "precisely because …": singles out A as the one true reason for B.|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%93%E3%81%9D
 toyara|〜とやら|Vague reference to something named or quoted: "the so-called …, something like …".|
+koso|〜こそ|Emphasizes the word before it as the key point: "precisely, in particular". だからこそ = "and that is exactly why".|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%9D
+araba|〜とあらば|Archaic conditional: "if it is the case that …, if (that is) so"; a formal/old-fashioned variant of となれば.|
