@@ -1765,3 +1765,106 @@
 ひきょう|ひきょう|cowardly, unfair
 突撃|とつげき|charge, assault
 合図|あいず|signal
+一軍|いちぐん|a single unified army
+陣容|じんよう|lineup, formation (of a force)
+まがりなりにも|まがりなりにも|after a fashion, somehow, such as it is
+整える|ととのえる|to put in order, to arrange
+渓谷|けいこく|ravine, gorge
+山奥|やまおく|deep in the mountains
+変わりない|かわりない|unchanged, well (as usual)
+偵察|ていさつ|reconnaissance, scouting
+ご苦労さま|ごくろうさま|thank you for your hard work (to an equal/subordinate)
+任務|にんむ|duty, mission
+命令|めいれい|order, command
+嫌がらせ|いやがらせ|harassment
+命じる|めいじる|to order, to command
+上級|じょうきゅう|senior, high-ranking
+約束する|やくそくする|to promise
+人物|じんぶつ|person, figure (of note)
+妬む|ねたむ|to envy, to be jealous of
+思い込む|おもいこむ|to be convinced of, to assume
+近い|ちかい|near, close
+無理もない|むりもない|no wonder, understandable
+ただし|ただし|however, provided that
+援軍|えんぐん|reinforcements
+名門|めいもん|prestigious family, illustrious house
+規律|きりつ|discipline, order
+大陸|たいりく|continent
+いちにを争う|いちにをあらそう|to vie for first or second place (= among the very best)
+強敵|きょうてき|formidable enemy
+劣る|おとる|to be inferior (to)
+捕虜|ほりょ|prisoner of war, captive
+聖戦|せいせん|holy war
+戦い抜く|たたかいぬく|to fight through to the end
+亡い|なき|deceased, late (attributive なき)
+遺志|いし|last will, dying wish
+誇り|ほこり|pride
+殺戮|さつりく|slaughter, massacre
+半ば|なかば|halfway, in the middle of
+ただでさえ|ただでさえ|even under normal circumstances, to begin with
+余裕|よゆう|leeway, margin, composure
+司令官|しれいかん|commanding officer
+名将|めいしょう|great general, able commander
+強いる|しいる|to force, to compel
+さよう|さよう|yes, indeed (archaic/formal agreement)
+不利|ふり|disadvantageous, at a disadvantage
+立ち去る|たちさる|to leave, to go away
+ちょうだい|ちょうだい|please (casual request, often feminine)
+いよいよ|いよいよ|at last, finally
+小さい|ちいさい|small
+報告する|ほうこくする|to report
+仕掛ける|しかける|to set about, to launch (an attack)
+先決|せんけつ|first priority, to be decided first
+領|りょう|territory, domain
+進攻する|しんこうする|to advance, to invade
+兵力|へいりょく|military strength, forces
+警備隊|けいびたい|garrison, security unit
+少数|しょうすう|a small number
+射程|しゃてい|range (of a weapon)
+長い|ながい|long
+絶大|ぜつだい|immense, tremendous
+つぶす|つぶす|to crush, to destroy
+攻略|こうりゃく|capture, conquest (of a stronghold)
+ひきつける|ひきつける|to draw in, to attract (an enemy)
+別働隊|べつどうたい|detached force
+中策|ちゅうさく|the middling plan
+騎兵|きへい|cavalry
+用いる|もちいる|to use, to employ
+なだれこむ|なだれこむ|to pour in, to rush in (all at once)
+下策|かさく|the poor/inferior plan
+肝心|かんじん|essential, crucial
+上策|じょうさく|the best plan
+あらためて|あらためて|anew, once more; (formally) again
+女騎士|おんなきし|female knight
+ライバル|らいばる|rival
+将来|しょうらい|the future
+軍人|ぐんじん|soldier, military man
+行い|おこない|conduct, deed
+恥じる|はじる|to be ashamed
+はねる|はねる|to cut off, to lop off
+がんばる|がんばる|to do one's best, to hang in there
+侵略者|しんりゃくしゃ|invader
+領土|りょうど|territory
+待ち受ける|まちうける|to wait for, to lie in wait for
+強固|きょうこ|solid, sturdy
+防戦|ぼうせん|defensive battle
+うれしい|うれしい|glad, happy
+初めて|はじめて|for the first time
+義|ぎ|righteousness, justice
+継ぐ|つぐ|to carry on, to succeed (to)
+つねに|つねに|always, constantly
+前線|ぜんせん|front line
+思いやる|おもいやる|to be considerate of; to anticipate with concern
+名誉|めいよ|honor
+毎日|まいにち|every day
+名声|めいせい|fame, renown
+甘える|あまえる|to presume on someone's kindness, to take someone up on their offer
+ともかく|ともかく|setting that aside, in any case
+戦いぶり|たたかいぶり|way of fighting, fighting style
+小部隊|しょうぶたい|small unit, small detachment
+この先|このさき|from here on, ahead
+重んじる|おもんじる|to value highly, to set store by
+正々堂々|せいせいどうどう|fair and square, openly and honorably
+ますます|ますます|increasingly, more and more
+風#way|ふう|manner, way (そんな風に = "in that way")
+方#way|かた|way of doing, manner (戦い方 = "way of fighting")

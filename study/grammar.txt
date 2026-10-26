@@ -206,3 +206,7 @@ oninaru|お + stem + になる|Honorific "to do": respect for someone else's act
 ranto|verb -a stem + んとする|Classical volitional "about to, trying to" (ん = classical む marking intent). Old-fashioned equivalent of 〜ようとする.|
 tenaranai|〜てならない|"Can't help feeling …": used with feelings and emotions.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
 to-conditional|〜と (conditional)|Verb/adjective + と: an automatic or habitual result, stronger than ば／なら／たら.|https://bunpro.jp/grammar_points/%E3%81%A8-conditional
+beki|verb dictionary form + べき|"Should, ought to": moral or logical obligation, stronger than た方がいい.|https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8D
+ue|〜上に|Formal "in addition to, besides, on top of": adds a second fact of the same polarity.|https://bunpro.jp/grammar_points/337
+naidemonai|〜ないでもない|Double negative: "it's not that … isn't the case" — a hedged, tentative positive.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
+kagiri|〜限り|"As long as, to the extent that": while (A) holds, (B) follows.|https://bunpro.jp/grammar_points/%E9%99%90%E3%82%8A
