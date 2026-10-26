@@ -198,3 +198,11 @@ tonareba|〜となれば|"If it comes to …; were that the case" (formal condit
 tote|〜とて|Old-fashioned "even, even though" (= でも／といっても).|
 zaruwoenai|〜ざるを得ない|"Can't help doing; have no choice but to", often said reluctantly.|https://bunpro.jp/grammar_points/%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%84
 madomonai|〜までもない|"There's no need to even …": too obvious or minor to be worth it.|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
+dearu|〜である|Literary/formal copula, = だ. Can also replace な／の linking one noun to another.|https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%82%E3%82%8B
+beku|verb dictionary form + べく|Formal/literary "in order to, so as to": B is an intentional action aimed at achieving A.|https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8F
+taru|A たる者|"A person in the position of A; as befits A". Classical, from たり (と＋あり).|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8B
+karou|adjective stem + かろう|Classical conjecture for i-adjectives (= だろう): 高かろう = "is probably expensive". Old-fashioned, used by the elderly or the authoritative.|https://bunpro.jp/grammar_points/1073
+oninaru|お + stem + になる|Honorific "to do": respect for someone else's action, never the speaker's own. する verbs use ご〜になる; いく／くる／いる become おいでになる.|https://bunpro.jp/grammar_points/190
+ranto|verb -a stem + んとする|Classical volitional "about to, trying to" (ん = classical む marking intent). Old-fashioned equivalent of 〜ようとする.|
+tenaranai|〜てならない|"Can't help feeling …": used with feelings and emotions.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+to-conditional|〜と (conditional)|Verb/adjective + と: an automatic or habitual result, stronger than ば／なら／たら.|https://bunpro.jp/grammar_points/%E3%81%A8-conditional

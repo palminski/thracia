@@ -1639,3 +1639,129 @@
 質問|しつもん|question
 いなくなる|いなくなる|to disappear, to be gone (of a person/animal)
 効く|きく|to take effect, to work
+騒動|そうどう|disturbance, trouble
+決着をつける|けっちゃくをつける|to settle, to bring to a conclusion
+知らせる|しらせる|to inform, to let know
+遺臣|いしん|surviving retainer
+隠れ住む|かくれすむ|to live in hiding
+民|たみ|the people, subjects (of a nation)
+苦しめる|くるしめる|to torment, to make suffer
+遠出する|とおでする|to go out on an excursion
+細事|さいじ|trifling matter, detail
+誘う|さそう|to invite
+本城|ほんじょう|main castle, headquarters
+ぬかす|ぬかす|to say (contemptuous), to blurt out
+兄上|あにうえ|older brother (respectful)
+取りしきる|とりしきる|to manage, to take charge of (entirely)
+託す|たくす|to entrust
+実り|みのり|harvest, fruits (of labor)
+野|の|field, plain
+富|とみ|wealth
+山々|やまやま|mountains (several)
+うずもれる|うずもれる|to be buried
+どちら|どちら|which (of two)
+欠ける|かける|to be lacking, to be missing
+自立|じりつ|independence, self-reliance
+作り上げる|つくりあげる|to create, to build up
+理想|りそう|ideal
+風|かぜ|wind
+失敗|しっぱい|failure
+掃討|そうとう|mopping up, wiping out
+代償|だいしょう|price, cost (of an action)
+どれほど|どれほど|how much, to what extent
+南方|なんぽう|the south, southern region
+一帯|いったい|the whole area, the region
+攻め上がる|せめあがる|to advance attacking, to storm upward
+われら|われら|we, us (archaic)
+実戦|じっせん|real combat
+知らせ|しらせ|news, word, notification
+防衛|ぼうえい|defense
+指揮|しき|command
+守り切る|まもりきる|to defend to the end, to hold out
+見せる|みせる|to show
+出陣|しゅつじん|sortie, marching out
+目的|もくてき|objective, destination
+軍隊|ぐんたい|army, troops
+装備|そうび|equipment
+あそこ|あそこ|over there
+救援|きゅうえん|rescue, relief
+解放|かいほう|liberation
+再建|さいけん|rebuilding, reconstruction
+おぼつかない|おぼつかない|uncertain, doubtful
+ひざもと|ひざもと|at one's knee, in one's lap
+心地よい|ここちよい|comfortable, pleasant
+こんなに|こんなに|to this extent, so much
+立派|りっぱ|fine, splendid, admirable
+なんと|なんと|how, what (exclamatory)
+姉上|あねうえ|older sister (respectful)
+肉親|にくしん|blood relative, family
+ぬくもり|ぬくもり|warmth
+いつも|いつも|always
+もったいない|もったいない|undeserved, more than I deserve
+言葉|ことば|words
+どこか|どこか|somewhere
+おさげ|おさげ|braided hair, pigtails
+経つ|たつ|to pass, to elapse (of time)
+変わる|かわる|to change (intransitive)
+不在|ふざい|absence, being away
+出向く|でむく|to go to, to head out to
+軍務|ぐんむ|military duty
+きょうみ|きょうみ|interest
+女性|じょせい|woman (formal)
+冷たい|つめたい|cold (to the touch; of personality)
+悲しみ|かなしみ|sorrow, sadness
+失礼|しつれい|rude, impolite
+ただいま|ただいま|I'm back; just now
+役目|やくめ|role, duty, task
+願う|ねがう|to wish, to pray for, to request
+非力|ひりょく|powerlessness
+はがゆい|はがゆい|frustrating, maddening (to watch)
+焦る|あせる|to be impatient, to rush
+病|やまい|illness, disease
+愛用する|あいようする|to use habitually, to be fond of using
+聖騎士|せいきし|paladin, holy knight
+旧臣|きゅうしん|former retainer
+ほとんど|ほとんど|almost, mostly
+せい|せい|cause, fault (のせい: "because of")
+もろい|もろい|fragile, brittle; easily moved (emotionally)
+恥ずかしい|はずかしい|embarrassing, ashamed
+おいぼれ|おいぼれ|old fogey, decrepit old person
+体|からだ|body
+大して|たいして|(not) particularly, (not) that much
+便り|たより|news, word, letter
+総攻撃|そうこうげき|all-out attack
+まもなく|まもなく|soon, before long
+軍旗|ぐんき|battle flag, military banner
+集う|つどう|to gather, to assemble
+新生|しんせい|newly reborn, reborn
+なにやら|なにやら|somehow, for some reason
+動き|うごき|movement
+攻撃|こうげき|attack
+うーむ|うーむ|hmm (pondering)
+告ぐ|つぐ|to announce, to proclaim (archaic)
+火急|かきゅう|urgent, pressing
+組織する|そしきする|to organize
+よって|よって|therefore, accordingly
+戦闘|せんとう|combat, battle
+撤退|てったい|withdrawal, retreat
+おのれ|おのれ|damn you; oneself (archaic)
+なんとしても|なんとしても|whatever it takes, by all means
+知り合い|しりあい|acquaintance
+見つける|みつける|to find
+顔色|かおいろ|complexion, look on one's face
+おすすめ|おすすめ|recommendation
+ぐぐっと|ぐぐっと|with a gulp
+一本|いっぽん|one (long thin object)
+優れ物|すぐれもの|excellent item, great stuff
+サンプル|サンプル|sample
+隣|となり|next door, neighboring
+逃す|のがす|to miss (an opportunity)
+有り金|ありがね|all the money one has
+はたく|はたく|to spend (all), to empty out (one's purse)
+陛下|へいか|Your Majesty
+母様|かあさま|mother (honorific, affectionate)
+十年|じゅうねん|ten years
+ふり|ふり|pretense, appearance
+ひきょう|ひきょう|cowardly, unfair
+突撃|とつげき|charge, assault
+合図|あいず|signal
