@@ -219,3 +219,6 @@ araba|〜とあらば|Archaic conditional: "if it is the case that …, if (that
 bakarini|〜ばかりに|"Simply/just because …": a single reason leads to an often regrettable or negative result. Stronger, more critical-sounding than ため.|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AB
 teitadaku|〜ていただく|Humble benefactive: someone (of higher status) does something for the speaker. More formal/humble than てもらう or てくれる.|
 makuru|verb stem + まくる|"To do like crazy, nothing but …": repeating an action over and over, often recklessly. The verb must be one the subject controls.|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%8F%E3%82%8B
+gotoni|〜ごとに|"Every, each": attaches to a noun or verb to mean "every time (X), at each (X)". ことあるごとに = "every time something comes up, at every opportunity".|https://bunpro.jp/grammar_points/%E3%81%94%E3%81%A8%E3%81%AB
+tatokorode|〜たところで|"Even if … (it won't help)": even granting that the action happens, the result stays the same or disappointing. Stronger/more resigned than ても.|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7
+katoitte|〜かといって|"But that doesn't mean …; and yet": rejects a conclusion that might seem to follow, without fully denying the premise either. Often paired with a negative in the second clause.|
