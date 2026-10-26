@@ -2327,7 +2327,6 @@
 間柄|あいだがら|relationship (between people)
 いざというとき|いざというとき|when it comes to it, in an emergency
 敗戦|はいせん|defeat (in war)
-仰る|おっしゃる|to say (honorific)
 懸命|けんめい|with all one's might, earnest
 抵抗する|ていこうする|to resist
 挽回する|ばんかいする|to recover, to make up for
@@ -2538,3 +2537,119 @@
 適当|てきとう|appropriate; haphazard, random
 いい加減|いいかげん|irresponsible, half-baked; (adverb) honestly, really
 終わらす|おわらす|to bring to an end, to finish (something) off
+進言|しんげん|advice, counsel (to a superior)
+沿い|ぞい|along (suffix)
+通る|とおる|to pass through
+たどり着く|たどりつく|to reach, to arrive at (after hardship)
+配備する|はいびする|to deploy
+阻む|はばむ|to block, to hinder
+万全|まんぜん|perfect, flawless (preparation)
+自称する|じしょうする|to call oneself, to style oneself
+やすやす|やすやす|easily, with ease
+ご覧に入れる|ごらんにいれる|to show (humble)
+責任者|せきにんしゃ|person in charge
+おめおめ|おめおめ|shamefully, disgracefully
+逃げ帰る|にげかえる|to flee back
+届く|とどく|to reach
+死守する|ししゅする|to defend to the death
+石弓|いしゆみ|crossbow, ballista
+支援する|しえんする|to support
+従える|したがえる|to have in one's command, to bring along
+挟撃する|きょうげきする|to catch in a pincer attack
+撃破する|げきはする|to crush, to rout
+討ち取る|うちとる|to slay, to cut down
+先発する|せんぱつする|to be sent on ahead
+陣形|じんけい|(battle) formation
+守備|しゅび|defense
+固める|かためる|to secure, to solidify
+誘い出す|さそいだす|to lure out
+一考|いっこう|one thought, brief consideration
+価値|かち|value, worth
+前衛|ぜんえい|vanguard
+盾|たて|shield
+機会|きかい|opportunity, chance
+奪回|だっかい|recapture
+僧院|そういん|monastery
+ちょろちょろ|ちょろちょろ|scurrying about restlessly
+とうとつ|とうとつ|abrupt, sudden
+言い出す|いいだす|to bring up, to start saying
+寝返る|ねがえる|to defect, to turn traitor
+復興する|ふっこうする|to be restored, to revive
+努力家|どりょくか|hard worker
+平民|へいみん|commoner
+上級騎士|じょうきゅうきし|senior knight
+偽名|ぎめい|false name
+コンプレックス|コンプレックス|complex (psychological)
+憧れる|あこがれる|to admire, to look up to
+本名|ほんみょう|real name
+似合う|にあう|to suit
+負け犬|まけいぬ|loser (lit. "beaten dog")
+臆病者|おくびょうもの|coward
+震える|ふるえる|to tremble
+一門|いちもん|family, clan
+得策|とくさく|good strategy, wise move
+大いなる|おおいなる|great, grand
+編入する|へんにゅうする|to incorporate, to annex
+ろくな|ろくな|(not) good, (no) decent
+懐かしい|なつかしい|nostalgic, dear
+出稼ぎ|でかせぎ|working away from home
+ゆかり|ゆかり|connection, relation
+打ち勝つ|うちかつ|to overcome
+待ちわびる|まちわびる|to wait longingly for
+生涯|しょうがい|lifetime
+舞い上がる|まいあがる|to soar up
+炎|ほのお|flame
+真っ赤|まっか|bright red
+ぼうぜん|ぼうぜん|blankly, dazedly
+見上げる|みあげる|to look up at
+込み上げる|こみあげる|to well up (emotion)
+蘇る|よみがえる|to revive, to come back to life
+言い聞かせる|いいきかせる|to tell, to explain so as to persuade
+乱れ|みだれ|disorder, confusion
+素早さ|すばやさ|quickness
+天晴れ|あっぱれ|splendid, admirable
+勇将|ゆうしょう|brave general
+愛国心|あいこくしん|patriotism
+人一倍|ひといちばい|more than anyone else
+生き恥|いきはじ|living in shame
+晒す|さらす|to expose (to shame)
+刃|は|blade
+なめてかかる|なめてかかる|to take lightly, to underestimate
+しょせん|しょせん|in the end, after all
+もしかして|もしかして|by any chance
+っぽい|っぽい|-ish, -like (suffix)
+勝手に|かってに|on one's own, without asking
+永久に|えいきゅうに|forever
+どうとでもなる|どうとでもなる|it'll work out somehow (idiom)
+世の中|よのなか|the world, society
+始め|はじめ|the beginning
+利|り|advantage
+きって|きって|the foremost of (suffix, 〜きっての)
+反乱軍|はんらんぐん|rebel army
+こき使う|こきつかう|to work (someone) to the bone
+やってられない|やってられない|can't stand it, can't go on like this
+足なみ|あしなみ|pace, step (of troops)
+このあたり|このあたり|this area
+騎|き|counter for mounted riders
+陰|かげ|shadow, hiding place
+逃げ回る|にげまわる|to run around fleeing
+やむにやまれぬ|やむにやまれぬ|that cannot be helped, compelling (idiom)
+いつの日か|いつのひか|someday
+備え|そなえ|preparation, readiness
+以下|いか|below, less than; the following
+目の前|めのまえ|right in front of one, before one's eyes
+天|てん|heaven, the sky
+橋|はし|bridge
+前後|ぜんご|front and back
+最強|さいきょう|strongest
+大部隊|たいぶたい|large force, large unit
+川向こう|かわむこう|the far side of the river
+渡る|わたる|to cross
+射程内|しゃていない|within firing range
+なにかしら|なにかしら|something or other
+終える|おえる|to finish, to end
+条件|じょうけん|condition, terms
+国民|こくみん|the people, citizens
+帰還|きかん|return (from a journey/campaign)
+以外|いがい|other than, except
+正直|しょうじき|honest, honestly

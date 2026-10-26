@@ -227,3 +227,7 @@ toshitemo|〜としても|"Even if, assuming that".|https://bunpro.jp/grammar_po
 tamae|stem + たまえ|Classical/literary light command or request, to an inferior or (in old prayers) to a god: "please do …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BE%E3%81%88
 sashiageru|〜て差し上げる|Humble "do for (a superior)": more respectful than 〜てあげる.|
 nitsuite|〜について|"About, concerning, regarding".|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+nbakari|〜んばかりに|"As if, as if about to": something on the verge of happening or looking exactly like it will.|https://bunpro.jp/grammar_points/%E3%82%93%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AB
+niha-purpose|dictionary form + には|"In order to …": what's needed to make that happen.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%AF
+nisuginai|〜にすぎない|"Nothing more than, merely …".|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%81%8E%E3%81%AA%E3%81%84
+tomo-eventhough|〜とも|"Even if, no matter …": formal/literary emphatic concession.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%82%82

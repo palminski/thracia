@@ -143,7 +143,7 @@
 156|公女,心配,一命,守ってみせます>守る|koto,niwa-oyobanai,temo,temiseru
 157|おまえさんがた>おまえ,解放軍,方々>方#person|ja-old
 158|すまんが>すまない,書,わたしてくれんかの>渡す|ga-but,tekureru,nu-neg,ja-old
-159|公爵,たくされたものじゃ>託す,いざというとき,おっしゃってな>仰る|passive,ja-old,tame
+159|公爵,たくされたものじゃ>託す,いざというとき,おっしゃってな>おっしゃる|passive,ja-old,tame
 160||koto,nano
 161|どうか,気づきあれ>気づく,まだ|o-kudasai,nara
 162|かたじけない,わし,敗戦,責任,とらねばならんのだ>取る|neba,noda
