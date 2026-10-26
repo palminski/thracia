@@ -1270,7 +1270,6 @@
 周り|まわり|surroundings, vicinity
 視界|しかい|field of vision
 広さ|ひろさ|breadth, extent
-無駄|むだ|waste, futile
 過ごす|すごす|to spend (time)
 方便|ほうべん|pretext, expedient means
 情け|なさけ|sympathy, mercy
@@ -2653,3 +2652,86 @@
 帰還|きかん|return (from a journey/campaign)
 以外|いがい|other than, except
 正直|しょうじき|honest, honestly
+さらに|さらに|further, moreover, in addition
+少々|しょうしょう|a little, somewhat
+上がる|あがる|to rise, to go up
+逆賊|ぎゃくぞく|traitor, rebel (against one's lord)
+飢える|うえる|to starve, to go hungry
+漏れ|もれ|slip, omission, oversight
+容態|ようだい|condition (of a patient)
+高熱|こうねつ|high fever
+発する|はっする|to emit; (a fever) to run
+うなされる|うなされる|to have a nightmare, to moan in one's sleep
+近づける|ちかづける|to let approach, to bring near
+守り|もり|guard, defense; (idiom) looking after, babysitting
+実際|じっさい|actually, in fact
+足止め|あしどめ|being held up, stopped in one's tracks
+予備|よび|reserve, spare
+待機する|たいきする|to stand by, to wait in readiness
+天才|てんさい|genius
+まこと|まこと|truth; really, truly
+攻勢|こうせい|offensive
+侯爵|こうしゃく|marquis
+身勝手|みがって|selfish, self-centered
+勝機|しょうき|chance of victory
+仇|あだ|enemy; (恩をアダで返す) to repay kindness with malice
+送り返す|おくりかえす|to send back
+前面|ぜんめん|front, forefront
+たどりつく|たどりつく|to finally arrive at, to struggle one's way to
+待ちうける|まちうける|to await, to lie in wait for
+言い忘れる|いいわすれる|to forget to mention
+立ち寄る|たちよる|to stop by, to drop in
+いかなる|いかなる|whatever kind of, no matter what
+とくと|とくと|thoroughly, well
+猶予|ゆうよ|a moment's delay, grace period
+腹心|ふくしん|confidant, right-hand person
+謎|なぞ|mystery, puzzle
+多少|たしょう|somewhat, a little
+けり|けり|(idiom けりをつける) end, conclusion
+君主|くんしゅ|sovereign, monarch
+義務|ぎむ|duty, obligation
+抜け出す|ぬけだす|to escape, to break free of
+口走る|くちばしる|to blurt out
+時おり|ときおり|from time to time, occasionally
+捧げる|ささげる|to offer, to dedicate
+広い|ひろい|wide, spacious
+敗れる|やぶれる|to be defeated, to lose
+かかる#attack|かかる|to attack, to come at (someone)
+部屋|へや|room
+宮廷|きゅうてい|royal court
+分ける|わける|to divide, to split
+当たる|あたる|to hit, to deal with, to face
+自ら|みずから|oneself, personally
+志願する|しがんする|to volunteer
+パン|パン|bread
+ミルク|ミルク|milk
+ほしい|ほしい|to want (a thing)
+つまらない|つまらない|boring, trivial, petty
+戦況|せんきょう|battle situation, state of the war
+思いのほか|おもいのほか|more than expected, unexpectedly
+激しい|はげしい|intense, fierce
+てこずる|てこずる|to have trouble with, to struggle with
+後衛|こうえい|rear guard
+慎む|つつしむ|to restrain oneself, to be discreet
+殿|どの|Lord, Lady (honorific title suffix)
+何より|なにより|more than anything, above all
+尊ぶ|たっとぶ|to prize, to honor, to respect
+倒れる|たおれる|to fall, to collapse
+食べ物|たべもの|food
+身近|みぢか|close to oneself, familiar
+現実|げんじつ|reality
+苦しみ|くるしみ|suffering, pain
+追い払う|おいはらう|to drive away, to chase off
+高まる|たかまる|to rise, to heighten
+勝ち目|かちめ|chance of winning
+川|かわ|river
+かける#bridge|かける|to set up, to lay across (a bridge)
+隊長|たいちょう|captain, troop leader
+戦場|せんじょう|battlefield
+やせ細る|やせほそる|to waste away, to become emaciated
+北西|ほくせい|northwest
+敷く|しく|to lay out, to deploy
+何とか|なんとか|somehow, one way or another
+城主|じょうしゅ|lord of the castle
+片腕|かたうで|right-hand man, strong arm
+無駄|むだ|waste, futile

@@ -231,3 +231,5 @@ nbakari|〜んばかりに|"As if, as if about to": something on the verge of ha
 niha-purpose|dictionary form + には|"In order to …": what's needed to make that happen.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%AF
 nisuginai|〜にすぎない|"Nothing more than, merely …".|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%81%8E%E3%81%AA%E3%81%84
 tomo-eventhough|〜とも|"Even if, no matter …": formal/literary emphatic concession.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%82%82
+toiedomo|〜といえども|"Even if, although, even though" (formal/literary).|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%A9%E3%82%82
+nite|〜にて|Formal case particle, = で (location/means), used in formal writing/speech.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A6
