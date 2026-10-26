@@ -387,7 +387,6 @@
 僧|そう|monk, priest
 決意|けつい|resolve
 案内|あんない|guidance
-驚く|おどろく|to be surprised
 不可能|ふかのう|impossible
 万事|ばんじ|everything
 横行|おうこう|running rampant
@@ -572,7 +571,6 @@
 ありがとう||thank you
 いえ||no
 まだ||still, (not) yet
-今|いま|now
 いや#no||no
 一人|ひとり|one person; alone
 早い|はやい|early, quick; 早く = quickly
@@ -781,7 +779,6 @@
 可能性|かのうせい|possibility
 ゼロ||zero
 信じる|しんじる|to believe, to trust
-勇者|ゆうしゃ|hero, brave warrior
 前|まえ|before
 追い詰める|おいつめる|to corner, to drive into a corner
 寸前|すんぜん|on the verge of, just before
@@ -2172,3 +2169,100 @@
 お漏らし|おもらし|wetting oneself (a child's accident)
 かっこいい|かっこいい|cool, good-looking
 好く|すく|to like, to be fond of
+都市|とし|city
+現す|あらわす|to show, to reveal (姿を現す = "to appear")
+到着する|とうちゃくする|to arrive
+心得る|こころえる|to understand, to bear in mind
+横取り|よこどり|snatching away (something meant for someone else)
+堪る|たまる|to bear, to endure (たまるか = rhetorical "as if I'd stand for that")
+攻める|せめる|to attack, to assault
+攪乱|かくらん|disruption, throwing into confusion
+単騎|たんき|alone, solo (on horseback)
+標的|ひょうてき|target
+竜騎士|りゅうきし|dragon knight
+不意|ふい|sudden, unexpected
+基本|きほん|basics, fundamentals
+焦り|あせり|impatience
+禁物|きんもつ|something to be avoided
+騎士団|きしだん|order of knights
+直系|ちょっけい|direct lineage, direct descendant
+比べ物|くらべもの|something comparable (くらべ物にならない = "beyond compare")
+拒む|こばむ|to refuse, to reject
+興味|きょうみ|interest
+下々|しもじも|the common people
+女遊び|おんなあそび|womanizing, chasing women
+かまける|かまける|to be preoccupied with (something trivial)
+支持|しじ|support
+消滅|しょうめつ|disappearance, extinction
+驚く|おどろく|to be surprised
+確かに|たしかに|certainly, indeed
+主君|しゅくん|lord, liege
+悲願|ひがん|long-cherished wish
+苦しむ|くるしむ|to suffer
+押し立てる|おしたてる|to raise up (a flag)
+希望|きぼう|hope
+家臣|かしん|retainer, vassal
+以来|いらい|since, ever since
+月日|つきひ|time, the days and months (passing)
+お互い様|おたがいさま|mutual, it goes both ways
+気を緩める|きをゆるめる|to let one's guard down, to relax
+はためく|はためく|to flutter, to flap (in the wind)
+酌み交わす|くみかわす|to share a drink together
+接近|せっきん|approach, drawing near
+悔やむ|くやむ|to regret
+勇気|ゆうき|courage
+少ない|すくない|few, little
+感謝する|かんしゃする|to thank, to be grateful
+悲惨|ひさん|tragic, miserable
+構わない|かまわない|to not mind, it doesn't matter
+捨て石|すていし|a sacrifice for the greater good (go term used figuratively)
+下さる|くださる|(honorific) to give, to do for one
+偶然|ぐうぜん|chance, coincidence
+重装備|じゅうそうび|heavy armor, heavy equipment
+勇者|ゆうしゃ|hero, brave warrior
+心許ない|こころもとない|uneasy, lacking confidence
+思いもしない|おもいもしない|never even imagine, unexpected
+心に決める|こころにきめる|to make up one's mind, to resolve
+悲しい|かなしい|sad
+王城|おうじょう|royal castle
+嫉妬|しっと|jealousy
+いわゆる|いわゆる|so-called, what is called
+完了|かんりょう|completion
+時間かせぎ|じかんかせぎ|buying time, stalling
+一撃離脱|いちげきりだつ|hit-and-run, strike and withdraw
+ぬける|ぬける|to pass through, to get past
+城塞|じょうさい|fortress, stronghold
+いかんせん|いかんせん|unfortunately, the trouble is
+格好|かっこう|shape, appearance (格好の標的 = "perfect target")
+突く|つく|to poke, to thrust; to take advantage of (不意をつく = "to catch off guard")
+剣聖|けんせい|sword saint (title)
+われわれ|われわれ|we, us (more formal/distanced than われら)
+今|いま|now
+無理押し|むりおし|forcing something too hard
+世話|せわ|trouble, bother, care (世話はない = "there's no helping it")
+見殺し|みごろし|leaving someone to die without helping
+どこまでも|どこまでも|anywhere, to any extent
+酒|さけ|alcohol, rice wine
+さきほど|さきほど|a little while ago
+活躍|かつやく|active, outstanding performance
+神様|かみさま|God, deity
+御心|みこころ|(honorific) heart, will
+育む|はぐくむ|to nurture, to raise
+民心|みんしん|the hearts/minds of the people
+くそう|くそう|damn it
+悪夢|あくむ|nightmare
+さぞかし|さぞかし|surely, no doubt
+心残り|こころのこり|regret, lingering attachment
+あのころ|あのころ|back then, in those days
+むきになる|むきになる|to get worked up, to take something seriously
+あたりまえ|あたりまえ|natural, obvious, to be expected
+なんか|なんか|(casual) something like, or something
+譲る|ゆずる|to hand down, to pass on; to yield
+あんたがた|あんたがた|you all (casual)
+開く#open|ひらく|to open up, to establish (transitive; distinct from intransitive 開く#あく)
+山|やま|mountain
+完全に|かんぜんに|completely
+最高|さいこう|the best, highest
+変わりよう|かわりよう|the way/degree something has changed
+本当に|ほんとうに|really, truly
+かける#attack|かける|to launch, to unleash (an attack): 攻撃をかける

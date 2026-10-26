@@ -216,3 +216,6 @@ bakoso|〜ばこそ|Formal "precisely because …": singles out A as the one tru
 toyara|〜とやら|Vague reference to something named or quoted: "the so-called …, something like …".|
 koso|〜こそ|Emphasizes the word before it as the key point: "precisely, in particular". だからこそ = "and that is exactly why".|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%9D
 araba|〜とあらば|Archaic conditional: "if it is the case that …, if (that is) so"; a formal/old-fashioned variant of となれば.|
+bakarini|〜ばかりに|"Simply/just because …": a single reason leads to an often regrettable or negative result. Stronger, more critical-sounding than ため.|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AB
+teitadaku|〜ていただく|Humble benefactive: someone (of higher status) does something for the speaker. More formal/humble than てもらう or てくれる.|
+makuru|verb stem + まくる|"To do like crazy, nothing but …": repeating an action over and over, often recklessly. The verb must be one the subject controls.|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%8F%E3%82%8B
