@@ -3309,3 +3309,51 @@
 いずれも|いずれも|both, either (of them)
 おもちゃ|おもちゃ|toy
 イザーク人|イザークじん|an Isaachian, a person of Isaach
+中央|ちゅうおう|center, middle
+祭壇|さいだん|altar
+魔法陣|まほうじん|magic circle
+剣闘場|けんとうじょう|arena, coliseum
+あせり|あせり|impatience, hastiness
+慎重|しんちょう|careful, cautious
+重傷|じゅうしょう|serious injury
+負う|おう|to bear, to carry (a wound/responsibility)
+溜める|ためる|to store up, to well up (tears)
+記憶|きおく|memory
+過去|かこ|the past
+夫|おっと|husband
+形見|かたみ|keepsake, memento
+雄々しい|おおしい|manly, valiant
+兄妹|きょうだい|brother and sister
+おふくろ|おふくろ|mom (informal, usu. male speech)
+拭う|ぬぐう|to wipe away
+産む|うむ|to give birth to
+鎖|くさり|chain
+つなぐ|つなぐ|to tie, to connect, to chain
+手放す|てばなす|to let go of, to give up
+意外|いがい|unexpected
+女神|めがみ|goddess
+髪|かみ|hair
+市場|しじょう|market
+あどけない|あどけない|innocent, childlike
+再会する|さいかいする|to be reunited, to meet again
+夢見る|ゆめみる|to dream of
+実現する|じつげんする|to come true, to be realized
+すがりつく|すがりつく|to cling to
+にらみつける|にらみつける|to glare at
+泣き腫らす|なきはらす|to cry until one's eyes are swollen
+台無し|だいなし|ruined, spoiled
+分け隔てなく|わけへだてなく|without discrimination, impartially
+聖弓|せいきゅう|holy bow
+なびく|なびく|to flutter, to stream (in the wind)
+見まがう|みまがう|to mistake for, to be taken for
+ロマンチスト|ロマンチスト|romantic (person)
+見違える|みちがえる|to fail to recognize, to see a great change in
+混じる|まじる|to mingle, to join in
+叱る|しかる|to scold
+赤い|あかい|red
+正気|しょうき|sanity, one's right mind
+方々|かたがた|people (polite plural)
+しっかりする|しっかりする|to be firm, to get a grip on oneself
+お母様|おかあさま|mother (respectful)
+年間|ねんかん|period of years, span of time
+マシ|マシ|better, preferable (of two bad options)
