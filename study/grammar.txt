@@ -247,3 +247,5 @@ nikui|verb stem + にくい|"Hard, difficult to …" (opposite of やすい).|ht
 niwatatte|〜にわたって／〜にわたり|"Over the span of, throughout" (a period or scope).|https://bunpro.jp/grammar_points/にわたって
 nioite|〜において|Formal "in, at" (a place, time, field, or situation).|
 koshitakotohanai|〜にこしたことはない|"Nothing beats …, there's nothing better than …".|
+tehaikenai|〜てはいけない|"Must not, may not": prohibition.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+kanoyouni|〜かのように|"As if, as though": a hypothetical comparison, often with an unreal or uncertain nuance.|
