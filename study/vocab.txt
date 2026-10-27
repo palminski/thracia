@@ -3172,3 +3172,87 @@
 流れる|ながれる|to flow
 まともに|まともに|properly, seriously, directly
 これ以上|これいじょう|any more than this, beyond this point
+大河|たいが|great river
+一方|いっぽう|on the other hand, meanwhile
+呼応する|こおうする|to act in response to, to coordinate with
+阻止する|そしする|to block, to prevent
+連日|れんじつ|day after day
+通りすがり|とおりすがり|a passerby
+悪意|あくい|malice, ill will
+見たところ|みたところ|from what I can see, apparently
+己|おのれ|you, damn you (curse); oneself
+代物|しろもの|an article, a thing (often derisive)
+見せつける|みせつける|to flaunt, to show off
+伺う|うかがう|to ask, to call on (humble)
+せがれ|せがれ|son (humble); brat (derisive with 小-)
+目掛ける|めがける|to aim at, to head for
+進軍する|しんぐんする|to march, to advance
+早速|さっそく|at once, promptly
+小競り合い|こぜりあい|a skirmish, a minor clash
+依然|いぜん|still, as before
+衰える|おとろえる|to decline, to weaken
+強力|きょうりょく|powerful, strong
+今のところ|いまのところ|for now, at the moment
+近日中|きんじつちゅう|in the near future, within days
+見計らう|みはからう|to choose the right moment, to time something
+それはそれで|それはそれで|even so, that in itself
+わが国|わがくに|our country
+それならそれで|それならそれで|if that's the case, then so be it
+でかした|でかした|well done!, nicely done!
+その前に|そのまえに|before that
+これより|これより|from now, from this point
+中止する|ちゅうしする|to call off, to cancel, to halt
+除く|のぞく|to exclude, except for
+保障する|ほしょうする|to guarantee
+たわごと|たわごと|nonsense
+遅くなる|おそくなる|to become late
+何をおいても|なにをおいても|before anything else
+ふがいない|ふがいない|spineless, unworthy
+破れる|やぶれる|to be broken, to be defeated
+うらやましい|うらやましい|enviable, to envy
+まさしく|まさしく|truly, certainly
+単に|たんに|simply, merely
+受け継ぐ|うけつぐ|to inherit, to carry on
+数百年|すうひゃくねん|several hundred years
+長き|ながき|long (classical attributive of 長い)
+信仰する|しんこうする|to worship, to believe in
+悪|あく|evil
+年下|ねんか|younger (in age)
+えらい|えらい|great, superior
+まぎれもなく|まぎれもなく|undoubtedly, without question
+大きさ|おおきさ|size, magnitude
+圧倒する|あっとうする|to overwhelm
+弱気|よわき|faint-heartedness, timidity
+かたすみ|かたすみ|a corner
+たてこもる|たてこもる|to barricade oneself in
+市街|しがい|the town, the city streets
+手いっぱい|ていっぱい|hands full, at full capacity
+これほど|これほど|this much, to this extent
+扱う|あつかう|to handle, to treat, to deal with
+願ってもない|がんってもない|couldn't ask for anything better
+次なる|つぎなる|the next, the coming (classical attributive)
+あいかわらず|あいかわらず|as always, as usual
+逃げのびる|にげのびる|to escape successfully, to get away
+対をなす|たいをなす|to form a pair, to be the counterpart
+ごかくに|ごかくに|evenly, on equal terms
+無謀|むぼう|reckless
+もう一度|もういちど|once more, one more time
+対策|たいさく|a countermeasure
+神託|しんたく|an oracle, a divine revelation
+いましばらく|いましばらく|for a little while longer
+きずぐすり|きずぐすり|a vulnerary, a wound medicine
+用心|ようじん|caution, care
+せいすい|せいすい|holy water
+無事に|むじに|safely
+対抗する|たいこうする|to counter, to oppose
+どこぞ|どこぞ|somewhere (classical)
+伝承|でんしょう|tradition, legend
+特別|とくべつ|special
+後悔する|こうかいする|to regret
+包む|つつむ|to wrap, to envelop
+つもり|つもり|an intention
+あと|あと|the rest; after, afterwards
+かもしれない|かもしれない|might, perhaps
+ゆるめる|ゆるめる|to loosen, to ease up
+卑怯|ひきょう|cowardly, underhanded
+ありがとうございます|ありがとうございます|thank you (polite)
