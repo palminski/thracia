@@ -241,3 +241,4 @@ nakushite|〜なくして(は)|"(B) is impossible without (A)": a formal negativ
 gotoki|〜ごとき|Classical/formal "like, similar to, as if" (= 〜のような).|
 nkotowo|〜んことを|Classical benedictive: "may … (happen)", a wish or prayer.|
 darake|〜だらけ|"Covered in, full of": usually something unwanted or messy (傷だらけ = "covered in wounds").|https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%89%E3%81%91
+koro|〜ころ|"Around the time when …".|
