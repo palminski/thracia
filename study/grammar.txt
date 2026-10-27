@@ -240,3 +240,4 @@ nishite|〜にして|"At, in, even at (a point)": marks a significant juncture, 
 nakushite|〜なくして(は)|"(B) is impossible without (A)": a formal negative-conditional.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%97%E3%81%A6-%E3%81%AF
 gotoki|〜ごとき|Classical/formal "like, similar to, as if" (= 〜のような).|
 nkotowo|〜んことを|Classical benedictive: "may … (happen)", a wish or prayer.|
+darake|〜だらけ|"Covered in, full of": usually something unwanted or messy (傷だらけ = "covered in wounds").|https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%89%E3%81%91

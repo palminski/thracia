@@ -2934,3 +2934,83 @@
 面会する|めんかいする|to have an audience, to meet (with someone)
 ただ一つ|ただひとつ|just one, the only one
 代わる|かわる|to substitute for, to take the place of
+おくれる|おくれる|to be late, to fall behind
+一日|いちにち|one day
+まさに|まさに|just, exactly, truly
+もたらす|もたらす|to bring about
+思いがけない|おもいがけない|unexpected
+始まり|はじまり|beginning
+苦難|くなん|hardship, suffering
+告げる|つげる|to announce, to tell
+そろう|そろう|to be all present, to be assembled
+手の者|てのもの|one's man, subordinate
+切り込む|きりこむ|to cut into, to charge into
+まぬがれる|まぬがれる|to escape, to avoid
+援護|えんご|covering fire, support
+うじ虫|うじむし|maggot (insult)
+奪還する|だっかんする|to recapture
+応じる|おうじる|to respond to, in answer to
+飼い犬|かいいぬ|pet dog; (fig.) lapdog
+なりさがる|なりさがる|to sink to, to degrade to
+指揮下|しきか|under the command of
+亡命する|ぼうめいする|to go into exile
+正す|ただす|to correct, to set right
+過ち|あやまち|mistake, wrongdoing
+見すごす|みすごす|to overlook
+素直|すなお|honest, obedient
+たのもしい|たのもしい|reliable, reassuring
+鈍い|にぶい|dull, slow
+素早い|すばやい|quick, nimble
+びっくりする|びっくりする|to be surprised, startled
+勢い|いきおい|momentum, force
+有利|ゆうり|advantageous
+魔法書|まほうしょ|spellbook
+心意気|こころいき|spirit, resolve
+伯父|おじ|uncle (father's/mother's older brother)
+見抜く|みぬく|to see through
+非業|ひごう|unnatural, tragic (非業の死 = an untimely, violent death)
+広める|ひろめる|to spread, to popularize
+けなげ|けなげ|brave, admirable (esp. of someone young or weak)
+仕立て上げる|したてあげる|to fashion into, to make (someone) into
+少なくとも|すくなくとも|at least
+因る|よる|to be due to, to be based on
+なくす|なくす|to lose
+意味|いみ|meaning
+餌食|えじき|prey, victim
+よみがえる|よみがえる|to be resurrected, to revive
+虜囚|りょしゅう|captive, prisoner
+辱め|はずかしめ|humiliation, disgrace
+承る|うけたまわる|humble "to hear, to receive, to accept"
+開始する|かいしする|to begin, to start
+辿る|たどる|to follow (a path), to trace
+退却する|たいきゃくする|to retreat
+挙げる|あげる|to raise, to hold up (国をあげて = "as a whole nation")
+なお|なお|moreover, still, furthermore
+求め|もとめ|request, wish
+私物|しぶつ|private property
+汚名|おめい|dishonor, disgrace
+役に立てる|やくにたてる|to put to use, to make use of
+銀|ぎん|silver
+総反撃|そうはんげき|all-out counterattack
+防ぐ|ふせぐ|to defend against, to prevent
+いったん|いったん|once, for the time being
+称える|たたえる|to praise, to hail
+扱い|あつかい|treatment (逆賊扱い = "treated as a traitor")
+人気|にんき|popularity
+シナリオ|シナリオ|scenario
+善戦する|ぜんせんする|to fight well, to put up a good fight
+あくまで|あくまで|to the last, only (as a qualifier: "this is only a...")
+場合|ばあい|case, situation
+素晴らしい|すばらしい|wonderful, splendid
+大違い|おおちがい|a big difference
+公子|こうし|young lord, prince (of a noble house)
+全滅する|ぜんめつする|to be annihilated, wiped out
+可能|かのう|possible
+救出する|きゅうしゅつする|to rescue
+方向|ほうこう|direction
+努め|つとめ|duty, task
+ミス|ミス|mistake
+気を落とす|きをおとす|to be discouraged, downhearted
+野心|やしん|ambition
+意思|いし|will, intention
+ふたたび|ふたたび|again, once more
