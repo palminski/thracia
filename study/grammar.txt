@@ -236,3 +236,7 @@ nite|〜にて|Formal case particle, = で (location/means), used in formal writ
 sae|〜さえ|"Even" (emphasis by extreme example), or "if only" in さえ〜ば.|https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88
 monowo|〜ものを|"If only... (regret)": expresses displeasure that a desired outcome (often set up with ば) didn't happen.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%82%92
 motte|〜をもって|Formal "with, by means of"; with time expressions, "as of, effective from".|https://bunpro.jp/grammar_points/%E3%82%92%E3%82%82%E3%81%A3%E3%81%A6
+nishite|〜にして|"At, in, even at (a point)": marks a significant juncture, often with time/number expressions. Formal.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%97%E3%81%A61
+nakushite|〜なくして(は)|"(B) is impossible without (A)": a formal negative-conditional.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%97%E3%81%A6-%E3%81%AF
+gotoki|〜ごとき|Classical/formal "like, similar to, as if" (= 〜のような).|
+nkotowo|〜んことを|Classical benedictive: "may … (happen)", a wish or prayer.|

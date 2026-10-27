@@ -2873,3 +2873,64 @@
 遠い|とおい|far
 滅ぶ|ほろぶ|to fall, to perish
 同意|どうい|agreement, consent
+城門|じょうもん|castle gate
+玉座|ぎょくざ|throne
+同罪|どうざい|equal guilt, the same crime
+はしくれ|はしくれ|a mere scrap (of): modest self-reference, "something of a …"
+死に際|しにぎわ|the moment of death
+分散|ぶんさん|dispersal, splitting up
+二手|ふたて|two groups, two ways
+なんなりと|なんなりと|whatever it may be, anything at all
+申し付ける|もうしつける|to order, to command
+民間人|みんかんじん|civilian
+反撃|はんげき|counterattack
+日増し|ひまし|day by day (increase)
+おごる|おごる|to grow arrogant, to be conceited
+いってみれば|いってみれば|so to speak
+歴戦|れきせん|battle-hardened, veteran
+支え|ささえ|support
+付いてくる|ついてくる|to follow along, to come along
+ごらんなさい|ごらんなさい|look (polite imperative)
+すなわち|すなわち|that is to say, namely
+王位|おうい|the throne, royal rank
+御加護|ごかご|divine protection, grace
+目通り|めどおり|an audience (with a superior)
+奪還|だっかん|recapture
+服従|ふくじゅう|submission, obedience
+存続|そんぞく|continuation, survival
+聞き届ける|ききとどける|to grant (a request), to hear and comply with
+いいかげん|いいかげんに|to a reasonable degree, enough already
+愛|あい|love
+顔を上げる|かおをあげる|to raise one's head
+思い残す|おもいのこす|to have regrets, to leave something unresolved
+あらたまる|あらたまる|to become formal, serious
+オヤジ|おやじ|pops, old man (casual for one's father)
+分|ぶん|portion, share
+詳しい|くわしい|detailed
+残り|のこり|the remainder, what's left
+参加|さんか|participation
+同感|どうかん|the same opinion, agreement
+手後れ|ておくれ|too late
+老いぼれ|おいぼれ|decrepit old man (self-deprecating)
+違える|たがえる|to go against, to break (a promise)
+面会|めんかい|an audience, a meeting (with someone)
+養う|やしなう|to nurture, to build up
+引き連れる|ひきつれる|to lead along, to take along
+制圧する|せいあつする|to subdue, to bring under control
+失敗する|しっぱいする|to fail
+下|しも／もと|under, below (下で働く = to work under someone)
+敗将|はいしょう|a defeated general
+引き立てる|ひきたてる|to favor, to promote
+不満|ふまん|dissatisfaction, complaint
+生き返る|いきかえる|to come back to life
+いまさら|いまさら|at this late stage, now (of all times)
+受け入れる|うけいれる|to accept, to take in
+できるだけ|できるだけ|as much as possible
+それでいい|それでいい|that's fine, that's good enough
+たった一人|たったひとり|all by oneself, all alone
+おる|おる|to be, to exist (humble/dialectal for いる・ある)
+説明する|せつめいする|to explain
+おめでとう|おめでとう|congratulations
+面会する|めんかいする|to have an audience, to meet (with someone)
+ただ一つ|ただひとつ|just one, the only one
+代わる|かわる|to substitute for, to take the place of
