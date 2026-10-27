@@ -249,3 +249,6 @@ nioite|〜において|Formal "in, at" (a place, time, field, or situation).|
 koshitakotohanai|〜にこしたことはない|"Nothing beats …, there's nothing better than …".|
 tehaikenai|〜てはいけない|"Must not, may not": prohibition.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
 kanoyouni|〜かのように|"As if, as though": a hypothetical comparison, often with an unreal or uncertain nuance.|
+nomi|〜のみ|Formal "only" (= だけ, more literary/written).|https://bunpro.jp/grammar_points/のみ
+niyoruto|〜によると／〜によれば|"According to ..." (a source of information).|
+youninaru|〜ようになる|"Come to ...; reach the point where ...": a gradual change of state or ability.|https://bunpro.jp/grammar_points/ようになる

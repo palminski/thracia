@@ -3357,3 +3357,91 @@
 お母様|おかあさま|mother (respectful)
 年間|ねんかん|period of years, span of time
 マシ|マシ|better, preferable (of two bad options)
+使い物にならない|つかいものにならない|to be useless, good for nothing
+料理する#deal|りょうりする|to deal with, to finish off (slang; lit. "to cook")
+手間取る|てまどる|to take time, to be delayed
+こせがれ|こせがれ|brat, whelp (derogatory for a young person)
+近いうち|ちかいうち|soon, in the near future
+そそのかす|そそのかす|to incite, to instigate
+いまだに|いまだに|even now, still
+特定する|とくていする|to pinpoint, to identify
+情報力|じょうほうりょく|intelligence capability
+共食い|ともぐい|cannibalism, mutual devouring
+そち|そち|you (archaic, used by nobility addressing inferiors)
+策略|さくりゃく|scheme, stratagem
+図に当たる|とにあたる|to hit the mark, to succeed as planned
+お褒めにあずかる|おほめにあずかる|to receive praise (humble)
+恐縮|きょうしゅく|humbled, much obliged
+あなどる|あなどる|to underestimate, to look down on
+落城する|らくじょうする|for a castle to fall
+暗殺する|あんさつする|to assassinate
+反乱分子|はんらんぶんし|rebellious element, insurgent
+地に落ちる|ちにおちる|to hit rock bottom, to fall to the ground (of morale, reputation)
+反動|はんどう|backlash, reaction
+都合の良い|つごうのよい|convenient
+何かと|なにかと|in various ways, one way or another
+血をひく|ちをひく|to carry the blood of, to be descended from
+体#counter|たい|counter for bodies, statues (here: deadlords)
+整う|ととのう|to be in order, ready
+それぞれ|それぞれ|each, respectively
+あの世|あのよ|the next world, the afterlife
+こしゃく|こしゃく|impudence, insolence
+くさび|くさび|wedge; (idiom) yoke, shackle
+あり方|あり方|the proper way to be, how something should be
+めぐりあう|めぐりあう|to happen to meet, to encounter by fate
+心から|こころから|from the heart, sincerely
+礼を言う|れいをいう|to give thanks
+命#order|めい|order, command
+響く|ひびく|to resound, to strike emotionally
+深さ|ふかさ|depth
+妃|ひ|consort, princess-wife
+統合|とうごう|union, merger (of states)
+楽しみにする|たのしみにする|to look forward to
+お祝い|おいわい|celebration
+駆けつける|かけつける|to rush to, to hurry over
+願い下げ|ねがいさげ|no thank you, declining (idiom)
+男子|だんし|male, son
+小国家|しょうこっか|small states
+対立|たいりつ|conflict, rivalry
+繰り返す|くりかえす|to repeat
+繁栄する|はんえいする|to prosper, to flourish
+築き上げる|きずきあげる|to build up
+統一|とういつ|unification
+統一する|とういつする|to unify
+出方|でかた|attitude, how one reacts
+なす|なす|to do, to accomplish (literary)
+分かち合う|わかちあう|to share (feelings, fate)
+友情|ゆうじょう|friendship
+手を取り合う|てをとりあう|to join hands
+復活|ふっかつ|revival, resurrection
+せいぜい|せいぜい|at most, to the best of one's ability
+あがく|あがく|to struggle, to flail
+支える|ささえる|to support
+はっきりと|はっきりと|clearly, plainly
+育つ|そだつ|to grow up (intransitive)
+傷つく|きずつく|to be hurt, wounded
+じれったい|じれったい|irritating, impatient-making
+くださる|くださる|to give (honorific)
+いつのまにか|いつのまにか|before one knows it, before long
+兄弟|きょうだい|siblings, brothers
+意外と|いがいと|unexpectedly
+いつ|いつ|when
+時期|じき|time, period
+念のため|ねんのため|just to be safe, as a precaution
+魔戦士|ましせんし|deadlord (a reanimated warrior sorcerer)
+結界|けっかい|barrier, magical seal
+道連れ|みちづれ|companion along the way (idiom: take along to death)
+ひたむき|ひたむき|single-minded, earnest
+いろいろと|いろいろと|variously, in various ways
+陥落する|かんらくする|to fall, to be captured (of a castle or city)
+わずか|わずか|merely, a mere
+堅固|けんご|solid, impregnable
+討ち果たす|うちはたす|to slay, to finish off in battle
+歓喜する|かんきする|to rejoice
+熱狂する|ねっきょうする|to be wild with enthusiasm
+叫ぶ|さけぶ|to shout, to cry out
+ひざ|ひざ|knee
+報いる|むくいる|to repay, to reward
+健在|けんざい|alive and well, still active
+同時に|どうじに|simultaneously
+叩く|たたく|to strike, to hit
