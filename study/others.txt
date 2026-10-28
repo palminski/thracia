@@ -1,0 +1,8 @@
+1|様,死んでしまうなんて>死ぬ|teshimau,nante
+2|様,無念|
+3|そんな,様,死んでしまわれるなんて>死ぬ|teshimau,rareru-honorific,nante
+4|われら,希望|
+5|死んでしまうとは>死ぬ|teshimau,toha
+6|行ってしまうのか>行く|teshimau,ka-embedded
+8|会えるだろうか>会う,また|potential,deshou,ka-embedded
+9|御心,かなえば>かなう|ba
