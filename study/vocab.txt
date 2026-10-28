@@ -3763,3 +3763,11 @@
 先行する|せんこうする|to go ahead, to advance first
 グズグズする|ぐずぐずする|to dawdle, to dillydally
 嫌になる|いやになる|to become sick of, to get fed up with
+くだらない|くだらない|worthless, trivial, silly
+朽ちる|くちる|to rot, to decay
+ひとたび|ひとたび|once, one time (formal)
+姉さん|ねえさん|older sister (direct address, affectionate)
+さして|さして|not particularly, not that much (with negative)
+つく#luck|つく|to be attached, to come with (運がつく = "to have luck on one's side")
+そうそう#easily|そうそう|so readily, that easily (usually with negative)
+仕方がない|しかたがない|it can't be helped, there's no choice
