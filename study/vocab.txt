@@ -3445,3 +3445,309 @@
 健在|けんざい|alive and well, still active
 同時に|どうじに|simultaneously
 叩く|たたく|to strike, to hit
+永遠|えいえん|eternity, forever
+空白|くうはく|blank, blank space
+異聞|いぶん|a rare/unusual account, stray report
+救済|きゅうさい|relief, aid
+愛らしさ|あいらしさ|loveliness, cuteness
+修行|しゅぎょう|training, discipline
+荒れ野|あれの|wasteland, wilderness
+開発|かいはつ|development
+気性|きしょう|temperament, disposition
+おせっかい|おせっかい|meddling, being a busybody
+面倒見|めんどうみ|attentiveness, care (面倒見がいい)
+頼る|たよる|to rely on
+親しむ|したしむ|to grow close to, to become familiar with
+発揮する|はっきする|to display, to exhibit (talent)
+発展する|はってんする|to develop, to grow prosperous
+頼りになる|たよりになる|to be reliable, dependable
+なつく|なつく|to take to, to become attached to (someone)
+猟師|りょうし|hunter
+つつましい|つつましい|modest, unassuming
+人生|じんせい|life (one's life)
+病める|やめる|sick, ailing
+あたかも|あたかも|just as if, as though
+うつる|うつる|to be reflected, to appear (to the eye)
+落ち着き|おちつき|calmness, composure
+記録|きろく|record
+官職|かんしょく|official post
+たえない|たえない|never-ending, incessant
+術|すべ|means, way (知る術もない)
+入団する|にゅうだんする|to join (a corps, group)
+功績|こうせき|achievement, meritorious service
+勲功|くんこう|meritorious deed
+いちじるしい|いちじるしい|remarkable, striking
+初代|しょだい|the first (generation, head)
+団長|だんちょう|captain, leader (of a corps)
+有能|ゆうのう|capable, able
+公正|こうせい|fair, just
+信望|しんぼう|trust and popularity
+厚い|あつい|deep, profound (信望が厚い = deeply trusted)
+押し切る|おしきる|to push through, to override (opposition)
+不屈|ふくつ|indomitable
+精神|せいしん|spirit, mind
+荒れ果てる|あれはてる|to fall into utter ruin
+大地|だいち|earth, land
+着実|ちゃくじつ|steady, sure
+道のり|みちのり|path, journey
+歩む|あゆむ|to walk, to proceed along
+賢者|けんじゃ|sage, wise person
+すみずみ|すみずみ|every corner, every nook
+知れわたる|しれわたる|to become widely known
+かたわら|かたわら|alongside, while (also doing)
+情熱|じょうねつ|passion
+結婚する|けっこんする|to marry
+出産|しゅっさん|childbirth
+生命力|せいめいりょく|vitality, life force
+あふれる|あふれる|to overflow, to brim with
+復興|ふっこう|revival, reconstruction
+赴任する|ふにんする|to take up a post
+勇戦する|ゆうせんする|to fight bravely
+うたわれる|うたわれる|to be praised, extolled
+おだやか|おだやか|calm, peaceful
+突き立てる|つきたてる|to thrust into, to plant (a blade)
+有事|ゆうじ|emergency, contingency
+おこたる|おこたる|to neglect
+行方をくらます|ゆくえをくらます|to disappear without a trace
+なぞ|なぞ|mystery, riddle
+出自|しゅつじ|origin, lineage
+以降|いこう|from then on, thereafter
+唱える|となえる|to advocate, to put forward (a theory)
+確たる|かくたる|certain, definite
+最高位|さいこうい|highest rank
+任じる|にんじる|to appoint
+再編成|さいへんせい|reorganization
+まかせる|まかせる|to entrust
+あまる|あまる|to be in excess, to be surplus
+人員|じんいん|personnel, staff
+転用|てんよう|diversion to another use
+導入|どうにゅう|introduction (of something new)
+少数精鋭|しょうすうせいえい|a small elite force
+財政難|ざいせいなん|financial difficulty
+辞する|じする|to resign
+母親代わり|ははおやがわり|a mother-substitute
+花開く|はなひらく|to blossom, to come to fruition
+生み出す|うみだす|to produce, to bring forth
+語り継ぐ|かたりつぐ|to pass down (a story)
+文官|ぶんかん|civil official
+政策|せいさく|policy
+実行する|じっこうする|to carry out, to implement
+寡黙|かもく|taciturn, reticent
+実務家|じつむか|man of practical affairs
+宰相|さいしょう|prime minister, chancellor
+治安|ちあん|public order
+回復|かいふく|recovery
+努める|つとめる|to strive, to make an effort
+うとましがる|うとましがる|to shun, to find repellent
+陽気さ|ようきさ|cheerfulness
+気さく|きさく|frank, affable
+ひとがら|ひとがら|character, personality
+配属する|はいぞくする|to assign, to post
+頼りなさ|たよりなさ|unreliability
+情けなさ|なさけなさ|wretchedness, haplessness
+女官|じょかん|lady-in-waiting
+ひょうばん|ひょうばん|topic of talk, the talk (of the town)
+貢献する|こうけんする|to contribute
+忠義|ちゅうぎ|loyalty, devotion
+裏打ちする|うらうちする|to back up, to substantiate
+的を射る|てきをいる|to hit the mark
+重宝する|ちょうほうする|to prize, to find useful
+主筋|しゅすじ|one's lord's bloodline
+年の差|ねんのさ|age difference
+冷やかす|ひやかす|to tease, to rib
+魔道騎士|まどうきし|mage knight
+平凡|へいぼん|ordinary, commonplace
+稼業|かぎょう|trade, occupation
+どさくさ|どさくさ|confusion, hustle (in the aftermath)
+定か|さだか|certain, definite
+諸伝|しょでん|various accounts, legends
+片いなか|かたいなか|remote countryside
+ひきこもる|ひきこもる|to shut oneself away
+手記|しゅき|memoir, notes
+内部|ないぶ|the inside
+観察する|かんさつする|to observe
+史料|しりょう|historical material
+独身|どくしん|unmarried, single
+推測|すいそく|speculation, guess
+表舞台|おもてぶたい|the public stage
+励ます|はげます|to encourage
+ささげる|ささげる|to devote, to dedicate
+忠節|ちゅうせつ|loyalty, fidelity
+サガ|サガ|saga
+流れ者|ながれもの|drifter, wanderer
+農具|のうぐ|farm tools
+無数|むすう|countless
+野心家|やしんか|ambitious person
+経営|けいえい|management
+勲臣|くんしん|meritorious retainer
+処罰|しょばつ|punishment
+閑職|かんしょく|sinecure, undemanding post
+武勲話|ぶくんばなし|tales of military exploits
+くりかえす|くりかえす|to repeat
+布教|ふきょう|missionary work, proselytizing
+信仰|しんこう|faith, belief
+疲弊する|ひへいする|to be worn out, exhausted
+かがやき|かがやき|brilliance, radiance
+ホラ|ホラ|tall tale, bluff
+まっとう|まっとう|honest, respectable (まっとうな人生)
+恋に落ちる|こいにおちる|to fall in love
+誤解|ごかい|misunderstanding
+居をかまえる|いをかまえる|to set up one's home
+余生|よせい|one's remaining years
+空前|くうぜん|unprecedented
+黒剣士|こくけんし|black swordsman
+いずこ|いずこ|where (archaic)
+ほうむる|ほうむる|to bury
+確認する|かくにんする|to confirm
+行方不明|ゆくえふめい|missing, whereabouts unknown
+死亡する|しぼうする|to die, to decease
+自滅する|じめつする|to self-destruct
+以後|いご|afterward, from then on
+的|まと|target, mark
+配属|はいぞく|assignment, posting
+投じる|とうじる|to throw, to cast
+周囲|しゅうい|surroundings
+戦乱|せんらん|war, strife, turmoil
+終結|しゅうけつ|conclusion, end
+消す|けす|to erase, to extinguish, to make disappear
+孤児|こじ|orphan
+野に下る|のにくだる|to retire from public life
+身を投じる|みをとうじる|to throw oneself into
+憧れ|あこがれ|longing, aspiration
+恵まれる|めぐまれる|to be blessed (with)
+こよなく|こよなく|exceedingly, above all
+馳せる|はせる|to make (one's name) widely known
+未熟|みじゅく|immature, inexperienced
+繁栄|はんえい|prosperity
+建国する|けんこくする|to found (a nation)
+歴史|れきし|history
+史書|ししょ|history book
+消息|しょうそく|news, word (of someone)
+大きな|おおきな|big, large
+新たな|あらたな|new
+局面|きょくめん|phase, situation
+皇子|おうじ|imperial prince
+依然として|いぜんとして|as before, still
+指導|しどう|guidance, leadership
+転戦する|てんせんする|to fight from place to place
+聖王|せいおう|holy king
+賢王|けんおう|wise king
+即位|そくい|accession to the throne
+見届ける|みとどける|to see through to the end, to confirm with one's own eyes
+不意に|ふいに|suddenly, unexpectedly
+正史|せいし|official history
+記す|しるす|to record, to note down
+わずかに|わずかに|slightly, barely
+親しい|したしい|intimate, close
+呼びかける|よびかける|to call out to
+竜族|りゅうぞく|dragon tribe, dragon clan
+契約|けいやく|contract, pact
+とりまとめる|とりまとめる|to gather together, to organize
+経る|へる|to pass (of time), to go through
+近辺|きんぺん|the vicinity, nearby area
+さっぱり|さっぱり|forthright, refreshingly simple
+才|さい|talent, ability
+うらやむ|うらやむ|to envy
+きっぷ|きっぷ|openhandedness, generosity (気っ風)
+名物|めいぶつ|local celebrity, something famous
+おやじ|おやじ|old man, pops
+けむたがる|けむたがる|to find annoying, to want to avoid
+朴訥|ぼくとつ|simple and unaffected
+人柄|ひとがら|character, personality
+のち|のち|afterward, later
+隠し子|かくしご|hidden/secret child
+フラフラ|フラフラ|aimlessly, unsteadily
+四天馬騎士|してんまきし|the Four Pegasus Knights
+経験|けいけん|experience
+老|ろう|old, aged (prefix)
+怒り|いかり|anger
+花|はな|flower
+よりどころ|よりどころ|support, something to rely on
+蒼い|あおい|pale blue, ashen
+シンボル|シンボル|symbol
+解放戦争|かいほうせんそう|war of liberation
+熱望|ねつぼう|ardent wish, fervent desire
+たゆまない|たゆまない|untiring, tireless
+生まれ故郷|うまれこきょう|one's birthplace, hometown
+十数年後|じゅうすうねんご|a dozen-odd years later
+戦友|せんゆう|comrade-in-arms
+日夜|にちや|day and night
+ほぼ|ほぼ|almost, nearly
+いつしか|いつしか|before one knows it, in time
+天国|てんごく|heaven, paradise
+わき|わき|the side, nearby
+人知れず|ひとしれず|without anyone knowing
+あまりにも|あまりにも|all too, excessively
+説|せつ|theory, view
+大将軍|だいしょうぐん|grand general
+新兵種|しんへいしゅ|new troop type
+成功|せいこう|success
+おおいに|おおいに|greatly
+になう|になう|to carry, to bear (a responsibility)
+強さ|つよさ|strength
+国土|こくど|the nation's land, territory
+復興策|ふっこうさく|reconstruction policy
+思い切る|おもいきる|to resolve firmly, to be decisive
+歴代|れきだい|successive generations
+旧|きゅう|former, old
+王姉|おうし|the king's elder sister
+当初|とうしょ|at first, originally
+生来|せいらい|by nature, innately
+不協和音|ふきょうわおん|discord, dissonance
+かなでる|かなでる|to play (music), to strike up
+うまく|うまく|skillfully, well
+豊富|ほうふ|abundant, rich
+知識|ちしき|knowledge
+政府|せいふ|government
+哀れさ|あわれさ|pitiableness
+それゆえ|それゆえ|for that reason, hence
+おどろく|おどろく|to be surprised
+言い残す|いいのこす|to leave word, to say as one's last words
+美貌|びぼう|beauty, good looks
+憶測|おくそく|speculation, conjecture
+竜騎士団|りゅうきしだん|dragon knight corps
+長|おさ|head, chief
+すてる|すてる|to abandon (捨てる)
+郊外|こうがい|the suburbs, outskirts
+ひっそり|ひっそり|quietly, silently
+含める|ふくめる|to include
+請う|こう|to request, to ask for
+活動|かつどう|activity
+往年|おうねん|bygone years, years past
+見込む|みこむ|to expect, to count on
+かの地|かのち|that place (literary)
+同時期|どうじき|the same period
+島々|しまじま|islands
+近衛軍|こんえぐん|the royal guard, palace guard
+建国後|けんこくご|after the founding (of a nation)
+身をおく|みをおく|to place oneself (in a position, group)
+姿を現す|すがたをあらわす|to appear, to show oneself
+音|おと|sound
+全体|ぜんたい|the whole, entirety
+数年|すうねん|several years
+土地|とち|land, ground
+けんか早い|けんかっぱやい|quick to pick a fight, quick-tempered
+生活|せいかつ|life, living
+気を揉む|きをもむ|to fret, to worry
+ひそかに|ひそかに|secretly, quietly
+意|い|will, intention
+直後|ちょくご|immediately after
+貴重|きちょう|precious, valuable
+荒れる|あれる|to fall into ruin, to become devastated
+かげながら|かげながら|from the shadows, behind the scenes
+めぐる|めぐる|to go around, to tour
+基づく|もとづく|to be based on
+もちかえる|もちかえる|to switch what one is holding
+荒廃する|こうはいする|to fall into ruin, to become devastated
+一切|いっさい|entirely, at all
+土台|どだい|foundation, base
+念願|ねんがん|long-cherished desire
+平時|へいじ|peacetime
+政務|せいむ|government affairs, administration
+まわす|まわす|to turn, to pass around
+つかまえる|つかまえる|to catch, to grab hold of
+渡り歩く|わたりあるく|to wander from place to place
+けんめい|けんめい|earnest, diligent
+注ぐ|そそぐ|to pour, to devote
+店|みせ|shop, store
+様々|さまざま|various
