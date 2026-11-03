@@ -17,7 +17,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import en  # noqa: E402
 
-DEST = Path(__file__).resolve().parent.parent / "public" / "img" / "portraits"
+DEST = Path(__file__).resolve().parent.parent / "public" / "thracia" / "img" / "portraits"
 API = "https://fireemblemwiki.org/w/api.php"
 UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 

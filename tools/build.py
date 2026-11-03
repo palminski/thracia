@@ -20,7 +20,8 @@ import en
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source"
-WEB = ROOT / "public"      # what the web server serves (Laravel Forge: web directory /public)
+PUB = ROOT / "public"       # what the web server serves (Laravel Forge: web directory /public)
+WEB = PUB / "thracia"       # this script's own output, nested under the site's home page
 OUT = WEB / "chapters"
 SOURCE_URL = "https://www.pegasusknight.com/mb/fe5/st_index.html"
 
