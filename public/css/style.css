@@ -67,7 +67,7 @@ header.site a { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; 
 /* furigana: readings are in the page, shown only when toggled on */
 rt { display: none; font-size: 0.5em; letter-spacing: 0; user-select: none; }
 .furi rt { display: revert; }
-.furi .box { line-height: 2.15; padding-top: 12px; }
+.furi:not(.eng) .box { line-height: 2.15; padding-top: 12px; }
 
 /* English toggle: swap the bubble's Japanese text for its translation */
 .box-en { display: none; }
