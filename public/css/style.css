@@ -215,7 +215,8 @@ body.modal-open { overflow: hidden; }
 .gloss-list { margin: 0; }
 .gloss-list dt { margin-top: 9px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
 .gloss-list dt:first-child { margin-top: 2px; }
-.gloss-list .gw { font-size: 1.08rem; color: #fff; }
+.gloss-list .gw { font-size: 1.08rem; color: #fff; text-decoration: none; border-bottom: 1px dotted rgba(255, 255, 255, 0.4); }
+.gloss-list .gw:hover { border-bottom-color: #fff; }
 .gloss-list .gr { color: var(--gold); font-size: 0.8rem; }
 .gloss-list dd { margin: 1px 0 0; color: #d8cdbb; }
 .gloss-list dd.none { color: var(--muted); font-style: italic; }
@@ -250,6 +251,8 @@ section.ref p { margin: 0; color: #ddd2c0; font-size: 0.92rem; }
 table.vocab { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 table.vocab th { text-align: left; color: var(--gold); font-weight: 400; font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; padding: 6px 8px; border-bottom: 1px solid var(--line); }
 table.vocab td { padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
-table.vocab td:first-child { font-size: 1.05rem; color: #fff; white-space: nowrap; }
+table.vocab td:first-child { font-size: 1.05rem; white-space: nowrap; }
+table.vocab td:first-child a { color: #fff; text-decoration: none; border-bottom: 1px dotted rgba(255, 255, 255, 0.4); }
+table.vocab td:first-child a:hover { border-bottom-color: #fff; }
 table.vocab td:nth-child(2) { color: var(--gold); white-space: nowrap; }
 @media (max-width: 560px) { header.site a span { display: none; } nav.tools { gap: 10px; } }

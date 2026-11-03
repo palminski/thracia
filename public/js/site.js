@@ -75,7 +75,11 @@
       seen[key] = true;
       var dt = el("dt");
       dt.lang = "ja";
-      dt.appendChild(el("span", "gw", word));
+      var a = el("a", "gw", word);
+      a.href = "https://jisho.org/search/" + encodeURIComponent(dict || word);
+      a.target = "_blank";
+      a.rel = "noopener";
+      dt.appendChild(a);
       var info = [dict !== word ? dict : "", reading].filter(Boolean).join("・");
       if (info) dt.appendChild(el("span", "gr", info));
       list.appendChild(dt);

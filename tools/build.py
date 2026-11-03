@@ -14,6 +14,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 import en
 
@@ -532,7 +533,9 @@ def write_reference_pages(studied):
         PAGE.format(title="Grammar points", rel="", body=body, source=SOURCE_URL, tools="", scripts=""),
         encoding="utf-8")
     rows = "\n".join(
-        f'<tr><td lang="ja">{esc(key.split("#")[0])}</td><td lang="ja">{esc(rd)}</td><td>{esc(mean)}</td></tr>'
+        f'<tr><td lang="ja"><a href="https://jisho.org/search/{quote(key.split("#")[0])}" '
+        f'target="_blank" rel="noopener">{esc(key.split("#")[0])}</a></td>'
+        f'<td lang="ja">{esc(rd)}</td><td>{esc(mean)}</td></tr>'
         for key, (rd, mean) in VOCAB.items())
     body = ('<h1><span class="num">Reference</span>Vocabulary</h1>\n'
             f'<p class="lead">Every word glossed in the per-bubble notes so far ({esc(done)}), '
