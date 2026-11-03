@@ -1,16 +1,20 @@
-// Furigana toggle: flips a class on <html>; the readings are already in the page as <rt>.
-(function () {
+// Furigana / English toggles: each flips a class on <html>, remembered per browser.
+// The furigana readings and English translations are already in the page (as <rt> and
+// .box-en respectively); the toggle just shows or hides them via CSS.
+function setupToggle(selector, cls, storageKey) {
   var root = document.documentElement;
-  var btn = document.querySelector(".furi-toggle");
+  var btn = document.querySelector(selector);
   if (!btn) return;
-  function sync() { btn.setAttribute("aria-pressed", root.classList.contains("furi") ? "true" : "false"); }
+  function sync() { btn.setAttribute("aria-pressed", root.classList.contains(cls) ? "true" : "false"); }
   btn.addEventListener("click", function () {
-    var on = root.classList.toggle("furi");
-    try { localStorage.setItem("furigana", on ? "1" : "0"); } catch (e) {}
+    var on = root.classList.toggle(cls);
+    try { localStorage.setItem(storageKey, on ? "1" : "0"); } catch (e) {}
     sync();
   });
   sync();
-})();
+}
+setupToggle(".furi-toggle", "furi", "furigana");
+setupToggle(".en-toggle", "eng", "english");
 
 // Click a speech bubble: it is highlighted and the panel shows its English translation and
 // a vocabulary list. window.EN maps window number -> translation; words are

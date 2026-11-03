@@ -49,25 +49,30 @@ header.site {
 header.site .bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 48px; }
 header.site a { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
 
-.furi-toggle {
+.furi-toggle, .en-toggle {
   flex: none; display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px 5px 6px;
   background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 999px;
   font: inherit; font-size: 0.8rem; letter-spacing: 0.04em; cursor: pointer;
 }
-.furi-toggle .knob { width: 26px; height: 14px; border-radius: 7px; background: var(--line); position: relative; transition: background 0.15s; }
-.furi-toggle .knob::after {
+.furi-toggle .knob, .en-toggle .knob { width: 26px; height: 14px; border-radius: 7px; background: var(--line); position: relative; transition: background 0.15s; }
+.furi-toggle .knob::after, .en-toggle .knob::after {
   content: ""; position: absolute; top: 2px; left: 2px; width: 10px; height: 10px; border-radius: 50%;
   background: var(--muted); transition: transform 0.15s, background 0.15s;
 }
-.furi-toggle:hover, .furi-toggle:focus-visible { border-color: var(--gold); }
-.furi .furi-toggle { color: var(--gold); border-color: var(--gold); }
-.furi .furi-toggle .knob { background: #6b5a23; }
-.furi .furi-toggle .knob::after { transform: translateX(12px); background: var(--gold); }
+.furi-toggle:hover, .furi-toggle:focus-visible, .en-toggle:hover, .en-toggle:focus-visible { border-color: var(--gold); }
+.furi .furi-toggle, .eng .en-toggle { color: var(--gold); border-color: var(--gold); }
+.furi .furi-toggle .knob, .eng .en-toggle .knob { background: #6b5a23; }
+.furi .furi-toggle .knob::after, .eng .en-toggle .knob::after { transform: translateX(12px); background: var(--gold); }
 
 /* furigana: readings are in the page, shown only when toggled on */
 rt { display: none; font-size: 0.5em; letter-spacing: 0; user-select: none; }
 .furi rt { display: revert; }
 .furi .box { line-height: 2.15; padding-top: 12px; }
+
+/* English toggle: swap the bubble's Japanese text for its translation */
+.box-en { display: none; }
+.eng .box .jp { display: none; }
+.eng .box .box-en { display: inline; }
 header.site a { color: var(--muted); text-decoration: none; }
 header.site span { color: var(--gold); }
 

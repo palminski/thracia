@@ -340,11 +340,15 @@ if (ROOT / "data" / "tokens.json").exists():
     GLOSSARY = json.loads((ROOT / "data" / "glossary.json").read_text(encoding="utf-8"))
 USED_GLOSS = set()      # glossary ids used by the page being rendered
 BOX_NO = [0]            # running number of the text window on the page being rendered
+CURRENT_EN = {}         # window number -> English translation, for the page being rendered
 
 
 def box_html(b):
     BOX_NO[0] += 1
-    return f'<p class="box" data-n="{BOX_NO[0]}" tabindex="0">{render_lines(b["lines"])}</p>'
+    etext = CURRENT_EN.get(BOX_NO[0])
+    en_html = f'<span class="box-en" lang="en">{esc(etext)}</span>' if etext else ''
+    return (f'<p class="box" data-n="{BOX_NO[0]}" tabindex="0">'
+            f'<span class="jp">{render_lines(b["lines"])}</span>{en_html}</p>')
 
 
 def load_table(name, width=3):
@@ -488,7 +492,10 @@ PAGE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} | Thracia 776 Script</title>
 <link rel="stylesheet" href="{rel}css/style.css">
-<script>try {{ if (localStorage.getItem("furigana") === "1") document.documentElement.classList.add("furi"); }} catch (e) {{}}</script>
+<script>try {{
+  if (localStorage.getItem("furigana") === "1") document.documentElement.classList.add("furi");
+  if (localStorage.getItem("english") === "1") document.documentElement.classList.add("eng");
+}} catch (e) {{}}</script>
 </head>
 <body>
 <header class="site"><div class="bar">
@@ -509,6 +516,9 @@ PAGE = """<!DOCTYPE html>
 
 FURI_TOGGLE = ('<button type="button" class="furi-toggle" aria-pressed="false" '
                'title="Show readings above kanji"><span class="knob"></span>Furigana</button>')
+EN_TOGGLE = ('<button type="button" class="en-toggle" aria-pressed="false" '
+             'title="Show the English translation instead of the Japanese text">'
+             '<span class="knob"></span>English</button>')
 
 
 def nav(idx, pages):
@@ -552,6 +562,9 @@ def main():
     for idx, (stem, slug, label, title) in enumerate(PAGES):
         USED_GLOSS.clear()
         BOX_NO[0] = 0
+        english = load_translations(slug)
+        CURRENT_EN.clear()
+        CURRENT_EN.update(english)
         raw = (SRC / f"{stem}.html").read_text(encoding="cp932")
         scenes = [s for s in Parser(raw).scenes if any(i["t"] in ("box", "note") for i in s["items"])]
         scenes = [s for s in scenes if s["title"] or any(i["t"] == "box" for i in s["items"])]
@@ -587,7 +600,6 @@ def main():
                   '<button type="button" class="gloss-close" aria-label="Close">×</button></div>'
                   '<div class="gloss-body"><p class="gloss-hint">Click a speech bubble to see its '
                   'translation and vocabulary.</p></div></aside>']
-        english = load_translations(slug)
         texts, k = {}, 0
         for s in scenes:
             for it in s["items"]:
@@ -611,7 +623,7 @@ def main():
             encoding="utf-8")
         scripts = f'<script src="gloss/{slug}.js"></script>\n<script src="../js/site.js"></script>'
         (OUT / f"{slug}.html").write_text(
-            PAGE.format(title=f"{en_label} {en_title}".strip(), rel="../", tools=FURI_TOGGLE, scripts=scripts, body="\n".join(parts), source=SOURCE_URL),
+            PAGE.format(title=f"{en_label} {en_title}".strip(), rel="../", tools=FURI_TOGGLE + EN_TOGGLE, scripts=scripts, body="\n".join(parts), source=SOURCE_URL),
             encoding="utf-8")
 
     # index
