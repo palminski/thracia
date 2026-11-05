@@ -123,7 +123,7 @@ section.scene > h2 a { color: var(--gold); text-decoration: none; }
 
 .who { flex: none; width: var(--portrait-w); margin: 0; text-align: center; }
 .who img {
-  display: block; width: var(--portrait-w); height: auto; aspect-ratio: 3 / 4; object-fit: cover;
+  display: block; width: var(--portrait-w); height: auto; aspect-ratio: 6 / 5; object-fit: cover;
   background: #3a1818; border: 2px solid var(--paper-edge); outline: 1px solid var(--gold); outline-offset: -4px;
   border-radius: 3px; image-rendering: pixelated;
 }

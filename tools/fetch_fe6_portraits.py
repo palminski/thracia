@@ -21,7 +21,7 @@ UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 # Grows chapter by chapter as new named characters show up.
 NAMES = {
     "ロイ": "roy", "リリーナ": "lilina", "エリウッド": "eliwood", "ランス": "lance",
-    "アレン": "allen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
+    "アレン": "alen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
     "ダマス": "damas",
 }
 
