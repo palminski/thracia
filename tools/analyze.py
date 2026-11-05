@@ -187,11 +187,13 @@ class Dictionary:
 # ---------------------------------------------------------------- analysis --
 
 class Analyzer:
-    def __init__(self):
+    def __init__(self, proper=None, dic=None):
         self.tagger = fugashi.Tagger()
-        self.dic = Dictionary()
-        self.proper = {jp: name for jp, name in en.NAMES.items()}
-        self.proper.update(PROPER)
+        self.dic = dic if dic is not None else Dictionary()
+        if proper is None:
+            proper = {jp: name for jp, name in en.NAMES.items()}
+            proper.update(PROPER)
+        self.proper = proper
         fixed = sorted(list(self.proper) + list(COMPOUNDS), key=len, reverse=True)
         self.fixed_re = re.compile("(" + "|".join(map(re.escape, fixed)) + ")")
         self.glossary, self.gloss_ids = [], {}
@@ -316,9 +318,11 @@ class Analyzer:
         return [s, segs, self.gid(t["form"], "", "")]       # no dictionary entry
 
 
-def main():
-    script = json.loads((ROOT / "data" / "script.json").read_text(encoding="utf-8"))
-    an = Analyzer()
+def run(script_path, tokens_path, glossary_path, proper=None, dic=None):
+    """Tokenize every line in script_path's pages, write tokens_path + glossary_path.
+    Reusable for other games' script.json files - see tools/analyze_fe6.py."""
+    script = json.loads(script_path.read_text(encoding="utf-8"))
+    an = Analyzer(proper=proper, dic=dic)
     result, bad = {}, 0
     for page in script.values():
         for scene in page["scenes"]:
@@ -334,13 +338,18 @@ def main():
                             bad += 1
                             continue
                         result[text] = toks
-    (ROOT / "data" / "tokens.json").write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
-    (ROOT / "data" / "glossary.json").write_text(json.dumps(an.glossary, ensure_ascii=False), encoding="utf-8")
+    tokens_path.write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
+    glossary_path.write_text(json.dumps(an.glossary, ensure_ascii=False), encoding="utf-8")
+    nogloss = sum(1 for g in an.glossary if not g[2])
+    print(f"{len(result)} lines, {bad} skipped; {len(an.glossary)} glossary entries, {nogloss} without a gloss")
+    return an
+
+
+def main():
+    run(ROOT / "data" / "script.json", ROOT / "data" / "tokens.json", ROOT / "data" / "glossary.json")
     old = ROOT / "data" / "furigana.json"
     if old.exists():
         old.unlink()
-    nogloss = sum(1 for g in an.glossary if not g[2])
-    print(f"{len(result)} lines, {bad} skipped; {len(an.glossary)} glossary entries, {nogloss} without a gloss")
 
 
 if __name__ == "__main__":

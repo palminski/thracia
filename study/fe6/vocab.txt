@@ -1,0 +1,308 @@
+# Central word list: key | reading | meaning.   Key = dictionary form as normally written.
+# A key may carry "#tag" to separate different senses of the same word; the tag is not shown.
+大陸|たいりく|continent
+エレブ|エレブ|Elibe (the continent)
+天敵|てんてき|natural enemy, natural predator
+持つ|もつ|to have, to hold
+人|ひと|person, people, human
+広がる|ひろがる|to spread, to extend
+いくつも|いくつも|many, quite a few
+文化|ぶんか|culture
+築き上げる|つくきあげる|to build up
+西|にし|west
+大陸一|たいりくいち|best on the continent
+華やかだ|はなやかだ|splendid, glamorous
+高度|こうど|advanced, high-level
+誇る|ほこる|to be proud of, to boast
+エトルリア|エトルリア|Etruria
+王国|おうこく|kingdom
+東|ひがし|east
+派手さ|はでさ|flashiness, showiness
+堅実|けんじつ|steady, reliable
+気風|きふう|spirit, character (of a people)
+よし|よし|good, fine (= 良し)
+良い|よい|good
+ベルン|ベルン|Bern
+二つ|ふたつ|two
+中心|ちゅうしん|center
+挟まれる|はさまれる|to be sandwiched, to be wedged between
+かたち|かたち|form, shape
+小勢力|しょうせいりょく|minor power
+続く|つづく|to continue
+複数|ふくすう|multiple, several
+領主たち|りょうしゅたち|lords (plural)
+手を結ぶ|てをむすぶ|to join hands, to form an alliance
+二大王国|にだいおうこく|the two great kingdoms
+リキア|リキア|Lycia
+同盟|どうめい|alliance
+民|たみ|people, citizens
+共に|ともに|together with
+荒地|あれち|wasteland
+切り開く|きりひらく|to clear, to open up (land)
+イリア|イリア|Ilia
+地方|ちほう|region
+諸|しょ|various, several
+騎士団|きしだん|order of knights
+広大|こうだい|vast
+草原|そうげん|grassland, plains
+馬|うま|horse
+駆け巡る|かけめぐる|to ride/run around
+サカ|サカ|Sacae
+部族|ぶぞく|tribe
+それら|それら|those, they
+力|ちから|power, strength
+バランス|バランス|balance
+小さな|ちいさな|small
+争い|あらそい|conflict, dispute
+全体|ぜんたい|the whole, overall
+安定|あんてい|stability
+保つ|たもつ|to maintain, to keep
+ところが|ところが|however
+突然|とつぜん|suddenly
+もろい|もろい|fragile
+崩れ去る|くずれさる|to crumble away
+国王|こくおう|king
+ゼフィール|ゼフィール|Zephiel
+命|めい|order, command
+各地|かくち|various places
+開始する|かいしする|to begin, to start
+攻め込む|せめこむ|to invade, to attack into
+抵抗する|ていこうする|to resist
+もの|もの|one who, those who
+ことごとく|ことごとく|utterly, completely
+討ち果たす|うちはたす|to strike down, to destroy
+手|て|hand; reach, influence
+伸び始める|のびはじめる|to begin to extend/reach
+東部|とうぶ|eastern part
+領土|りょうど|territory
+フェレ|フェレ|Pherae
+周辺|しゅうへん|surrounding area
+治める|おさめる|to govern, to rule
+侯|こう|marquess, lord
+嫡男|ちゃくなん|eldest son, heir
+次期|じき|next (in line)
+領主|りょうしゅ|lord
+大都市|だいとし|great city
+オスティア|オスティア|Ostia
+留学する|りゅうがくする|to study abroad
+病中|びょうちゅう|while ill
+帰国|きこく|returning to one's country
+命じる|めいじる|to order, to command
+親友|しんゆう|close friend
+名代|みょうだい|representative, proxy
+愛娘|まなむすめ|beloved daughter
+見舞い|みまい|a visit (to someone ill)
+向かう|むかう|to head toward
+後|あと|after
+追う|おう|to chase, to follow
+忠臣たち|ちゅうしんたち|loyal retainers
+従う|したがう|to follow, to obey
+帰路|きろ|the way home
+護衛|ごえい|escort, guard
+付ける|つける|to attach, to assign
+重騎士|じゅうきし|great knight (heavy cavalry)
+従える|したがえる|to bring along, to have accompany
+海路|かいろ|sea route
+故郷|こきょう|home town, homeland
+目指す|めざす|to aim for, to head for
+物語|ものがたり|story, tale
+領|りょう|domain, territory
+すぐそば|すぐそば|right nearby
+戻る|もどる|to return
+始まる|はじまる|to begin
+連中|れんちゅう|the group, those guys
+城|しろ|castle
+こもる|こもる|to shut oneself in
+ようだ|ようだ|it seems
+かつて|かつて|once, formerly
+一|いち|number one, best
+騎士|きし|knight
+うたう|うたう|to sing, to be hailed (as)
+さすがに|さすがに|even so, as expected
+病|やまい|illness
+勝てる|かてる|to be able to win
+攻めてくる|せめてくる|to come attacking
+辺り|あたり|area, vicinity
+手うす|てうす|thinly defended, understaffed
+よみ|よみ|reading, prediction
+ズバリ|ズバリ|exactly, precisely
+当たり前|あたりまえ|obvious, natural
+助け|たすけ|help
+くる|くる|to come
+限る|かぎる|to be limited to
+ヤロウども|ヤロウども|you bastards
+片付けてしまう|かたづけてしまう|to finish off, to deal with completely
+そうすれば|そうすれば|if that happens, if you do that
+お宝|おたから|treasure
+取りたい放題|とりたいほうだい|free to take as much as one likes
+中|なか|inside
+だけ|だけ|only, just
+ありか|ありか|whereabouts, location
+騒いでいる|さわいでいる|to be making a fuss, to be in an uproar
+間|あいだ|while, during
+村|むら|village
+襲う|おそう|to attack, to raid
+大変です|たいへんです|it's terrible, this is bad
+すぐそこ|すぐそこ|right there, nearby
+このような|このような|like this, such
+体|からだ|body
+好きにさせる|すきにさせる|to let (someone) do as they please
+ゴホッ|ゴホッ|*cough*
+かくれていなさい|かくれていなさい|hide! (command)
+もうすぐ|もうすぐ|soon
+戦場|せんじょう|battlefield
+戦います|たたかいます|will fight
+ばか|ばか|foolish, nonsense
+言う|いう|to say
+もしものこと|もしものこと|something happening (to someone), the worst happening
+あったら|あったら|if there were
+顔向け|かおむけ|facing (someone), looking (someone) in the eye
+できる|できる|to be able to
+お父様|おとうさま|Father (polite)
+大丈夫|だいじょうぶ|alright, fine
+近く|ちかく|nearby
+はず|はず|should be, expected to be
+それまで|それまで|until then
+持ちこたえる|もちこたえる|to hold out, to hold on
+なんとか|なんとか|somehow
+元|もと|place, side (of someone)
+使者|ししゃ|messenger
+やる|やる|to do, to send
+急|きゅう|urgent
+知らせる|しらせる|to inform, to let know
+あわてて|あわてて|in a panic, hastily
+取り囲む|とりかこむ|to surround
+攻撃|こうげき|attack
+なんだと|なんだと|what did you say!?
+どう|どう|how
+される|される|to be done (passive)
+城内|じょうない|inside the castle
+おびき寄せる|おびきよせる|to lure in
+防ぐ|ふせぐ|to defend against, to ward off
+ご無事|ごむじ|safety, being unharmed
+方|かた|person (polite)
+おる|おる|to be, to exist (humble/dialect)
+そば|そば|side, nearby
+心配|しんぱい|worry
+いつまでも|いつまでも|forever
+続くものではない|つづくものではない|is not something that will last
+こんなこと|こんなこと|a thing like this
+先に|さきに|ahead, first
+行かせる|いかせる|to let (someone) go
+くやむ|くやむ|to regret
+とにかく|とにかく|anyway, in any case
+急ぎましょう|いそぎましょう|let's hurry
+救出する|きゅうしゅつする|to rescue
+もう|もう|already
+近づかせる|ちかづかせる|to let (someone) get close
+お金|おかね|money
+大切|たいせつ|important, precious
+長い|ながい|long
+人生|じんせい|life
+なにがあるかわからない|なにがあるかわからない|you never know what might happen
+ムダづかい|むだづかい|wasting money
+あとで|あとで|later
+苦労する|くろうする|to suffer, to have a hard time
+戦い|たたかい|battle
+勝つ|かつ|to win
+地形|ちけい|terrain
+うまく|うまく|skillfully, well
+利用する|りようする|to make use of
+森|もり|forest
+木々|きぎ|trees
+ジャマ|じゃま|hindrance, obstacle
+敵|てき|enemy
+当たる|あたる|to hit
+国境|こっきょう|border
+侵す|おかす|to invade, to violate
+攻め込んでくる|せめこんでくる|to come invading
+諸侯|しょこう|the lords
+組む|くむ|to form, to join together
+迎え討つ|むかえうつ|to meet in battle, to face in defense
+相手|あいて|opponent
+大国|たいこく|great power, major nation
+たのみ|たのみ|reliance, the one relied on
+心配だ|しんぱいだ|to be worrying
+お城|おしろ|castle (polite)
+少ない|すくない|few, little
+みんな|みんな|everyone
+気持ち|きもち|feelings, sentiment
+役に立てる|やくにたてる|to make use of, to put to use
+ください|ください|please
+バカども|ばかども|you fools
+ごとき|ごとき|the likes of, mere
+てこずる|てこずる|to have trouble with, to be given a hard time by
+強い|つよい|strong
+おお|おお|oh!
+無事|むじ|safe, unharmed
+遠く|とおく|far away
+ご苦労|ごくろう|hard work, well done
+こうして|こうして|like this, in this way
+生き永らえる|いきながらえる|to survive, to go on living
+さっそく|さっそく|promptly, right away
+わざわざ|わざわざ|specially, going out of one's way
+呼び戻す|よびもどす|to call back, to summon back
+理由|りゆう|reason
+分かる|わかる|to understand
+かわり|かわり|in place of, instead
+率いる|ひきいる|to lead
+参加する|さんかする|to participate, to join
+知っての|しっての|knowing (that)
+とおり|とおり|as, in the way that
+われら|われら|we
+古き|ふるき|old, ancient
+盟約|めいやく|pact, covenant
+守る|まもる|to protect, to defend
+出す|だす|to send out, to put out
+留学|りゅうがく|study abroad
+途中|とちゅう|in the middle of, partway
+忍びない|しのびない|hard to bear, reluctant
+なにしろ|なにしろ|after all, in any case
+足|あし|leg, foot
+引っ張る|ひっぱる|to pull, to hold back
+行く|いく|to go
+力になる|ちからになる|to be of help
+戻りなさい|もどりなさい|go back (command)
+どうして|どうして|why
+主|しゅ|lord, master
+いない|いない|not present, absent
+不安|ふあん|anxiety, uncertainty
+毎日|まいにち|every day
+跡とり娘|あととりむすめ|heir (daughter)
+果たす|はたす|to fulfill, to carry out
+義務|ぎむ|duty, obligation
+手配済み|てはいずみ|already arranged
+傭兵団|ようへいだん|mercenary company
+合流する|ごうりゅうする|to join up with
+気|き|disposition, timidity
+小さい|ちいさい|small, timid
+物知り|ものしり|knowledgeable person
+ゆえ|ゆえ|because, for that reason
+役に立つ|やくにたつ|to be useful
+なにからなにまで|なにからなにまで|for everything, in every way
+やれる|やれる|to be able to do
+継ぐ|つぐ|to succeed, to inherit
+見事|みごと|splendid, admirable
+戦ってくる|たたかってくる|to go and fight
+お願い|おねがい|a favor, a request
+わかっております|わかっております|I understand (polite)
+お供する|おともする|to accompany (humbly)
+必ずや|かならずや|surely, without fail
+お守りする|おまもりする|to protect (humbly)
+ありがとう|ありがとう|thank you
+気をつける|きをつける|to take care, to be careful
+侵攻|しんこう|invasion
+父|ちち|father
+隠れる|かくれる|to hide
+戦う|たたかう|to fight
+慌てる|あわてる|to panic, to hurry
+急ぐ|いそぐ|to hurry
+カンタン|かんたん|simple, easy (= 簡単)
+土地|とち|land, territory
+一緒|いっしょ|together
+本隊|ほんたい|main force, main unit
+魔法|まほう|magic
+ある|ある|to exist, to happen
+ない|ない|to not exist, there is not
+足をひっぱる|あしをひっぱる|to hold someone back, to be a burden (lit. "pull someone's leg")
+する|する|to do

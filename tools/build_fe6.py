@@ -105,7 +105,7 @@ def load_table(name, width=3):
 
 
 VOCAB = load_table("vocab")
-GRAMMAR = load_table("grammar", 3)
+GRAMMAR = load_table("grammar", 4)
 STUDY_PROBLEMS = []
 
 
@@ -153,6 +153,30 @@ def load_translations(slug):
 
 CURRENT_EN = {}
 
+# Word analysis made by tools/analyze_fe6.py (optional: without it, pages have plain text).
+TOKENS, GLOSSARY = {}, []
+if (ROOT / "data" / "fe6_tokens.json").exists():
+    TOKENS = json.loads((ROOT / "data" / "fe6_tokens.json").read_text(encoding="utf-8"))
+    GLOSSARY = json.loads((ROOT / "data" / "fe6_glossary.json").read_text(encoding="utf-8"))
+USED_GLOSS = set()
+
+
+def ruby(text):
+    """Script text with each word wrapped for lookup and <ruby> readings on kanji."""
+    words = TOKENS.get(text)
+    if not words:
+        return esc(text)
+    out = []
+    for surface, segs, gid in words:
+        inner = esc(surface) if not segs else "".join(
+            f"<ruby>{esc(s)}<rt>{esc(r)}</rt></ruby>" if r else esc(s) for s, r in segs)
+        if gid is None:
+            out.append(inner)
+        else:
+            USED_GLOSS.add(gid)
+            out.append(f'<span class="w" data-g="{gid}">{inner}</span>')
+    return "".join(out)
+
 
 def portrait_key(speaker):
     """File name (without .png) looked up in img/portraits/ for a speaker."""
@@ -169,7 +193,7 @@ def portrait_src(key):
 def render_lines(lines):
     out = []
     for line in lines:
-        buf = "".join(esc(v) for _, v in line)
+        buf = "".join(ruby(v) for _, v in line)
         out.append(f'<span class="ln">{buf}</span>')
     return "<br>\n".join(out)
 
@@ -263,9 +287,10 @@ def nav(idx, pages):
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     (WEB / "img" / "portraits").mkdir(parents=True, exist_ok=True)
-    stats, studied, portraits = [], [], {}
+    stats, studied, portraits, script_data = [], [], {}, {}
     for idx, (stem, slug, label, title) in enumerate(PAGES):
         BOX_NO[0] = 0
+        USED_GLOSS.clear()
         english = load_translations(slug)
         CURRENT_EN.clear()
         CURRENT_EN.update(english)
@@ -277,6 +302,7 @@ def main():
         scenes = [s for s in Fe6Parser(raw).scenes if s["items"]]
         boxes = sum(1 for s in scenes for i in s["items"] if i["t"] == "box")
         stats.append((slug, len(scenes), boxes))
+        script_data[slug] = {"label": label, "title": title, "scenes": scenes}
 
         toc = "\n".join(f'<li><a href="#s{n}">{esc(tr(en.title, s["title"]))}</a></li>'
                          for n, s in enumerate(scenes, 1))
@@ -309,7 +335,8 @@ def main():
 
         (OUT / "gloss").mkdir(exist_ok=True)
         (OUT / "gloss" / f"{slug}.js").write_text(
-            "window.GLOSS={};\n"
+            "window.GLOSS=" + json.dumps({g: GLOSSARY[g] for g in sorted(USED_GLOSS)},
+                                         ensure_ascii=False, separators=(",", ":")) + ";\n"
             "window.EN=" + json.dumps(english, ensure_ascii=False, separators=(",", ":")) + ";\n"
             + ("window.STUDY=" + json.dumps(study, ensure_ascii=False, separators=(",", ":")) + ";\n"
                if study else ""),
@@ -333,6 +360,9 @@ def main():
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL),
         encoding="utf-8")
+
+    (ROOT / "data" / "fe6_script.json").write_text(
+        json.dumps(script_data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     placeholder = WEB / "img" / "placeholder.svg"
     if not placeholder.exists():

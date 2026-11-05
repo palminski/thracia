@@ -21,9 +21,12 @@ import re
 TOKEN = re.compile(r"<[^>]*>|[^<]+")
 TAG = re.compile(r"<\s*(/?)\s*([A-Za-z0-9]+)([^>]*)>")
 CLASS = re.compile(r'class="([^"]*)"')
+# Screen-position note right after a speaker's name starts, e.g. " (右)", " (中央左)",
+# " (左端)" - where their portrait sits, not something they say. Strip it, don't display it.
+POS_TAG = re.compile(r"^\s*[\(（](中央)?[右左](端)?[\)）]")
 
 # tag that must close for each capture label
-_CLOSES = {"h2": "h2", "note": "p", "name": "span", "discard": "p", "keywait": "span"}
+_CLOSES = {"h2": "h2", "note": "p", "name": "span", "discard": "p", "keywait": "span", "script": "script"}
 
 
 class Fe6Parser:
@@ -35,10 +38,17 @@ class Fe6Parser:
         self.buf = []
         self.capture = None  # (label, [text pieces])
         self.keywait_count = 0
+        self.expect_pos_tag = False
         main = re.search(r"<main.*?</main>", text, re.S)
         body = main.group(0) if main else text
         start = body.find("<h2")
         body = body[start:] if start != -1 else ""
+        # Pages embed a Cloudflare beacon <script> plus a last-updated/credits <dl> block
+        # after the real content, both still inside </main> - cut at the first stray
+        # </body> that marks the end of the actual transcription.
+        end = body.find("</body>")
+        if end != -1:
+            body = body[:end]
         self.run(body)
         self.flush_window()
         if self.keywait_count == 0:
@@ -86,6 +96,9 @@ class Fe6Parser:
 
     def add_text(self, text):
         text = text.replace("\r", "").replace("\n", "")
+        if self.expect_pos_tag:
+            self.expect_pos_tag = False
+            text = POS_TAG.sub("", text, count=1)
         if text:
             self.buf.append(("text", text))
 
@@ -117,7 +130,8 @@ class Fe6Parser:
                     kind = "cond" if text.startswith("※") else "dir"
                     self.emit({"t": "note", "kind": kind, "text": text})
                 elif label == "name":
-                    self.speaker = text
+                    self.speaker = text.strip("[]")
+                    self.expect_pos_tag = True
                 elif label == "keywait":
                     self.flush_window()
                 # "discard" (gotomenu): nothing to do, just drop the text
@@ -130,6 +144,8 @@ class Fe6Parser:
             self.capture = ("note", [])
         elif name == "p" and cls == "gotomenu" and not closing:
             self.capture = ("discard", [])
+        elif name == "script" and not closing:
+            self.capture = ("script", [])  # inert CDN/analytics boilerplate, not game text
         elif name == "span" and cls == "face_name" and not closing:
             self.flush_window()  # a new named speaker closes whatever came before
             self.capture = ("name", [])

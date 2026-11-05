@@ -1,0 +1,113 @@
+1	On the continent of Elibe, humankind, which had no natural predators, spread far and wide
+2	and built up countless civilizations.
+3	To the west, the Kingdom of Etruria, proud of its sophisticated culture and the most prosperous in the land,
+4	and to the east, the Kingdom of Bern, which valued a plain but steady culture and a spirit of simple strength.
+5	These two kingdoms formed the center, with smaller powers strung out between them.
+6	The Lycian League, where multiple lords joined hands against the two great kingdoms,
+7	the knighthoods of the Ilia region, who cleared the wastelands together with the people,
+8	and the tribes of the Sacae region, who rode their horses across the vast plains.
+9	Through the balance of these powers, aside from the occasional small conflict,
+10	the continent as a whole had kept its stability...
+11	But that stability suddenly and fragilely crumbled away.
+12	The great eastern kingdom of Bern, under the order of King Zephiel, began invading one region after another.
+13	The Bernese army invaded regions such as Sacae and Ilia, utterly destroying all who resisted.
+14	And now that hand had begun to reach toward the Lycia region as well.
+15	Roy, the eldest son of Lord Eliwood of Pherae, who governed the territory around Pherae in eastern Lycia,
+16	had gone to study in Ostia, the greatest city in Lycia, in order to become the next lord.
+17	But his father Eliwood, who was ill, suddenly ordered him to return home.
+18	That was after, as Hector's representative,
+19	Lilina, the beloved daughter of Eliwood's close friend Lord Hector of Ostia, had set out for Pherae to visit him.
+20	Chasing right after her, Roy, along with Pherae's loyal retainers who followed him,
+21	brought along Bors, the Ostian great knight assigned to escort Lilina on her way back,
+22	and set out by sea for his homeland of Pherae.
+23	And so our story begins just as Roy and his companions return to the edge of Pherae's domain...
+24	Boss!
+25	Looks like they've shut themselves up in the castle.
+26	Heh. Even Lord Eliwood of Pherae, once hailed as the finest knight in Lycia—
+27	—I guess even he can't beat an illness, huh?
+28	Heheh, with Bern attacking, this area's left pretty thin on defenses.
+29	Your read on it was spot on, boss!
+30	Course it was. But there's no telling when help might show up.
+31	Alright, you lot! Finish off everyone in that castle before that happens!
+32	Do that, and all the treasure in the castle's ours for the taking.
+33	Heh heh heh, the castle's not the only place with treasure, you know.
+34	While they're all busy over there, how about we hit the village too?
+35	Lord Eliwood, this is terrible!
+36	Bandits from Mount Bolm are right outside...
+37	I see...
+38	Ngh... if I weren't in this condition, I'd never let them have their way... *cough* *cough*
+39	Uncle...
+40	Lilina, go and hide. This place will soon become a battlefield.
+41	No... I'll fight too! I'll fight as well!
+42	Don't talk nonsense.
+43	If anything were to happen to you, I wouldn't be able to face Hector again.
+44	Face Father? B-but...
+45	It'll be fine. Roy should be back nearby by now.
+46	If we can just hold out until then, we should manage somehow.
+47	Marinus!
+48	Send a messenger to Roy and the others — tell them it's urgent!
+49	Y-y-yes, sir!
+50	Isn't that Lance? What's wrong? You look frantic.
+51	Lord Roy! Bandits have surrounded the castle and are attacking it!!
+52	Wh-what!? What's happened to Lord Eliwood and the others?
+53	Right now he's drawing the enemy into the castle to hold them off, but in his condition...
+54	L-Lord Lance, was it!? What about Lady Lilina? Is she safe?
+55	! You must be from Ostia. Lady Lilina is in the castle too.
+56	As long as she stays by Lord Eliwood's side, there's no need to worry, but...
+57	—that won't last forever.
+58	Damn it... if I'd known this would happen, I never should have let Lilina go on ahead.
+59	Lord Roy, there's time to regret this later. For now, to the castle!
+60	Wolt is right. Lord Roy, let's hurry!
+61	Right.
+62	Alright, let's go, everyone! We're going to rescue Father and the others!
+63	Tch! They're already here?
+64	But I'm not about to let you get to that castle so easily!!
+65	You should take good care of your money, you know? Life is long, and you never know what might happen.
+66	If you waste it, you might end up suffering for it later.
+67	If you want to win a battle, you'd do well to make good use of the terrain.
+68	If you're in a forest, the trees get in the way, so enemy attacks should be less likely to hit you.
+69	They say Bernese soldiers have crossed the border and invaded Lycia.
+70	The lords are forming an alliance to meet them in battle, but the enemy is that great nation Bern, after all.
+71	And Lord Eliwood, who we're counting on, is in that condition... It's worrying, isn't it...
+72	Um! You're heading to the castle now, aren't you?
+73	Here, it's not much, but it's a token of feeling from everyone in the village.
+74	Please put it to good use!
+75	You fools.
+76	Giving us this much trouble, and from the likes of them!
+77	Gah...? Strong...
+78	Father! Lilina!
+79	Oh, Roy!
+80	Roy!
+81	Father! Lilina!! ...I'm glad you're both safe.
+82	Roy, you've come a long way. Well done.
+83	No, more importantly, Father, how is your health?
+84	I'm fine. As you can see, I'm still alive and well enough.
+85	Now then, Roy, let's get right to it.
+86	You understand why I went to the trouble of calling you back to Pherae... don't you?
+87	It's so that I can lead Pherae's army in your place and join the Lycian Alliance army, isn't it?
+88	Indeed. As you know, the great eastern nation of Bern has begun its invasion of this land of Lycia.
+89	We must send out an army to defend this land, in accordance with the ancient pact of the lords' alliance.
+90	Yes, sir.
+91	I was reluctant to call you back while you were still partway through your studies abroad, but...
+92	After all, with this body of mine... I can't very well be the one holding everyone back.
+93	Father...
+94	Uncle Eliwood, I'll go together with Roy!
+95	Father should be with the main force of the Alliance army, and if my magic can be of even a little help to Roy...
+96	No, Lilina. You should go back to Ostia.
+97	Eh... why?
+98	In Ostia, with no lord there right now, the people must be living in anxious uncertainty every day.
+99	As the heir of Ostia, you have a duty you must fulfill.
+100	You understand, don't you?
+101	...Yes.
+102	Roy, first go and join up with the mercenary company already arranged at the border with Bern.
+103	I'll have Marinus go with you as well. He's timid, but he's knowledgeable, so he'll be useful.
+104	Thank you for everything, Father.
+105	It'll be fine. I know you can do it.
+106	Go and fight splendidly, as one who will inherit the House of Pherae!
+107	Yes, sir!
+108	Bors... I have a favor to ask.
+109	I understand already.
+110	In Lady Lilina's place, I shall accompany him — I will surely protect Lord Roy.
+111	Thank you.
+112	Roy... take care, okay?
+113	Right. You too, Lilina!
