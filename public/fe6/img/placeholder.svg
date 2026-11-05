@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 64" shape-rendering="crispEdges">
+  <rect width="48" height="64" fill="#4a3a2c"/>
+  <rect y="44" width="48" height="20" fill="#352820"/>
+  <!-- head + shoulders silhouette -->
+  <rect x="17" y="12" width="14" height="4" fill="#ab977d"/>
+  <rect x="15" y="16" width="18" height="16" fill="#ab977d"/>
+  <rect x="17" y="32" width="14" height="4" fill="#ab977d"/>
+  <rect x="20" y="36" width="8" height="4" fill="#96836c"/>
+  <rect x="10" y="40" width="28" height="4" fill="#ab977d"/>
+  <rect x="6" y="44" width="36" height="20" fill="#ab977d"/>
+</svg>

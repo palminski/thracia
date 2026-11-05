@@ -1,0 +1,2 @@
+window.GLOSS={};
+window.EN={};
