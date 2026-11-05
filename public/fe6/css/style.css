@@ -13,7 +13,7 @@
   --text: #e8dcdc;
   --muted: #c29e9e;
   --line: #6a3b3b;
-  --portrait-w: 96px;
+  --portrait-w: 132px;
 }
 
 * { box-sizing: border-box; }
@@ -126,6 +126,7 @@ section.scene > h2 a { color: var(--gold); text-decoration: none; }
   display: block; width: var(--portrait-w); height: auto; aspect-ratio: 6 / 5; object-fit: cover;
   background: #3a1818; border: 2px solid var(--paper-edge); outline: 1px solid var(--gold); outline-offset: -4px;
   border-radius: 3px; image-rendering: pixelated;
+  filter: contrast(1.18) saturate(1.12) brightness(0.92);
 }
 .turn.l .who img { transform: scaleX(-1); }
 .who figcaption { margin-top: 4px; font-size: 0.72rem; line-height: 1.3; color: var(--gold); overflow-wrap: anywhere; }
@@ -172,7 +173,7 @@ section.scene > h2 a { color: var(--gold); text-decoration: none; }
 .turn.narration .box.on { background: #3b1616; border-color: var(--gold); }
 
 @media (max-width: 560px) {
-  :root { --portrait-w: 60px; }
+  :root { --portrait-w: 76px; }
   body { font-size: 16px; }
   .turn { gap: 14px; }
   .box { padding: 8px 12px 9px; font-size: 1rem; }
