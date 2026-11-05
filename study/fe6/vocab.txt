@@ -306,3 +306,6 @@
 ない|ない|to not exist, there is not
 足をひっぱる|あしをひっぱる|to hold someone back, to be a burden (lit. "pull someone's leg")
 する|する|to do
+父上|ちちうえ|Father (formal/archaic term of address, used by children)
+おじさま|おじさま|uncle (polite/affectionate address)
+わし|わし|I, me (older male speaker)
