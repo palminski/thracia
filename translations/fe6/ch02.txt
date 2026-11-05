@@ -1,0 +1,166 @@
+1	The Kingdom of Bern, a great power in the eastern part of the continent, bordering the Marquisate of Pherae in the Lycia region.
+2	Near that border, along the mountains, there is a small village.
+3	Roy's Pherae army was scheduled to rendezvous in this village with a company of mercenaries that Eliwood was said to have hired.
+4	Just beyond the mountain to the east of that village, a castle guarding the Bern border comes into view.
+5	And just as Roy and the others arrived at the village, an unusual commotion was unfolding inside that castle.
+6	That this would eventually grow into something that would greatly shake the state of the world—
+7	—of this, Roy and the others had no way of knowing yet...
+8	That's why I'm asking where Her Highness, the king's sister, actually is!
+9	W-well, as I said, Lady Miledy, this morning she was certainly in her room...
+10	I've heard that already, many times!
+11	What I'm asking is where she is right now.
+12	T-that is...
+13	The decisive battle with the Lycian Alliance is close at hand.
+14	What will you do if something happens to Her Highness!?
+15	......
+16	Suddenly wanting to see the border, of all things... I really should have stopped her.
+17	I'm going back to the capital to report this.
+18	I'll see to it that this doesn't become too much of a problem, so you — find Her Highness, without fail!
+19	Yes, ma'am!
+20	Any change with Princess Guinivere?
+21	Sir, as ordered, we're keeping watch on her in a room underground.
+22	Good. Don't let her escape, no matter what.
+23	I-is this really alright, doing something like this...?
+24	Don't worry. There's no shortage of powers hostile to our country right now.
+25	The Bernese king's own sister... whoever we hand her over to is bound to pay enough gold for us to live comfortably.
+26	......
+27	Serving this country isn't going to get us anywhere anyway.
+28	So we'd be better off thinking of a quick way to make money, wouldn't we?
+29	Y-yes, sir.
+30	...But there is one problem with that plan...
+31	? What do you mean?
+32	A little while ago... there was a report that the nun attending Princess Guinivere has escaped...
+33	What did you say!? You fool, why didn't you say so sooner!!
+34	Find her at once! We absolutely cannot let her get away!
+35	Lord Roy, this should be about the spot.
+36	The place where we're supposed to meet the mercenary company we hired?
+37	Yes.
+38	...But I don't see any sign of them yet.
+39	Oh? Lord Roy, there's someone coming from over there...
+40	Ah! Watch out!!
+41	I-I'm sorry... I was in a hurry, and... um...
+42	About bumping into me? I'm fine.
+43	More importantly, are you alright?
+44	Ah... I'm fine... thank you very much.
+45	I'm glad you're not hurt.
+46	Um... you're from Lycia, aren't you?
+47	Yes, I'm Roy, son of the lord of this Pherae territory.
+48	Oh...! Thank the gods! I'm so grateful for your guidance!!
+49	Eh?
+50	Please, could you help... my mistress?
+51	What happened?
+52	My mistress came all this way to meet with someone from the Lycian Alliance.
+53	But... she fell into a trap set by Lord Rude, the nearby castle's lord, and was captured.
+54	L-Lord Roy! You mustn't!
+55	Getting into an unnecessary fight with Bern here would not be a wise move!
+56	But I can't just abandon someone who came all this way to meet with the Lycian lords.
+57	Though you're right that acting carelessly...
+58	!!
+59	There she is! Over there!!
+60	No matter what, get that woman back!! The order says it doesn't matter if she's alive or dead!
+61	Ahh...
+62	Marinus, they're the ones starting this. So there's no helping it if we take them on, right?
+63	Oh dear. Even if I said not to, you wouldn't listen anyway, would you?
+64	Well then, let's see how much you've grown during your time in Ostia.
+65	Alright! We're pushing on toward the castle at the Bern border!!
+66	Sister! You should get somewhere safe...
+67	No, please take me with you.
+68	I can't fight, but I can help heal those who are hurt.
+69	Eh, but...
+70	I know I've suddenly shown up and am asking for a selfish favor...
+71	But please, let me be of at least some help.
+72	Alright. In exchange, please don't push yourself too hard.
+73	Yes. Thank you for your consideration.
+74	It should be around here...
+75	Shanna—
+76	Go check whether Pherae's army is nearby.
+77	Okaaay.
+78	Hey, Dieck, who's our employer this time?
+79	One of the Lycian lords — the House of Pherae.
+80	Apparently their heir is joining the Lycian Alliance.
+81	So that means our opponent will be the Kingdom of Bern?
+82	That's about the shape of it.
+83	Heheh, now that's something to look forward to. My arm's itching for it.
+84	Bern, huh. Tough opponent... we'd better stay sharp.
+85	Spotted what looks like them to the west! But it seems like they're already in some kind of skirmish.
+86	What? It's already started? Let's hurry!
+87	Roy of House Pherae — that's you?
+88	And you are?
+89	I'm Dieck.
+90	I figured you'd have heard from that old man Marinus.
+91	Then you're the leader of the mercenary company?
+92	It's not really grand enough to call a "company," but yeah.
+93	Sorry about that. Didn't think the fighting would've already started.
+94	I'm sorry, there were a lot of circumstances...
+95	Nah, I'm not blaming you.
+96	If anything, everyone's fired up about getting to show off their skills already.
+97	It's a relief to hear you say that.
+98	Well then, let's hurry up and get this over with.
+99	The bow, as a weapon... holds especially strong power against enemies that fly through the sky.
+100	Get careless and approach, and a pegasus's wings get torn, a wyvern brought down to the ground.
+101	Do be very careful, now.
+102	The border fort is the key to our defense. If you're there, the fighting should be easier.
+103	It makes it easier to dodge the enemy's attacks, and it reduces the damage you take too.
+104	And little by little, it heals your wounds too.
+105	Sword, axe, lance — the three weapons have a kind of compatibility between them.
+106	Swords are strong against axes, axes are strong against lances.
+107	And lances...
+108	That's right! They're strong against swords.
+109	Swords beat axes — if you just remember that much, you should be able to work out the rest.
+110	Whew... you really saved me.
+111	When they showed up, I thought I'd try to do something with this sword, but... now that it's really happening, I'm scared.
+112	I guess someone like me really isn't cut out for it, huh. But if it's you all...
+113	My luck was finally starting to turn, and now this...
+114	Damn it!
+115	Ngh... I guess greed never... leads anywhere good...
+116	Lord Roy! There's a woman locked up in a room underground!
+117	That must be the mistress Ellen told me about. Please bring her here.
+118	Yes, sir.
+119	(If Ellen survived)
+120	Milady!!
+121	Ellen! Thank goodness, you're safe.
+122	To think that quiet, gentle Ellen would do something this reckless...
+123	I know it was out of concern for me, but I was worried about you.
+124	I... I just had to save you, milady... I wasn't thinking of anything else...
+125	It's alright. Thanks to you, I'm safe. Thank you, Ellen.
+126	So you're the one we owe our thanks to.
+127	Forgive me, but may I ask your name...?
+128	I'm Roy, son of Lord Eliwood of Pherae.
+129	...I'm sorry, I haven't given my own name yet. I am...
+130	Ah, that is...
+131	It's alright, Ellen.
+132	(If Ellen died)
+133	So you're the one we owe our thanks to.
+134	Forgive me, but may I ask your name...?
+135	I'm Roy, son of Lord Eliwood of Pherae.
+136	...I'm sorry, I haven't given my own name yet. I am...
+137	My name is Guinivere.
+138	Guinivere!? No way! But that's the name of the Bernese king's sister...
+139	That's right.
+140	Wh-what did you say!? You scoundrel, how dare you so brazenly, to us, your enemies...
+141	Marinus, wait a moment.
+142	But, Lord Roy...
+143	For now, I want to talk with her.
+144	Sorry, but could you give me a little time?
+145	Hmph. Well, if that's what you say, Lord Roy...
+146	You're really Princess Guinivere, is that right?
+147	Yes. Though you may find it hard to believe.
+148	...Setting aside whether you're really the princess of Bern or not...
+149	From your dress and bearing, I can tell you're someone of considerable standing.
+150	But if that's so, there's one thing that bothers me... when I helped Ellen—
+151	—I heard that you came all this way to meet with the Lycian lords.
+152	Yes, that's right.
+153	Why would someone of your standing, a princess of Bern, do that?
+154	I want to find a path to reconciliation... a way to end this war quickly.
+155	For that, I hoped I could speak with people from Lycia.
+156	This is a war your own brother started.
+157	Can you really stop it?
+158	I want to stop it. No — I have to stop it.
+159	...Understood.
+160	In any case, let me take you to the Lycian Alliance army.
+161	There, we'll seek the guidance of Lord Hector of Ostia, the leader of the Lycian Alliance.
+162	Really... you'll take me there?
+163	Yes. Even if it's just a small chance,
+164	if there's a path that could avoid this war, I want to bet on it.
+165	Thank you so much!
+166	Thank you... really, thank you.

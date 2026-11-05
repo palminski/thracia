@@ -54,3 +54,21 @@ nasai|〜なさい|Gentle command, from someone in a caring or superior position
 beki|verb dictionary form + べき|"Should, ought to": moral or logical obligation.|https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8D
 yue|〜ゆえ|Formal, old-fashioned "because, therefore" (= から).|
 kenjou|humble verbs|Humble speech for one's own actions: 申す (say), 参る (go/come), いたす (do).|
+toiu|A という B|"B called A": names or defines the following noun.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86-called
+naprohib|dictionary form + な|Prohibition: "don't …" (逃がすな).|https://bunpro.jp/grammar_points/%E3%81%AA
+temo|〜ても|"Even if / even though".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82
+hougaii|〜(た)方がいい|"Had better …; it would be better to …": advice.|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+toha-ienai|〜とはいえない|"Cannot be said to be …": a hedged denial.|
+wake-niwa-ikanai|〜わけにはいかない|"Can't very well …": circumstances or duty don't allow it.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%AB%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84
+nara|〜なら|"If it is the case that …; if you mean …".|https://bunpro.jp/grammar_points/123
+itadaku|〜ていただく|"To receive the favor of …; to have someone kindly do": humble benefactive.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F
+nitaishite|〜に対して|"Toward, against, with respect to".|https://bunpro.jp/grammar_points/%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6
+teoku|〜ておく|Do in advance, or leave in that state.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8A%E3%81%8F
+youtosuru|〜ようとする|"Try to …".|https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B
+naito|〜ないと|"Have to …" (short for ないといけない).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A8
+rashii|〜らしい|"Apparently": based on what one has heard or seen.|https://bunpro.jp/grammar_points/%E3%82%89%E3%81%97%E3%81%841
+wakedehanai|〜わけではない|"It's not that …; that doesn't mean …": a softened denial.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84
+tekudasaru|〜てくださる|Honorific "do for me/us": someone of higher status does a favor.|
+nakutehaikenai|〜なくてはいけない|"Must …" (= なければいけない).|
+tatoe|たとえ〜でも|"Even if …": sets up a hypothetical with ても/でも later in the sentence.|
+temiru|〜てみる|"To try doing", to do something and see how it goes.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BF%E3%82%8B

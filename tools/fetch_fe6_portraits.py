@@ -22,7 +22,9 @@ UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 NAMES = {
     "ロイ": "roy", "リリーナ": "lilina", "エリウッド": "eliwood", "ランス": "lance",
     "アレン": "alen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
-    "ダマス": "damas",
+    "ダマス": "damas", "ミレディ": "melady", "ルード": "ruud", "エレン": "elen",
+    "ディーク": "dieck", "シャニー": "shanna", "ワード": "ward", "ロット": "lot",
+    "ギネヴィア": "guinivere",
 }
 
 
