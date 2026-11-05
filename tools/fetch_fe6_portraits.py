@@ -24,7 +24,8 @@ NAMES = {
     "アレン": "alen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
     "ダマス": "damas", "ミレディ": "melady", "ルード": "ruud", "エレン": "elen",
     "ディーク": "dieck", "シャニー": "shanna", "ワード": "ward", "ロット": "lot",
-    "ギネヴィア": "guinivere",
+    "ギネヴィア": "guinivere", "ブルーニャ": "brunnya", "ゼフィール": "zephiel", "ヘクトル": "hector",
+    "チャド": "chad", "ルゥ": "lugh", "ナーシェン": "narcian", "スレーター": "slater",
 }
 
 

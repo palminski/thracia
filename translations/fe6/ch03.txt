@@ -1,0 +1,218 @@
+1	Castle Araphen, located just north of the Pherae domain.
+2	The Lycian Alliance had first gathered its main force here, and continued to deliberate over how to deal with Bern.
+3	Roy's army, bringing along Guinivere, the woman who held the key to this war,
+4	hurried to join up with the Alliance.
+5	But when they had closed to within half a day's distance of Castle Araphen,
+6	a messenger rushed in from the castle bearing urgent news,
+7	and told Roy and the others something they could hardly believe.
+8	"The Lycian Alliance army was struck by the forces of two of Bern's finest valiant generals, known as the Three Dragon Generals of Bern —
+9	General Brunya and General Narshen — and suffered a defeat close to annihilation" ...so it was said.
+10	The sudden defeat of the proud, mighty Lycian Alliance... even as he reeled in shock at the fact,
+11	Roy pressed on toward Castle Araphen, determined to confirm the extent of the damage and whether anyone had survived.
+12	Your Majesty. I have brought the enemy's leader.
+13	Bring him before me.
+14	Ngh...! Y-you're... King Zephiel of Bern!!
+15	Damn you... how dare you...
+16	Lord Hector of Ostia.
+17	To think you fought this far against two of our Bernese Dragon Generals.
+18	As befits the leader of the Lycian Alliance, I'd like to say... but...
+19	No matter how one valiant man struggles, in the end, this is as far as it goes.
+20	You'd do well to accept that.
+21	Why...
+22	Hm?
+23	My people of Lycia have, for generations, enjoyed good relations with our neighbor Bern...
+24	Even after King Zephiel took the throne, we never once neglected proper courtesy.
+25	And yet... why...
+26	Courtesy? Hmph. Don't speak of such trivial things.
+27	The Lycia region... no, this entire continent, must be ruled by me.
+28	So that I may "liberate" the world.
+29	For that purpose, I have no time to waste clinging to trifling things like "courtesy."
+30	"Liberate"... you say?
+31	That's no concern of a dying man like you. Is anyone there!
+32	Throw the Marquess of Ostia into the dungeon below!
+33	Yes, sir!
+34	Well then, Your Majesty, I shall return to the Sacae plains.
+35	Mm, I'm counting on you.
+36	...Your Majesty, forgive my impertinence, but perhaps it would be wise not to place such trust in that suspicious one...
+37	You mean Idoun?
+38	Among the soldiers, many have taken to calling her the "Priestess of Darkness,"
+39	and quite a few of them regard her presence with unease or outright loathing.
+40	However skilled a shaman she may be...
+41	Brunya. Do you doubt my judgment?
+42	N-no, not at all! I only meant...
+43	Then you need only follow my orders. Is that clear?
+44	...Yes. Everything shall be as Your Majesty wishes...
+45	"Do you doubt me," is it... Hmph, even I say such foolish things sometimes.
+46	Is it true that Lord Hector is alive!?
+47	Yeah, no mistake about it.
+48	I saw it with my own eyes — Bernese soldiers taking him into the castle.
+49	It's Chad, wasn't it?
+50	Do you know the inside of Castle Araphen well?
+51	Well, sort of.
+52	...Wait, don't tell me you lot are actually planning to go rescue him?
+53	You'd be better off giving that up.
+54	Looks like the main force went off somewhere, but there's still a fair number of troops left behind, you know?
+55	With just this army, it'd be like walking right into your own deaths.
+56	I know.
+57	But we can't afford to lose the Marquess of Ostia.
+58	Besides, the main force isn't there, is it? Then we do have a chance of winning.
+59	I see...
+60	Well then, guess I'll tag along too — I'll show you around inside the castle.
+61	Huh!? You don't have to push yourself.
+62	If you could just tell us the castle's layout, that'd be enough...
+63	Me too... I've got a grudge against Bern.
+64	Let me fight alongside you, alright?
+65	Understood.
+66	In that case, I'll be counting on you.
+67	Heheh, now that's more like it! Leave the door-lock picking and the treasure chests to me!!
+68	...Lord Roy. I'm sorry — my brother...
+69	I never imagined he'd invade Lycia this soon... I... what should I...
+70	Princess, there's no use dwelling on what's already happened. Please don't blame yourself too much.
+71	Besides, Lycia is still alright. As long as we can rescue Lord Hector safely — the Alliance's leader and its linchpin —
+72	Lycia can become one again and fight on!
+73	That's exactly why we absolutely must retake this castle, Araphen.
+74	Yes... for Lilina's sake too...
+75	......
+76	Everyone, let's go!!
+77	Alright, Father, I'll leave everyone in your care.
+78	Yes. We of the Church of Elimine will take full responsibility for watching over the orphans.
+79	Lugh, what will you do?
+80	I'm going to stay in this village a little longer. There's still something I need to do.
+81	I see... Please don't push yourself too hard.
+82	Yes. Thank you very much.
+83	Everyone, be sure to listen well to what the Father tells you.
+84	Big brother Lugh, aren't you coming with us?
+85	I'm going to wait for Chad, and then catch up with everyone after...
+86	Yay! Is big brother Chad coming too?
+87	That's right.
+88	Then, then, I'd love it if big brother Rey came along too!
+89	Yeah... it'd be nice if Rey comes back too, so everyone could go together.
+90	Alright, everyone, let's get going.
+91	See you later, big brother Lugh.
+92	Come quick, okay!
+93	Mm...
+94	Sorry, everyone.
+95	But I've decided — I won't run away anymore.
+96	Narshen!
+97	...Something seems to be causing a commotion?
+98	It's probably just the enemy's remnants making a fuss. It's nothing — mere stragglers not worth troubling over.
+99	Your Majesty, shall we make use of the "dragons"?
+100	No — even without borrowing the Priestess of Darkness's power, we can handle this ourselves...
+101	......
+102	Idoun, this time it's fine. Send the dragons back to Bern as planned.
+103	Yes. If that is Your Majesty's wish.
+104	......
+105	Well then, let us also return to Bern. Narshen, I leave Lycia's affairs to you.
+106	...What shall I do with the remnants of Lycia?
+107	Cut down any who defy us, their whole families along with them.
+108	Women and children too... I take it?
+109	Of course. Be thorough about it, until Bern's enemies lose all will to resist.
+110	As you command. Kuh-huh-huh...
+111	Hmph, what on earth does His Majesty see in that little girl.
+112	Well then, I suppose I'll be on my way too. Slater, I leave this castle to you.
+113	Are you heading out?
+114	Yes. It seems those traitors among the Lycian lords
+115	have prepared something rather amusing for me.
+116	Apparently the daughter of some Etrurian noble, or so I hear... kuh-huh-huh.
+117	A girl from Etruria... she must be quite beautiful, I'd imagine.
+118	Ah, she still has a bit of childishness about her, but I hear she's quite a beauty.
+119	That does sound like something to look forward to. Please do be careful on the road.
+120	Slater, you too — don't let the remnants of Lycia catch you off guard.
+121	Should anything like that happen, I myself will tear you to pieces.
+122	O-oh, you're teasing me...
+123	Kuh-huh-huh...
+124	(If visited with Chad)
+125	Chad! Thank goodness — you're safe!!
+126	Lugh!? Why are you in a place like this?
+127	I escaped here together with everyone.
+128	I see... So, is everyone safe?
+129	Yeah, the Church of Elimine agreed to look after them for the time being.
+130	What about you?
+131	Eh?
+132	Why are you the only one who stayed behind here?
+133	...The same reason as Chad.
+134	!? Lugh, you don't mean...!
+135	I can use a little bit of magic too, you know.
+136	See, there was just one tome of "Fire" magic in the headmaster's room, so...
+137	Lugh, don't push yourself. You can't bring yourself to hurt people, can you?
+138	But...
+139	I'll be the one to avenge the headmaster. You stay with everyone else, Lugh.
+140	I don't want to just keep hiding anymore! Before I even know it, everyone, everyone just disappears.
+141	The headmaster, Chad... even Rey... I want to fight for the people who matter to me too.
+142	Not just be protected — I want to protect too!!
+143	Lugh...
+144	...Alright, fine. Then come with me.
+145	I'll ask around to see if we can get you into that guy Roy's army.
+146	Chad! Thank you!!
+147	I really understand how you feel.
+148	Since it's come to this, let's hurry and defeat Bern so we can go bring everyone back!
+149	Yeah!
+150	(If visited by someone other than Chad)
+151	Um... you're with the Lycian army fighting against Bern... right?
+152	P-please! Let me fight alongside you too!!
+153	I might not look very dependable, but I can use a little magic!
+154	I want to help protect everyone from Bern too — please, I'm begging you!
+155	Chad! Thank goodness — you're safe!!
+156	Lugh!? Why are you in a place like this?
+157	I escaped here together with everyone.
+158	I see... So, is everyone safe?
+159	Yeah, the Church of Elimine agreed to look after them for the time being.
+160	What about you?
+161	Eh?
+162	Why are you the only one who stayed behind here?
+163	...The same reason as Chad.
+164	!? Lugh, you don't mean...!
+165	I can use a little bit of magic too, you know.
+166	See, there was just one tome of "Fire" magic in the headmaster's room, so...
+167	Lugh, don't push yourself. You can't bring yourself to hurt people, can you?
+168	But...
+169	I'll be the one to avenge the headmaster. You stay with everyone else, Lugh.
+170	I don't want to just keep hiding anymore! Before I even know it, everyone, everyone just disappears.
+171	The headmaster, Chad... even Rey... I want to fight for the people who matter to me too.
+172	Not just be protected — I want to protect too!!
+173	Lugh...
+174	Alright, since it's come to this, let's hurry and defeat Bern so we can go bring everyone back!
+175	Yeah!
+176	You lot — are you survivors of the Lycian army?
+177	Here, take this and hurry along — this area's full of Bernese soldiers.
+178	This area has been taken over by Bern, but...
+179	we're on the side of you Lycian folks, you know!
+180	Hmph, I won't lose! A-and if I do lose...
+181	Eeek!
+182	P-please forgive me... Lord Narshen...!
+183	Lord Roy, the Marquess of Ostia was in the castle's dungeon!
+184	I see! And? He's safe, isn't he?
+185	Well... he's been gravely wounded...
+186	Roy, is it...
+187	Lord Hector!! That wound... how terrible...!
+188	We need to treat it right away! Please, lean on my shoulder.
+189	It's fine... I don't have much longer...
+190	Lord Hector...
+191	...I was careless.
+192	To think Bern had revived dragons...
+193	Dragons, you say!?
+194	That's right... dragons that we humans once... fought against, long ago...
+195	You mean the "War of Dragons and Men"? I've heard of that too.
+196	The war fought long ago over supremacy between the human race and the dragon race who once divided this continent of Elibe...
+197	That's right... through the efforts of the heroes called the "Eight Legends"...
+198	in the end, humanity... was victorious...
+199	Yes, and the dragons were said to have vanished from this continent after that.
+200	...I had always believed dragons were just creatures out of legend.
+201	Everyone must have believed that... but dragons do exist... they're not something one can fight normally.
+202	How... did Bern manage to make use of dragons?
+203	I don't know... but the land where the dragons once flourished... was Bern...
+204	And Bern's... founding king was... one of the "Eight Legends"... Hartmut...
+205	Perhaps somewhere in that... lies the reason... *cough* *cough*
+206	Lord Hector!
+207	Roy... head to Ostia.
+208	And... in my place... please command the army remaining in Ostia...
+209	That's... too much for me, I...
+210	It'll be fine... Ostia has... a weapon that works against dragons too...
+211	A weapon... you mean?
+212	...My daughter, Lilina, has already been told about it...
+213	And... please look after my daughter as well...
+214	...Even if she puts on a brave face, she's still just a child...
+215	I need you... to support her...
+216	...Understood. You can count on me.
+217	...Lilina, just once more... I wanted to see her...
+218	Lord Hector!!

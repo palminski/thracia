@@ -653,3 +653,400 @@
 諸侯同盟|しょこうどうめい|the lords' alliance
 軍|ぐん|army
 金|きん|gold, money
+すぐ|すぐ|right away, nearby
+北|きた|north
+位置する|いちする|to be located
+まず|まず|first of all
+ここ|ここ|here
+主力|しゅりょく|main force
+集結する|しゅうけつする|to gather, to assemble
+対策|たいさく|countermeasure
+協議する|きょうぎする|to discuss, to deliberate
+重要|じゅうよう|important
+カギ|かぎ|key
+握る|にぎる|to hold, to grasp
+ともなう|ともなう|to accompany, to bring along
+あと|あと|another, more (time/distance)
+半日|はんにち|half a day
+距離|きょり|distance
+迫る|せまる|to draw near, to close in
+ころ|ころ|around the time of
+伝令|でんれい|messenger, dispatch
+飛び込む|とびこむ|to rush in, to dive in
+とうてい|とうてい|by no means, simply not (with negative)
+内容|ないよう|content, substance
+伝える|つたえる|to convey, to tell
+呼ぶ|よぶ|to call
+ベルンきって|ベルンきって|the best in Bern (= Bernきっての)
+勇将|ゆうしょう|valiant general
+うち|うち|among, within
+二人|ふたり|two people
+将軍|しょうぐん|general
+強襲する|きょうしゅうする|to launch a surprise attack
+全滅|ぜんめつ|annihilation, total defeat
+近い|ちかい|close, near
+敗北|はいぼく|defeat
+喫する|きっする|to suffer, to incur (a defeat)
+勇猛|ゆうもう|valiant, brave
+事実|じじつ|fact
+愕然|がくぜん|stunned, shocked
+被害|ひがい|damage, harm
+大きさ|おおきさ|size, extent
+生存者|せいぞんしゃ|survivor
+有無|ゆうむ|presence or absence
+確かめる|たしかめる|to confirm, to check
+陛下|へいか|Your/His Majesty
+連れてくる|つれてくる|to bring (a person)
+竜将|りゅうしょう|dragon general
+さすが|さすが|as expected, just as one would expect
+言いたい|いいたい|want to say
+あがく|あがく|to struggle, to flounder
+しょせん|しょせん|after all, in the end
+この程度|このていど|this much, this degree
+観念する|かんねんする|to resign oneself, to give up
+なぜ|なぜ|why
+わが|わが|my, our (formal)
+代々|だいだい|for generations
+隣国|りんごく|neighboring country
+仲|なか|relationship, terms (between people)
+王|おう|king
+代|だい|reign, generation
+礼|れい|courtesy, gratitude
+欠かす|かかす|to neglect, to go without
+それなのに|それなのに|and yet, even so
+つまらない|つまらない|trivial, boring
+支配する|しはいする|to rule, to control
+ヒマ|ひま|free time, leisure
+こだわる|こだわる|to be particular about, to fuss over
+死にいく|しににいく|to go to one's death
+誰か|だれか|someone
+放り込んでおく|ほうりこんでおく|to throw (someone) into and leave them
+頼む|たのむ|to ask, to rely on
+さしでたこと|さしでたこと|an impertinent remark
+あやしげ|あやしげ|suspicious-looking
+重用|じゅうよう|important appointment, trusting with responsibility
+兵たち|へいたち|soldiers
+彼女|かのじょ|she, her
+存在|そんざい|existence, presence
+いぶかしがる|いぶかしがる|to regard with suspicion
+うとましがる|うとましがる|to find repulsive, to loathe
+多く|おおく|many, much
+いかに|いかに|however, no matter how
+能力|のうりょく|ability
+高い|たかい|high, skilled
+シャーマン|シャーマン|shaman
+おまえ|おまえ|you (casual/rough)
+行動|こうどう|action, conduct
+とんでもない|とんでもない|not at all, absurd
+私|わたし|I, me
+ただ|ただ|only, just
+なら|なら|if, in that case
+命令|めいれい|order, command
+したがう|したがう|to follow, to obey
+すべて|すべて|everything, all
+お望み|おのぞみ|wish, desire
+まま|まま|as is, unchanged
+われながら|われながら|even for myself, even I must say
+生きる|いきる|to live
+本当|ほんとう|true, real
+まちがいない|まちがいない|no mistake, for sure
+兵士|へいし|soldier
+この目|このめ|with one's own eyes
+しっかり|しっかり|firmly, clearly
+見た|みた|saw (見る)
+きみ|きみ|you (casual)
+内部|ないぶ|inside, interior
+詳しい|くわしい|detailed, knowledgeable
+まぁね|まぁね|well, sort of
+もしかして|もしかして|perhaps, by any chance
+つもり|つもり|intention
+やめる|やめる|to stop, to give up
+どっか|どっか|somewhere (= どこか)
+けっこう|けっこう|fairly, quite
+数|かず|number
+残る|のこる|to remain
+この軍|このぐん|this army
+みすみす|みすみす|needlessly, right before one's eyes
+ようなもの|ようなもの|something like, as good as
+わかっている|わかっている|understand (ongoing)
+ぼくら|ぼくら|we (casual, male)
+失う|うしなう|to lose
+それに|それに|besides, moreover
+主力部隊|しゅりょくぶたい|main force unit
+勝ちめ|かちめ|chance of winning
+そっか|そっか|I see (casual)
+オレ|おれ|I, me (rough male)
+付き合う|つきあう|to accompany, to keep company
+案内してやる|あんないしてやる|to show around (for someone)
+無理をする|むりをする|to push oneself too hard
+つくり|つくり|structure, layout
+聞かせる|きかせる|to tell, to let hear
+それで|それで|and so, with that
+うらみ|うらみ|grudge, resentment
+戦わせる|たたかわせる|to let/make fight
+わかった|わかった|understood
+だったら|だったら|if that's the case
+頼りにする|たよりにする|to rely on, to count on
+そうこなくては|そうこなくては|that's more like it
+扉|とびら|door
+開けと|あけと|unlock (casual command, 開けと(く))
+宝箱|たからばこ|treasure chest
+任せる|まかせる|to leave (something) to someone
+兄|あに|older brother
+どうすれば|どうすれば|what should (I) do
+過ぎたこと|すぎたこと|something that's already happened
+始まりません|はじまりません|won't begin, no use (始まる negative)
+あまり|あまり|too much, excessively
+ご自身|ごじしん|yourself
+要|かなめ|linchpin, key point
+再び|ふたたび|again, once more
+戦える|たたかえる|to be able to fight (potential of 戦う)
+絶対|ぜったい|absolutely
+じゃあ|じゃあ|well then
+神父さま|しんぷさま|Father (priest, polite)
+孤児たち|こじたち|orphans
+エリミーヌ教団|エリミーヌきょうだん|the Church of Elimine
+もって|もって|with, holding (持つ)
+おあずかりします|おあずかりします|will take charge of (humble)
+どうなされます|どうなされます|what will you do (honorific)
+もう少し|もうすこし|a little more
+お兄ちゃん|おにいちゃん|big brother
+待って|まって|wait (待つ)
+それから|それから|and then, after that
+追いつく|おいつく|to catch up
+わーい|わーい|yay!
+そうだよ|そうだよ|that's right
+じゃあさ|じゃあさ|well then, so
+戻ってくる|もどってくる|to come back
+行ける|いける|to be able to go (potential of 行く)
+行きますよ|いきますよ|let's go, we're going
+あとでね|あとでね|see you later
+きてよ|きてよ|come on (来て)
+ごめん|ごめん|sorry
+逃げる|にげる|to run away
+決める|きめる|to decide
+なにか|なにか|something
+騒がしい|さわがしい|noisy, clamorous
+残党|ざんとう|remnants, stragglers
+とるにたらぬ|とるにたらぬ|not worth bothering with
+使う|つかう|to use
+お力|おちから|your power (polite)
+借りる|かりる|to borrow
+今回|こんかい|this time
+戻す|もどす|to return, to send back
+戻るとしよう|もどるとしよう|let's return
+任せたぞ|まかせたぞ|I'm leaving it to you
+いかが|いかが|how, what
+しましょうか|しましょうか|shall (I) do
+逆らう|さからう|to defy, to go against
+一族|いちぞく|family, clan
+もろとも|もろとも|together with, along with
+切り捨てる|きりすてる|to cut down, to discard
+女子供|おんなこども|women and children
+当然|とうぜん|of course, naturally
+なくす|なくす|to lose, to get rid of
+徹底的|てっていてき|thorough
+やれ|やれ|do it (command)
+クック|くっく|kuh-huh (dark chuckle)
+小娘|こむすめ|little girl
+行くとするか|いくとするか|guess I'll go
+お出かけ|おでかけ|going out
+裏切りもの|うらぎりもの|traitor
+用意したらしい|よういしたらしい|seems to have prepared
+なんでも|なんでも|apparently, anything
+貴族|きぞく|noble, aristocrat
+娘|むすめ|daughter
+さぞかし|さぞかし|surely, no doubt
+美しい|うつくしい|beautiful
+幼さ|おさなさ|childishness, youthfulness
+残している|のこしている|retains, still has
+美形|びけい|good looks, handsome/pretty appearance
+道中|どうちゅう|on the way, journey
+用心する|ようじんする|to be careful, to be on guard
+すくう|すくう|to catch off guard, to scoop up
+やつざき|やつざき|tearing to pieces
+戯れる|じゃれる|to tease, to joke around
+所|ところ|place
+逃げてくる|にげてくる|to come having fled
+なのか|なのか|is it that
+当分|とうぶん|for the time being
+面倒|めんどう|trouble, care
+みてもらう|みてもらう|to have (someone) look after
+おまえは|おまえは|as for you
+残ってるんだよ|のこってるんだよ|is staying behind
+同じ|おなじ|same
+使える|つかえる|to be able to use
+院長先生|いんちょうせんせい|headmaster
+一冊だけ|いっさつだけ|just one volume
+魔道書|まどうしょ|magic tome
+無理する|むりする|to push oneself too hard
+傷つける|きずつける|to hurt, to injure
+できない|できない|cannot do
+かたきうち|かたきうち|revenge, avenging
+いろよ|いろよ|stay (いる, casual command)
+隠れている|かくれている|is hiding
+知らないうち|しらないうち|without knowing, before one realizes
+いなくなる|いなくなる|to disappear, to be gone
+レイ|レイ|Rey
+だって|だって|even, after all
+大事|だいじ|important, dear
+戦いたい|たたかいたい|want to fight
+守られる|まもられる|to be protected
+守りたい|まもりたい|want to protect
+わかったよ|わかったよ|alright, got it
+いれてもらう|いれてもらう|to have (oneself) let in
+頼んでやる|たのんでやる|to ask on (someone's) behalf
+すごく|すごく|very, really
+わかるもんな|わかるもんな|I really understand, you know
+こうなったら|こうなったら|now that it's come to this
+一日も早く|いちにちもはやく|as soon as possible
+倒す|たおす|to defeat
+迎えに行く|むかえにいく|to go to meet/pick up
+戦っている|たたかっている|is fighting
+リキア軍|リキアぐん|the Lycian army
+お願いです|おねがいです|please, I'm begging you
+頼りない|たよりない|unreliable-looking
+見えるかもしれない|みえるかもしれない|might look (見える)
+使えるんです|つかえるんです|can use (explanatory)
+協力する|きょうりょくする|to cooperate, to help
+あんたたち|あんたたち|you all (casual)
+生き残り|いきのこり|survivor
+これ|これ|this
+持って|もって|carrying, holding
+お行き|おいき|go (casual command)
+兵隊|へいたい|soldier, troops
+いっぱい|いっぱい|a lot, full of
+治めてしまう|おさめてしまう|has taken over, has come to rule
+あたしたち|あたしたち|we (casual female)
+みなさん|みなさん|everyone (polite)
+味方|みかた|ally, friend
+負ける|まける|to lose
+もし|もし|if
+ひぃっ|ひぃっ|eek!
+許す|ゆるす|to forgive
+いらっしゃいましたぞ|いらっしゃいましたぞ|was here (honorific)
+そうか|そうか|I see
+それが|それが|well, actually
+深手|ふかで|serious wound
+負う|おう|to bear, to suffer (an injury)
+その傷|そのきず|that wound
+ひどい|ひどい|terrible, awful
+すぐに|すぐに|immediately
+手当て|てあて|medical treatment
+肩|かた|shoulder
+つかまる|つかまる|to hold on to
+よいのだ|よいのだ|it's alright
+長くない|ながくない|not long (time left)
+うかつであった|うかつであった|was careless
+復活させる|ふっかつさせる|to revive, to bring back
+竜|りゅう|dragon
+そうじゃ|そうじゃ|that's right (old man speech)
+争う|あらそう|to fight, to contend
+人竜戦役|じんりゅうせんえき|War of Dragons and Men
+聞いたことがあります|きいたことがあります|have heard of
+昔|むかし|long ago
+二分する|にぶんする|to divide in two
+人族|じんぞく|human race
+竜族|りゅうぞく|dragon race
+覇権|はけん|supremacy, hegemony
+かける|かける|to wager, to risk
+八神将|はちしんしょう|the Eight Legends
+英雄たち|えいゆうたち|heroes
+活躍|かつやく|great achievements, active role
+最後|さいご|in the end, finally
+勝利する|しょうりする|to win, to be victorious
+消す|けす|to disappear, to erase
+伝説|でんせつ|legend
+生き物|いきもの|living creature
+思い込む|おもいこむ|to be convinced, to assume
+みな|みな|everyone
+思っていた|おもっていた|had thought
+まとも|まとも|properly, normally
+戦っていた|たたかっていた|was fighting
+どうやって|どうやって|how
+つかった|つかった|used (使う)
+のでしょう|のでしょう|I wonder, probably (explanatory)
+栄えた|さかえた|flourished (栄える)
+建国王|けんこくおう|founding king
+そのあたり|そのあたり|around there, in that area
+よ|よ|hey, I tell you
+かわって|かわって|in place of
+指揮する|しきする|to command
+ほしい|ほしい|want (someone to do)
+そんな|そんな|such, like that
+とても|とても|very, too much
+通用する|つうようする|to work against, to be effective
+ですか|ですか|is that so
+わが娘|わがむすめ|my daughter
+教えてある|おしえてある|have already told
+気丈|きじょう|strong-willed, brave-faced
+ふり|ふり|pretense, appearance
+まだまだ|まだまだ|still, not yet
+こども|こども|child
+支えてやって|ささえてやって|support (for someone)
+くれ|くれ|please (give/do)
+おまかせください|おまかせください|leave it to me
+もう一目|もういちめ|just once more
+ぐふっ|ぐふっ|*gasp* (dying)
+様|さま|Lord, Lady (honorific)
+ベルン三竜将|ベルンさんりゅうしょう|the Three Dragon Generals of Bern
+フン|ふん|hmph
+解放|かいほう|liberation
+そのため|そのため|for that reason
+くだらない|くだらない|trivial, worthless
+事|こと|matter, thing
+関係|かんけい|relation, connection
+うむ|うむ|mm (acknowledgment)
+よう|よう|way, manner
+者|もの|person
+なさる|なさる|to do (honorific)
+あだ名する|あだなする|to nickname
+とはいえ|とはいえ|that said, even so
+よい|よい|good
+よいな|よいな|is that clear
+我ながら|われながら|even for myself
+ああ|ああ|ah, yes
+間違いない|まちがいない|no mistake, certain
+連れていく|つれていく|to take (a person) along
+って|って|that, you said (casual quote)
+あんたら|あんたら|you all (casual, rough)
+ほうがいい|ほうがいい|had better
+行った|いった|went (行く)
+みたいだ|みただい|seems like, looks like
+兵|へい|soldier
+いらっしゃる|いらっしゃる|to be, to come, to go (honorific)
+うかつだ|うかつだ|careless
+おもしろい|おもしろい|interesting, amusing
+お願いします|おねがいします|please (polite request)
+さあ|さあ|come now, well
+ずっと|ずっと|the whole time, continuously
+どこがいい|どこがいい|what's good about
+へへっ|へへっ|heheh
+ぼく|ぼく|I, me (boys, young men)
+ほら|ほら|look, see
+よく|よく|well, often
+予定通り|よていどおり|as planned
+取るに足らない|とるにたらない|not worth bothering with
+土産|みやげ|gift, souvenir
+姫|ひめ|princess
+支えてやる|ささえてやる|to support (someone)
+教える|おしえる|to teach, to tell
+来る|くる|to come
+栄える|さかえる|to flourish, to prosper
+残す|のこす|to leave behind
+牢|ろう|prison, dungeon
+用意する|よういする|to prepare
+神父様|しんぷさま|Father (priest, polite)
+竜ども|りゅうども|dragons (dismissive plural)
+責任|せきにん|responsibility
+足元|あしもと|at one's feet, one's footing
+軍隊|ぐんたい|military, troops
+預かる|あずかる|to look after, to take charge of
+願う|ねがう|to wish, to request
+うん|うん|yeah, mm
+イヤ|いや|no way, unpleasant
+死にに行く|しににいく|to go to one's death
+にする|にする|to make into, to turn into
+だろう|だろう|probably, I bet
+そうだ|そうだ|that's right, so
+無理|むり|unreasonable, pushing too hard

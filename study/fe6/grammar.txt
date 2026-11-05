@@ -72,3 +72,39 @@ tekudasaru|〜てくださる|Honorific "do for me/us": someone of higher status
 nakutehaikenai|〜なくてはいけない|"Must …" (= なければいけない).|
 tatoe|たとえ〜でも|"Even if …": sets up a hypothetical with ても/でも later in the sentence.|
 temiru|〜てみる|"To try doing", to do something and see how it goes.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BF%E3%82%8B
+tekara|〜てから|"After doing, since doing".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8B%E3%82%89
+nakutemoii|〜なくてもいい|"Don't have to, it's fine not to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+uchini|〜うちに|"While (something is still the case); before it's too late".|https://bunpro.jp/grammar_points/%E3%81%86%E3%81%A1%E3%81%AB
+dakedenaku|〜だけでなく|"Not only … but also".|https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F
+nagara|〜ながら|"While doing": two actions at the same time. Attaches to the verb stem.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8C%E3%82%89
+toha|〜とは|Surprise at the fact just stated: "to think that …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF
+tokorode|〜ところで|Even if, no matter how much (one tries).|
+kotohanai|〜ことはない|"There's no need to"; after plain-past, can mean "(that) never happens."|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84
+tame|〜ため(に)|Purpose "in order to", or "for the sake of".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%81-%E3%81%AB
+tari|〜たり|"Do things like …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8A-%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B
+tohaie|〜とはいえ|"Even though they are …; that said".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF%E3%81%84%E3%81%88
+ni-iku|stem + に行く／来る|Purpose of going or coming: 助けに行く = "go to help".|https://bunpro.jp/grammar_points/verb-%E3%81%AB%E3%81%84%E3%81%8F
+tsumori|〜つもり|Intention: "mean to …".|https://bunpro.jp/grammar_points/%E3%81%A4%E3%82%82%E3%82%8A%E3%81%A0
+mitai|〜みたい|Casual equivalent of ようだ: "looks like, seems like".|https://bunpro.jp/grammar_points/%E3%81%BF%E3%81%9F%E3%81%84
+wakeniwaikanai|〜わけにはいかない|"Can't very well …": circumstances or duty don't allow it.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%AB%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84
+teyaru|〜てやる|Do something for (or to) someone of lower status; also a threat or boast.|
+tekureru|〜てくれる|Someone does something for the speaker's side.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
+sasete-itadaku|〜させていただく|"Be allowed to …": very humble way to ask or announce one's action.|
+naide|〜ないで|"Please don't …" (request, short for ないでください).|https://bunpro.jp/grammar_points/96
+youni|〜ように|"So that": take care that it does/doesn't happen.|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB
+potential|potential form|"Can do": 戦える, ゆける, 買えん. Negative = cannot.|https://bunpro.jp/grammar_points/Verb%5Bpotential%5D
+toshiyou|〜とするか／〜としよう|"Let's …, shall we": deciding to do something now.|https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B
+toka|〜とか|Vague hearsay: "… or something, I hear".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8B
+mon|〜もん|Casual contraction of もの as a sentence-ending reason marker.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE-%E3%82%82%E3%82%93
+volitional|〜よう／〜おう|Volitional: "let's …" or "I shall …".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86-%E3%81%8A%E3%81%86
+sasete-kudasai|〜させてください|"Please let me …" (causative + request).|
+nante|〜なんて|"Something like": surprise or belittling.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%93%E3%81%8B-%E3%81%AA%E3%82%93%E3%81%A6
+desutte|〜ですって|Repeating someone's words in disbelief: "…, you say!?".|
+takotogaaru|〜たことがある／ない|Experience: "have (never) done".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B
+tehoshii|〜てほしい|"Want (someone else) to do".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84
+zuni|〜ず／〜ずに|"Without doing" (= ないで).|https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%AB
+itasu|〜いたす|Humble auxiliary for one's own action.|
+teru|〜てる|Casual contraction of 〜ている.|
+noni|〜のに|"Even though" (with regret or complaint).|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AB-despite
+nano|〜なの|Soft explanatory ending after a noun; = なのだ.|
+temorau|〜てもらう|To have/get someone do something for you.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
