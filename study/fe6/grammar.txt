@@ -120,3 +120,16 @@ no-nominal|〜のは|の turns the clause into a noun: "the fact that … is …
 souda-hearsay|〜そうだ (hearsay)|After a plain form: "I hear that …".|https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%A0
 o-suru|お + stem + する／いたす|Humble form: the speaker does something for a superior.|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
 koshitakotohanai|〜にこしたことはない|"Nothing beats …, there's nothing better than …".|
+koto|〜こと|Turns a clause into a noun ("the fact that …").|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8
+tekure|〜てくれ|Plain, masculine request: "do … for me".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
+na-prohib|dictionary form + な|Prohibition: "don't …" (するな).|https://bunpro.jp/grammar_points/%E3%81%AA
+sou-looks|stem + そうだ|"Looks like": よさそう = "looks good", ありそう = "seems there is".|https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86
+kashira|〜かしら|"I wonder" (feminine).|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%97%E3%82%89
+toki|〜とき|"When".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8D
+you-to-suru|〜ようとする|"Try to …".|https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B
+mai|〜まい|Negative volitional: "won't, shall not", or conjecture "probably won't".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%84
+sura|〜すら|Emphasis: "even" (often with a negative nuance); more formal than も／さえ.|https://bunpro.jp/grammar_points/%E3%81%99%E3%82%89
+darou|〜だろう|"Probably", or seeking agreement (= でしょう).|https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%97%E3%82%87%E3%81%86
+toomou|〜と思う|"I think that …".|
+demo|〜でも|"Even (just), but; or something".|https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82
+toaritewa|〜とあっては|"If it comes to … ; given that …" (formal, implies an unwelcome situation).|

@@ -1,0 +1,136 @@
+1	Newly joining them were Saul, a priest of the Elimine Church, and his guardian Dorothy,
+2	and Roy's group passed through the mountain road
+3	and set foot in the domain of Lord Thria, located southeast of Ostia.
+4	Lord Oleg of Thria, a cousin of the late Lord of Ostia, known for his gentle character —
+5	this castle he governed seemed, at first, like a safe place for Roy's group.
+6	But even here, Bern's dark hand was steadily reaching...
+7	Haah~ I broke in to steal something, but there's nothing decent here, huh.
+8	The north annex has tight security, so I can't get close... but I bet there's something good there.
+9	Ah, footsteps...
+10	Everything's going without a hitch.
+11	Yes, we've stationed soldiers throughout the mansion.
+12	Once we've lured them deep into the mansion, strike all at once.
+13	Just like when we assassinated Lord Oleg of Thria.
+14	Yes, sir.
+15	Just don't harm Princess Guinivere. The rest, dead or alive, doesn't matter. Go.
+16	Heh heh heh...
+17	The treasure in the north annex, that granddaughter of the "Grey Wolf," and Princess Guinivere...
+18	With gifts like these, Bern should value us quite highly.
+19	Hmm. This might be getting interesting.
+20	Oh, what a relief, Lord Roy. Tonight we can finally sleep soundly for the first time in a while!
+21	I wonder about that... that man who claims to be Lord Thria's attendant...
+22	Wagner, you mean? Hm, did something about him bother you?
+23	He was acting like he owned the place, handling everything himself, wasn't he?
+24	And besides, we weren't even allowed to see Lord Thria's face because he's supposedly ill.
+25	Hmm, true enough.
+26	Lord Roy! Excuse me.
+27	It looks like a large number of soldiers are prowling around the mansion...
+28	I think this means we're being watched, don't you?
+29	No way...
+30	Heh, pretty sharp instincts you've got there.
+31	Who's there!?
+32	Yo~
+33	Who are you?
+34	Never mind who I am.
+35	More importantly, I overheard something in the hall just now — looks like you guys are about to be ambushed.
+36	Lord Thria isn't that kind of person!
+37	Oh, that guy? Seems like he was already assassinated by some creepy dark mage.
+38	What did you say!?
+39	And apparently they're planning to use you guys as a gift to curry favor with the King of Bern.
+40	Lord Roy, this is no good — you mustn't trust what someone like this says...
+41	Believe it or not, that's up to you, but don't come crying to me if you regret it later~
+42	Lord Roy... what she just said...
+43	Let's pretend to head outside and test it.
+44	If they're targeting us, they should make some kind of move then.
+45	If you're planning to go outside, I recommend going through the north annex~!
+46	That leads straight to the back gate, so you can dash right across the courtyard.
+47	L-Lord Roy, wherever are you going? I was just about to show you further inside the mansion...
+48	Something urgent has come up.
+49	I'm sorry, but we'll be taking our leave.
+50	B-but that won't do... if we sent off the son of Lord Pherae without even entertaining him properly...
+51	My lord would scold me for it! Please, even just for tonight...
+52	I'll personally tell Lord Oleg that none of this is your fault.
+53	I'd like to pay my respects as well, so please show me to his room.
+54	That's why I keep saying, my lord cannot meet anyone due to his illness...
+55	Then we'll be taking our leave as we are.
+56	...No matter what?
+57	......
+58	Then you'll just have to die right here!
+59	Everyone! Strike down every last one of them!
+60	Ngh! Just as I thought!!
+61	Lord Roy! Even if we try to escape now, it looks like we'll be pursued from behind.
+62	Then first, we take control of this mansion! Everyone, follow me!!
+63	So noisy...
+64	Is this "sound" a battle? What's going on outside?
+65	Ooh, they're at it, they're really at it.
+66	Well then, while they're distracted, shall I just take whatever I can get?
+67	Who's there?
+68	Huh? Why is there a girl here...?
+69	? You're not from the mansion?
+70	...Who are you? Oh, I'm Roy.
+71	I'm Sue. Is that "sound" outside because of you?
+72	Sound?
+73	The "sound" of battle.
+74	Yeah, for certain reasons, we're fighting the people of this mansion right now.
+75	I see. Then I'm on your side.
+76	?
+77	Because the people of this mansion are my enemies too.
+78	Huh? What do you mean by that...?
+79	For now, lend me a bow.
+80	I think I can be useful.
+81	You're...
+82	Ah, uh-oh!
+83	Wait a second!
+84	Hey, what are you doing!? Let go of my arm! That hurts!
+85	Ah, s-sorry. But why are you here?
+86	Well, um, it's... a lot of things happened, haha...
+87	A lot of things? Here on a battlefield?
+88	Isn't it because it's a battlefield that a lot of things happen...? Oops.
+89	...Could it be that you have some other purpose here?
+90	Gulp.
+91	Don't tell me that's why you told us about the escape route...
+92	W-well now, whatever could you mean?
+93	Just who are you...?
+94	Now now, don't worry about the little details!
+95	Well, see ya! Bye-bye!
+96	W-wait!
+97	Tch, what useless subordinates... can't be helped, I suppose.
+98	My dark magic... why don't you experience it firsthand.
+99	M-my... my perfect plan...
+100	(Only if Sue has been recruited and is alive)
+101	...I see. So you're the granddaughter of a tribal chief from the Sacae plains...
+102	Grandpa's the strongest warrior in all of Sacae. Everyone calls him the "Grey Wolf."
+103	The "Grey Wolf," huh... I have indeed heard of him.
+104	But why Lycia? Sacae's plains are way out to the east, aren't they?
+105	Because Bern invaded Sacae.
+106	We, the Kutolah tribe, decided to fight against Bern.
+107	So Grandpa tried to get the tribe's women and children to flee here to Lycia. But...
+108	But?
+109	But there was a traitor.
+110	Partway through, the Djute tribe, who serve Bern, were lying in ambush...
+111	......
+112	Everyone got scattered.
+113	I somehow fought my way through and escaped to this place.
+114	The lord here, Lord Oleg of Thria, kindly took me in and hid me, but...
+115	his steward Wagner assassinated Lord Oleg and took over this mansion. At that time, I too...
+116	You mean you were captured...
+117	Are you all fighting against Bern?
+118	Yeah, Bern attacked our homeland too.
+119	Then let me fight alongside you too.
+120	Fighting against Bern will be helping Grandpa and the others.
+121	And besides, I want to avenge Lord Oleg, who was so kind to me.
+122	We're headed for Ostia.
+123	That's the opposite direction from the Sacae plains. Are you sure that's alright?
+124	I don't mind. No matter where I am,
+125	the Mother Earth won't disappear, and the Father Sky won't vanish either.
+126	Lord Roy, this is terrible!
+127	The messenger we sent to Ostia has just returned, and...
+128	It seems that Ostia is in a state of civil unrest.
+129	What!?
+130	Apparently a faction trying to surrender to Bern has started a rebellion...
+131	Then what about Lilina?
+132	It seems she's been taken prisoner.
+133	Right now the rebel army has occupied Ostia's castle,
+134	and there's apparently fierce fighting repeating between them and the forces trying to take back the castle along with Lady Lilina.
+135	We can't just sit here. Let's rush to Ostia!
+136	Lilina... please, be safe!
