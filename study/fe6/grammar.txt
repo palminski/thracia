@@ -108,3 +108,11 @@ teru|〜てる|Casual contraction of 〜ている.|
 noni|〜のに|"Even though" (with regret or complaint).|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AB-despite
 nano|〜なの|Soft explanatory ending after a noun; = なのだ.|
 temorau|〜てもらう|To have/get someone do something for you.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
+kara|〜から|Reason: "because, so".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89-because
+nakya|〜なきゃ|Contraction of なければ: "unless; have to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A1%E3%82%83-%E3%81%AA%E3%81%8D%E3%82%83
+shika|〜しか〜ない|"Only, nothing but": restrictive, always with a negative.|https://bunpro.jp/grammar_points/%E3%81%97%E3%81%8B-%E3%81%AA%E3%81%84
+teageru|〜てあげる|Do something for someone else's benefit.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B
+tsutsuaru|〜つつある|"In the process of …-ing", a formal equivalent of 〜ている for a change under way.|
+yoriniyotte|よりによって|"Of all things/people": expresses surprise or exasperation at an unlucky coincidence.|
+bahodo|〜ば〜ほど|"The more... the more...": correlative comparison.|https://bunpro.jp/grammar_points/%E3%81%B0-%E3%81%BB%E3%81%A9
+naitoikenai|〜なければいけない|"Must, have to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%84%E3%81%91%E3%81%AA%E3%81%84

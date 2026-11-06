@@ -26,6 +26,7 @@ NAMES = {
     "ディーク": "dieck", "シャニー": "shanna", "ワード": "ward", "ロット": "lot",
     "ギネヴィア": "guinivere", "ブルーニャ": "brunnya", "ゼフィール": "zephiel", "ヘクトル": "hector",
     "チャド": "chad", "ルゥ": "lugh", "ナーシェン": "narcian", "スレーター": "slater",
+    "エリック": "erik", "クラリーネ": "clarine", "ルトガー": "rutger",
 }
 
 

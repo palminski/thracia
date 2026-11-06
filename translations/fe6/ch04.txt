@@ -1,0 +1,190 @@
+1	Following Hector's dying wish,
+2	Roy and his companions began advancing west, heading for the Ostia domain that Lilina was watching over in their absence.
+3	Along the way, they approached the Laus territory, governed by one of the Lycian lords, Erik.
+4	A land of plains blanketed everywhere, with a river carrying abundant water... In this peaceful land of Laus,
+5	Roy and his companions would come face to face with a dark conspiracy steadily advancing.
+6	Well, well, well — Lord Narcian.
+7	Lord Erik. Your submission to Bern is most welcome.
+8	If we remain bound by old pacts, there will be no future for us.
+9	Our future lies together with the Kingdom of Bern...
+10	That's a fine attitude to have. Kuh-huh-huh...
+11	By the way, where's that little gift of yours? She doesn't seem to be here.
+12	Oh, of course! She's already been prepared in another room.
+13	Heh heh heh... She's quite the naive, sheltered girl.
+14	I told her I'd let her see her brother, who's away on military duty, and she fell right into our hands, easy as that.
+15	Hey, bring her in!
+16	Where is this? Big brother... where's big brother Klein?
+17	Welcome, Lady Clarine.
+18	Who... who are you?
+19	I am Narcian, one of Bern's Three Dragon Generals.
+20	In your brother's place, I'll dote on you plenty myself.
+21	Kuh-huh-huh...
+22	...Hmph.
+23	? What's so funny, Lady Clarine?
+24	In my brother's place? You? Why don't you take a good look at yourself in a mirror.
+25	That outfit, that hairstyle, that way of speaking —
+26	Everything about you, from head to toe, is nothing but "vulgar," isn't it?
+27	V-v-vulgar!? Me? Vulgar?
+28	Compared to my brother, you're like the moon next to a turtle!
+29	Damn you... I won't forgive this, I won't forgive this!!
+30	This little brat — of all things — calling me "vulgar"!!
+31	Lord Narcian, word has come that Castle Araphen has been retaken by the enemy!
+32	What!? What about Slater?
+33	Sir... his whereabouts are unknown.
+34	The enemy are remnants of the Lycian Alliance, and reports say their leader is Roy, the eldest son of House Pherae...
+35	......
+36	Tch! Lord Erik — throw this brat into the dungeon.
+37	When I get back, I'll have my fill of tormenting her!
+38	And close off the road to Ostia — those fools might pass through it.
+39	Yes, sir!!
+40	To think I'd be locked up in a place like this...
+41	...Hey.
+42	Who's there!?
+43	I'm a mercenary of this castle. Come out — Lord Erik has business with you.
+44	I don't want to! Why would I go with vulgar men like you...
+45	...Enough talk. Come out!
+46	Wait, let go of me! How rude! Do you know who I am...
+47	......
+48	I said let go of me!
+49	Let go of me! I said let go...
+50	Be quiet. You'll end up unable to escape.
+51	! You...
+52	There's a horse tied up by the trees just ahead.
+53	Ride it and get away, quickly.
+54	...Why? Why are you helping me?
+55	I have a grudge against Bern.
+56	A grudge?
+57	That's none of your concern.
+58	Being spoken to like that only makes me more curious.
+59	Time's running out. Go, quickly!
+60	......
+61	This is... the middle of a battlefield, isn't it!?
+62	...That swordsman! How inconsiderate of him!!
+63	Seeing a lady safely home is supposed to be a gentleman's "proper manner"!
+64	Whew... and all because I wanted to see my brother, who's off in the west...
+65	I snuck out of the mansion myself, and look how miserable this turned out...
+66	Whatever should I do...
+67	Heheheh...
+68	"It's Lycia, it's Bern" — must be rough being someone important.
+69	But for us, that just means it's all the more a good time to make some money.
+70	Oh, you've come! I've been waiting for you.
+71	...What do you need?
+72	Our forces outside are struggling. Take a few men and go help them.
+73	......
+74	Can't you hear me!? Go help them at once...
+75	I heard you. I'll go once I'm ready.
+76	Tch, what an unfriendly fellow... Well, he does seem skilled with a blade, at least.
+77	......
+78	Hey, excuse me — you there!
+79	Huh? Me?
+80	Who else would I be talking to? You're the leader of this army, aren't you?
+81	Yeah, that's right.
+82	How convenient. You — escort me.
+83	Huh?
+84	Didn't you hear me? I said escort me.
+85	What, what is this — listening quietly while this little brat...!!
+86	I wasn't talking to you. Stay out of this.
+87	Wh-what did you say!?
+88	Now, now, Marinus.
+89	It looked like she was being chased by the castle's men, so she probably wants us to protect her, right?
+90	W-well, that's... about the gist of it, yes.
+91	What!? What nerve, what shameless cheek!!
+92	Our army isn't soft enough to go keeping some useless little brat around!
+93	I'm Clarine! Would you kindly stop calling me "little brat"?
+94	And "useless," you say — how rude of you!
+95	I can use a staff, so at the very least I could help an injured person...
+96	So you mean you'll fight alongside us?
+97	...O-of course I will.
+98	I-I'm not the type to just be protected for nothing...
+99	That's a relief!
+100	Against an enemy like Bern, the more fighting power we have, the better.
+101	I'm Roy. Nice to meet you, Clarine.
+102	Likewise, I...
+103	H-hmph! Don't think we're friends now.
+104	Ah! You're...
+105	What, you're still here?
+106	"Still," you say!
+107	You dumped me in the middle of a battlefield, and you can say something like that!?
+108	If even one thing had gone wrong, I could have ended up in terrible trouble, you know!
+109	Lucky for you nothing did. Is that all you wanted to say?
+110	Wait a moment! You abandon me and just walk off like that, is that your plan?
+111	If you're going to act like a gentleman, you should properly take "responsibility" for it.
+112	"Responsibility"? What's that supposed to mean?
+113	Protecting a lady you've rescued and seeing her home is a gentleman's "proper manner" — in other words, his duty!
+114	I've never once heard of a story where the hero abandons the lady partway through, from any bard.
+115	...What in the world are you even talking about?
+116	In any case, didn't you have a grudge against Bern?
+117	And yet you turn your sword on us, who are fighting against Bern...
+118	Wait a moment! Is that true?
+119	Huh? What do you mean?
+120	Is this army opposing Bern!?
+121	Y-yes, that's what I heard from your leader, Roy.
+122	...Fine. Understood.
+123	Eh?
+124	I'll fight alongside you lot. That should settle things, shouldn't it?
+125	Y-yes, well...
+126	Honestly! What matters isn't "fighting Bern" — it's "protecting me"...
+127	Bandits and pirates sometimes attack villages, you know.
+128	A village that's been attacked gets destroyed, and nothing's left anymore.
+129	If only someone would go warn the village, they could be saved...
+130	Doors and treasure chests, you know — they won't open without a thief around.
+131	'Cause a thief's key can only be used by a thief, right?
+132	But get this — with THIS key, anyone can open any door, no matter what!
+133	I call it... the Door Key!
+134	You should be grateful — this is a seriously precious item, you know.
+135	Well, I guess... you can also just buy one at the item shop, though.
+136	Those mounted archers in the Laus army — those are the nomads.
+137	I hear those Sacae tribesfolk, and the Ilia knights up north too, make for capable mercenaries.
+138	In times like these, every country wants all the fighting strength it can get, I suppose.
+139	All of us here are on your side, you know.
+140	Abandoning the country you were born in and turning traitor to the enemy — that's something that should never be done.
+141	Take this treasured sword with you.
+142	This is a very valuable item, you know... Ah, don't touch it just yet.
+143	Look at this splendid shine — it takes your breath away, doesn't it.
+144	This was handed down to my great-great-great-grandfather by the king, a treasure with a proud history...
+145	You there — do you know the secret art of combat?
+146	The sword is strong against the axe, and the axe is strong against the lance.
+147	And then, the lance is strong against the sword.
+148	How about it? Before you sleep, you must chant this three times without fail...
+149	...What? You already knew that? Hmm... then how about this?
+150	I hear there are weapons out there that can reverse that very principle.
+151	Now what was it called...? I think it was something like the "...buster"...
+152	To think a war like this would actually break out...
+153	I wonder if this village too will end up placed under Bern's rule...
+154	If it's going to be taken by those Bernese soldiers anyway... I'd rather entrust it to you all.
+155	This is a magic robe that heightens the very wellspring of life.
+156	If you wear this, you should become someone who won't fall even from minor wounds.
+157	However... once used, even just once, it will be lost.
+158	Since it's such a precious item, please think it over carefully before using it.
+159	You fools, bound by moldy old pacts.
+160	Let me teach you the way of the world!
+161	Puhaha... how foolish.
+162	For those who defy the strong, there is no future either way...
+163	Lord Roy! The Laus soldiers' resistance has stopped.
+164	I see, understood. Let's take a short rest — go tell everyone.
+165	Yes, sir.
+166	Lord Roy... are you alright?
+167	...To think Lord Erik would betray us to Bern, of all things...
+168	I thought the Lycian Alliance was united, solid as a single slab of rock, but...
+169	Damn Bern, doing something so filthy!
+170	...I'm sorry.
+171	Ah... I'm sorry! I spoke without even considering Princess Guinivere's feelings.
+172	No... it's only natural that you would.
+173	From here, we're headed west, to Ostia.
+174	But now that Lord Hector has passed away, and the remaining lords can't be relied on either,
+175	the hope for peace... I'm afraid, may have already been severed.
+176	Princess, will you be returning to your own country? If there's anything we can help with...
+177	No — if it wouldn't trouble you, please let me come along too.
+178	It's no trouble at all... but why?
+179	...My brother is wrong.
+180	To revive dragons and drag them into a war among men...
+181	If that is what my brother calls "liberating" the world, then I want to stop it.
+182	"Liberating" the world?
+183	Yes — it's my brother's pet phrase. "The world must be 'liberated'"...
+184	And this war too, I believe, is for that very purpose...
+185	What does that even mean?
+186	Even I don't know that much...
+187	But my brother isn't the kind of person to simply think in terms of conquering the world.
+188	Surely there's some reason behind it, some reason I can't yet see.
+189	But even so, that doesn't make it right to start a war and take innocent lives...
+190	...Princess Guinivere.

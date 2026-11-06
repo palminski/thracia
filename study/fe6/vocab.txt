@@ -1050,3 +1050,340 @@
 だろう|だろう|probably, I bet
 そうだ|そうだ|that's right, so
 無理|むり|unreasonable, pushing too hard
+うける|うける|to receive (= 受ける)
+あずかる|あずかる|to look after, to take charge of
+留守|るす|absence (from home)
+進み始める|すすみはじめる|to begin to advance
+さしかかる|さしかかる|to approach, to draw near
+一面|いちめん|all over, a whole stretch
+豊か|ゆたか|abundant, rich
+たたえる|たたえる|to be full of (water)
+のどか|のどか|peaceful, tranquil
+暗い|くらい|dark
+陰謀|いんぼう|conspiracy, plot
+着実|ちゃくじつ|steady, sure
+進行する|しんこうする|to progress, to advance
+目の当たり|まのあたり|witnessing directly
+これはこれは|これはこれは|well, well (surprised greeting)
+閣下|かっか|Your Excellency, Lord (title)
+帰順|きじゅん|submission, allegiance
+なにより|なにより|above all, best of all
+とらわれる|とらわれる|to be bound, to be caught up in
+古い|ふるい|old
+未来|みらい|future
+心がけ|こころがけ|attitude, mindset
+それはそうと|それはそうと|by the way, anyway
+例|れい|the one mentioned, the usual
+もちろん|もちろん|of course
+別室|べっしつ|another room
+世間知らず|せけんしらず|naive, sheltered, worldly-innocent
+です|です|is, am, are (polite copula)
+軍務中|ぐんむちゅう|on military duty
+会わせてやる|あわせてやる|to let (someone) meet (someone else)
+おい|おい|hey (rough address)
+お兄さま|おにいさま|big brother (polite)
+兄さま|にいさま|big brother (polite)
+ようこそ|ようこそ|welcome
+どの|どの|Lord/Lady (archaic honorific)
+どなた|どなた|who (polite)
+三竜将|さんりゅうしょう|the Three Dragon Generals
+たっぷり|たっぷり|plenty, thoroughly
+可愛がってあげる|かわいがってあげる|to dote on, to pamper (for someone)
+クスッ|くすっ|a small snicker
+なにが|なにが|what (emphatic)
+おかしい|おかしい|funny, strange
+ご自分|ごじぶん|yourself (polite)
+おすがた|おすがた|your appearance (polite)
+鏡|かがみ|mirror
+服|ふく|clothes
+髪型|かみがた|hairstyle
+言葉づかい|ことばづかい|way of speaking, word choice
+ではない|ではない|is not
+下品|げひん|vulgar, crude
+げ|げ|gah! (shocked exclamation)
+あなたなんか|あなたなんか|someone like you
+お月さま|おつきさま|the moon (polite/childish)
+スッポン|すっぽん|snapping turtle
+比べる|くらべる|to compare
+許さん|ゆるさん|will not forgive (= 許さない)
+よりによって|よりによって|of all things/people (exasperated)
+報|ほう|report, news
+奪い返す|うばいかえす|to retake, to recapture
+なに|なに|what
+行方|ゆくえ|whereabouts
+知れる|しれる|to become known
+首領|しゅりょう|leader, chief (of a group)
+この小娘|このこむすめ|this brat (girl)
+ちっ|ちっ|tch!
+いたぶってやる|いたぶってやる|to torment (someone)
+帰る|かえる|to return, to go home
+そやつら|そやつら|those guys, those fellows
+街道|かいどう|highway, main road
+通りかかる|とおりかかる|to happen to pass by
+閉じる|とじる|to close
+ははっ|ははっ|yes, sir! (deferential reply)
+こんなところ|こんなところ|a place like this
+だれ|だれ|who
+傭兵|ようへい|mercenary
+出る|でる|to come out
+用がある|ようがある|to have business (with someone)
+あんな|あんな|that kind of, such
+いやです|いやです|I don't want to
+男たち|おとこたち|men
+いいから|いいから|never mind, just (do it)
+出てくる|でてくる|to come out
+放す|はなす|to let go
+無礼者|ぶれいもの|rude person, insolent fellow
+誰だ|だれだ|who is it
+静かにする|しずかにする|to be quiet
+逃げられなくなる|にげられなくなる|to become unable to escape
+この先|このさき|ahead, further on
+つないである|つないである|is tied up
+一頭|いっとう|one (counter for large animals)
+木かげ|こかげ|shade of a tree
+乗る|のる|to ride
+助けてくれる|たすけてくれる|to help (for the speaker's benefit)
+ないこと|ないこと|not something, no concern
+言い方|いいかた|way of saying, manner of speech
+時|とき|time
+移る|うつる|to move on, to pass (of time)
+ではない#phrase|ではない|is not
+真ん中|まんなか|the middle
+あの|あの|that (over there)
+剣士|けんし|swordsman
+気がきく|きがきく|to be considerate, to be thoughtful
+たしなみ|たしなみ|proper conduct, good manners
+レディ|れでぃ|lady
+殿方|とのがた|gentleman, man (polite)
+送りとどける|おくりとどける|to see (someone) home safely
+館|やかた|mansion
+ふう|ふう|whew (sigh)
+西方|せいほう|the west, western direction
+抜け出す|ぬけだす|to sneak out, to slip away
+散々|さんざん|terrible, miserable
+自分|じぶん|oneself
+へへへ|へへへ|heheh (sly chuckle)
+えらい|えらい|great, important (people)
+大変|たいへん|terrible, difficult
+かせぎ時|かせぎどき|a good time to earn money
+こっち|こっち|this side, us
+その分|そのぶん|to that extent, correspondingly
+待っておる|まっておる|to be waiting (dialect/old-style)
+用|よう|business, matter
+わが軍|わがぐん|our army
+何人か|なんにんか|several people
+助けに行く|たすけにいく|to go help
+外|そと|outside
+苦戦する|くせんする|to struggle in battle
+助けに|たすけに|to help (purpose)
+聞こえる|きこえる|to be heard, to be audible
+用意|ようい|preparation
+あいそのない|あいそのない|unfriendly, curt
+ヤツ|やつ|guy, fellow
+腕は立つ|うではたつ|to be skilled (lit. "arm stands")
+そこ|そこ|there, that place
+ほかに|ほかに|other than that, besides
+誰|だれ|who
+ちょうどいい|ちょうどいい|just right, convenient
+護衛する|ごえいする|to escort, to guard
+黙る|だまる|to be silent
+下がる|さがる|to step back, to stand down
+何|なに|what
+まあまあ|まあまあ|now now, there there
+守ってほしい|まもってほしい|want (someone) to protect
+あつかましい|あつかましい|shameless, brazen
+態度|たいど|attitude
+役|やく|use, role
+甘くない|あまくない|not lenient, not soft
+立つ|たつ|to stand
+置いておく|おいておく|to leave (something/someone) as is
+呼ばないでください|よばないでください|please don't call (me that)
+ごあいさつ|ごあいさつ|a fine thing to say (sarcastic)
+立たない|たたない|to be of no use
+杖|つえ|staff (weapon/tool)
+ということ|ということ|the fact that, meaning that
+戦ってくれる|たたかってくれる|to fight (for the speaker's benefit)
+せず|せず|without doing
+守ってくれる|まもってくれる|to protect (for the speaker's benefit)
+多い|おおい|many
+戦力|せんりょく|fighting strength, military power
+よろしく|よろしく|nice to meet you, please treat me well
+こちらこそ|こちらこそ|likewise, the pleasure is mine
+なれあい|なれあい|collusion, getting overly familiar
+あっ|あっ|ah!
+いた|いた|was there (past of いる)
+なんだ|なんだ|what, is that so
+ですって|ですって|so they say, you say
+放り出す|ほうりだす|to throw out, to abandon
+言える|いえる|can say
+あう|あう|to meet with, to encounter
+ひどい目|ひどいめ|a terrible experience
+ひとつ|ひとつ|one (thing)
+間違える|まちがえる|to make a mistake
+それだけ|それだけ|just that, that much
+だった|だった|was (past of だ)
+幸運|こううん|lucky, fortunate
+おつもり|おつもり|intention (polite)
+このまま|このまま|as is, like this
+放っておく|ほうっておく|to leave alone, to neglect
+立ち去る|たちさる|to leave, to depart
+ちゃんと|ちゃんと|properly
+とる|とる|to take (responsibility)
+なんだそれ|なんだそれ|what is that
+送る|おくる|to send, to see (someone) off
+吟遊詩人|ぎんゆうしじん|bard, troubadour
+放り出してしまう|ほうりだしてしまう|to end up abandoning
+聞いたこと|きいたこと|something heard of
+いったい|いったい|what in the world, on earth
+なんの話|なんのはなし|what are you talking about
+だいたい|だいたい|in general, basically
+向ける|むける|to point, to turn (something) toward
+私たち|わたしたち|we, us
+ちょっと|ちょっと|a little, hey wait
+戦ってやる|たたかってやる|to fight (for someone of lower status)
+文句|もんく|complaint
+ではなく|ではなく|not, but rather
+山賊|さんぞく|bandit
+海賊|かいぞく|pirate
+壊す|こわす|to destroy
+残らない|のこらない|nothing remains
+助けてやれる|たすけてやれる|can help (someone of lower status)
+知らせに行く|しらせにいく|to go inform
+いなければ|いなければ|if (someone) is not there
+とうぞく|とうぞく|thief
+とびら|とびら|door
+開く|あく|to open
+かぎ|かぎ|key
+とうぞくしか|とうぞくしか|only a thief
+けど|けど|but, though
+このかぎ|このかぎ|this key
+なんと|なんと|what, how surprising
+使えば|つかえば|if (one) uses
+誰でも|だれでも|anyone
+とびらのかぎ|とびらのかぎ|the "Door Key" (item name)
+名付ける|なづける|to name
+アイテム|あいてむ|item
+感謝して|かんしゃして|be grateful (and ...)
+貴重|きちょう|precious, valuable
+一応|いちおう|for now, just in case
+売る|うる|to sell
+道具屋|どうぐや|item shop, tool shop
+あれ|あれ|that (over there)
+遊牧民|ゆうぼくみん|nomad
+騎馬兵|きばへい|mounted soldier, cavalry
+サカ部族|さかぶぞく|the Sacae tribes
+有能|ゆうのう|capable, competent
+時代|じだい|era, age
+欲しい|ほしい|to want
+あんたがた|あんたがた|you all
+だ|だ|is, am, are (plain copula)
+わしら|わしら|we (old-man speech)
+あってはならない|あってはならない|must never happen
+寝返る|ねがえる|to betray, to turn traitor
+生まれる|うまれる|to be born
+宝剣|ほうけん|treasured sword
+持っていく|もっていく|to take (something) along
+品|しな|item, goods
+触ってはいけない|さわってはいけない|must not touch
+高価|こうか|expensive, valuable
+かがやき|かがやき|shine, brilliance
+ためいき|ためいき|a sigh (of admiration)
+みごと|みごと|splendid, magnificent
+出るだろう|でるだろう|will probably come out
+ゆいしょある|ゆいしょある|with a storied history
+先々々々代|せんせんせんせんだい|great-great-great-grandfather's generation
+賜る|たまわる|to be granted, bestowed (by a superior)
+おぬし|おぬし|you (archaic)
+極意|ごくい|secret art, essence (of a skill)
+知っておる|しっておる|to know (dialect/old-style of 知っている)
+三度|さんど|three times
+唱える|となえる|to chant, to recite
+寝る前|ねるまえ|before sleeping
+あるらしい|あるらしい|apparently there is
+そのことわり|そのことわり|that very principle
+逆転させてしまう|ぎゃくてんさせてしまう|to end up reversing
+言った|いった|said
+戦争|せんそう|war
+起こる|おこる|to occur, to break out
+でしょうか|でしょうか|I wonder if
+支配下|しはいか|under the control/rule of
+置かれてしまう|おかれてしまう|to end up being placed
+奪われる|うばわれる|to be taken away
+託す|たくす|to entrust
+みなもと|みなもと|source, wellspring
+生命|せいめい|life
+衣|きぬ|robe, garment
+高める|たかめる|to raise, to heighten
+きず|きず|wound
+倒れない|たおれない|will not fall
+多少|たしょう|somewhat, to some extent
+ただし|ただし|however, provided that
+一度|いちど|once
+失われてしまう|うしなわれてしまう|to end up being lost
+きちょう|きちょう|precious (= 貴重)
+よくよく|よくよく|very carefully
+おろか者ども|おろかものども|you fools
+かび|かび|mold
+しばられる|しばられる|to be bound
+生える|はえる|to grow (mold, hair)
+世|せ|the world
+教えてやる|おしえてやる|to teach (someone of lower status)
+道理|どうり|reason, principle
+おろか|おろか|foolish
+ふはは|ふはは|puhaha (mocking laugh)
+どの道|どのみち|either way, in any case
+強者|きょうしゃ|the strong
+やむ|やむ|to stop, to cease
+抵抗|ていこう|resistance
+休息|きゅうそく|rest
+伝えてくれる|つたえてくれる|to convey/tell (for the speaker)
+一枚岩|いちまいいわ|a single slab of rock, united as one
+固い|かたい|firm, solid
+結束|けっそく|unity, solidarity
+なんて|なんて|such a thing as, how
+め|め|damn (contemptuous suffix)
+汚い|きたない|dirty, filthy
+ごめんなさい|ごめんなさい|I'm sorry
+お気持ち|おきもち|feelings (polite)
+考えもしないで|かんがえもしないで|without even considering
+いいえ|いいえ|no
+これから|これから|from now on
+あてにならない|あてにならない|cannot be relied on
+亡くなる|なくなる|to pass away
+残り|のこり|the rest, remainder
+和平|わへい|peace (between nations)
+望み|のぞみ|hope, wish
+残念|ざんねん|unfortunate, regrettable
+絶たれてしまう|たたれてしまう|to end up being severed
+お国|おくに|your country (polite)
+お手伝い|おてつだい|help, assistance
+必要なら|ひつようなら|if necessary
+ご迷惑|ごめいわく|trouble, inconvenience (polite)
+でなければ|でなければ|if not
+一緒させてください|いっしょさせてください|please let me come along
+なんてこと|なんてこと|such a thing
+迷惑|めいわく|trouble, nuisance
+間違う|まちがう|to be wrong, to be mistaken
+巻き込む|まきこむ|to drag into, to involve
+復活させ|ふっかつさせ|to revive (and ...)
+口ぐせ|くちぐせ|pet phrase, habitual saying
+解放しなければいけない|かいほうしなければいけない|must liberate
+今度|こんど|this time
+そこまで|そこまで|that much, to that extent
+私にも|わたしにも|even I
+ではありません|ではありません|is not (polite)
+単純|たんじゅん|simple
+征服|せいふく|conquest
+考えるような|かんがえるような|the kind who would think
+きっと|きっと|surely
+よほど|よほど|considerably, quite a
+だからといって|だからといって|even so, that doesn't mean
+奪っていい|うばっていい|alright to take (a life)
+罪|つみ|sin, crime
+起こす|おこす|to start, to cause (a war)
+遺言|ゆいごん|will, testament
+水|みず|water
+川|かわ|river
+まあ|まあ|well, I guess (hesitation filler)
+残念ながら|ざんねんながら|unfortunately, regrettably
+解放する|かいほうする|to liberate, to release
