@@ -116,3 +116,7 @@ tsutsuaru|〜つつある|"In the process of …-ing", a formal equivalent of �
 yoriniyotte|よりによって|"Of all things/people": expresses surprise or exasperation at an unlucky coincidence.|
 bahodo|〜ば〜ほど|"The more... the more...": correlative comparison.|https://bunpro.jp/grammar_points/%E3%81%B0-%E3%81%BB%E3%81%A9
 naitoikenai|〜なければいけない|"Must, have to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+no-nominal|〜のは|の turns the clause into a noun: "the fact that … is …".|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AF
+souda-hearsay|〜そうだ (hearsay)|After a plain form: "I hear that …".|https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%A0
+o-suru|お + stem + する／いたす|Humble form: the speaker does something for a superior.|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
+koshitakotohanai|〜にこしたことはない|"Nothing beats …, there's nothing better than …".|

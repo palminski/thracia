@@ -1387,3 +1387,202 @@
 まあ|まあ|well, I guess (hesitation filler)
 残念ながら|ざんねんながら|unfortunately, regrettably
 解放する|かいほうする|to liberate, to release
+内通|ないつう|collusion, secret communication (with an enemy)
+発覚|はっかく|discovery (of a crime/secret)
+衝撃|しょうげき|shock, impact
+与える|あたえる|to give, to deal (a blow)
+住み慣れる|すみなれる|to become accustomed to living (somewhere)
+回避|かいひ|avoidance
+まばら|まばら|sparse, scattered
+山間|さんかん|mountain area, among the mountains
+旧街道|きゅうかいどう|old highway, old road
+通り抜ける|とおりぬける|to pass through
+親分|おやぶん|boss, chief (of a gang)
+偵察|ていさつ|reconnaissance, scouting
+巻き上げる|まきあげる|to extort, to shake down
+さびれる|さびれる|to become desolate, to decline
+用心|ようじん|caution, care
+手に入る|てにはいる|to come into one's hands, to obtain
+歓迎|かんげい|welcome
+退治|たいじ|extermination, dealing with (pests/bandits)
+根城|ねじろ|stronghold, base of operations
+守備|しゅび|defense, garrison
+ちりぢり|ちりぢり|scattered, dispersed
+頼る|たよる|to rely on
+進む|すすむ|to advance, to proceed
+秘密|ひみつ|secret
+門|もん|gate
+真横|まよこ|directly beside, right next to
+手はず|てはず|arrangements, preparations
+追い払う|おいはらう|to drive away, to chase off
+司祭|しさい|priest
+神父|しんぷ|father (priest)
+せっかく|せっかく|kindly, going out of one's way (to do something)
+説教|せっきょう|sermon, lecture
+見つける|みつける|to find
+誤解|ごかい|misunderstanding
+招く|まねく|to invite, to bring about
+迷う|まよう|to lose one's way, to be lost
+子羊|こひつじ|lamb
+魂|たましい|soul
+救済|きゅうさい|salvation, relief
+用事|ようじ|business, errand
+教本部|きょうほんぶ|church headquarters
+合流|ごうりゅう|joining up, merging
+美人|びじん|beautiful woman
+増援|ぞうえん|reinforcements
+押さえる|おさえる|to hold down, to suppress
+庭|にわ|garden, yard
+得意|とくい|good at, skilled at
+越える|こえる|to cross over
+恐ろしい|おそろしい|frightening, terrible
+息|いき|breath
+飲み込む|のみこむ|to swallow
+滅ぼす|ほろぼす|to destroy, to ruin
+夢|ゆめ|dream
+現実|げんじつ|reality
+アーマーナイト|アーマーナイト|armor knight
+噂|うわさ|rumor
+猛者|もさ|tough fighter, formidable person
+抜き|ぬき|beating (a number of opponents in a row)
+一撃|いちげき|a single blow
+食らう|くらう|to receive, to take (a hit)
+僧侶|そうりょ|monk
+訪ねる|たずねる|to visit, to call on
+初めて|はじめて|for the first time
+お目にかかる|おめにかかる|to meet (humble)
+所在|しょざい|whereabouts
+支部|しぶ|branch (of an organization)
+連絡|れんらく|contact, communication
+消える|きえる|to disappear, to vanish
+同時期|どうじき|the same time period
+確認|かくにん|confirmation
+遣わす|つかわす|to send, to dispatch
+目覚めさせる|めざめさせる|to awaken (someone/something)
+意味する|いみする|to mean, to signify
+他人|たにん|other people, a stranger
+渡る|わたる|to pass to, to cross over (to someone's hands)
+恐れる|おそれる|to fear
+やめさせる|やめさせる|to make (someone) stop
+代表|だいひょう|representative
+諦める|あきらめる|to give up
+気にする|きにする|to worry about, to mind
+さらなる|さらなる|further, additional
+裏切り者|うらぎりもの|traitor
+におわせる|におわせる|to hint at, to imply
+もはや|もはや|already, no longer
+危険|きけん|danger
+さっき|さっき|a little while ago
+いつも|いつも|always, usually
+金品|きんぴん|money and valuables
+どうも|どうも|somehow, it seems
+通る|とおる|to pass through
+必要|ひつよう|necessary
+わかる|わかる|to understand
+違う|ちがう|to differ, to be wrong
+うまくいく|うまくいく|to go well
+してやる|してやる|to do (for someone, often lower-status)
+村人|むらびと|villager
+退治する|たいじする|to exterminate, to deal with (pests/bandits)
+峠|とうげ|mountain pass
+古城|こじょう|old castle
+逃げてしまう|にげてしまう|to end up running away
+おびえる|おびえる|to be frightened, to cower
+暮らす|くらす|to live, to spend one's days
+他|ほか|other, else
+かわいそう|かわいそう|pitiful, poor (thing)
+先|さき|ahead, the destination
+ちと|ちと|a little, somewhat (archaic/dialect)
+目の前|めのまえ|right in front of one's eyes
+もしよろしければ|もしよろしければ|if it's all right with you
+しておく|しておく|to do in advance, to leave as is
+困る|こまる|to be troubled, to be at a loss
+伝えておく|つたえておく|to pass along in advance
+それにしても|それにしても|even so, be that as it may
+さま|さま|(honorific suffix, "Mr./Mrs./Lord")
+勝手に|かってに|on one's own, without permission
+今夜|こんや|tonight
+ゆっくりと|ゆっくりと|slowly, leisurely
+これで|これで|with this, that's that
+顔|かお|face
+生まれつき|うまれつき|by nature, from birth
+それより|それより|more than that, instead
+また|また|again
+女の子|おんなのこ|girl
+声をかける|こえをかける|to call out to, to hit on (someone)
+そんなこと|そんなこと|a thing like that
+そうそう|そうそう|oh, right (remembering something)
+すごい|すごい|amazing, incredible
+バカなこと|ばかなこと|something foolish
+あんなところ|あんなところ|a place like that
+チッ|チッ|tch!
+あじなまね|あじなまね|a slick/clever move
+次から次へ|つぎからつぎへ|one after another
+ふさいでしまう|ふさいでしまう|to end up blocking off
+そこさえ|そこさえ|that place alone, if just that place
+押さえておく|おさえておく|to hold down in advance
+辺|へん|area, vicinity
+山々|やまやま|mountains
+やつら|やつら|those guys
+どんな|どんな|what kind of
+越えてくる|こえてくる|to come crossing over
+北東|ほくとう|northeast
+竜騎士|りゅうきし|wyvern rider, dragon knight
+もっと|もっと|more
+炎|ほのお|flame
+何もかも|なにもかも|everything
+みる|みる|to see
+竜なんて|りゅうなんて|a thing like a dragon
+槍|やり|lance, spear
+闘技場|とうぎじょう|arena, colosseum
+元気|げんき|lively, energetic
+少年|しょうねん|boy
+きれいな|きれいな|pretty, beautiful
+おじょうさん|おじょうさん|young lady
+三人連れ|さんにんづれ|a group of three
+奴|やつ|guy, fellow
+てめえ|てめえ|you (rough/hostile)
+試す|ためす|to try, to test
+ぐぇっ|ぐぇっ|gah! (pained grunt)
+いやだ|いやだ|no way, I don't want to
+死にたい|しにたい|to want to die
+知る|しる|to know
+どういうこと|どういうこと|what does that mean
+会ってみる|あってみる|to try meeting
+お話|おはなし|a talk, a story
+うかがう|うかがう|to ask, to hear (humble)
+実は|じつは|actually, in fact
+近年|きんねん|in recent years
+悪化する|あっかする|to worsen, to deteriorate
+教団|きょうだん|religious order, church
+はじめまして|はじめまして|nice to meet you
+たがわない|たがわない|not differing from, true to
+さて|さて|now then, well
+知りたい|しりたい|to want to know
+そのこと|そのこと|that matter
+連絡がある|れんらくがある|to receive word, to have contact
+封印|ふういん|seal
+神殿|しんでん|shrine, temple
+とめる|とめる|to stop (someone/something)
+どういうもの|どういうもの|what sort of thing
+ご存知|ごぞんじ|knowing, aware (polite)
+竜封じ|りゅうふうじ|dragon-sealing
+亡き|なき|the late, deceased
+父王|ふおう|father the king
+教わる|おそわる|to be taught
+他国|たこく|other countries
+侵略|しんりゃく|invasion
+起きてしまう|おきてしまう|to end up happening
+代表する|だいひょうする|to represent
+お訪ねする|おたずねする|to ask, to visit (humble)
+どうなさる|どうなさる|what will you do (honorific)
+答える|こたえる|to answer
+お考え|おかんがえ|your thoughts (polite)
+なるほど|なるほど|I see, indeed
+ごいっしょさせていただく|ごいっしょさせていただく|to be allowed to accompany (humble)
+かまう|かまう|to mind, to care
+それじゃあ|それじゃあ|well then, in that case
+ヤツら|やつら|those guys
+人どおり|ひとどおり|foot traffic, pedestrian traffic
+すぐ近く|すぐちかく|right nearby
+ボロ負け|ぼろまけ|utter defeat

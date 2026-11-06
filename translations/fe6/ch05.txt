@@ -1,0 +1,140 @@
+1	The discovery of Lord Erik of Laus's collusion with the enemy dealt Roy and the others a further shock.
+2	Erik had hinted that he was not the only traitor.
+3	Lycia, the land Roy had always known... could no longer be called a safe place either.
+4	Roy and the others, heading for Ostia, in order to avoid needless danger,
+5	decided to pass through an old mountain road where few people traveled.
+6	Boss! That guy who went to scout the village earlier is back.
+7	Oh, then let's go shake down the villagers for their money and valuables, same as always.
+8	Nah, it ain't that simple.
+9	Seems like there's an army coming real close by.
+10	An army, you say!?
+11	Why the hell would an army need to pass through some run-down mountain road like this!?
+12	Dunno if it's true, but it looks like it's a Lycian army.
+13	Huh, if it's just the remnants of the Lycian Alliance that got crushed by Bern, there's nothing to be scared of.
+14	Ain't that the truth.
+15	Well, there's no harm in being careful, though.
+16	If things go well, we might even get our hands on some treasure...
+17	Give 'em a proper "welcome"!
+18	Lord Roy, a villager says they have something to ask of you...
+19	Oh, hey, wait up!
+20	Oh!! You must be Lord Roy of House Pherae, yes?
+21	That's right. Is there something you need from me?
+22	We'd like you to deal with the bandits!
+23	Bandits?
+24	The old castle on the mountain pass has become the bandits' hideout.
+25	Isn't there a garrison defending it?
+26	...The moment they heard the Lycian Alliance had lost, they scattered and fled.
+27	Those of us left behind live every single day in fear of the bandits.
+28	......
+29	There's no one else we can rely on. Please, help us!!
+30	Lord Roy, I feel for them, but for us, in a hurry as we are... it's a bit much.
+31	Yeah, I know.
+32	But I can't just abandon the people right in front of me and press on!
+33	Lord Roy!?
+34	You'll help us!? If you don't mind, please use the secret gate.
+35	It hasn't been used in a long time, but if you go through there, you'll come out right beside the castle.
+36	Understood.
+37	Then I'll go back ahead and arrange for the gate to open once you're nearby.
+38	Marinus! Let's head to the castle right away and drive off those bandits!
+39	Good grief, what a troublesome business.
+40	Well then, Dorothy, I'm counting on you. Make sure to pass this along to Saul too.
+41	Yes, Father Yodel.
+42	...Honestly, where has that priest gone off to?
+43	If he just wanders off on his own, there's no point in me being his escort.
+44	Father, I appreciate it, but I'm a bit...
+45	Now, now, don't say that. Tonight, let's have a nice, slow sermon from me...
+46	Ah, found him! Father!
+47	Hm. Dorothy.
+48	Well then, I'll be on my way...
+49	Ah, wait.
+50	...Good grief. Honestly, Dorothy.
+51	He ran off because you came marching up with that scary face of yours.
+52	I was born with this scary face!
+53	More importantly, Father, you were hitting on a girl again, weren't you?
+54	There you go again, inviting misunderstandings...
+55	I was merely offering salvation for the soul to a lost lamb...
+56	Then why does it have to be "tonight"?
+57	...Well, never mind that. Didn't you have some business with me?
+58	Oh, right. It seems the Lycian Alliance army will be arriving around here soon.
+59	What! Then that means Princess Guinivere is with them, doesn't it?
+60	That is, if what we were told at the Elimine Church headquarters wasn't wrong.
+61	I can't just sit here! I need to hurry and join that army.
+62	......
+63	What's the matter, Dorothy?
+64	...I hear Princess Guinivere is super gorgeous, you know~
+65	What foolishness are you talking about... Come on, let's go.
+66	O~kay.
+67	Right, I heard about it. Hold on a sec, I'll open it now.
+68	Wh-what the?! There was a gate over there?
+69	Tch. Pulling a slick move like that...
+70	Looks like you're having a hard time with enemies coming out one after another.
+71	When you want to stop enemy reinforcements from coming out of a fort,
+72	you just need an ally to go to that fort and block it off.
+73	As long as you hold that spot, the enemy simply can't get out.
+74	All the mountains around here are basically the bandits' own backyard.
+75	They're good with mountains, so they'll cross even the tallest ones without any trouble.
+76	Ah, how frightening...
+77	When Castle Araphen to the northeast was attacked by Bern...
+78	I... I was nearby.
+79	The Bern wyvern riders were terrifying too, but... something even... even more terrifying...
+80	I saw it.
+81	A dragon that swallowed up the Lycian army in its flame breath and destroyed everything...
+82	I... I must have just been dreaming.
+83	It's crazy, right? I mean, a dragon...
+84	...Please... tell me it was just a dream.
+85	Tell me it wasn't real!
+86	You lot, good timing. Could you hold onto this lance for me?
+87	I hear some amazing armor knight was using it.
+88	Rumor has it he beat twenty tough fighters from the Kingdom of Bern in a row at the arena.
+89	They say he's fighting against the Kingdom of Bern now, traveling with an energetic boy and a pretty young lady, three of them together.
+90	Same as you lot, huh.
+91	Nobody who's taken a hit from me has ever stayed standing.
+92	Hey you there, want to find out?
+93	Gah...! No... I don't wanna die yet...
+94	Lord Roy!! This is terrible! A monk of the Elimine Church...
+95	...has come asking for Lord Roy and Princess Guinivere!
+96	You mean he knew Princess Guinivere was traveling with us?
+97	Yes. I wonder what this is about.
+98	...I don't know.
+99	For now, I'll go meet him by myself.
+100	Lord Roy, I'll be fine. Let's hear what he has to say.
+101	Princess?
+102	Actually, relations between my brother and the Elimine Church have soured in recent years.
+103	I don't know the full circumstances, but I'm sure someone from the Church isn't an enemy.
+104	I see. Then, let's have him shown in here.
+105	Lord Roy, it's an honor to meet you. I am Saul of the Elimine Church.
+106	Nice to meet you.
+107	And...
+108	Oh! You must be Princess Guinivere!? Living up to the rumors — my, how beautiful!
+109	...?
+110	Now then, Princess Guinivere.
+111	I'd like to know the whereabouts of the "Fire Emblem" — you have it with you, don't you?
+112	!! How do you know about that...?
+113	We received word from our Church's branch in Bern.
+114	That the "Fire Emblem" had disappeared from the "Shrine of Seals".
+115	And that around the same time, you, Princess Guinivere, also disappeared from Bern.
+116	.......
+117	I was sent by the Church to confirm the facts.
+118	Why? Why the "Fire Emblem"?
+119	...It's to stop my brother.
+120	Your brother... meaning His Majesty King Zephiel of Bern.
+121	Yes.
+122	Do you know, Princess, what exactly the "Fire Emblem" is?
+123	...The "Fire Emblem" is the key that awakens the dragon-sealing sword...
+124	My late father the king taught me that, long ago. But as for what that actually means...
+125	Still, my brother seemed afraid of the "Fire Emblem" falling into someone else's hands.
+126	By making the king believe it might have fallen into enemy hands...
+127	you intended to use that as a means to make him stop invading other countries, is that it?
+128	Yes. But the fighting broke out anyway...
+129	On behalf of the Elimine Church, I must ask — what will you do from here?
+130	...Must I really answer that right now?
+131	You have some idea in mind, don't you?
+132	Yes. I haven't given up on the path to reconciliation yet.
+133	I see. Then, might I accompany you as well?
+134	If Lord Roy permits it.
+135	I don't mind.
+136	...Lord Roy.
+137	I'm causing you all sorts of trouble.
+138	Not at all. Please don't worry about it.
+139	I hope the path to reconciliation the princess speaks of... goes well.
+140	...Yes.
