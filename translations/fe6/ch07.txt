@@ -1,0 +1,260 @@
+1	Having received word of the rebellion, Roy and the others hurried toward Ostia.
+2	Along the way, according to the information they had gathered,
+3	General Reygans, a subordinate of Lord Hector of Ostia, had drawn in his own subordinate Dabhyss,
+4	and raised a rebellion in order to sell Ostia out to the Kingdom of Bern.
+5	Lilina, who had been guarding Ostia in her father's absence, was captured by Reygans and his men,
+6	and - perhaps because they thought she could be of use - was said to be locked away in the castle.
+7	Having heard that report, Roy and the others,
+8	determined to save Lilina even with just their own forces, pushed into the city of Ostia.
+9	And so Ostia, once hailed as the greatest city in all of Lycia,
+10	became a battlefield, mercilessly trampled underfoot...
+11	Dabhyss, how are things in the city?
+12	Sir! For now it's quiet. However, the mercenary order of knights from Ilia that Lord Hector employed
+13	are showing a firm resolve to resist.
+14	Those fools. We're offering good money - they should just obediently fall in line!!
+15	The Ilian mercenary knights are famous for never switching sides, you know.
+16	This is no time to be impressed by them!
+17	Soon, one of Bern's Three Dragon Generals - General Narshen - will be arriving!
+18	If we haven't secured Ostia by then, we'll be looked down on!!
+19	R-right, you're quite right.
+20	Lilina is our trump card for when we really need it... if we use that girl as a shield, their resistance should die down, but...
+21	That is strictly a last resort!
+22	The Ilian mercenary knights and whoever's cooperating with them are no match for us, Ostia's elite forces!
+23	Dabhyss! With your unit and the wyvern knights sent as reinforcements from Bern,
+24	secure this area! I'll hold down the inside of the castle - the city streets are left to you!
+25	Sir!
+26	Marinus! How many troops joined the rebel forces?
+27	A fair number, I'd wager. To think they'd forget the debt they owed Lord Ostia
+28	and fall in line without a shred of principle just because the other side looks strong... it's truly lamentable.
+29	I see...
+30	But there's good news too! The Ilian mercenary knights
+31	have offered to join our forces and attack the rebel troops.
+32	The Ilian mercenary knights?
+33	Yes. Apparently they had a contract to fight alongside the Ostian army against the Kingdom of Bern.
+34	That's an unexpected stroke of luck, but...
+35	once word reaches the knights that Lord Hector has passed away,
+36	surely that contract becomes void.
+37	Is it possible for us to hire them anew?
+38	As for that, Lord Roy - the knights already knew of Lord Ostia's death.
+39	Even so, they came and said they would fight alongside us.
+40	Even though they're mercenaries, why go that far?
+41	The Ilia region doesn't have especially rich land, so mercenary work is one of their main industries.
+42	Precisely because of that, they value trust above all and never betray a lord they've made a contract with...
+43	Well now, I'd heard the rumors, but it seems they were quite true.
+44	Yeah. Right now, they're an incredibly reassuring ally to us.
+45	Indeed - our army hasn't been abandoned by heaven just yet!
+46	However... word from the knights says
+47	that before long, a general of Bern and a wyvern knight unit are due to arrive here...
+48	If the rebel forces are reinforced, our chances of victory would be hopeless.
+49	Lord Roy... what will you do?
+50	...The Kingdom of Etruria might just move for us.
+51	Etruria!? ...Is that even possible?
+52	Etruria's "Mage General," General Cecilia -
+53	when I was studying here in Ostia, she was stationed here as a military attache.
+54	She even taught me how to fight. I believe she'd lend us her strength.
+55	Lord Roy! I must object!!
+56	Relying on the Kingdom of Etruria for a matter within Lycia - who knows what they might meddle in afterward...
+57	I know that. But this is a crisis threatening Lycia's very survival.
+58	Rather than hesitating out of fear for the future and losing everything,
+59	we ought to bet on any possibility, however small, to protect what truly matters.
+60	...Lord Roy.
+61	If we don't act now, it'll be too late! I'll write a letter addressed to General Cecilia.
+62	Marinus, I'm leaving the arrangements to you to get it to Etruria as quickly as possible.
+63	...Yes, sir! Since it's come to this, I'll steel myself for it too!!
+64	Good. I'm counting on you.
+65	Alright, everyone! Let's take back Ostia!!
+66	Hey, you, take a look - my proudest work.
+67	It flies better than an ordinary bow, you know - you can tell right away it's a real advantage.
+68	Right? Right? That's right, isn't it.
+69	I'd really like someone who knows the difference to put this to use.
+70	This, you ask? This here's a Torch staff, lights the way.
+71	Without one of these, you can't get around much at night.
+72	Fighting at night must be rough, huh? Can't see a blessed thing.
+73	Throw it at the enemy first thing, and you can't even fight back.
+74	I'll give you one - I've got plenty to burn anyway.
+75	A long time ago... some man I didn't even know collapsed in the street.
+76	I helped him out, and as thanks he gave me this sword.
+77	He was a strange one.
+78	But... he was a pretty good-looking man, you know. If I were just one year younger, heh...
+79	What's that? Ah... the sword. It's right there, go ahead and take it.
+80	It's fine, no need to hold back - it's nothing special anyway.
+81	Here, Ostia used to be the greatest city in all of Lycia... but,
+82	now... well, you can see how it is.
+83	This gem... if I sell it at a shop, it should help a little.
+84	Please, I beg you... our Ostia...
+85	please, give us back our lives here.
+86	Heeey, medicine, get your medicine~ cures what ails you, how about it~?
+87	Works wonders on any injury, right as rain~
+88	What's inside? That's a secret~ if I told you, nobody would buy it.
+89	Huh? Don't want it? Oh, come on~
+90	I'll throw one in for free this time~ buy from me next time, okay~?
+91	Lady Lilina, you're going to help her, right?
+92	Then use this staff.
+93	It can heal someone's wounds from far away - if Lady Lilina's hurt, please help her with it.
+94	I hope she's okay...
+95	Be careful... General Reygans and the others sided with Bern.
+96	Anyone who wouldn't go along with it got taken out. I managed to escape somehow... but look at the state of me.
+97	Take this. It's a mark of someone called a hero.
+98	I wanted to become a warrior worthy of it and fight for my homeland, Ostia...
+99	That... that was my dream.
+100	Social Knights, Paladins... knights on horseback...
+101	This long spear right here is effective against them - it's called the Knight Killer.
+102	Since there were knights among the rebel forces, I had this ready and waiting, but...
+103	I wonder if it'll still be of use.
+104	It looks like the Alliance army's remaining forces have started attacking the rebels.
+105	Right, we of the Ilian mercenary order will sortie too.
+106	We'll answer their call and drive the rebels off!
+107	Yeah, sure.
+108	Hm? I don't see Noah around. Where'd he wander off to?
+109	Uh... seems he's over at the arena.
+110	Apparently he's teaching some green young swordsman or other...
+111	Huh. Noah, doing that... that's a rare one.
+112	Well, never mind. Knowing him,
+113	once he realizes we've started moving, he'll join in soon enough.
+114	Guess so.
+115	Alright, let's move out!
+116	Looks like it's started.
+117	Well then, Phil, I'd better get going.
+118	Thank you for teaching me so much, Sir Noah.
+119	Still, I was surprised at first - you just barged right in
+120	with "I'd like to cross swords with you!"
+121	S-sorry about that. I'd just never been to an arena before, so...
+122	If you'd gone up against a weaker opponent, you might've been beaten without mercy.
+123	When you fight in an arena, you'd better learn to size up your opponent properly.
+124	And if things get dangerous, don't hesitate to call off the fight - right?
+125	That's right.
+126	The betting money can always be made back somehow, but there's no replacing a life.
+127	Whatever you lose, you can make it back once you've grown stronger.
+128	Yes, sir.
+129	So what will you do now? Keep honing your skills here a while longer?
+130	No... I'm thinking of crossing over to the western isles.
+131	The west... you mean the Western Isles? Why head out to such a backwater?
+132	I hear a lot of people have been gathering there for the mining development.
+133	I thought it'd be the perfect place for a training journey... and besides...
+134	Besides?
+135	The Western Isles are where my late mother first met my father.
+136	My mother, too, traveled the world on a training journey just like me, so...
+137	Huh... that's a bit unexpected.
+138	?
+139	You're always going on about "I want to get stronger, stronger,"
+140	so I figured you only cared about the sword, but...
+141	turns out you've got a romantic side to you after all.
+142	Wh-what? ...Oh, come on! Don't tease me!!
+143	Ha ha ha...
+144	Reinforcements from the south should be arriving before long.
+145	Heh heh... I can just picture the shocked faces of those who came to attack us.
+146	You must be General Zealot of the Ilian mercenary knights?
+147	And you are?
+148	My name is Roy. I'm leading this army, fighting here.
+149	You are?
+150	Well, that's a surprise... you're still just a boy.
+151	I've taken up Lord Ostia's final wishes, and that's why I'm here now.
+152	Lord Ostia, huh... we lost a fine man.
+153	That man was a rare kind of commander...
+154	Yes. For the sake of the late Lord Hector too, I absolutely intend to take back this city of Ostia!
+155	I made a promise - that I'd protect Lilina...
+156	I see... then we too will do everything within our power.
+157	...I'm grateful for your cooperation.
+158	Save your thanks for after everything's gone well.
+159	For now, let's focus on the enemy in front of us!
+160	Right.
+161	Are you with the Ilian mercenary knights?
+162	Hm? Oh, yeah, that's right.
+163	My name's Roy. I'm leading Lycia's Alliance army...
+164	So, you're saying I should fall in under you starting now?
+165	Huh? Is that alright?
+166	Hm?
+167	Won't you check with your captain first?
+168	Eh, I think it's probably fine.
+169	We were told we'd be joining up with Lycia's Alliance army anyway.
+170	Is that really how it works?
+171	I mean, isn't it?
+172	It's a battlefield - if I had to get permission for every little thing, I wouldn't survive.
+173	It's not like I'm going against orders or anything, and besides, it's such a hassle.
+174	...I see.
+175	Are you with the Ilian mercenary knights?
+176	Yeah, that's right.
+177	My name's Roy. I'm leading Lycia's Alliance army...
+178	Ah, I've heard about you.
+179	Well then, I'll follow your command from here on. What do you need?
+180	Huh? Is that alright?
+181	What is?
+182	Won't you check with your captain first?
+183	I've already heard we'll be joining up with Lycia's Alliance army.
+184	That's enough for me.
+185	Is that really how it works?
+186	This is a battlefield, after all. If you wait around for permission for everything,
+187	you can't act quickly when it really matters.
+188	Disobeying orders would be a problem, but anything short of that calls for improvising as needed.
+189	I see, that's a good lesson.
+190	General Zealot.
+191	Treck. What is it?
+192	I just met the leader of the Lycian Alliance army a moment ago.
+193	What! Why didn't you say so sooner?
+194	Well, it's not like it's "sooner" or anything - I only just met him a moment ago, so...
+195	Never mind.
+196	In that case, let's fall in under their command right away.
+197	Treck, I'll leave liaising with the Alliance army to you.
+198	Yeah, sure.
+199	Noah!
+200	General Zealot. Sorry I'm late.
+201	I heard you went to the arena. Something about teaching a young swordsman?
+202	Yes. He seemed green, so I just... couldn't help myself.
+203	Is he not with you?
+204	He said he was heading off to train on the western isles, and left.
+205	I see.
+206	I thought if he came along it might add to our strength, but I suppose that can't be helped.
+207	Still, it's rare for you to teach someone - you usually don't stick your nose in other people's business.
+208	Is that so?
+209	Yes.
+210	I did wonder if, perhaps unexpectedly, it was some cute girl you were dealing with.
+211	That's about the level of joke Treck and I were making.
+212	Though given it was the arena, and knowing you, I doubt that was the case.
+213	......
+214	......
+215	General Zealot!
+216	Noah. I heard you went to the arena.
+217	Yes. Sorry I'm late.
+218	No, it's fine. We've only just started fighting ourselves.
+219	We haven't been able to make contact with Lycia's Alliance army yet, though.
+220	Then you can rest easy.
+221	I just met the leader of the Alliance army a short while ago.
+222	Really!
+223	Then let's fall in under their command right away.
+224	Noah, I'll leave liaising with the Alliance army to you.
+225	Leave it to me.
+226	Treck, from here on we'll be falling in under Lycia's Alliance command.
+227	Yeah, sure.
+228	What, that's a half-hearted answer. Don't like it?
+229	No, it's nothing like that.
+230	I see. Well, if you say so.
+231	Lycia, huh... well, I'm sure it'll work out somehow.
+232	Wh-what... you mean to say you've defeated those Bernese wyvern knights?
+233	Tch... I won't let you through here!
+234	Ngh, Bors!
+235	To raise a rebellion while our lord is away!
+236	Unforgivable!
+237	Lord Reygans... please be careful...
+238	These people are... ...strong.
+239	Alright, the city side should be fine now.
+240	Next is the inside of Ostia Castle! We have to save Lilina!
+241	Lord Roy! Right now, those with the strength for it are breaking down the castle gate.
+242	I understand your impatience, but please wait just a bit longer.
+243	...Lilina.
+244	Speaking of Lady Lilina...
+245	How did you take Lord Hector's final words, Lord Roy?
+246	You mean about the dragon? It wasn't a legend - it really existed...
+247	Lord Hector was a man who, alongside my father, earned the title of one of Lycia's finest.
+248	And his army was driven to ruin in such a short span of time...
+249	Bern is the strongest nation in all of Elibe, after all - and those wyvern knights of theirs, their strength is something else.
+250	Of course, Bern's wyvern knights must have been strong too, but...
+251	the power of an actual dragon... I can hardly imagine it.
+252	A weapon that works against dragons... I wonder what kind of thing that would be?
+253	Perhaps... something called a "Divine Weapon," I'd wager.
+254	A Divine Weapon? That rings a bell from legend...
+255	Yes. It's said to be the special weapons the "Eight Legendary Heroes" used when they fought the dragons.
+256	If we had such a weapon, we could fight a dragon.
+257	But why would something like that be here in Ostia?
+258	Lady Lilina might know, perhaps... now that's interesting.
+259	Hm? Lord Roy, the signal's come! It seems we can finally get into the castle!
+260	Alright! Let's storm in at once! I will save Lilina, no matter what!

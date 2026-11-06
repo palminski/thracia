@@ -1755,3 +1755,300 @@
 繰り返す|くりかえす|to repeat
 無事で|むじで|safely (adverbial of 無事)
 なくなる|なくなる|to disappear, to cease to exist
+あいつ|あいつ|that guy, he (casual/rough)
+あいつのことだ|あいつのことだ|knowing him (set phrase)
+あかし|あかし|proof, token, mark
+あくまでも|あくまでも|strictly, to the last
+あせる|あせる|to panic, to be impatient
+あと一年|あといちねん|one more year
+あやつらめ|あやつらめ|those fools (contemptuous)
+あらためて|あらためて|anew, once more
+あわせる|あわせる|to combine, to match
+いいね|いいね|that's good, right? (seeking agreement)
+いいものを|いいものを|when it would be fine to (rhetorical regret)
+いいんじゃないかなぁ|いいんじゃないかなぁ|I think it's probably fine
+いきなり|いきなり|suddenly, abruptly
+いざというとき|いざというとき|when it really matters, in an emergency
+いざという時|いざというとき|when it really matters, in an emergency
+いちいち|いちいち|one by one, every little thing
+いま|いま|now
+いやぁ|いやぁ|well now (hesitation/exclamation)
+うわさ|うわさ|rumor
+う～ん|うーん|hmm (hesitation)
+おくすり|おくすり|medicine (polite)
+おことば|おことば|words (polite, e.g. someone's final words)
+おそらく|おそらく|perhaps, probably
+お待ちください|おまちください|please wait
+お礼|おれい|thanks, token of gratitude
+お願いする|おねがいする|to request, to ask a favor
+かけ金|かけきん|betting money, stake
+かもしれない|かもしれない|might, perhaps
+からかう|からかう|to tease
+かわいい|かわいい|cute
+くすり|くすり|medicine
+くらし|くらし|living, livelihood
+こうなる|こうなる|to come to this, to turn out this way
+ここに|ここに|here
+ご存知かも|ごぞんじかも|might know (polite)
+ご安心を|ごあんしんを|please rest assured
+サービス|サービス|a freebie, service
+さきほど|さきほど|a short while ago
+させてもらう|させてもらう|to be allowed to do, to get to do
+ザマ|ざま|a sorry state, a mess
+しばし|しばし|a little while
+すっかり|すっかり|completely
+すでに|すでに|already
+すばやく|すばやく|quickly, swiftly
+そういうものじゃないかなぁ|そういうものじゃないかなぁ|isn't that just how it is?
+そういうものでしょうか|そういうものでしょうか|is that really how it works?
+そうだけど|そうだけど|that's right, but
+そうだよなあ|そうだよなあ|that's right, isn't it
+そうっすね|そうっすね|guess so (casual)
+そうでしょうか|そうでしょうか|is that so, I wonder
+そのうえで|そのうえで|even so, on top of that
+それなら|それなら|if that's the case
+それまでに|それまでに|by that time
+それゆえに|それゆえに|precisely because of that
+そろそろ|そろそろ|soon, before long
+たくさん|たくさん|a lot, many
+だろ|だろ|right? (casual = だろう)
+つい|つい|unintentionally, before I knew it
+つく|つく|to arrive
+ときたら|ときたら|when it comes to, speaking of
+どうした|どうした|what's wrong, what happened
+どうしてそこまで|どうしてそこまで|why go that far
+どうにでもなる|どうにでもなる|can be sorted out somehow
+とおく|とおく|far away
+どのくらい|どのくらい|how much, how many
+ともに|ともに|together with
+ないしょ|ないしょ|a secret
+なかなか|なかなか|quite, considerably
+なげかわしい|なげかわしい|lamentable, deplorable
+なにせ|なにせ|after all, in any case
+ならいいが|ならいいが|well, if that's so
+なんとかなる|なんとかなる|it'll work out somehow
+ぬうっ|ぬうっ|ngh! (pained grunt)
+のですが|のですが|though, but (polite explanatory)
+はぁ|はぁ|huh, sigh
+はじめて|はじめて|for the first time
+はな先|はなさき|right at the start, immediately
+はやく|はやく|quickly, soon
+はやくもなにも|はやくもなにも|it's not a matter of "soon" or anything
+ふさわしい|ふさわしい|fitting, worthy
+ふつう|ふつう|ordinary, normal
+ぶつける|ぶつける|to throw at, to hit against
+ぶん|ぶん|the portion, the amount (lost/gained)
+へぇい|へぇい|yeah, sure (casual)
+へえい|へえい|yeah, sure (casual)
+ベルン王国|べるんおうこく|Kingdom of Bern
+ほどなく|ほどなく|before long
+まあいい|まあいい|never mind, whatever
+まことのこと|まことのこと|the truth, a true thing
+マズい|まずい|bad, problematic
+めずらしい|めずらしい|rare, unusual
+めんどうくさい|めんどうくさい|a hassle, bothersome
+もらう|もらう|to receive
+やられてしまう|やられてしまう|to end up getting beaten/defeated
+やられる|やられる|to be beaten, to be done in
+ようやく|ようやく|at last, finally
+ろくに|ろくに|properly, decently (with negative)
+ロマンチック|ロマンチック|romantic
+わけでもないし|わけでもないし|it's not that, either
+万が一|まんがいち|just in case, in the worst case
+万病|まんびょう|every illness, all ailments
+下手|したて|a weaker opponent (also read へた, "unskilled")
+並び|ならび|alongside, on a par with
+中身|なかみ|contents
+主要|しゅよう|main, principal
+乗り込む|のりこむ|to push into, to board
+二の足を踏む|にのあしをふむ|to hesitate, to be reluctant
+人事に|じんじに|into other people's affairs
+今のところ|いまのところ|for now
+仕方がない|しかたがない|it can't be helped
+付き従う|つきしたがう|to follow, to fall in line with
+代わり|かわり|a substitute, a replacement
+伝わる|つたわる|to be conveyed, to reach (someone)
+伝承|でんしょう|legend, tradition
+伺う|うかがう|to ask, to visit (humble)
+信用|しんよう|trust
+修行|しゅぎょう|training, discipline
+修行する|しゅぎょうする|to train, to undergo discipline
+働く|はたらく|to work, to act
+入ってくる|はいってくる|to come in
+入る|はいる|to enter
+全て|すべて|everything, all
+冗談|じょうだん|a joke
+出会う|であう|to meet, to encounter
+出撃する|しゅつげきする|to sortie, to head out to battle
+切り札|きりふだ|trump card
+別に|べつに|not particularly
+加勢する|かせいする|to reinforce, to lend aid
+助けてあげる|たすけてあげる|to help (someone out)
+助けないと|たすけないと|have to help
+効く|きく|to be effective, to work
+勉強になる|べんきょうになる|to be educational, to be a good lesson
+動き始める|うごきはじめる|to begin to move
+勝利|しょうり|victory
+十分|じゅうぶん|enough, sufficient
+協力|きょうりょく|cooperation
+南|みなみ|south
+危機|きき|crisis
+反乱|はんらん|rebellion
+反乱部隊|はんらんぶたい|rebel troops
+反対だ|はんたいだ|to be opposed
+取り返す|とりかえす|to take back, to recover
+取れる|とれる|to be obtainable, to be gotten (passive/potential of とる)
+口出し|くちだし|meddling, butting in
+可能|かのう|possible
+合図|あいず|a signal
+合流するという|ごうりゅうするという|said to be joining up
+名|な|name, a certain (unnamed person)
+呼応する|こおうする|to respond in kind, to answer a call
+城門|じょうもん|castle gate
+場合か|ばあいか|is this the time for that?
+壊滅|かいめつ|destruction, annihilation
+売り渡す|うりわたす|to sell off, to betray by selling
+売れば|うれば|if sold
+夜|よる|night
+夜中|よなか|the middle of the night
+大した|たいした|great, considerable
+大丈夫だろう|だいじょうぶだろう|should be fine, probably
+大至急|だいしきゅう|with utmost urgency
+契約|けいやく|a contract
+娘さん|むすめさん|a young lady, someone's daughter
+存続|そんぞく|continued existence, survival
+宝玉|ほうぎょく|a gem, jewel
+実在する|じつざいする|to really exist
+容赦|ようしゃ|mercy
+屈指|くっし|one of the best, leading
+届ける|とどける|to deliver
+島々|しまじま|islands
+巡る|めぐる|to travel around, to go around
+市街|しがい|the city, urban area
+店|みせ|shop
+強さ|つよさ|strength
+強国|きょうこく|a powerful nation
+御覧|ごらん|look, see (polite imperative)
+心強い|こころづよい|reassuring, encouraging
+忘れる|わすれる|to forget
+恩|おん|a debt of gratitude, kindness owed
+情報|じょうほう|information
+惜しい|おしい|regrettable, a pity
+意外|いがい|unexpected
+意外と|いがいと|unexpectedly
+意志|いし|will, resolve
+感心する|かんしんする|to be impressed, to admire
+戦い方|たたかいかた|a way of fighting
+戦士|せんし|warrior
+手紙|てがみ|a letter
+手配|てはい|arrangements
+打ち破る|うちやぶる|to break through, to defeat
+持ってこい|もってこい|perfect for, just right
+持てる|もてる|to be able to hold, to have
+指導する|しどうする|to teach, to instruct
+指揮|しき|command
+捕らえる|とらえる|to capture
+援軍|えんぐん|reinforcements
+攻撃する|こうげきする|to attack
+教えていただく|おしえていただく|to be taught (humble)
+教えている|おしえている|to be teaching
+断固として|だんことして|firmly, resolutely
+旅立つ|たびだつ|to set off on a journey
+明かり|あかり|light
+書く|かく|to write
+最初|さいしょ|at first
+最終手段|さいしゅうしゅだん|a last resort
+有利|ゆうり|advantageous
+有名|ゆうめい|famous
+本当か|ほんとうか|really? is that true?
+本物|ほんもの|the real thing, genuine
+来れば|くれば|if (someone) comes
+様子|ようす|the state of things, appearance
+次|つぎ|next
+武将|ぶしょう|a military commander
+武者修行|むしゃしゅぎょう|a warrior's training journey
+歩ける|あるける|to be able to walk
+死|し|death
+死ぬ|しぬ|to die
+残存部隊|ざんぞんぶたい|remaining forces
+母|はは|mother
+気に入る|きにいる|to take a liking to
+気のない|きのない|half-hearted, listless
+決意|けつい|resolve, determination
+点す|ともす|to light (a flame)
+無残|むざん|cruel, merciless
+燃やす|もやす|to burn
+産業|さんぎょう|industry
+申し出|もうしで|an offer, a proposal
+男|おとこ|man
+白紙になる|はくしになる|to become null and void
+目に浮かぶ|めにうかぶ|to come to mind, to picture vividly
+盾|たて|a shield
+知らせ|しらせ|news, word
+短い|みじかい|short
+確認を|かくにんを|confirmation (object marker dropped)
+示す|しめす|to show, to display
+祖国|そこく|homeland
+神将器|しんしょうき|Divine Weapon (the legendary weapons of the Eight Legendary Heroes)
+称号|しょうごう|a title
+稀に見る|まれにみる|rarely seen, exceptional
+突入だ|とつにゅうだ|time to storm in
+竜どもと|りゅうどもと|with the dragons (contemptuous ども)
+竜騎士部隊|りゅうきしぶたい|a wyvern knight unit
+第一|だいいち|first and foremost
+節操|せっそう|principle, integrity
+精鋭部隊|せいえいぶたい|an elite unit
+約束する|やくそくする|to promise
+素直|すなお|obedient, docile
+絶対に|ぜったいに|absolutely
+絶望的|ぜつぼうてき|hopeless
+者たち|ものたち|people, those ones
+背く|そむく|to disobey, to go against
+腹をくくる|はらをくくる|to steel oneself, to resolve firmly
+臨機応変|りんきおうへん|improvising as the situation demands
+自信作|じしんさく|a work one is proud of
+自軍|じぐん|one's own army
+興味|きょうみ|interest
+若い|わかい|young
+英雄|えいゆう|a hero
+行き倒れる|いきだおれる|to collapse (from exhaustion/illness) in the street
+行動する|こうどうする|to act, to take action
+街|まち|town, city
+街の方|まちのほう|the town's side
+街中|まちなか|throughout the town
+裏切る|うらぎる|to betray
+要らない|いらない|not needed, don't want
+見当たる|みあたる|to be found, to turn up
+見放す|みはなす|to abandon, to give up on
+見極める|みきわめる|to size up, to discern clearly
+誘う|さそう|to invite, to draw in
+足し|たし|a help, a supplement (to money etc.)
+踏み荒らす|ふみあらす|to trample, to ravage
+軽く|かるく|lightly, easily
+辺境|へんきょう|a remote region, a frontier
+返事|へんじ|a reply
+迷わず|まよわず|without hesitation
+追い込む|おいこむ|to drive into (a corner), to corner
+連絡役|れんらくやく|a liaison, go-between
+遅れる|おくれる|to be late
+遠慮|えんりょ|reserve, hesitation
+遺志|いし|a person's final wishes
+部下|ぶか|a subordinate
+都|と|a capital, a great city
+鉱山|こうざん|a mine
+鍛える|きたえる|to train, to forge
+開発|かいはつ|development
+間に|あいだに|in the meantime
+間に合う|まにあう|to make it in time
+限り|かぎり|as long as, the limit
+隊|たい|a unit, a troop
+隊長|たいちょう|a captain
+集まる|あつまる|to gather
+集める|あつめる|to collect, to gather
+集中する|しゅうちゅうする|to concentrate
+静か|しずか|quiet
+首を突っ込む|くびをつっこむ|to stick one's nose into
+駐留武官|ちゅうりゅうぶかん|a military attache stationed (somewhere)
+驚く|おどろく|to be surprised
+魔道軍将|まどうぐんしょう|Mage General (a military rank specific to this game)
+いい男|いいおとこ|a good-looking man

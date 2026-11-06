@@ -133,3 +133,12 @@ darou|〜だろう|"Probably", or seeking agreement (= でしょう).|https://bu
 toomou|〜と思う|"I think that …".|
 demo|〜でも|"Even (just), but; or something".|https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82
 toaritewa|〜とあっては|"If it comes to … ; given that …" (formal, implies an unwelcome situation).|
+teiku|〜ていく|Action moving away or continuing onward from now ("go on doing").|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%8F
+me|〜め|Insulting suffix on a name or noun (こぞうめ = "that brat").|
+temiseru|〜てみせる|"I'll …, you'll see": strong resolve to accomplish it.|https://bunpro.jp/grammar_points/852
+nasaru|なさる|Honorific する.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%95%E3%82%8B
+noda|〜のだ／〜のです|Explanatory ending: states something as the explanation or as an emphatic fact.|https://bunpro.jp/grammar_points/-%E3%82%93%E3%81%A7%E3%81%99-%E3%81%AE%E3%81%A7%E3%81%99
+kana|〜かな|"I wonder".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AA
+teshimau|〜てしまう|Done completely, often with regret.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
+bakari|〜ばかり|"Just, only, nothing but".|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A
+toieba|〜といえば|"Speaking of …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0

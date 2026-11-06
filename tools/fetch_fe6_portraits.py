@@ -22,7 +22,7 @@ UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 NAMES = {
     "ロイ": "roy", "リリーナ": "lilina", "エリウッド": "eliwood", "ランス": "lance",
     "アレン": "alen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
-    "ダマス": "damas", "ミレディ": "melady", "ルード": "ruud", "エレン": "elen",
+    "ダマス": "damas", "レイガンス": "legance", "ゼロット": "zelot", "トレック": "trec", "ノア": "noah", "フィル": "fir", "ミレディ": "melady", "ルード": "ruud", "エレン": "elen",
     "ディーク": "dieck", "シャニー": "shanna", "ワード": "ward", "ロット": "lot",
     "ギネヴィア": "guinivere", "ブルーニャ": "brunnya", "ゼフィール": "zephiel", "ヘクトル": "hector", "ドリー": "dory", "ヨーデル": "yodel", "ドロシー": "dorothy", "サウル": "saul",
     "チャド": "chad", "ルゥ": "lugh", "ナーシェン": "narcian", "スレーター": "slater",
