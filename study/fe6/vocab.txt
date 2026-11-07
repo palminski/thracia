@@ -2835,3 +2835,284 @@
 休む|やすむ|to rest
 指す|さす|to point to, to indicate, to refer to
 心をこめて|こころをこめて|with heart and sincerity, wholeheartedly
+あてにする|あてにする|to count on, to rely on
+あぶない|あぶない|dangerous
+あやまっておく|あやまっておく|to apologize in advance / beforehand
+ありがたい|ありがたい|grateful, welcome
+いつわり|いつわり|a lie, a falsehood
+うのみにする|うのみにする|to swallow whole, to take at face value
+うめき|うめき|a groan, a moan
+おねしょ|おねしょ|bed-wetting
+おぼえる|おぼえる|to remember, to learn
+お取り込み中|おとりこみちゅう|in the middle of something, occupied
+お受け取り下さい|おうけとりください|please accept/take this
+お呼び|および|a call, being summoned
+お土産|おみやげ|a souvenir, a gift
+お手数|おてすう|trouble, inconvenience (caused to someone)
+お礼を言う|おれいをいう|to give thanks, to say thank you
+お通しする|おとおしする|to show (someone) in
+お預かりする|おあずかりする|to receive and hold something on someone's behalf
+かえって|かえって|on the contrary, rather
+かせぐ|かせぐ|to earn (money)
+きれい|きれい|pretty, beautiful
+こじつけ|こじつけ|a forced argument, a far-fetched excuse
+この辺り|このあたり|this area, around here
+こわくて出歩けない|こわくてであるけない|too scared to go outside
+ご武運|ごぶうん|military fortune, good luck in battle
+さしあげる|さしあげる|to give (humble)
+しっかりする|しっかりする|to be steady, to pull oneself together
+すまないと思う|すまないとおもう|to feel sorry, to feel guilty
+その気になる|そのきになる|to feel like doing it, to be in the mood
+ただでは済まない|ただではすまない|won't end well, won't get off easy
+たて|たて|a shield
+だとしたら|だとしたら|if that's the case, supposing that
+ちらつかせる|ちらつかせる|to dangle, to hint at
+つとめる|つとめる|to serve (in a role), to work as
+つまらないことを言う|つまらないことをいう|to say something foolish/trivial
+てっとり早い|てっとりばやい|quick and simple, the easiest way
+とりしきる|とりしきる|to be in charge of, to oversee
+とりで|とりで|a fort, a stronghold
+なにゆえ|なにゆえ|why, for what reason (archaic)
+なんじゃと|なんじゃと|what did you say (old-fashioned)
+ばかな|ばかな|absurd, ridiculous
+目にあう|めにあう|to experience, to suffer (an ordeal)
+びゅんびゅん|びゅんびゅん|whoosh, zoom (sound of something moving fast)
+ふつうに生きる|ふつうにいきる|to live a normal life
+べき|べき|should, ought to
+まかせ|まかせ|leaving (something) up to someone
+まぎれこむ|まぎれこむ|to slip in among, to blend in unnoticed
+まご娘|まごむすめ|granddaughter
+まちがう|まちがう|to be mistaken, to make a mistake
+まちがった判断|まちがったはんだん|a mistaken judgment
+もよう|もよう|signs, indications (that something will happen)
+やだ|やだ|no way, I don't want to (casual)
+やとう|やとう|to hire, to employ
+よしよし|よしよし|there there, good good (soothing)
+よせあつめ|よせあつめ|a ragtag group, a hodgepodge
+アルカルド|アルカルド|Arcard
+ウソつき|うそつき|a liar
+ウソを言う|うそをいう|to tell a lie
+ウワサ|うわさ|a rumor
+グズグズする|ぐずぐずする|to dawdle, to dilly-dally
+ソシアルナイト|ソシアルナイト|Social Knight (cavalry class)
+ビビる|びびる|to get cold feet, to chicken out
+ムチャをする|むちゃをする|to do something reckless
+一刻も早く|いっこくもはやく|as soon as possible
+一員|いちいん|a member
+一帯|いったい|the whole area
+一生|いっしょう|one's whole life
+上層部|じょうそうぶ|the higher-ups, upper management
+不確か|ふたしか|uncertain, unreliable
+不自然|ふしぜん|unnatural
+世話|せわ|care, looking after
+了承済み|りょうしょうずみ|already approved, already consented to
+了解する|りょうかいする|to understand, to acknowledge
+人物|じんぶつ|a person, a character
+たくす|たくす|to entrust (something to someone)
+仕事の最中|しごとのさいちゅう|in the middle of a job
+仕留める|しとめる|to bring down, to finish off (a target)
+付き合わせる|つきあわせる|to drag (someone) along, to make (someone) accompany
+仮説|かせつ|a hypothesis
+仰る|おっしゃる|to say (honorific)
+仲間を探す|なかまをさがす|to look for one's companions
+住民|じゅうみん|residents, inhabitants
+何もしてねえ|なにもしてねえ|haven't done anything
+何もできねえ|なにもできねえ|can't do anything
+作り出す|つくりだす|to create, to produce
+使いすてにする|つかいすてにする|to use and throw away, to treat as disposable
+使える者|つかえるもの|someone who can use (something)
+例の|れいの|that (familiar topic), the aforementioned
+保護する|ほごする|to protect
+信じてない|しんじてない|not believing, not trusting
+信用を落とす|しんようをおとす|to lose credibility/trust
+倒れる|たおれる|to collapse, to fall down
+傭兵をする|ようへいをする|to work as a mercenary
+傷だらけ|きずだらけ|covered in wounds
+働きに出る|はたらきにでる|to go out to work
+先を急ぐ|さきをいそぐ|to hurry on ahead
+先行する|せんこうする|to go ahead, to precede
+入れ知恵|いれぢえ|a scheme put into someone's head, cunning advice
+全てウソになる|すべてうそになる|to become a complete lie
+全軍|ぜんぐん|the whole army
+公爵家|こうしゃくけ|a duke's household
+共存|きょうぞん|coexistence
+出ていけ|でていけ|get out!
+切れ者|きれもの|a sharp, capable person
+前を向く|まえをむく|to face forward, to look ahead
+前線|ぜんせん|the front line
+助力させていただく|じょりょくさせていただく|to be allowed to lend one's help
+勇気をだす|ゆうきをだす|to summon up courage
+半減|はんげん|being halved, cut in half
+参謀|さんぼう|a strategist, a staff officer
+参謀役|さんぼうやく|the role of strategist
+反対|はんたい|the opposite, opposition
+反旗をひるがえす|はんきをひるがえす|to raise a rebellion, to turn against
+取る|とる|to take
+可能性が極めて高い|かのうせいがきわめてたかい|extremely likely
+同行する|どうこうする|to accompany
+名乗る|なのる|to give one's name, to identify oneself
+味方する|みかたする|to side with, to support
+味方になってくれる|みかたになってくれる|to become an ally for one's sake
+味方をする|みかたをする|to take someone's side
+命を大切に|いのちをたいせつに|take care, value your life
+命を狙う|いのちをねらう|to target someone's life
+命令を受ける|めいれいをうける|to receive an order
+回り込む|まわりこむ|to circle around
+回復の杖|かいふくのつえ|a healing staff
+城下|じょうか|the area below/around a castle
+壊滅状態|かいめつじょうたい|a state of devastation, near wiped-out
+大好き|だいすき|to love, to like very much
+大男|おおおとこ|a big man
+契約を結ぶ|けいやくをむすぶ|to sign/make a contract
+好きにする|すきにする|to do as one likes
+好転する|こうてんする|to turn for the better
+姉妹|しまい|sisters
+守ってあげる|まもってあげる|to protect (for someone's sake)
+守れる|まもれる|to be able to protect/keep
+完敗|かんぱい|a total defeat
+尽くす|つくす|to devote oneself, to serve
+山ぞい|やまぞい|along the mountain(side)
+差し向ける|さしむける|to send/dispatch (troops) toward
+巻き込まれる|まきこまれる|to get caught up in, to get involved in
+帰ってくる|かえってくる|to come back, to return
+帰るために|かえるために|in order to return
+幼なじみ|おさななじみ|a childhood friend
+弟|おとうと|a younger brother
+強引|ごういん|forceful, pushy
+弾圧する|だんあつする|to oppress, to crack down on
+役に立たねえ|やくにたたねえ|useless, no good
+役に立つはず|やくにたつはず|should come in handy
+役目|やくめ|a duty, a role
+役目を果たす|やくめをはたす|to fulfill one's duty
+待ってくれ|まってくれ|wait, please
+心当たり|こころあたり|an idea, a clue (about something)
+志す|こころざす|to aspire to, to set one's heart on
+怖がらないで|こわがらないで|don't be afraid
+恥ずかしい|はずかしい|embarrassing, ashamed
+悪事を働く|あくじをはたらく|to commit a wicked act
+悲しそうな目|かなしそうなめ|sad-looking eyes
+惨状|さんじょう|a terrible/pitiful state
+戦いたくない|たたかいたくない|don't want to fight
+戦わなくてはいけない|たたかわなくてはいけない|must fight
+戻らねば|もどらねば|must return
+手を引いてくれる|てをひいてくれる|to lead by the hand (for someone's sake)
+手入れ|ていれ|care, maintenance, grooming
+手柄|てがら|credit, an achievement
+扱えぬ|あつかえぬ|cannot handle/wield
+把握する|はあくする|to grasp, to have a handle on
+投げつける|なげつける|to throw (something) at
+拝見させていただく|はいけんさせていただく|to be allowed to observe/watch (humble)
+持ち出す|もちだす|to take out, to make off with
+捕らえられる|とらえられる|to be captured
+探させる|さがさせる|to make/have (someone) search
+探すこと|さがすこと|searching (for something)
+支える|ささえる|to support
+攻めあがる|せめあがる|to advance and attack (upward/forward)
+攻め下る|せめくだる|to push forward and attack (downward/southward)
+放って戻る|はなっておくる|to leave something behind and go back
+敵だぞ|てきだぞ|(I'm) your enemy, you know
+敵にまわす|てきにまわす|to make an enemy of
+早馬|はやうま|a swift horse, a mounted courier
+曇る|くもる|to become clouded, to cloud over
+望みはある|のぞみはある|there is still hope
+本来|ほんらい|originally, by nature
+楽にしてやる|らくにしてやる|to make things easier for (someone)
+構わない|かまわない|don't mind, it doesn't matter
+槍をかまえる|やりをかまえる|to ready one's lance
+歓迎する|かんげいする|to welcome
+正義|せいぎ|justice
+武人として|ぶじんとして|as a warrior
+死ぬかもしれない|しぬかもしれない|might die
+死もやむなし|しもやむなし|death is permissible, even death is acceptable
+民ども|たみども|the people (contemptuous)
+気がすむ|きがすむ|to be satisfied, to feel at ease
+気が強い|きがつよい|strong-willed
+気づく|きづく|to notice, to realize
+気をつけたほうがいい|きをつけたほうがいい|you'd better be careful
+気品に欠ける|きひんにかける|lacking in refinement/elegance
+沿う|そう|to run along, to follow (a coastline, etc.)
+活発|かっぱつ|active, lively
+派遣される|はけんされる|to be dispatched
+海岸線|かいがんせん|a coastline
+渡してやってくれんか|わたしてやってくれんか|could you give this to (him) for me
+潰す|つぶす|to crush, to destroy
+状況的|じょうきょうてき|given the circumstances
+率直|そっちょく|frank, candid
+理解できない|りかいできない|cannot understand
+疑いは消える|うたがいはきえる|the suspicion disappears
+目から見て|めからみて|from (someone's) point of view
+目をつぶる|めをつぶる|to close one's eyes (to something), to turn a blind eye
+相談する|そうだんする|to consult, to discuss
+真にうける|まにうける|to take (something) seriously/literally
+知らぬこととはいえ|しらぬこととはいえ|though I didn't know
+秘密を守るため|ひみつをまもるため|in order to keep a secret
+称する|しょうする|to claim to be, to call oneself
+稼ぐ|かせぐ|to earn
+立たせる|たたせる|to make (someone) stand, to put (someone) on
+立ち寄る|たちよる|to stop by, to drop in
+立派なレディ|りっぱなレディ|a proper lady
+筆頭|ひっとう|the head, the foremost
+答えはひとつ|こたえはひとつ|there's only one answer
+約束できる|やくそくできる|can promise
+紹介してくれる|しょうかいしてくれる|to introduce (someone) for one's sake
+経つ|たつ|(time) to pass
+羽|はね|a feather
+考えなかったわけではない|かんがえなかったわけではない|it's not that I didn't think about it
+聞き方|ききかた|the way one asks
+腹が真っ黒|はらがまっくろ|black-hearted, scheming
+臣下|しんか|a retainer, a vassal
+自国|じこく|one's own country
+苦しめる|くるしめる|to torment, to make suffer
+荷が重い|にがおもい|a heavy burden, too much to ask
+行動をともにする|こうどうをともにする|to act together with
+行方が知れない|ゆくえがしれない|whereabouts unknown
+行方知れず|ゆくえしれず|missing, whereabouts unknown
+被害を受けぬ|ひがいをうけぬ|not to take damage
+裏山|うらやま|the hill out back
+襲わせる|おそわせる|to make (someone) attack
+見えぬ|みえぬ|cannot be seen, invisible
+見くびる|みくびる|to underestimate, to look down on
+見つからぬ|みつからぬ|cannot be found
+見つかる|みつかる|to be found
+見つけ出す|みつけだす|to find, to track down
+見失う|みうしなう|to lose sight of
+見抜け|みぬけ|see through it! (command)
+見逃す|みのがす|to overlook, to let slide
+覚悟ができる|かくごができる|to be mentally prepared
+覚悟してもらう|かくごしてもらう|to have (someone) prepare themselves
+親兄弟|おやきょうだい|parents and siblings, one's family
+解答|かいとう|an answer, a solution
+言うことを聞く|いうことをきく|to listen to, to obey
+討ってでる|うってでる|to sally forth and attack
+許すはずはない|ゆるすはずはない|there's no way (he'd) allow it
+話しかける|はなしかける|to speak to, to address
+誓い|ちかい|an oath, a vow
+謀反|むほん|rebellion, treason
+貴族階級|きぞくかいきゅう|the noble class
+賊討伐|ぞくとうばつ|suppression of bandits
+転ぶ|ころぶ|to fall over, to trip
+迷惑をかける|めいわくをかける|to cause trouble (for someone)
+追いやる|おいやる|to drive away, to banish
+送られる|おくられる|to be sent
+逃げるわけにはいかない|にげるわけにはいかない|cannot afford to run away
+逆らえる|さからえる|can defy, can go against
+通じる|つうじる|to be in league with, to be connected to
+連れて行ってもらう|つれていってもらう|to have (someone) take you along
+遠い遠い国|とおいとおいくに|a far, far-away country
+部将|ぶしょう|a military commander
+都合がいい|つごうがいい|convenient
+都合が悪い|つごうがわるい|inconvenient
+配下|はいか|a subordinate, one's men
+重臣|じゅうしん|a senior vassal, a high minister
+閉ざす|とざす|to close off, to shut
+間に合わない|まにあわない|won't make it in time
+青年|せいねん|a young man
+非礼|ひれい|rudeness, discourtesy
+面倒をみる|めんどうをみる|to look after, to take care of
+面倒を見てあげる|めんどうをみてあげる|to look after (for someone's sake)
+頼まれてくれないか|たのまれてくれないか|could I ask you to do this
+飛びつく|とびつく|to jump at, to leap for
+馬鹿にされる|ばかにされる|to be made a fool of
+駐屯する|ちゅうとんする|to be stationed, garrisoned
+騎馬部隊|きばぶたい|a cavalry unit
+黒幕|くろまく|the mastermind, the one pulling the strings

@@ -33,6 +33,7 @@ NAMES = {
     "ルトガー": "rutger", "キャス": "cath", "ワグナー": "wagner", "アストール": "astolfo",
     "バース": "barthe", "ウェンディ": "gwendolyn", "パーシバル": "perceval",
     "ノード": "nord", "ギース": "geese", "ゴンザレス": "gonzalez", "ララム": "larum",
+    "エルフィン": "elffin", "ゲイル": "galle",
 }
 
 
