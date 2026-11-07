@@ -155,3 +155,14 @@ houga-ii|〜たほうがいい|"It would be better to …".|https://bunpro.jp/gr
 tameni|〜ために|"In order to, for the purpose of".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%82%E3%81%AB
 ka|疑問文 + か|The plain question-marking particle か (closing a direct question).|
 youga|〜ようが|"No matter whether … or …": concessive, usually paired (〜ようが〜ようが).|
+chigainai|〜に違いない|"Must be, surely is": strong conviction.|https://bunpro.jp/grammar_points/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84
+kedo|〜けど|Casual "but, although" (= が／けれども).|
+kadouka|〜かどうか|"Whether or not …".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B
+tomo|〜とも|"Also, too; even" (formal/literary).|
+ijouha|〜以上は|"Since, given that …(has happened)".|https://bunpro.jp/grammar_points/%E4%BB%A5%E4%B8%8A
+yoreba|〜によれば|"According to …".|https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8
+shidai|〜次第|"Depending on …".|
+nakereba|〜なければ|"If not, unless" (short for なければならない without the "must" ending).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0
+wakedewanai|〜わけでもない|"It's not like, not necessarily the case that …".|
+to-conditional|〜と (conditional)|"When, if": a natural/automatic consequence follows.|https://bunpro.jp/grammar_points/%E3%81%A8-conditional
+nakunaru|〜なくなる|"Comes to no longer, stops being able to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B

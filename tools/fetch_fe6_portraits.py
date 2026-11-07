@@ -20,6 +20,7 @@ UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 # Japanese speaker name (as it appears in the transcript) -> wiki file-name slug.
 # Grows chapter by chapter as new named characters show up.
 NAMES = {
+    "ヘニング": "henning",
     "ロイ": "roy", "リリーナ": "lilina", "エリウッド": "eliwood", "ランス": "lance",
     "アレン": "alen", "ボールス": "bors", "マーカス": "marcus", "ウォルト": "wolt",
     "ダマス": "damas", "レイガンス": "legance", "ゼロット": "zelot", "トレック": "trec", "ノア": "noah", "フィル": "fir", "ミレディ": "melady", "ルード": "ruud", "エレン": "elen",

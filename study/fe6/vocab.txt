@@ -2408,3 +2408,77 @@
 あちら|あちら|over there, that place
 きっての|きっての|the very best of, foremost among
 最近|さいきん|recently
+打ちのめす|うちのめす|to devastate, to crush (emotionally)
+誓う|ちかう|to swear, to vow
+背後|はいご|behind, from the rear
+迫り来る|せまりくる|to close in, to approach threateningly
+敵国|てきこく|enemy nation
+まともに|まともに|properly, directly
+入手する|にゅうしゅする|to obtain
+案内|あんない|guidance
+郊外|こうがい|outskirts, suburbs
+洞窟|どうくつ|cave
+火山|かざん|volcano
+ふもと|ふもと|foot (of a mountain)
+お頭|おかしら|boss, chief (gang leader)
+たいした|たいした|considerable, significant
+ヘン|へん|strange, odd (= 変)
+かかわる|かかわる|to be involved with, to concern oneself with
+床|ゆか|floor
+マグマ|マグマ|magma
+谷|たに|valley
+収める|おさめる|to store, to keep
+落ち着く|おちつく|to calm down
+悲しむ|かなしむ|to grieve, to be sad
+守り切る|まもりきる|to protect to the end, to fully defend
+分|ぶん|one's share, portion
+頑張る|がんばる|to do one's best, to try hard
+側|そば|side, nearby
+うつむく|うつむく|to look down, to hang one's head
+勇者|ゆうしゃ|hero, brave warrior
+初代|しょだい|the first (generation), founding
+ご先祖さま|ごせんぞさま|ancestor (polite)
+名前|なまえ|name
+不思議|ふしぎ|mysterious, strange
+響き|ひびき|sound, ring (of a name)
+かざす|かざす|to hold up, to raise
+荒れ果てる|あれはてる|to fall into ruin, to become desolate
+様変わりする|さまがわりする|to change completely, to transform
+自然|しぜん|nature
+ことわり|ことわり|principle, order (= 理)
+正しい|ただしい|correct, right
+秘める|ひめる|to hide, to conceal (within)
+盗賊団|とうぞくだん|band of thieves
+心配ない|しんぱいない|no need to worry
+取り出し方|とりだしかた|the way to take something out
+直系|ちょっけい|direct lineage, direct descent
+早い|はやい|quick, early
+てめーら|てめーら|you bastards (rough, plural)
+んな|んな|that kind of (= そんな, contraction)
+とこ|とこ|place (= ところ, contraction)
+記録|きろく|record
+小柄|こがら|small-built, petite
+多分|たぶん|probably
+とか|とか|or something, or the like
+お前|おまえ|you (rough/familiar)
+手間|てま|trouble, effort
+省ける|はぶける|to be saved, to be spared (effort)
+渡す|わたす|to hand over
+ご不満|ごふまん|dissatisfaction (polite)
+一戦|いっせん|one battle
+交える|まじえる|to exchange, to cross (swords)
+よろしい|よろしい|fine, alright (formal)
+相手にする|あいてにする|to deal with, to take on as an opponent
+対する|たいする|to be opposed to, to be against
+下る|くだる|to fall under, to submit to
+食い下がる|くいさがる|to persist, to press (an argument)
+久しぶり|ひさしぶり|long time (no see)
+疲れ|つかれ|fatigue, tiredness
+元気そう|げんきそう|looking well, looking healthy
+難|なん|disaster, difficulty
+恩に着る|おんにきる|to feel indebted, to be grateful for a favor
+上げる|あげる|to raise, to improve
+帰す|かえす|to send back, to let go home
+天高く|てんたかく|high into the sky (lit. "sky-high")
+ところで|ところで|by the way
+ありがとうございました|ありがとうございました|thank you very much (past, formal)

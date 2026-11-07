@@ -1,0 +1,124 @@
+1	Roy swears to always protect Lilina, who is devastated by her father's death
+2	But facing the enemy nation Bern's wyvern knights closing in from behind,
+3	at this rate, they won't be able to fight properly...
+4	So Roy and the others, guided by Lilina, set out to obtain the "Divine Weapon" first
+5	and headed to a cave on the outskirts of Ostia.
+6	That cave, at the foot of a volcano, would give Roy and his companions a great trial.
+7	B-boss, this is bad! An army's invading this cave!
+8	What!? How many are there?
+9	Dunno. Hope it ain't that many...
+10	That's strange...
+11	The Lycian lords shouldn't have time to be bothering with the likes of us.
+12	What do we do, boss?
+13	This must be their first time in this cave.
+14	They definitely don't know a damn thing about this place.
+15	Lure 'em onto the floor where the magma spouts and finish 'em off.
+16	Roy, this way! Beyond this valley of magma,
+17	the "Divine Weapon" passed down through generations of House Ostia should be kept.
+18	Lilina, are you alright? Have you calmed down a little?
+19	Yes... I can't say I'm completely fine, but now isn't the time to be grieving.
+20	Whether we can protect Ostia or not - I'll do my best, for Father's sake too.
+21	I see... That's the Lilina I know.
+22	Because you're by my side, Roy... I can keep from hanging my head.
+23	Huh? Did you say something just now?
+24	No, it's nothing.
+25	Anyway, let me tell you what I've been taught about the "Divine Weapon".
+26	What's here is the sword used by Roland the Hero, one of the "Eight Generals".
+27	That person - could it be the Roland who was Ostia's first lord?
+28	That's right, our ancestor. The sword's name is Durandal, the "Blazing Blade".
+29	Durandal... what a strange-sounding name.
+30	So Roland the Hero fought dragons with that sword during the "War Between Man and Dragon", huh?
+31	That's what's been passed down, yes.
+32	After the War Between Man and Dragon, Roland returned to his homeland of Ostia,
+33	and held the Blazing Blade high toward the heavens.
+34	The land, ravaged by war, the natural order that had been thrown into disarray-
+35	all of it, he's said to have restored to its proper form.
+36	Somehow, that's an amazing sword.
+37	After all, it works against dragons. It must hold some mysterious power.
+38	Yeah... by the way,
+39	they say a band of thieves has made this place their hideout - will it be alright?
+40	? What do you mean?
+41	It's not like Durandal's already gone or something, right?
+42	No need to worry. The way to draw out Durandal
+43	should only be known by Roland's direct descendants.
+44	Well, that makes this simple, then.
+45	Let's defeat them and get our hands on Durandal!
+46	Geez... what business do you lot have coming all the way out here?
+47	Well, since you've gone and come here... guess I can't let you go back.
+48	Gah... I knew it...
+49	Roy, I found it, it's this!
+50	So this is Durandal, the "Blazing Blade"... it's a really big sword. Looks like it'd be picky about who can use it.
+51	But according to the records, Roland the Hero was a small-built person.
+52	Whether you can use it or not probably depends on your skill with the blade, don't you think?
+53	So if I improve my skill, does that mean even I could use it?
+54	Probably, yeah.
+55	"Probably," huh...
+56	Hehehe...
+57	Lord Roy, this is terrible! Bern's wyvern knights are outside Ostia Castle!
+58	What!? They're already here?
+59	Kukukuku... so you're the one they call Roy?
+60	Much appreciated, really - defeating those fools Legance and his men for me. Saved me some trouble.
+61	Now then, be a good boy and hand over this Ostia to me.
+62	You must be joking! Like hell I'd let the likes of you-!!
+63	Oh? So you'll fight us then - with that tattered fighting force of yours?
+64	Interesting. I'll crush you thoroughly - just like I did with Lord Hector of Ostia.
+65	Ngh!
+66	That's far enough!
+67	L-Lord Narcian! A large force from the Kingdom of Etruria!
+68	Gah, I can see that just by looking! Why on earth...
+69	I am Perceval, Knight-General of the Kingdom of Etruria.
+70	The other day, through Mage-General Cecilia, a request for protection was made from Ostia to our country.
+71	Therefore, from this moment, Ostia falls under the protection of the Kingdom of Etruria.
+72	Wh-what...!?
+73	Not satisfied? Then we'd be happy to cross swords with you.
+74	Though, I wonder if those imposing wyvern knights of yours alone can handle a force this size?
+75	Y-you are...!
+76	I am Cecilia, Mage-General of the Kingdom of Etruria.
+77	I have ties to this Ostia. I won't let you have your way with it.
+78	Ngh... damn you... damn you!
+79	Lord Narcian, you mustn't lose your temper!
+80	General Perceval is one of the finest commanders in the Kingdom of Etruria.
+81	And with their mage corps joining in, fighting with just us wyvern knights would put us at a disadvantage...
+82	I know that already! Pull back!!
+83	Cecilia, was it? You insolent woman - remember this!
+84	General Roy of the Lycian Alliance, I presume?
+85	Y-yes, sir!
+86	I've been entrusted with the army by the late Marquess of Ostia, our alliance's leader.
+87	I see. Lycia is going through a trial, then. From my king of Etruria as well,
+88	I've been tasked with conveying condolences for the Marquess's death.
+89	I'm grateful for your thoughtfulness.
+90	If not for Etruria's help...
+91	Ostia would probably have fallen under Bern's banner by now.
+92	Thank you very much, truly.
+93	I'm not the one who should receive your thanks. I merely followed my country's decision.
+94	If you want to thank someone, thank the Mage-General who pressed the reluctant king on this.
+95	She... defied the king?
+96	That's right. Reckless, isn't she?
+97	Well then, we can't have both of our generals away from the country too long.
+98	I'll excuse myself here.
+99	Cecilia!
+100	I'll leave the rest to you.
+101	Yes, leave it to me.
+102	Phew... General Perceval... what incredible presence.
+103	Hehehe... looks like you were pretty tense.
+104	Lady Cecilia! It's been a while.
+105	You look a little tired, but you seem well overall, Roy.
+106	Yes, thanks to the Etrurian army, we managed to avoid disaster.
+107	I'm glad we made it in time.
+108	I'm sorry - it sounds like you had to push yourselves hard for us...
+109	No, that's not it.
+110	The request for Ostia's protection from you, Roy, was something that benefited Etruria too.
+111	Benefited...?
+112	Yes, that's right.
+113	Bern's recent actions have been more than we could overlook, wouldn't you say?
+114	Our country wanted to deal with it somehow too, but we hadn't been directly attacked...
+115	But if Bern grows any more powerful than this, the balance of power will be thrown off.
+116	And that's where the request from Ostia came in, right?
+117	That's right.
+118	We just judged it was right and acted on it. You don't need to feel indebted to me, Roy.
+119	I understand.
+120	So there's no need to thank us.
+121	Alright, I won't.
+122	Anyway, please come inside. Come meet everyone in the army.
+123	Heh... in the little while I haven't seen you, you've grown quite sturdy...
+124	Boys really do grow up fast.
