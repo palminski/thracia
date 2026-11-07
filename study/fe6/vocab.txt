@@ -877,7 +877,7 @@
 同じ|おなじ|same
 使える|つかえる|to be able to use
 院長先生|いんちょうせんせい|headmaster
-一冊だけ|いっさつだけ|just one volume
+一冊|いっさつ|one copy, one volume
 魔道書|まどうしょ|magic tome
 無理する|むりする|to push oneself too hard
 傷つける|きずつける|to hurt, to injure
@@ -3228,3 +3228,8 @@
 三つ|みっつ|three (things)
 思い出す|おもいだす|to remember, to recall
 そのかわり|そのかわり|instead, in exchange
+訪問|ほうもん|visit
+場合|ばあい|case, situation
+以外|いがい|other than, except for
+暗闇|くらやみ|darkness
+巫女|みこ|shrine maiden, priestess
