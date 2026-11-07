@@ -182,3 +182,6 @@ shina|masu-stem + な|Casual rough imperative, softer than plain 命令形: e.g.
 nakerebanaranai|〜なければならない|"Must, have to" (full form; なければ alone can drop the ending in casual speech).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
 nodakara|〜のだからな|"Because, since ..." (emphatic, explaining a reason as obvious).|
 mono-assert|〜もの|Feminine assertive sentence-ending: states the speaker's conviction, "you know, I tell you".|
+arouka-rhetorical|〜ことなどあろうか|Classical rhetorical question: "how could there possibly be...!" (strong denial dressed as a question).|
+toiunoka|〜というのか|"Is it that...?": an accusing or incredulous rhetorical question.|
+naika-invite|〜ないか|"Won't you...?": a casual invitation or suggestion phrased as a negative question (distinct from 〜じゃないか).|

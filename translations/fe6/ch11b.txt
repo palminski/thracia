@@ -1,0 +1,186 @@
+1	The Lycian army, having welcomed Elffin as a strategist, followed his advice and headed for Caledonia, the island to the south.
+2	Caledonia is the island where Roy and the others are now, along with Fibernia,
+3	and Dia Island to its east — together the three are known as the Western Isles.
+4	And in the middle of long, narrow Caledonia stands Idina Castle.
+5	Here, the castellan Morgan has been rounding up men from across Caledonia and marching them off to the so-called "Mine of Death,"
+6	Ebraucum.
+7	By the time Roy and the others reached Idina, events had already begun to move...
+8	(citizen): Hey, hurry up! / This way!
+9	(citizen): I—is this really okay... / us running off like this...
+10	(citizen): You idiot!! If we'd been sent to the mine like that, / we'd have been worked to death!
+11	(citizen): Hey, kid, is that really fine with you? / You've got family waiting at home, don't you?
+12	(citizen): Ah... yeah...
+13	(citizen): If we run to the northeast, / there are people who'll help us, so they say.
+14	(citizen): No matter what, we'll make it there!
+15	(Arcardo): What did you say / The citizens have run off again!?
+16	(Arcardo): Grr, what were the garrison troops / doing!?
+17	(William Roberts): Th—that's... / someone slipped them a sleeping drug...
+18	(Arcardo): What!? Then that means / there's someone in league with the enemy.
+19	(Arcardo): Morgan!
+20	(Arcardo): You go after those who fled!
+21	(Morgan): Yes, sir.
+22	(Arcardo): I'm returning / to the governor's office in Jutor.
+23	(Arcardo): Understood? Gather as many hands as you can, even one at a time, / and send them to the northern mine!!
+24	(Roy): Elffin, / the castle visible to the southwest...
+25	(Elffin): Yes, that's Idina Castle. / The people rounded up on this island
+26	(Elffin): are gathered there once / before being sent off to the northern mine.
+27	(Elffin): Today, as it happens, is the day / the escort comes from the mine.
+28	(Elffin): Once they're taken to the Ebraucum mine, / rescuing them becomes very difficult.
+29	(Roy): Then we have to / rescue them right away!
+30	(Elffin): Yes. We've already slipped a few people in,
+31	(Elffin): and they're working to get the people / to escape from the castle.
+32	(Roy): What's the plan for their escape?
+33	(Elffin): They should be instructed to flee toward / the castle's northeast — in other words, this way.
+34	(Roy): Then first, let's help those people, / and after that head for the castle!
+35	(citizen): Mr. Geese, / are you really going?
+36	(Geese): Yeah. My men's killers / are in that castle.
+37	(Geese): I can't just leave it be.
+38	(citizen): The folks who / were always with you?
+39	(Geese): Yeah. While I was away, / on some job from the Etruria governor's office,
+40	(Geese): they were taken off and worked half to death at the mine, / and in the end, all of them...
+41	(citizen): ......
+42	(Geese): They were a bunch of fools, / but every one of them was a good guy.
+43	(Geese): And after all that...!!
+44	(citizen): So / you're going to avenge them all alone, Mr. Geese?
+45	(Geese): Something wrong with that?
+46	(citizen): No, it's not that, but... / are you really not going back to the shipping business?
+47	(Geese): Well...
+48	(Geese): Once I've avenged them, / if the fighting dies down, I'll think about it.
+49	(citizen): I see... we won't forget it, you know.
+50	(citizen): That even braving the dangers of the sea, / you all carried and sold all sorts of things for us.
+51	(citizen): If anything happens, / you can always count on us.
+52	(Geese): If I'm still alive, sure. / Thanks, ma'am.
+53	(Bartre): So the people of this island / are being held in that Idina Castle, huh.
+54	(citizen): Yes.
+55	(Bartre): Right, let's go / help them right away.
+56	(citizen): ...I'm sorry.
+57	(citizen): for having you help me / while I was looking for my daughter.
+58	(Bartre): You folks have done / a lot for us.
+59	(Bartre): Besides, if you're fighting / to protect the people of this island,
+60	(Bartre): a man would lose his honor / if he just abandoned you.
+61	(soldier): Lord Morgan, / reinforcements are ready!
+62	(Morgan): Good, send them in right away.
+63	(Morgan): Through the back door, / so it's fine even if the castle gets surrounded.
+64	(Geese): Hm? / What, you want something from me?
+65	(Roy): No, it's just... you're fighting the castle's / troops alone, and it caught my attention.
+66	(Geese): Who are you?
+67	(Roy): I'm Roy. / I lead the Lycian Alliance Army.
+68	(Roy): We came here at Etruria's request.
+69	(Geese): So you're Etruria's lackey! / Then you're the enemy — get ready!!
+70	(Roy): W—wait, please wait!
+71	(Roy): We're fighting the castle's soldiers too.
+72	(Geese): ? What do you mean?
+73	(Roy): Honestly, / we don't understand the reason either.
+74	(Roy): We're just acting on orders / to put down the "brigands"...
+75	(Geese): ...You said you / were fighting the castle folks.
+76	(Geese): Then how about hiring me?
+77	(Roy): Huh?
+78	(Geese): I'm a pirate, / so I know this area pretty well.
+79	(Geese): Looks like you folks / just got to this island.
+80	(Geese): Don't you need someone to guide you?
+81	(Roy): That would be reassuring, but / why the sudden offer?
+82	(Geese): I want to help wipe out the "brigands."
+83	(Geese): Well, truth is / I'm probably lumped in as one too, being a pirate,
+84	(Geese): but I basically / only target the rich.
+85	(Roy): In that case, / please, we'd appreciate it.
+86	(Roy): This land is unfamiliar to us, / so we've been having a hard time.
+87	(Geese): Yeah, / leave it to me.
+88	(Geese): ...Just you wait, brothers of the sea, / I'll avenge you without fail!
+89	(Geese): What happens after that / is up to this Roy fellow, I guess.
+90	(Bartre): You lot / are men of the Kingdom of Etruria?
+91	(Roy): Y—yes, we are, but...
+92	(Bartre): We fight to save / the people of this island from their suffering!
+93	(Bartre): You evil lackeys / had better be ready!
+94	(Roy): H—hold on, / please wait a moment!
+95	(Roy): I'm not / your enemy!
+96	(Bartre): What!? Then aren't you / the castle's reinforcements?
+97	(Roy): Quite the opposite.
+98	(Roy): We're fighting here / to break through the castle gate.
+99	(Bartre): Is that so... / sorry! It seems I misjudged you.
+100	(Roy): I'm Roy, / I lead the Lycian Alliance Army.
+101	(Bartre): Lycia? That's / quite a long way off...
+102	(Roy): Our army was dispatched to Etruria / to put down the "brigands" that have holed up
+103	(Roy): on the islands of the west.
+104	(Bartre): Hm! So you really are with Etruria!?
+105	(Roy): Please calm down! / Our goal is the same as yours.
+106	(Roy): We want to help / so the people of this island can live in peace — that's all.
+107	(Bartre): ...You might end up / fighting the Kingdom of Etruria that sent you, you know?
+108	(Roy): ...Our duty is to find / and deal with those doing evil.
+109	(Roy): Even if that person / holds high rank, / I have no intention of backing down.
+110	(Bartre): Hmph! That's quite the resolve! / Very well, I'll fight alongside you too!!
+111	(Roy): You'll come with us? / That's reassuring — thank you!
+112	(Fir): Fa—Father!? / Why are you here?
+113	(Bartre): Oh, Fir, / I've been looking for you.
+114	(Fir): ...Father, / my resolve hasn't changed.
+115	(Fir): I too, like Mother, / want to travel the world and become a strong swordsman...
+116	(Bartre): I know.
+117	(Bartre): I haven't come / to take you back.
+118	(Bartre): Quite the opposite — I thought / I'd come help you out.
+119	(Fir): Help... me?
+120	(Bartre): Right. Even if it's sword training, / you're on an unfamiliar journey the whole time.
+121	(Bartre): There must be / all kinds of needless troubles too.
+122	(Bartre): So I thought / I'd help with that, you see...
+123	(Fir): But, / Father, that would defeat the purpose of training...
+124	(Bartre): What are you saying!
+125	(Bartre): Could having your father nearby / possibly get in the way of sword training?
+126	(Bartre): Or is it that you don't understand / this father's love, worrying about you?
+127	(Fir): N—no, / that's not it at all.
+128	(Bartre): Good, now that that's settled, / this is simple.
+129	(Bartre): First, / let's take this castle!
+130	(Fir): Haah...
+131	(Fir): I'd better report to Lord Roy / that our numbers have grown by one...
+132	(Fir): Fa—Father!? / Why are you here?
+133	(Bartre): Oh, Fir, / I've been looking for you.
+134	(Fir): ...Father, / my resolve hasn't changed.
+135	(Fir): I too, like Mother, / want to travel the world and become a strong swordsman...
+136	(Bartre): I know.
+137	(Bartre): I haven't come / to take you back.
+138	(Bartre): Quite the opposite — I thought / I'd come help you out.
+139	(Fir): Help... me?
+140	(Bartre): Right. Even if it's sword training, / you're on an unfamiliar journey the whole time.
+141	(Bartre): There must be / all kinds of needless troubles too.
+142	(Bartre): So I thought / I'd help with that, you see...
+143	(Fir): But, / Father, that would defeat the purpose of training...
+144	(Bartre): What are you saying!
+145	(Bartre): Could having your father nearby / possibly get in the way of sword training?
+146	(Bartre): Or is it that you don't understand / this father's love, worrying about you?
+147	(Fir): N—no, / that's not it at all.
+148	(Bartre): Good, now that that's settled, / this is simple.
+149	(Bartre): First, / let's take this castle!
+150	(child): Are you the people / who've come to help us?
+151	(child): Then here, take this. / I grabbed it from the castle while escaping.
+152	(child): I wonder if everyone else / got away safely...
+153	What are you doing!? / Hurry and dispose of the escapees...
+154	Wh—who are you people!?
+155	This land's resistance / should have been wiped out...
+156	Just who in the world are you...
+157	(Roy): Well, we've taken Idina Castle for now, but / liberating just this place
+158	(Roy): won't be enough to help the people of this island — no, / the whole of the Western Isles.
+159	(Elffin): That's right. / To do that, we'll have to strike at the root cause itself...
+160	(Elffin): We'll have to deal / with the governor's office that Etruria has installed.
+161	(Roy): I see, then Jutor is next.
+162	(Roy): ...By the way, Elffin, / may I ask you something?
+163	(Elffin): What is it?
+164	(Roy): I might be wrong,
+165	(Roy): but aren't you / a noble of very high standing in Etruria?
+166	(Elffin): !!
+167	(Elffin): Why... would you think that?
+168	(Roy): Hmm, I can't quite put it into words, / but maybe it's your way of speaking, things like that?
+169	(Roy): I think I've learned / to "see" people
+170	(Roy): a little, from my time in Ostia. / Am I right?
+171	(Elffin): If... that were true, / what would you do?
+172	(Roy): No, nothing in particular.
+173	(Elffin): ?
+174	(Roy): I imagine / there's some special reason for it.
+175	(Roy): Whenever you feel like talking about it, Elffin, / it'll be enough for me to just hear it then.
+176	(Elffin): ......
+177	(Roy): Now, let's go! / To the Etrurian governor's office in Jutor!
+178	(Roy): To help the people of the west! / To fight our true enemy!!
+179	If every single citizen has survived:
+180	(citizen): Hey, old man with the beard!
+181	(Marinus): Wh—what is it!! / You lot are...!?
+182	(citizen): Give this / to General Roy for us.
+183	(citizen): That we get to see our families again / is all thanks to that man.
+184	(citizen): The people of the west / never forget a debt we owe!
+185	(citizen): Be sure to / tell him our thanks.
+186	(citizen): That every one of us / is grateful from the bottom of our hearts!

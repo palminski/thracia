@@ -36,6 +36,7 @@ NAMES = {
     "エルフィン": "elffin", "ゲイル": "galle",
     "オロ": "orlo", "クレイン": "klein", "エキドナ": "echidna", "スコーラン": "scollan",
     "ティト": "thea",
+    "バアトル": "bartre", "アルカルド": "arcardo",
 }
 
 
