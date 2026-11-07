@@ -34,6 +34,8 @@ NAMES = {
     "バース": "barthe", "ウェンディ": "gwendolyn", "パーシバル": "perceval",
     "ノード": "nord", "ギース": "geese", "ゴンザレス": "gonzalez", "ララム": "larum",
     "エルフィン": "elffin", "ゲイル": "galle",
+    "オロ": "orlo", "クレイン": "klein", "エキドナ": "echidna", "スコーラン": "scollan",
+    "ティト": "thea",
 }
 
 
