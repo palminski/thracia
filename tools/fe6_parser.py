@@ -23,7 +23,7 @@ TAG = re.compile(r"<\s*(/?)\s*([A-Za-z0-9]+)([^>]*)>")
 CLASS = re.compile(r'class="([^"]*)"')
 # Screen-position note right after a speaker's name starts, e.g. " (右)", " (中央左)",
 # " (左端)" - where their portrait sits, not something they say. Strip it, don't display it.
-POS_TAG = re.compile(r"^\s*[\(（](中央)?[右左](端)?[\)）]")
+POS_TAG = re.compile(r"^\s*[\(（](?:(?:中央)?[右左](?:端)?|画面外)[\)）]")
 
 # tag that must close for each capture label
 _CLOSES = {"h2": "h2", "note": "p", "name": "span", "discard": "p", "keywait": "span", "script": "script"}
