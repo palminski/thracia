@@ -3255,3 +3255,6 @@
 攻める|せめる|to attack
 我が|わが|my, our (formal, prenominal)
 魔道軍|まどうぐん|corps of mages (a military unit specific to this game)
+好き|すき|liked, likable; fond of (na-adjective)
+強大|きょうだい|powerful, mighty (na-adjective)
+たくましい|たくましい|sturdy, strong, robust

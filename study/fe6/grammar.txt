@@ -191,3 +191,5 @@ tewaikenai|〜てはいけない|"Must not, may not".|https://bunpro.jp/grammar_
 toii|〜といい|"It would be good if...; I hope/wish".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%84
 nitotte|〜にとって|"For, from the standpoint of".|https://bunpro.jp/grammar_points/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6
 temoii|〜てもいい|"It's okay/permissible to...".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+kotogadekiru|〜ことができる|"To be able to do": a more formal/written equivalent of the potential form られる.|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B
+dokorodewanai|〜どころではない|"This is no time/situation for...": strongly rejects that something is appropriate right now.|https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93%E3%82%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84
