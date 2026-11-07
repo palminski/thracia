@@ -185,3 +185,7 @@ mono-assert|〜もの|Feminine assertive sentence-ending: states the speaker's c
 arouka-rhetorical|〜ことなどあろうか|Classical rhetorical question: "how could there possibly be...!" (strong denial dressed as a question).|
 toiunoka|〜というのか|"Is it that...?": an accusing or incredulous rhetorical question.|
 naika-invite|〜ないか|"Won't you...?": a casual invitation or suggestion phrased as a negative question (distinct from 〜じゃないか).|
+toshite|〜として|"As, in the role/capacity of" - marks what capacity or role something acts in.|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%97%E3%81%A6
+monoo|〜ものを|"If only...; (though)": regret that what was hoped for or expected didn't happen; often left unfinished.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%82%92
+tewaikenai|〜てはいけない|"Must not, may not".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+toii|〜といい|"It would be good if...; I hope/wish".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%84
