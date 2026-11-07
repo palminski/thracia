@@ -1,0 +1,274 @@
+1	Ostia was known far and wide as the land of the "Fierce General" —
+2	it boasted an army built around armor knights and generals, heavy knights commanded by its lord, Hector.
+3	The Ostia Castle they guarded had never once let an enemy breach it in the past,
+4	and for hundreds of years had been spoken of as "impregnable."
+5	But now, that history was about to come to an end —
+6	ironically, at the hands of Roy and his companions, who meant to protect Ostia...
+7	Wh-what did you say!? You're telling me the enemy's gotten inside the castle!?
+8	Damn it all, what was Dabhyss doing!?
+9	Are the Ilian knights stronger than I expected, or did more people side with them than I thought...?
+10	Either way, they've put a scratch on the history of this "impregnable" castle, curse them!
+11	What a disaster. If it comes to this, Bern will see us as weak.
+12	But there's no turning back now... f-for now, let's just suppress the unrest...
+13	Hey! Listen carefully.
+14	Sir!
+15	I won't let the enemy do as they please inside this castle.
+16	Whatever it takes, hold them back!
+17	Station soldiers throughout the castle — especially around this throne, thoroughly!
+18	Yes, sir!
+19	And as for Lilina — get rid of her quietly, under cover of the fighting!
+20	B-but... weren't we told to keep her alive?
+21	I meant to use her as leverage against them,
+22	but there are still plenty among our own men who are fond of that little girl.
+23	Using her openly as a hostage risks turning sympathy — and maybe even our own men — against us...
+24	B-but if we go so far as to kill her with our own hands, that's exactly the kind of thing that'll draw condemnation...
+25	That's why I said quietly, didn't I!
+26	Make it look like she was hit by a stray arrow from an archer, and pin the blame on the enemy!
+27	Now go, quickly!
+28	Y-yes sir...
+29	...You're General Roy of the Lycian Alliance, aren't you?
+30	! Who are you? An enemy!?
+31	I'm on your side. Relax.
+32	My name's Astore. I used to work under Lord Ostia.
+33	Forgive my rudeness, but what exactly was your line of work?
+34	You don't really look like someone who served the Marquess of Ostia...
+35	That's a rude thing to say, old man — though I get what you mean.
+36	Getting hold of enemy information, scouting out the state of cities...
+37	What you might call "under-the-table work."
+38	Hmph. I see.
+39	If people could tell at a glance that I worked for some big shot, I couldn't do my job, see.
+40	For about the past month, I've been going around various regions gathering intelligence on Lord Ostia's orders.
+41	When I learned of the Marquess's death near Araphen, I rushed back here, only to find—
+42	that bastards Dabhyss and Reygans had gone and started a rebellion.
+43	I was too late for Lord Hector, but I want to save Lady Lilina somehow, if I can.
+44	We feel the same way. Let's join forces and get through this crisis.
+45	Mr. Astore, do you know where Lilina is being held?
+46	Of course. Finding things like that out is exactly my job.
+47	Lady Lilina's locked up in a small room in the center of the castle.
+48	And that traitor Reygans is lounging on his throne in the back.
+49	Alright, let's hurry.
+50	Before Bern's General Narcian arrives, we need to crush the rebels and save Lilina!
+51	This commotion... has fighting broken out inside the castle?
+52	I wonder what's happening outside...
+53	Huh? Mr. Bath.
+54	It's a dead end!
+55	Don't worry. There's a crack in the wall further in.
+56	Strike it a few times with a sword or lance and it should break.
+57	Lady Lilina... where could she be?
+58	I've got a rough idea.
+59	This is the castle we've always protected, after all.
+60	Still, it's awfully noisy over there.
+61	Is there fighting going on?
+62	Probably.
+63	Could be the Ilian mercenary knights attacking, or if we're lucky, survivors of the Alliance army...
+64	Survivors of the Alliance army? Then... my brother, too...?
+65	...Whether he himself survived or not, I can't say.
+66	It's better not to hold onto false hope.
+67	...Ah, yes.
+68	Mr. Oujay, that's a harsh thing to say.
+69	For Wendy, that's her one and only brother we're talking about, isn't it?
+70	There's no point looking away from reality.
+71	But still...
+72	It's alright, Oujay. Bath's just telling it straight.
+73	No matter what happens, don't lose your composure, as an Ostian knight... understand, Wendy?
+74	...Yes.
+75	Heh heh, just as I figured, they're at it again. Honestly, these high-and-mighty types are fools.
+76	What's so fun about fighting wars all the time?
+77	Ah, whatever. Since I'm here, might as well take what I can get!
+78	Ah!
+79	Fu, funny how often we keep running into each other, huh. Ha ha ha...
+80	...If you're only on this battlefield to steal things,
+81	I think you should stop. That's not a good thing to do.
+82	Relax, relax. I only go after the "fine nobles," after all.
+83	Nobody's going to be left struggling to get by because of it.
+84	I don't think that's really the point...
+85	Hmm... then let me ask you something. What about you lot?
+86	Don't you take the crops people grow
+87	from the land you lot just decided was "your territory," without asking them?
+88	Wha—! But in return, we protect people's lives and—
+89	You don't protect us! Not when you go starting wars like this!
+90	This is because the Kingdom of Bern attacked. We're protecting everyone from Bern, so—
+91	So it's fine to do anything as long as you say it's "to protect"? Even if it means burning villages or ruining fields?
+92	Burning villages... that's not something... ! Wait, could it be...
+93	...My village was burned down by its own lord.
+94	He said, "Bern's coming, it's necessary for strategy," and that was that.
+95	Th-that's...
+96	We barely had enough to eat as it was, and we lost our home, our fields too... everyone scattered, apart...
+97	"You mustn't take what belongs to others"?
+98	Hmph! You lot, living comfortably off what you took from the people of the land—
+99	what right do you have to say that to my face!?
+100	I... I don't know what to say...
+101	Ahh, man, this got kind of heavy, didn't it.
+102	I don't really like talking about this stuff, you know... feels like bragging about "poor little me" or something.
+103	This only turned into this because you acted like you understood something.
+104	I... I'm just...
+105	Ugh, this got complicated, now it's hard to just walk away.
+106	Well, times like this, guess I should just wrap it up and head home.
+107	See ya, bye.
+108	.........
+109	Brother! Thank goodness you're safe!!
+110	Oh, Wendy, is that you? Glad you're safe too!
+111	...!? Wh-what happened to you? What's with that outfit?
+112	Don't tell me... you joined the Ostia Heavy Knights...?
+113	...Yes. A few days ago, I took my knight's oath.
+114	What have you done...
+115	I told you before you left — leave the fighting to us, just think about your own happiness.
+116	Didn't I say that enough times!?
+117	Yes. Since then, I've thought it over a lot.
+118	But in the end, this is still the path I want to walk!
+119	But...
+120	I didn't want to just keep waiting for you to come back from the fighting forever.
+121	My happiness is becoming a splendid knight, one who won't lose to you.
+122	.........
+123	...Brother?
+124	Honestly, you've never listened once you've made up your mind, ever since you were little.
+125	Brother...
+126	Go on and walk the path you believe in.
+127	If Father and Mother were still alive, I'm sure they'd have said the same.
+128	But the path you've chosen... it's a hard one, you know?
+129	Yes, I'm prepared for that! I absolutely won't lose!!
+130	Lilina!!
+131	Eh... Roy? Is it really you?
+132	Of course it's me, Lilina!
+133	Roy, you came! I'm so happy...
+134	Lilina, I'm so glad you're really safe. It's alright now!
+135	Here, take this tome for now, to protect yourself with.
+136	Thank you.
+137	L-Lady Lilina!! Thank goodness... you're safe!
+138	Bors, I'm sorry for worrying you.
+139	Not at all! You're alive... that's all that matters to me...
+140	That alone is enough, for this Bors...
+141	Thank you, Bors, for worrying about me.
+142	And more than that — you kept your promise and protected Roy.
+143	I knew I was right to ask you.
+144	Lady Lilina!!
+145	Bath!
+146	Lady Lilina! I'm so relieved you're safe.
+147	Bath, you were right.
+148	Reygans and the others were just waiting for the right moment to start their rebellion.
+149	.........
+150	I'm sorry. If only I had trusted you...
+151	this wouldn't have happened...
+152	No.
+153	It's Reygans and the others who are to blame, for trampling on your kind feelings
+154	toward them, Lady Lilina — trying to trust them.
+155	You have nothing to apologize for, Lady Lilina.
+156	It's exactly that kindness of yours that all of us have always admired.
+157	Bath...
+158	Bors — so you're alive, are you.
+159	Of course.
+160	...While we were away, you had the nerve to do this to Ostia!
+161	If you have a complaint, try taking it back —
+162	with that arm of yours!
+163	Lady Lilina... tch, so you botched it.
+164	Reygans, why...?
+165	The times are changing, that's all. I'm simply following that tide.
+166	Unlike that foolish Lord Hector, who couldn't read it.
+167	Silence! I won't allow you to speak ill of my father!
+168	Lord Reygans — prepare yourself!
+169	Hoh, you're... Bors's, I believe...
+170	Brave words, but can this old man take you down? Heh heh heh.
+171	Reygans, you—
+172	Betraying your own house — aren't you ashamed of yourself!?
+173	Bath, is it...
+174	Hmph, better than going down together with a foolish lord.
+175	What did you say! Reygans, you've rotted that far, have you!!
+176	Insufferable, you half-dead remnants of that Alliance...
+177	Come, then. I'll cut down every last one of you!
+178	Why...?
+179	You lot, who should've been crushed by Bern...
+180	why can you still fight this hard...?
+181	(if Lilina survives)
+182	Lilina, we finally got the castle back.
+183	Thank you, it's all thanks to Roy and everyone else.
+184	I'm glad — this way Father won't have to trouble himself over it.
+185	!
+186	Hey, Roy, is Father still at Araphen?
+187	I heard the fighting there was very fierce — is it dragging on?
+188	Lilina... hasn't anyone told you anything?
+189	Eh? Told me what?
+190	...Please listen calmly. Lord Hector... has passed away.
+191	Eh...?
+192	I'm sorry. By the time we reached Araphen,
+193	the castle was already under Bern's control...
+194	...It's not your fault, Roy... don't apologize.
+195	Lord Hector was already... gravely wounded by then.
+196	If we'd arrived just a little sooner... we might have saved him... it's my own lack of strength.
+197	D-don't worry about it... I-I was prepared for this...
+198	Yeah... I was prepared...........
+199	I'm the daughter of a warrior. I was raised to not lose my composure, especially at times like this.
+200	Lilina.
+201	So, all of you, you don't have to hide things from me — it's alright to tell me right away.
+202	Everyone's being too considerate with me... I'm... actually pretty strong, you know...
+203	Lilina, you don't have to force yourself, not in front of me.
+204	Roy... I... I...
+205	I'm right here beside you.
+206	(if Lilina died)
+207	Lord Roy, this is terrible! Bern's wyvern knights are outside Ostia Castle!
+208	What!? They're already here?
+209	Heh heh heh. You're the one called Roy, I take it?
+210	Much appreciated, taking down those fools Reygans and his lot for me — saved me some trouble.
+211	Now then, be good and hand Ostia over to us.
+212	You've got to be joking! Who'd ever hand it over to the likes of you...!!
+213	Oh, so you'd rather fight us? With that battered-up force of yours?
+214	Interesting. Then let me crush you thoroughly — just like I did with Hector, Marquess of Ostia.
+215	Agh!
+216	(off-screen) That's far enough!
+217	G-General Narcian! A huge force from the Kingdom of Etruria!
+218	Argh, I can see that much just by looking! Just why on earth...
+219	I am Percival, General of the Knights of the Kingdom of Etruria.
+220	A few days ago, through Cecilia, our General of Magic, a request for protection was made from Ostia to our nation.
+221	Accordingly, Ostia now falls under the protection of the Kingdom of Etruria.
+222	Wh-what...
+223	Dissatisfied? Then we're willing to cross swords with you, if you insist.
+224	Though I wonder — can those dragon knights of yours really handle this many of us, impressive as they look?
+225	Y-you are...
+226	I am Cecilia, General of Magic of the Kingdom of Etruria.
+227	This Ostia has ties to me. I won't let you have your way with it.
+228	Guh... damn it... damn you!
+229	General Narcian, don't let your temper get the better of you!
+230	General Percival is one of Etruria's finest commanders.
+231	And with the magic corps joining in, fighting with dragon knights alone puts us at a disadvantage...
+232	I know that much!! Fall back!!
+233	Cecilia, was it? Insolent woman, I'll remember you!
+234	Are you General Roy of the Lycian Alliance?
+235	Y-yes, sir!
+236	I've been entrusted with an army by the late Lord of Ostia.
+237	I see. Lycia faces a trial, then. I've also been charged by my king of Etruria
+238	to convey his condolences for the Marquess's death.
+239	I'm grateful for Your Majesty's concern.
+240	Without Etruria's assistance...
+241	Ostia would likely have fallen under Bern's rule by now.
+242	Thank you, truly, from the bottom of my heart.
+243	It's not me you should be thanking — I merely followed my country's decision.
+244	If you want to thank someone, thank the General of Magic, who pushed back against a reluctant king.
+245	You... defied your king?
+246	That's right. Reckless of me, wasn't it?
+247	Now then, it wouldn't do for two generals to be away from our country for too long.
+248	I'll take my leave here.
+249	Cecilia!
+250	I'll leave the rest to you.
+251	Yes, leave it to me.
+252	Phew... General Percival... what presence.
+253	Heh heh heh... seems you were tense.
+254	Cecilia! It's been a while.
+255	You look a little tired, but otherwise well, Roy.
+256	Yes, thanks to the Etrurian army, we managed to avoid disaster.
+257	I'm glad we made it in time.
+258	Sorry... it seems we put you to a lot of trouble...
+259	No, that's not it at all.
+260	Your request for Ostia's protection was something that benefited Etruria too.
+261	Benefited...you?
+262	Yes, that's right.
+263	Bern's recent actions have been getting out of hand, haven't they?
+264	Our country wanted to do something about it too, but we hadn't been directly attacked ourselves...
+265	But if Bern grows any more powerful than this, the balance of power will be thrown off.
+266	And that's when Ostia's request came in, is that it?
+267	That's right.
+268	We simply judged it the right thing to do and acted on it — you don't need to feel indebted, Roy.
+269	I understand.
+270	So there's no need to thank us.
+271	Yes, I won't say it, then.
+272	For now, please come inside. Come meet everyone in the army.
+273	Heh... in the short time I haven't seen you, you've grown quite a bit sturdier...
+274	Boys really do grow up fast.

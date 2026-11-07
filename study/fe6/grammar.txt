@@ -142,3 +142,16 @@ kana|〜かな|"I wonder".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AA
 teshimau|〜てしまう|Done completely, often with regret.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
 bakari|〜ばかり|"Just, only, nothing but".|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A
 toieba|〜といえば|"Speaking of …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0
+oru-contempt|stem + おる／おって|Old-style way to speak scornfully of another's action (しくじりおって).|
+tonareba|〜となれば|"If it comes to …; were that the case" (formal conditional).|
+sugiru|stem + すぎる|"Too much".|https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8E%E3%82%8B
+naidemonai|〜ないでもない|Double negative hedge: "it's not that … isn't the case".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
+janaika|〜じゃないか／〜じゃねえか|"Isn't it …!": surprise, pointing out, or mild conjecture.|https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B
+ba-ii|〜ばいい|"It would be good if …; you should just …".|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%84%E3%81%84
+cha|〜ちゃ／〜ては|Contraction of ては: "if (that happens, it's bad)".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF
+maeni|〜前に|"Before doing …".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%88%E3%81%AB
+tewa|〜ては|"If (that happens)": the uncontracted full form of 〜ちゃ, often implying a bad result.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF
+houga-ii|〜たほうがいい|"It would be better to …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+tameni|〜ために|"In order to, for the purpose of".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%82%E3%81%AB
+ka|疑問文 + か|The plain question-marking particle か (closing a direct question).|
+youga|〜ようが|"No matter whether … or …": concessive, usually paired (〜ようが〜ようが).|
