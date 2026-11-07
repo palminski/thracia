@@ -1525,7 +1525,6 @@
 山々|やまやま|mountains
 やつら|やつら|those guys
 どんな|どんな|what kind of
-越えてくる|こえてくる|to come crossing over
 北東|ほくとう|northeast
 竜騎士|りゅうきし|wyvern rider, dragon knight
 もっと|もっと|more
@@ -1579,7 +1578,6 @@
 答える|こたえる|to answer
 お考え|おかんがえ|your thoughts (polite)
 なるほど|なるほど|I see, indeed
-ごいっしょさせていただく|ごいっしょさせていただく|to be allowed to accompany (humble)
 かまう|かまう|to mind, to care
 それじゃあ|それじゃあ|well then, in that case
 ヤツら|やつら|those guys
@@ -3236,3 +3234,6 @@
 卿|けい|lord, sir (title of nobility)
 繋ぐ|つなぐ|to tie, to connect
 いたぶる|いたぶる|to torment, to bully
+塞ぐ|ふさぐ|to block, to close up
+目覚める|めざめる|to wake up, to awaken
+封じる|ふうじる|to seal, to seal off
