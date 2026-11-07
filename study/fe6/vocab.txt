@@ -726,6 +726,7 @@
 あやしげ|あやしげ|suspicious-looking
 重用|じゅうよう|important appointment, trusting with responsibility
 兵たち|へいたち|soldiers
+彼|かれ|he, him
 彼女|かのじょ|she, her
 存在|そんざい|existence, presence
 いぶかしがる|いぶかしがる|to regard with suspicion
@@ -3237,3 +3238,8 @@
 塞ぐ|ふさぐ|to block, to close up
 目覚める|めざめる|to wake up, to awaken
 封じる|ふうじる|to seal, to seal off
+子息|しそく|son (polite, of another person)
+挨拶|あいさつ|greeting
+内乱|ないらん|civil war, internal strife
+仲間|なかま|comrade, ally, companion
+生存|せいぞん|survival

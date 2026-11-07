@@ -189,3 +189,4 @@ toshite|〜として|"As, in the role/capacity of" - marks what capacity or role
 monoo|〜ものを|"If only...; (though)": regret that what was hoped for or expected didn't happen; often left unfinished.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%82%92
 tewaikenai|〜てはいけない|"Must not, may not".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
 toii|〜といい|"It would be good if...; I hope/wish".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%84
+nitotte|〜にとって|"For, from the standpoint of".|https://bunpro.jp/grammar_points/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6
