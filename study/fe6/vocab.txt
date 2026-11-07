@@ -1980,7 +1980,7 @@
 産業|さんぎょう|industry
 申し出|もうしで|an offer, a proposal
 男|おとこ|man
-白紙になる|はくしになる|to become null and void
+白紙|はくし|blank paper; a clean slate (白紙になる = to become null and void)
 目に浮かぶ|めにうかぶ|to come to mind, to picture vividly
 盾|たて|a shield
 知らせ|しらせ|news, word
@@ -3243,3 +3243,11 @@
 内乱|ないらん|civil war, internal strife
 仲間|なかま|comrade, ally, companion
 生存|せいぞん|survival
+団|だん|group, corps, order (as in 傭兵騎士団 = mercenary knight order)
+部隊|ぶたい|unit, troop, corps
+前|まえ|before, in front of; ago
+自体|じたい|itself, in itself
+武者|むしゃ|warrior, samurai
+エレブ一|エレブいち|best/number one in Elibe
+通用|つうよう|validity; to be accepted, to pass as genuine
+器|うつわ|vessel, tool, instrument
