@@ -1,0 +1,249 @@
+1	After Roy drove General Narshen back from Ostia,
+2	as if mocking Roy and his companions for being on guard against a further pursuit,
+3	Bern's interference in Lycia's affairs came to an abrupt halt.
+4	Even in the face of Etruria's demands for an explanation, the Kingdom of Bern kept its silence.
+5	That silence could only be called ominous, and it left the various powers uneasy.
+6	Of Lycia's influential lords, only Lord Eliwood of Pherae remained.
+7	Eliwood gathered the heirs of each house in Pherae to discuss what should come next.
+8	As a result, Eliwood first became acting head of the alliance,
+9	and gathered the remaining troops to re-form the Lycian Alliance Army.
+10	This army's purpose was to guard all the lords' lands without distinction.
+11	Roy, for his achievement in repelling the Bernese army, was chosen to lead the new Lycian Alliance Army.
+12	All of Lycia quickly regained its vigor and began down the road to recovery.
+13	Around that time, an official request for deployment arrived from the Etrurian homeland to the new Lycian Alliance Army.
+14	It was an order: "put down the bandits of the Western Isles."
+15	Why did an army have to be sent all the way out to the western islands?
+16	Discontent ran high among the people,
+17	but Lycia, still needing Etruria's protection, had no choice but to accept the request.
+18	Raising the banner of repaying their debt to Etruria, Roy's Lycian Alliance Army
+19	crossed Etruria and set out for the Western Isles.
+20	The Western Isles were a collective name for the remote islands floating west of the continent, under Etruria's protection.
+21	Blessed with abundant mineral resources whose extraction was progressing, but targeted by those seeking to seize that wealth,
+22	various bands of "bandits" ran rampant there.
+23	A nearly lawless state of affairs had continued for a long time, tormenting the island's people...
+24	Boss, they're here.
+25	You sure about that?
+26	Yes. I confirmed it myself when they landed on the small eastern island.
+27	Just as the information said...
+28	They won't be able to see much in this fog, so they're probably confused.
+29	Sneak up on them quietly and finish them off.
+30	Right!
+31	Roy, this whole affair... it's beyond what I could do. I'm sorry.
+32	Please don't blame yourself. It isn't your fault, Lady Cecilia.
+33	But I truly can't accept how Lycia has been treated this time.
+34	Even inside the Etrurian royal court, voices of distrust toward the prime minister are rising.
+35	The prime minister? I thought this request to put down the "bandits" was decided by the king himself?
+36	No. Prime Minister Roartz conspired with Arcard, the governor of the Western Isles,
+37	and pushed the plan through on his own.
+38	On his own? Is something like that even allowed?
+39	...Do you remember the tragedy that struck our country last year?
+40	Of course. The crown prince, Lord Myrddin's sudden death, wasn't it?
+41	Yes.
+42	I never had the chance to meet him, but I've heard he was a sharp-minded man.
+43	That's right... if he were still alive, things wouldn't have turned out like this.
+44	Prince Myrddin's death—
+45	that was more than King Mordred could bear.
+46	He'd only been blessed with a son late in life, so his grief ran deep.
+47	After that, King Mordred became like an empty shell,
+48	and he grew terribly listless about everything.
+49	The prime minister took advantage of that.
+50	First, he had the three generals—myself included—kept at a distance,
+51	making sure none of us could gain an audience unless it was truly urgent.
+52	Then when he sent the army to help Ostia a while back...
+53	That time was an exception.
+54	General Percival cooperated too, so it happened to work out.
+55	But that it should lead to something like this...
+56	Please, truly, don't let it trouble you.
+57	In any case, if we just complete our mission safely, we'll be able to return to Lycia.
+58	But while we of the Lycian Alliance Army are away, I'd ask you to take care of things.
+59	Yes, leave it to me.
+60	The Lycian Alliance, of course—and Princess Guinivere too.
+61	Lord Roy, is there truly no way I could come along as well?
+62	The fighting on this island will be a forced march, and there's no telling what might happen.
+63	It would be best if the princess stayed hidden in Etruria, under General Cecilia's protection.
+64	Princess Guinivere, please trust in me.
+65	I've heard about your circumstances, and I made a promise to Roy as well.
+66	On the name of Etruria's mage general, I will see that nothing ill befalls you.
+67	I understand... I'm sorry for asking something unreasonable.
+68	Lord Roy, I will be praying for your safety.
+69	Princess Guinivere, please take care on your way back to Etruria as well.
+70	Sir Scott!
+71	Oh, Fir, is it? Sorry to call you out like this.
+72	It sounds quite noisy around here — did something happen?
+73	Actually, some group we can't make sense of has been attacking this island.
+74	Everyone on the island's in danger.
+75	Wh-what did you say!?
+76	I sent some of my men to help, but the enemy seems to know what they're doing in a fight,
+77	and it just isn't going anywhere.
+78	That's terrible...
+79	I'd go myself, but I can't leave this place.
+80	So, Fir — I'm sorry to ask, but...
+81	Understood. I'll go and drive them off.
+82	Sorry. I owe you one.
+83	Leave it to me!
+84	Attacking the people of this island — I can't forgive that!
+85	I've already asked one other person, so work well together with them.
+86	Someone else?
+87	Yeah, a nomad named Shin. He looks delicate, but his arm's the real thing.
+88	...Are you... Shin?
+89	Yeah. I've heard about it already. Shall we go?
+90	......
+91	......
+92	...um...
+93	What is it?
+94	So... did you join this fight to help the island's people too, Shin?
+95	No... I'm not interested in that sort of thing.
+96	Then why?
+97	Because I'm being paid. That's all.
+98	......
+99	......
+100	...somehow the silence is getting a little awkward.
+101	Um... you're from Sacae, aren't you, Shin?
+102	That's right.
+103	Why are you all the way out here at the western edge of the world?
+104	It's not really such a strange story.
+105	You look like you're from Sacae too, and you're here.
+106	I'm traveling to all sorts of places as part of my training as a warrior...
+107	Ah — not that you asked about me at all, haha...
+108	......
+109	Phew...
+110	...I'm looking for a woman.
+111	A woman?
+112	My tribe — when the Kingdom of Bern invaded the Sacae plains,
+113	we stood against them and were defeated.
+114	......
+115	The chief ordered me to protect his granddaughter, who he'd sent ahead to flee,
+116	and to carry out that order, I escaped from the battlefield.
+117	I see...
+118	I hope you find her soon.
+119	...Yeah.
+120	Is it really all right, letting a little girl like that fight...?
+121	It's fine.
+122	If that girl gets taken out, we get our hands on the sword she's carrying.
+123	A sword? That odd-looking one?
+124	That's a famous blade called the "Wo Dao."
+125	If we get our hands on it and sell it off, it'll fetch good money... heheheh.
+126	I see.
+127	So that's why you've been so kind to that little girl, boss.
+128	Up until now there just hasn't been an opening, but now's our chance.
+129	You, follow that girl around. If there's an opening, snatch it off her!
+130	Right!
+131	Fir! It is you, isn't it, Fir!
+132	Noah? Why are you here?
+133	Right, a little while ago I joined this island's army and...
+134	Whoa! Wh-what are you doing, slashing at me out of nowhere?
+135	Noah! I've misjudged you!
+136	Huh?
+137	No matter how much you're a mercenary knight, to lend a hand to pirates of all things...!
+138	Huh?
+139	There's no use hiding it!
+140	Working together with pirates to attack the people of this island—
+141	It's shameful... are you still a knight, after all that!?
+142	Wait a second — aren't you making some huge misunderstanding?
+143	A misunderstanding, you say! At this point, what...
+144	The ones trying to save the island's people are us.
+145	We're here to defeat the pirate boss, some guy called Scott.
+146	Huh? Sir Scott is... the pirate boss?
+147	If you don't believe me, why not ask that pirate over there?
+148	He's peeking out from right behind you, Fir.
+149	A pirate?
+150	Tch, no helping it now that we're found out — report to the boss!
+151	Ah, wait!
+152	...Didn't you suspect anything at all?
+153	Eh, y-yes... he'd been so kind to me, so...
+154	But from what I'd heard, he was supposed to be a terrifyingly frightening man...
+155	But my late mother always said "never judge a person by their looks"...
+156	Well, I suppose that's... true enough, but...
+157	...Even though I didn't know, to think I'd lent a hand to pirates...
+158	What should I do now...
+159	In that case, why not fight together with us?
+160	Eh? Is... is that really all right?
+161	More strength on our side is never a bad thing. I'll put in a word with our leader.
+162	Yes! Thank you very much!
+163	Lady Sue!
+164	Shin... why are you here?
+165	I've been looking for you, Lady Sue.
+166	Me?
+167	Yes. By the chief's order.
+168	...After we fled, what happened to the tribe?
+169	I'm afraid... before the Bernese army...
+170	We were defeated?
+171	......
+172	How is Grandfather doing?
+173	He continues the fight against the Bernese army.
+174	I see...
+175	I received orders to protect you, Lady Sue, and left the chief's side.
+176	Then will you fight alongside us as well?
+177	Here? In this place?
+178	Fighting Bern with this army will be a help to Grandfather and the others.
+179	Besides, this army is owed a debt for helping us.
+180	Understood.
+181	If that is what you think best, Lady Sue, then I'm only here to assist you in it.
+182	Thank you...
+183	This whole area is pirate territory — all we ever do is get robbed.
+184	Resistance? That's useless.
+185	The reason they run wild however they like is because they've got some huge backer.
+186	There's no way the likes of us, or some resistance, could ever stand up to them...
+187	...The only ones here are women and children.
+188	All the laborers were taken away to the mine in the north.
+189	They're not even allowed to sleep — worked there until they die...
+190	My brother, who managed to escape, was as thin as an old man.
+191	He breathed his last that very same day.
+192	Please take this, and... I beg you...
+193	...What a selfish thing to ask. Please forget it...
+194	We've decided — we're leaving this island.
+195	You saved us. You must be with the resistance, aren't you?
+196	Huh? No? Then... just kind-hearted strangers?
+197	As you can see, this island's a mess right now, what with the pirates and bandits.
+198	The island's resistance has been fighting for everyone's sake.
+199	But... I wonder how it's going.
+200	I heard a rumor that they're struggling out to the west...
+201	Hey, could you deliver this for us?
+202	We're leaving the island ourselves, you see...
+203	This fog really is something, isn't it...
+204	With this, there's no telling at all who's where.
+205	A Torch staff, or some thief with sharp eyes, would really come in handy right about now.
+206	Sounds like the resistance folks are holding their own.
+207	Both north and west, they say the fighting's in full swing.
+208	Which way are you all headed?
+209	Among the pirates, you know, there was a rather good-looking one.
+210	The fog was so thick I couldn't really see him well, though...
+211	A nomad, I think? Someone riding a horse.
+212	But I'm sure he's probably got a girlfriend somewhere, ugh...
+213	The next village over, and the one past that too... everyone's leaving the island.
+214	Both of them, really — it's going to get lonely. If you're stopping by, better hurry.
+215	Either way, there's probably not enough time to visit both.
+216	If it's just one or the other, one of them might still have someone left, maybe...
+217	So you made it through this fog, huh...
+218	But you're already worn out, aren't you? I'll finish you off myself!
+219	You bastards... what are you? This isn't just some ordinary army...
+220	Marinus, it seems the enemy was lying in ambush for us.
+221	It was as if they knew exactly when we would arrive.
+222	I have a feeling something is moving behind the scenes.
+223	Indeed. It seems this "bandit" suppression isn't going to end so easily.
+224	Ever since Bern's invasion, there's been a suspicious air hanging over everywhere.
+225	That's true. I wonder just what is happening on this continent right now.
+226	Bern's rampage, the dragon's revival, the collapse of the Lycian Alliance...
+227	Every single one of them is almost too hard to believe...
+228	Even so, all we can do is deal with what's in front of us, one thing at a time.
+229	Even though it's terribly frustrating.
+230	(If the left village was chosen)
+231	Now then, what should we do...
+232	What about heading north along the coast?
+233	North... meaning toward the mines?
+234	Yes. I heard many of the island's people are being forced to work there against their will.
+235	So first we should rescue those people.
+236	If we do that, we might learn more about the enemy moving behind the scenes.
+237	Hmm... well, sitting still won't get us anywhere either.
+238	Alright, let's head north right away!
+239	(If the right village was chosen)
+240	So, where should we head next...
+241	Let's go west.
+242	West? I see.
+243	I'd like to meet the resistance.
+244	I hear they're fighting the "bandits" for the sake of the island's people.
+245	I see. Meeting them first and
+246	hearing about the circumstances on this island might be the quickest way.
+247	That's right. Charging in blindly would only waste time.
+248	Hmm... I have no objection either.
+249	Alright, let's head west right away!

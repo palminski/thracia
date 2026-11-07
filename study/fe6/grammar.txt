@@ -166,3 +166,13 @@ nakereba|〜なければ|"If not, unless" (short for なければならない wi
 wakedewanai|〜わけでもない|"It's not like, not necessarily the case that …".|
 to-conditional|〜と (conditional)|"When, if": a natural/automatic consequence follows.|https://bunpro.jp/grammar_points/%E3%81%A8-conditional
 nakunaru|〜なくなる|"Comes to no longer, stops being able to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B
+beku|verb dictionary form + べく|Formal "in order to" (classical purpose, = ために).|
+hokanai|〜他ない|"Have no choice but to..." (= しかない).|
+kessite|決して〜ない|"Never, by no means" (emphatic negative).|
+kotonisuru|〜ことにする|"Decide to..." (a decision made by the speaker).|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB%E3%81%99%E3%82%8B
+kudasai|〜てください|Polite request: "please do".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+naidekudasai|〜ないでください|Polite negative request: "please don't".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+nomi|〜のみ|Formal "only" (= だけ).|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%BF
+ta-ato|〜た後|"After doing".|https://bunpro.jp/grammar_points/%E3%81%82%E3%81%A8%E3%81%A7
+tekurenai|〜てくれない|Negative of 〜てくれる: "won't do (something) for me/us".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
+toshika|〜としか〜ない|"Can only be described as..." (= としか言えない type construction).|

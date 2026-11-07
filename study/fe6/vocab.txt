@@ -2482,3 +2482,271 @@
 天高く|てんたかく|high into the sky (lit. "sky-high")
 ところで|ところで|by the way
 ありがとうございました|ありがとうございました|thank you very much (past, formal)
+われわれ|われわれ|we
+急死|きゅうし|sudden death
+分からない|わからない|don't understand, don't know
+王子|おうじ|prince
+続ける|つづける|to continue
+疑う|うたがう|to doubt, to suspect
+すまない|すまない|sorry (casual)
+離れる|はなれる|to leave, to separate from
+霧|きり|fog, mist
+息を引き取る|いきをひきとる|to breathe one's last, to die
+あのう|あのう|um, excuse me
+あはは|あはは|haha (laugh)
+あまりにも|あまりにも|too much, excessively
+あやしげな|あやしげな|suspicious-looking
+あんまり|あんまり|not very, too much (casual)
+いいですね|いいですね|that's good, isn't it
+いまだ|いまだ|still, even now
+いろんな|いろんな|various (casual = 色々な)
+えっと|えっと|um, let me see
+えらく|えらく|awfully, greatly
+おかしら|おかしら|boss, chief (= お頭)
+おるのか|おるのか|is (there)? (dialect/old-man = いるのか)
+お人良し|おひとよし|good-natured person, soft touch
+カネ|かね|money (= 金)
+こっそり|こっそり|secretly, stealthily
+ことばかり|ことばかり|nothing but, only things
+この後に及んで|このあとにおよんで|at this point, after all this
+ご一緒|ごいっしょ|going along together (polite)
+ご存命|ごぞんめい|being alive (polite, of a respected person)
+じっとしている|じっとしている|to stay still
+してくれる|してくれる|to do (something) for one
+ステキな|すてきな|wonderful, lovely (= 素敵な)
+すまねえんだが|すまねえんだが|sorry, but... (rough masculine)
+すみませんでした|すみませんでした|I'm sorry (polite past)
+そいつ|そいつ|that guy, that one (casual/rough)
+そうでしたか|そうでしたか|I see, is that so
+そのとなり|そのとなり|the one next to that
+その通り|そのとおり|exactly right, that's correct
+それでも|それでも|even so, still
+そんなおり|そんなおり|at such a time
+ただの|ただの|mere, just a
+たまたま|たまたま|by chance, happen to
+チャンス|チャンス|chance, opportunity
+ちょっと前に|ちょっとまえに|a little while ago
+ついていく|ついていく|to follow along
+つけ込む|つけこむ|to take advantage of
+てめえら|てめえら|you bastards (rough)
+どうか|どうか|please, somehow
+どうしてここに|どうしてここに|why are you here
+どうなんだろう|どうなんだろう|I wonder how it is
+どうにも|どうにも|no matter what, hopelessly
+とかいる|とかいる|or something, probably has
+どこもかしこも|どこもかしこも|everywhere
+どっち|どっち|which (casual)
+どっちみち|どっちみち|either way, anyhow
+とどめを刺す|とどめをさす|to finish off, to deal the final blow
+となり|となり|next door, neighboring
+なにも|なにも|nothing, not anything
+にわかに|にわかに|suddenly
+のみ|のみ|only (formal)
+ばれる|ばれる|to be found out, to be exposed
+ぴたりと|ぴたりと|abruptly, exactly
+ひどく|ひどく|terribly, severely
+フィルさん|フィルさん|Fir (name + polite suffix)
+まで|まで|until, even
+まるで|まるで|just like, as if
+ムダ|むだ|useless, waste (= 無駄)
+めちゃくちゃで|めちゃくちゃで|in chaos, a mess
+もう一人|もうひとり|one more person
+もちろんのこと|もちろんのこと|of course, naturally
+もどかしい|もどかしい|frustrating, irritating
+やさ男|やさおとこ|gentle-looking man, pretty boy
+やみくも|やみくも|blindly, recklessly
+ように|ように|as if, like, so that
+レジスタンス|レジスタンス|resistance (group)
+一つずつ|ひとつずつ|one by one
+三島|さんとう|three islands
+三軍将|さんぐんしょう|the three generals
+上がる|あがる|to rise, to go up
+上陸する|じょうりくする|to land, to come ashore
+不信|ふしん|distrust
+世継ぎ|よつぎ|heir, successor
+両方|りょうほう|both
+二つとも|ふたつとも|both (of the two)
+今まで|いままで|until now
+今後|こんご|from now on, hereafter
+仕打ち|しうち|treatment (usually unfair/cruel)
+以降|いこう|from then on, since
+件|けん|matter, case
+任|にん|duty, task
+任せておく|まかせておく|to leave (it) entrusted
+任務|にんむ|mission, duty
+何もん|なにもん|what kind of thing/person (rough = 何者)
+何事|なにごと|what's going on, whatever happens
+保護|ほご|protection
+信頼する|しんらいする|to trust
+倭刀|わとう|Wo Dao (a named sword)
+働かされる|はたらかされる|to be made to work
+働き手|はたらきて|laborer, breadwinner
+全然|ぜんぜん|not at all
+兵力|へいりょく|military strength, troops
+内|うち|within, inside
+再度|さいど|once again
+出動|しゅつどう|deployment, mobilization
+出向く|でむく|to go out, to head out
+分捕る|ぶんどる|to seize, to loot
+切りつけてくる|きりつけてくる|to come slashing at
+判断する|はんだんする|to judge
+助けになる|たすけになる|to be of help
+助け出す|たすけだす|to rescue
+動いている|うごいている|to be moving
+北上する|ほくじょうする|to head north
+去年|きょねん|last year
+参る|まいる|to be defeated by, to be done in by (casual, = お手上げ)
+及ぶ|およぶ|to reach, to extend to
+叶う|かなう|to be granted, to come true
+名剣|めいけん|famous sword
+呼び出す|よびだす|to call out, to summon
+嘆かわしい|なげかわしい|lamentable, deplorable
+嘲笑う|あざわらう|to mock, to sneer at
+困惑させる|こんわくさせる|to confuse, to perplex
+地下資源|ちかしげん|underground/mineral resources
+埒が明かない|らちがあかない|to get nowhere, no progress
+報いる|むくいる|to repay, to reward
+報告だ|ほうこくだ|it's a report (casual)
+声|こえ|voice
+売っ払う|うっぱらう|to sell off
+外見|がいけん|outward appearance
+大義|たいぎ|great cause
+太刀打ちできない|たちうちできない|unable to compete with, no match for
+好きに|すきに|as one likes, freely
+始末してしまう|しまつしてしまう|to finish off, to deal with completely
+子供たち|こどもたち|children
+守り続ける|もりつづける|to continue to protect
+実績|じっせき|achievement, track record
+宰相|さいしょう|prime minister, chancellor
+寂しくなる|さびしくなる|to become lonely
+寄るなら|よるなら|if you're going to stop by
+富|とみ|wealth
+将|しょう|general
+届く|とどく|to arrive, to reach
+届けてやる|とどけてやる|to deliver (for someone)
+島|しま|island
+崩壊|ほうかい|collapse
+年老いる|としおいる|to grow old
+弁解|べんかい|explanation, excuse
+強行軍|きょうこうぐん|forced march
+待ち伏せをする|まちぶせをする|to lie in ambush
+待て|まて|wait! (command)
+後ろ|うしろ|behind
+後ろ盾|うしろだて|backer, patron
+後継者|こうけいしゃ|successor, heir
+復活|ふっかつ|revival
+復興|ふっこう|recovery, reconstruction
+必要とする|ひつようとする|to need, to require
+忍び寄る|しのびよる|to sneak up on
+恐ろしげな|おそろしげな|frightening-looking
+恵まれる|めぐまれる|to be blessed with
+悲しみ|かなしみ|sorrow, grief
+悲劇|ひげき|tragedy
+情報どおり|じょうほうどおり|as the information said
+戦い慣れする|たたかいなれする|to be experienced/used to fighting
+手を貸す|てをかす|to lend a hand
+手下|てか|underling, henchman
+手出し|てだし|interference, meddling
+手立て|てだて|means, way
+抜けがら|ぬけがら|empty shell, husk
+抜けてくる|ぬけてくる|to come through, to make it through
+授かる|さずかる|to be granted, to be blessed with
+掲げる|かかげる|to raise, to hold up (a banner/cause)
+敗れる|やぶれる|to be defeated
+旅する|たびする|to travel
+早速|さっそく|right away, immediately
+早道|はやみち|shortcut, quick way
+暴れる|あばれる|to rampage, to run wild
+暴走|ぼうそう|rampage, runaway behavior
+最中|さいちゅう|in the midst of
+有力|ゆうりょく|influential, powerful
+本国|ほんごく|home country
+様々|さまざま|various
+横切る|よこぎる|to cross, to cut across
+横取り|よこどり|snatching, usurping
+横行する|おうこうする|to run rampant
+正式|せいしき|official, formal
+歩み始める|あゆみはじめる|to begin to walk/progress
+死ぬまで|しぬまで|until death
+死んだ母上|しんだははうえ|(one's) late mother
+気がする|きがする|to feel (that), to have a feeling
+沈黙|ちんもく|silence
+活気|かっき|energy, liveliness
+浮かぶ|うかぶ|to float
+海岸沿い|かいがんぞい|along the coast
+深く|ふかく|deeply
+漂う|ただよう|to drift, to hang in the air
+無気力|むきりょく|lethargy, listlessness
+無気味|きみわるい|eerie, ominous (= 気味悪い)
+無法|むほう|lawless
+無理やり|むりやり|forcibly
+片付けていく|かたづけていく|to deal with one by one
+片方だけ|かたほうだけ|only one side/one of the two
+特別|とくべつ|special
+王宮|おうきゅう|royal palace
+男だって|おとこだって|even a man, being a man
+留守にする|るすにする|to be away from home/post
+異存|いぞん|objection
+痩せこける|やせこける|to become emaciated
+発掘|はっくつ|excavation
+盗賊|とうぞく|thief, bandit
+盟主代行|めいしゅだいこう|acting head of the alliance
+目がいい|めがいい|to have good eyesight
+目通り|めどおり|audience (with a superior)
+知らない|しらない|not know
+確かめてくる|たしかめてくる|to come confirm
+祈る|いのる|to pray
+空気|くうき|air, atmosphere
+立ち向かう|たちむかう|to confront, to stand against
+簡単|かんたん|simple, easy
+納得できない|なっとくできない|unable to accept/understand
+結ぶ|むすぶ|to tie, to form (an alliance)
+結成|けっせい|formation (of a group)
+結果|けっか|result
+総督|そうとく|governor
+総称|そうしょう|collective name
+縄張り|なわばり|territory, turf
+老人|ろうじん|old person
+耐える|たえる|to endure
+聞き出す|ききだす|to find out by asking
+脱走する|だっそうする|to desert, to escape
+腕は確か|うではたしかだ|to have a reliable/skilled arm
+興味がない|きょうみがない|to have no interest
+苦しめ続ける|くるしめつづける|to continue to torment
+虫のいい|むしのいい|self-serving, selfish
+裏|うら|behind the scenes
+襲ってくる|おそってくる|to come attacking
+西の果て|にしのはて|the western edge/end
+見損なう|みそこなう|to misjudge (someone)
+覗き込む|のぞきこむ|to peer into, to peek in
+親玉|おやだま|boss, ringleader
+言いようがない|いいようがない|there's no way to put it, inexpressibly
+討伐|とうばつ|suppression, subjugation (of bandits)
+許される|ゆるされる|to be permitted
+許せる|ゆるせる|to be able to forgive
+諸勢力|しょせいりょく|the various powers
+警戒する|けいかいする|to be on guard
+警護する|けいごする|to guard, to protect
+豊富|ほうふ|abundant
+起きるか|おきるか|whether (something) will happen
+追い払ってくる|おいはらってくる|to come drive (them) off
+退ける|しりぞける|to repel, to drive back
+連れて行かれる|つれていかれる|to be taken away
+進める|すすめる|to advance, to proceed with
+運ぶ|はこぶ|to carry, to proceed (事をはこぶ)
+遠ざける|とおざける|to keep at a distance
+選ばれる|えらばれる|to be chosen
+間が持たない|まがもたない|to not be able to fill an awkward silence
+隔てなく|へだてなく|without distinction
+隠す|かくす|to hide
+集結させる|しゅうけつさせる|to gather, to mass (troops)
+雇われる|やとわれる|to be employed, to be hired
+離れるから|はなれるから|because (we're) leaving
+静けさ|しずけさ|stillness, quiet
+面食らう|めんくらう|to be flustered, to be taken aback
+領民|りょうみん|the people of a domain
+頭が切れる|あたまがきれる|to be sharp-witted
+頼んである|たのんである|to have already asked (someone)
+頼んでおく|たのんでおく|to ask in advance
+飲む|のむ|to drink; to accept (a demand, のむ他ない)
+騎士だ|きしだ|to be a knight
