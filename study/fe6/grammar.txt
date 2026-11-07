@@ -176,3 +176,9 @@ nomi|〜のみ|Formal "only" (= だけ).|https://bunpro.jp/grammar_points/%E3%81
 ta-ato|〜た後|"After doing".|https://bunpro.jp/grammar_points/%E3%81%82%E3%81%A8%E3%81%A7
 tekurenai|〜てくれない|Negative of 〜てくれる: "won't do (something) for me/us".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
 toshika|〜としか〜ない|"Can only be described as..." (= としか言えない type construction).|
+chau|〜ちゃう／〜ちゃった|Casual contraction of 〜てしまう: e.g. ばれちゃった = ばれてしまった.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
+tero|〜てろ|Rough casual contraction of 〜ていろ: "stay, keep (doing)".|
+shina|masu-stem + な|Casual rough imperative, softer than plain 命令形: e.g. 覚悟しな.|
+nakerebanaranai|〜なければならない|"Must, have to" (full form; なければ alone can drop the ending in casual speech).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+nodakara|〜のだからな|"Because, since ..." (emphatic, explaining a reason as obvious).|
+mono-assert|〜もの|Feminine assertive sentence-ending: states the speaker's conviction, "you know, I tell you".|

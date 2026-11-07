@@ -1,0 +1,195 @@
+1	The western isles currently where Roy and the others are—
+2	Fibernia.
+3	Caledonia, to the south.
+4	And Dia, to the northeast.
+5	This is what those three islands together are called.
+6	Every one of the islands has rich mineral veins, and mining had been carried out vigorously.
+7	Of them, the largest could be said to be Mount Eburacum, at the northern tip of the island of Fibernia.
+8	Seeking information on the "bandits," Roy and the others decided to set their course north, aiming for it.
+9	They were told that to reach Mount Eburacum, they would have to pass through a castle in the mountains.
+10	Roy sent a messenger to request passage from Nord, the lord of that castle.
+11	Since they themselves had come to this island at Etruria's formal request—
+12	Surely getting his cooperation would be easy...
+13	It did not take long for them to realize how wrong that assumption was...
+14	(Nord): Hey, what happened to that spy from the resistance?
+15	(Soldier): The dancer, you mean, the one called Larum? She's been thrown in the dungeon for now.
+16	(Nord): So? Did she say anything?
+17	(Soldier): Well... she just keeps repeating that it's some kind of mistake.
+18	(Nord): Hmph. And she thinks that'll talk her way out of it?
+19	(Nord): If it comes to that, I'll question her myself...
+20	(Soldier): Lord Nord.
+21	(Nord): What is it?
+22	(Soldier): A messenger has arrived from the Lycian Alliance army.
+23	(Nord): Oh? The ones supposedly sent out to put down those "bandits"?
+24	(Soldier): They're requesting permission to pass through this castle on their way to the northern mine.
+25	(Nord): ...The Lycian Alliance army, is it.
+26	(Nord): Governor-General Alcard of the Western Isles gave an order—
+27	(Nord): that while they're here in Fibernia, we're to find a suitable excuse and dispose of them... kukuku.
+28	(Nord): A perfect chance to curry favor with Lord Alcard.
+29	(Nord): Right! Send out the troops and have them attacked!!
+30	(Soldier): Yes sir.
+31	(Soldier): What should we do about the messenger?
+32	(Nord): Dispose of him.
+33	(Soldier): Yes sir, understood.
+34	(Nord): And don't forget to station the archers at the Shooter!!
+35	(Nord): That's an excellent weapon that can strike from far away— use it to throw their movements into confusion!
+36	(Soldier): Yes sir.
+37	(Nord): Whatever you do, don't let the enemy seize it!!
+38	(Marinus): Lord Roy! Soldiers have come out from the castle!!
+39	(Roy): What!? Are there "bandits" around here too, perhaps?
+40	(Marinus): No, however you look at it, it seems they're after us
+41	(Roy): ...What about the messenger we sent?
+42	(Marinus): It's been quite a while now, and he hasn't come back... which means...
+43	(Roy): What do you mean?
+44	(Roy): Why would the lord of this castle attack us?
+45	(Marinus): Th-the enemy's gotten that close already... Lord Roy, what should we do?
+46	(Roy): ...There's nothing for it but to fight back.
+47	(Roy): In any case, let's head for the castle— we might learn something there.
+48	(Marinus): I see... yes, quite so.
+49	(Roy): All right, everyone, let's break through here!
+50	(Roy): But please, avoid any unnecessary fighting if you can.
+51	(Villager): Mr. Guese, are you really going?
+52	(Guese): Yeah. My men's killers are in that castle.
+53	(Guese): I can't just let that go.
+54	(Villager): The ones who were always with you, you mean?
+55	(Guese): Yeah. While I was away, under the pretext of some job from the Etrurian governor's office—
+56	(Guese): they were taken off and worked half to death in the mine, and in the end, every one of them...
+57	(Villager): ......
+58	(Guese): They were all idiots, but every one of them was a good man.
+59	(Guese): And they went and did that to them...!!
+60	(Villager): So, Mr. Guese, you're going to take revenge all on your own?
+61	(Guese): Is that strange?
+62	(Villager): It's not that, but... are you really not going back to shipping anymore?
+63	(Guese): Well, that...
+64	(Guese): Once I've avenged them, if the fighting's died down, I'll think about it.
+65	(Villager): I see... we won't forget it, you know.
+66	(Villager): That even braving the dangers of the sea, you carried and sold all kinds of things for us.
+67	(Villager): If anything ever happens, you can always come rely on us.
+68	(Guese): If I'm still alive, sure. Thanks, auntie.
+69	(Nord): Gonzalez! Is Gonzalez here!
+70	(Gonzalez): I... I'm here...
+71	(Nord): A little to the north, along the mountains, there's a village. You know the one.
+72	(Gonzalez): I know it.
+73	(Nord): It might be a hideout for those resistance types.
+74	(Nord): Go, and crush the whole village.
+75	(Gonzalez): The whole village...
+76	(Nord): That's right. Hurry, don't dawdle!
+77	(Nord): A good-for-nothing wretch like you is only of use at a time like this, after all.
+78	(Gonzalez): I... I...
+79	(Nord): What, do you have a complaint?
+80	(Gonzalez): No... I don't...
+81	(Nord): Hmph. For all that face of yours, you can be strangely soft at times.
+82	(Nord): You'd think crushing a single village would be nothing to you.
+83	(Guese): Hm? What, you want something from me?
+84	(Roy): No, it's just— I was concerned, seeing you fighting the castle's soldiers alone.
+85	(Guese): And who are you?
+86	(Roy): I'm Roy. I lead the Lycian Alliance army.
+87	(Roy): We came here at Etruria's request.
+88	(Guese): A lackey of Etruria's, huh! Then you're an enemy— get ready!!
+89	(Roy): W-wait, please!
+90	(Roy): We're fighting the castle's soldiers too.
+91	(Guese): ? What do you mean?
+92	(Roy): To be honest, we don't understand the reason ourselves either...
+93	(Roy): We're just acting to carry out our mission of putting down the "bandits," but...
+94	(Guese): ...You said you're fighting those castle men.
+95	(Guese): Then how about hiring me?
+96	(Roy): Huh?
+97	(Guese): I'm a pirate, see, so I know this area pretty well.
+98	(Guese): Looks like you lot just got to this island.
+99	(Guese): Don't you need someone to show you around?
+100	(Roy): That would be reassuring, but why the sudden offer?
+101	(Guese): I want to help hunt down these "bandits."
+102	(Guese): Well, truth be told, I suppose I'd get lumped in as one too, being a pirate myself.
+103	(Roy): In that case, please, we'd be grateful.
+104	(Guese): Fine, leave it to me.
+105	(Guese): ...Hang on, my brothers of the sea. I'll avenge you for sure!
+106	(Guese): What happens after that depends on that Roy fellow, I suppose.
+107	(Larum): U-um, excuse me!
+108	(Gonzalez): Wh-what do you want... I'm the enemy, you know!
+109	(Larum): I'm sorry, suddenly talking to you like this.
+110	(Larum): But your eyes looked so sad...
+111	(Gonzalez): ...You... do you know... there's a village... along the mountains?
+112	(Larum): Yes, I know it.
+113	(Gonzalez): Get the people there... to run.
+114	(Gonzalez): I... got orders... go crush the village... so...
+115	(Larum): No, stop it! The village people haven't done anything wrong...
+116	(Gonzalez): No good... orders are absolute... I... can't disobey.
+117	(Larum): Can't you get away from the people who give orders like that?
+118	(Gonzalez): Get away?
+119	(Larum): That's it! Come fight together with us!
+120	(Larum): You could protect the people of this island.
+121	(Gonzalez): ...No good... I... am a monster... no one... can be with me.
+122	(Gonzalez): The village I was born in... everyone... threw stones at me.
+123	(Gonzalez): Told me... to leave the village... I'm a monster... not human.
+124	(Larum): That's not true! You're a human being— you're a good person, I can tell!
+125	(Larum): Come on, let's go together... don't be afraid.
+126	(Gonzalez): Afraid... me?
+127	(Gonzalez): I'm... not afraid... I'm not afraid of anything...
+128	(Gonzalez): Everyone... is afraid of me... ...I'm not afraid!
+129	(Larum): No, you are afraid.
+130	(Larum): Afraid that they'll throw stones at you again.
+131	(Larum): Afraid that you'll be driven out again.
+132	(Larum): Just like a little bird trembling in its nest.
+133	(Gonzalez): ......
+134	(Larum): No one in our army will discriminate against you.
+135	(Larum): Come now, be brave and take one step forward— to live looking ahead...
+136	(Villager): I wonder if little Larum is safe... I'm worried.
+137	(Villager): And all because she brought us these weapons...
+138	(Villager): We told her to stay hidden, but with that personality of hers...
+139	(Villager): This axe too, you know, it's one she brought us.
+140	(Villager): It's supposed to be a strange axe, strong against swords but weak against lances.
+141	(Villager): More than something like this, I'd rather see that girl's dancing again...
+142	(Villager): "Obtained the Sword Buster."
+143	(Villager): Mountain bandits and pirates too, when they were born, were once cute little babies.
+144	(Villager): If you speak to them with sincerity, I want to believe they'll understand... though...
+145	(Nord, battle intro): Kukuku, so you've come.
+146	(Nord, battle intro): I'll take it, then... your life energy.
+147	(Nord, defeated): I... I'm dying...
+148	(Nord, defeated): My life... is draining away...
+149	(Marinus): Lord Roy...
+150	(Marinus): In the end, we never did learn the reason these men attacked our army.
+151	(Roy): But between that ambush before, and this attack now...
+152	(Roy): It seems certain someone is targeting us.
+153	(Roy): Hmm, perhaps we ought to send an inquiry to the Etrurian royal palace about this.
+154	(Roy): Yes, that's right— this is no time to be worrying about hunting down "bandits"...
+155	(Roy): In any case, let's consult General Cecilia about this first.
+156	(Soldier): Excuse me.
+157	(Soldier): There's a girl who was being held in this castle's dungeon who says she has something she wants to tell Lord Roy...
+158	(Roy): Me? I wonder what it could be— bring her here, please.
+159	(Soldier): Yes sir.
+160	(Larum): Are you Lord Roy? The one who's come to hunt down the "bandits"...?
+161	(Roy): Yes, that's right.
+162	(Larum): Lord Roy, please! Save my friends— save them!!
+163	(Roy): Whoa!
+164	(Marinus): Now then, girl! Get away from Lord Roy!
+165	(Roy): N-now, let's all just calm down and talk.
+166	(Roy): These friends of yours, who are they?
+167	(Larum): I'm Larum. I'm one of this island's resistance fighters.
+168	(Roy): The group that fights the "bandits" and protects the islanders' way of life, right?
+169	(Larum): Yeah... no, wait!
+170	(Roy): It's not that?
+171	(Larum): Of course we do that too, but, our real enemies are—
+172	(Larum): the lords who came from Etruria, who shelter the "bandits" and use them as a cover!
+173	(Roy): What did you say! Is that really true!?
+174	(Larum): The lords here forcibly take everyone on the island off to the mines,
+175	(Larum): and make them work there until they die!!
+176	(Larum): Even if they're hurt, even if they get sick, they're never, ever allowed to rest from work...
+177	(Roy): ...Something that terrible is happening...
+178	(Larum): That's why! We're fighting all over the island!!
+179	(Larum): This time too, we were supposed to go to Mount Eburacum to the north and save the people there, but...!!
+180	(Roy): What's wrong? Calm down!
+181	(Larum): It seems like our plan got found out! The villager there was so terrified...
+182	(Larum): But I never imagined he'd actually talk...
+183	(Larum): If we don't warn them quickly, everyone... Lady Echidna...!!
+184	(Roy): Understood— let's head for the northern mine at once!
+185	(Roy): To save the resistance and the people being forced to work in the mine.
+186	(Larum): Really!? I'm so happy— thank you, Lord Roy!!
+187	(Roy): Whoa! H-hey, wait a moment, Miss Larum—
+188	(Marinus): Now then, girl! Didn't I tell you to get away from Lord Roy!
+189	(Larum): Lord Roy, here! Use this!
+190	(Roy): This sword is...?
+191	(Larum): I was keeping it in trust— our leader Lady Echidna's sword.
+192	(Larum): Since you're going to help the resistance,
+193	(Larum): I don't think Lady Echidna would mind you all using it.
+194	(Larum): It's called the "Dragon Killer," but since dragons don't really exist anymore...
+195	(Larum): I wonder if it just means it's strong against dragon knights or something? I don't really get it myself.
