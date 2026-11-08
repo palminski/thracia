@@ -3795,3 +3795,14 @@
 二|に|two
 三|さん|three
 家#dynasty|け|(suffix) house, family, dynasty of
+お主|おぬし|you (archaic/formal, used by older or high-status speakers)
+木|き|tree
+共に|ともに|together, alongside
+皆|みんな|everyone, all
+気力|きりょく|energy, vigor, willpower
+男の子|おとこのこ|boy
+反帝国|はんていこく|anti-imperial, opposed to the Empire
+幻想|げんそう|fantasy, illusion
+レイピア|れいぴあ|rapier (a thin thrusting sword)
+次第|しだい|depending on, as soon as (suffix)
+ありさま|ありさま|state of affairs, sorry state (often disparaging)
