@@ -3184,7 +3184,6 @@
 疑いあり|うたがいあり|suspected (of doing something)
 監督|かんとく|supervision, an overseer
 直属|ちょくぞく|directly subordinate (to)
-真に受ける|まにうける|to take (something) at face value
 管轄|かんかつ|jurisdiction
 胸をはって|むねをはって|with one's head held high, proudly
 腹が黒い|はらがくろい|black-hearted, scheming (lit. "black-bellied")
@@ -3334,3 +3333,74 @@
 帰還する|きかんする|to return (from a mission or expedition)
 それでは|それでは|well then, in that case
 難しい|むずかしい|difficult
+事件|じけん|incident, affair
+了解|りょうかい|understood, agreed ("got it")
+以上|いじょう|more than, beyond
+使い捨て|つかいすて|disposable, single-use
+価値|かち|value, worth
+便利|べんり|convenient, useful
+信頼|しんらい|trust, reliance
+個人|こじん|individual, personal
+全員|ぜんいん|all members, everyone
+労働|ろうどう|labor, work
+半分|はんぶん|half
+南方軍|なんぽうぐん|the Southern Army (proper noun, a Bernese military division)
+受け取る|うけとる|to receive, to accept
+可愛い|かわいい|cute, adorable
+司令官|しれいかん|commander, commanding officer
+同時|どうじ|at the same time, simultaneous
+喜ぶ|よろこぶ|to be glad, to be delighted
+回復|かいふく|recovery
+地位|ちい|position, status, rank
+宝|たから|treasure
+師|し|teacher, master, mentor
+弓使い|ゆみつかい|archer, bowman
+手助け|てだすけ|help, assistance
+捨てる|すてる|to discard, to abandon
+援護|えんご|support, covering fire/backup
+教え|おしえ|teaching(s)
+方面|ほうめん|direction, area, field
+暮らし|くらし|living, life, livelihood
+望む|のぞむ|to wish for, to desire
+本軍|ほんぐん|main army, main force
+果て|はて|end, the far reaches of
+正常|せいじょう|normal
+殺害|さつがい|murder, killing
+殿|どの|(honorific suffix) Lord, Mr./Ms.
+気品|きひん|elegance, grace
+派|は|faction, group, sect
+派遣|はけん|dispatch, sending (someone somewhere)
+混乱|こんらん|confusion, chaos
+現れる|あらわれる|to appear
+理解|りかい|understanding, comprehension
+町|まち|town
+疑い|うたがい|suspicion, doubt
+皆|みんな|everyone, all
+相応|そうおう|suitable, fitting
+相変わらず|あいかわらず|as usual, unchanged
+真っ黒|まっくろ|pitch black
+真実|しんじつ|truth
+矢|や|arrow
+神罰|しんばつ|divine punishment
+武運|ぶうん|fortune in war, luck in battle
+軍人|ぐんじん|soldier, military person
+頂点|ちょうてん|pinnacle, top, apex
+神|かみ|god
+姉上|あねうえ|(honorific) elder sister
+言いがかり|いいがかり|false accusation, unjust complaint
+頼み事|たのみごと|a favor, a request
+言葉|ことば|word(s), language
+胸を張る|むねをはる|to be proud, to puff out one's chest
+下げる|さげる|to lower
+装備|そうび|equipment, gear
+紹介|しょうかい|introduction
+一番|いちばん|the most, number one
+風|ふう|way, manner (how something is done)
+確か|たしか|certain, sure
+お腹|おなか|stomach, belly
+降伏|こうふく|surrender
+駐屯|ちゅうとん|stationing (troops), garrison
+髪|かみ|hair
+感じ|かんじ|feeling, sense, impression
+親|おや|parent (also used as a prefix meaning "pro-", as in 親ベルン派, "pro-Bern faction")
+思いつく|おもいつく|to come up with (an idea), to think of
