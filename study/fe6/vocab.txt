@@ -3404,3 +3404,48 @@
 感じ|かんじ|feeling, sense, impression
 親|おや|parent (also used as a prefix meaning "pro-", as in 親ベルン派, "pro-Bern faction")
 思いつく|おもいつく|to come up with (an idea), to think of
+軍師|ぐんし|a military strategist, tactician
+のびる|のびる|to stretch out, to extend (= 伸びる)
+市民|しみん|citizen
+何としても|なんとしても|no matter what, by any means necessary
+馬鹿野郎|ばかやろう|you idiot! (strong insult)
+西南|せいなん|southwest
+何名|なんめい|how many people, some number of people
+忍び込む|しのびこむ|to sneak in
+手を打つ|てをうつ|to take measures, to strike a deal
+指示する|しじする|to instruct, to direct
+さんざん|さんざん|thoroughly, severely (an unpleasant degree)
+おばさん|おばさん|ma'am, auntie (casual address for an older woman)
+あいつら|あいつら|those guys (rough)
+投入する|とうにゅうする|to commit, to throw into (battle/resources)
+囲む|かこむ|to surround
+裏口|うらぐち|back door, back entrance
+慣れる|なれる|to get used to
+連れ戻す|つれもどす|to bring back (a person)
+増える|ふえる|to increase, to grow in number
+落とす|おとす|to drop; to capture (a castle)
+男が廃る|おとこがすたる|(idiom) a man would lose his honor/pride
+手の者|てのもの|one's own man, a subordinate or agent
+壊滅する|かいめつする|to be wiped out, to be destroyed completely
+ヒゲ|ひげ|beard, mustache
+若者|わかもの|a young person
+置く|おく|to put, to place; to station, to install
+ワシ|わし|I, me (rough elderly masculine pronoun)
+カレドニア|カレドニア|Caledonia (place name)
+イディナ|イディナ|Idina (castle name)
+ジュトー|ジュトー|Jutor (place name)
+エブラクム|エブラクム|Ebraucum (place name)
+フィベルニア|フィベルニア|Fibernia (place name)
+ディア|ディア|Dia (island name)
+おかす|おかす|to brave, to risk (危険をおかす, "to brave danger")
+今日|きょう|today
+基本的に|きほんてきに|basically, fundamentally
+派遣する|はけんする|to dispatch (someone)
+それとも|それとも|or else, alternatively
+決まる|きまる|to be decided, to be settled
+そのとおり|そのとおり|exactly right, that's correct
+時に|ときに|at the time (of doing something)
+こいつ|こいつ|this guy, this thing (rough)
+おれ|おれ|I, me (rough male, kana variant of オレ)
+悪|あく|evil, wrongdoing
+旅|たび|a journey, a trip
