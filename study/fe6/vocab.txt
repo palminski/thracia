@@ -3265,3 +3265,41 @@
 右|みぎ|right (direction)
 左|ひだり|left (direction)
 うそ|うそ|a lie, untruth
+弱い|よわい|weak
+心|こころ|heart, mind, spirit
+此奴|こやつ|this guy, this one (contemptuous)
+待ち伏せ|まちぶせ|an ambush
+襲撃|しゅうげき|an attack, a raid
+何者|なにもの|someone, who (an unidentified person)
+相談|そうだん|consultation, discussion
+組織|そしき|organization
+隠れ蓑|かくれみの|a cover, a front (for hiding one's true activities)
+向く|むく|to face, to turn toward
+あれこれ|あれこれ|this and that, various things
+踊り|おどり|a dance
+悲しい|かなしい|sad
+目|め|eye
+頭|あたま|head
+得る|える|to obtain, to gain
+考え|かんがえ|a thought, an idea
+掛かる|かかる|to take (time), to hang, to cost
+動き|うごき|movement, motion
+狙い|ねらい|aim, objective, target
+つまり|つまり|in other words, that is to say
+妙|みょう|strange, odd
+子|こ|child, kid
+優しい|やさしい|kind, gentle
+正直|しょうじき|honest, honestly
+手伝う|てつだう|to help, to assist
+金持ち|かねもち|a rich person
+苦労|くろう|hardship, trouble
+兄弟|きょうだい|siblings, brothers
+直々|じきじき|personally, in person
+致す|いたす|to do (humble)
+弓兵|きゅうへい|archer, bowman
+通行|つうこう|passage, right of way
+許可|きょか|permission
+機会|きかい|opportunity, chance
+使い|つかい|an errand, a messenger
+海|うみ|sea, ocean
+いつでも|いつでも|anytime, always
