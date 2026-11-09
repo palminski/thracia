@@ -3891,3 +3891,21 @@
 マージナイト|まーじないと|Mage Knight (mounted magic-using unit class)
 スリープ|すりーぷ|Sleep (staff that puts a target to sleep)
 この世|このよ|this world, this life
+頭#head|あたま|head (body part)
+黒バラ|くろばら|the "Black Rose" (a feared warrior's nickname)
+公|こう|duke, lord (honorific title suffix after a name)
+成す|なす|to do (classical/literary); to accomplish, to bring about
+倍する|ばいする|to be ~-fold, to outnumber
+給う|たまう|(classical) to deign to, honorific auxiliary verb
+ははーん|ははーん|aha, oh I see (interjection)
+げっ|げっ|ugh, yuck (interjection of disgust)
+アハ|あは|ha (laughter sound)
+アハハ|あはは|hahaha (laughter)
+おら|おら|come on, hurry up (rough interjection); also dialectal "I, me"
+むむ|むむ|hmm, hm (interjection of suspicion or surprise)
+さらば|さらば|farewell, goodbye (archaic/dramatic)
+おっ|おっ|oh! (interjection of mild surprise)
+ランスリッター|らんすりったー|the Lanzenritter (an elite lance-knight order)
+ハンマー|はんまー|hammer
+シーフ|しーふ|thief (job class)
+ふふ|ふふ|heh, hehe (soft laughter)
