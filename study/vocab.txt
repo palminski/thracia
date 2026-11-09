@@ -3968,3 +3968,64 @@
 うう|うう|ugh, unh (groan)
 六|ろく|six
 美人|びじん|beautiful woman, beauty
+第|だい|ordinal prefix ("the nth"), counter for chapters/volumes
+ターン|たーん|turn (in a game)
+クリア|くりあ|to clear (a stage), to complete
+紋章|もんしょう|crest, emblem (as in "Fire Emblem")
+雨|あめ|rain
+紫|むらさき|purple
+王都|おうと|capital city (of a kingdom)
+渡河|とか|river crossing
+黒衣|こくい|black robe, black clothing
+月|つき|month; moon
+星|ほし|star
+しずか|しずか|quiet, calm (na-adjective)
+おちゃめ|おちゃめ|mischievous, playful (charming)
+シャイ|しゃい|shy
+きまま|きまま|carefree, willful
+駆る|かる|to drive, to spur on, to ride swiftly
+疾風|しっぷう|gale, swift wind
+可憐|かれん|lovely, sweet, pitiable-cute
+子持ち|こもち|having a child, parent (with a child)
+律義|りちぎ|dutiful, honest, upright
+貴公子|きこうし|young noble, young lord
+死神|しにがみ|god of death, grim reaper
+咲く|さく|to bloom
+カリスマ|かりすま|charisma
+魔道士|まどうし|mage, sorcerer
+総合|そうごう|general, overall, comprehensive
+戦績|せんせき|battle record, score
+トータル|とーたる|total
+ランク|らんく|rank
+吹く|ふく|to blow
+熱い|あつい|hot (passionate, intense)
+四|よん|four
+青|あお|blue
+章|しょう|chapter
+新|しん|new (prefix)
+外伝|がいでん|side story, gaiden
+はじめ|はじめ|beginning
+エッ|えっ|eh?, what? (surprise interjection)
+タイトル|たいとる|title
+建国|けんこく|founding of a nation
+最終|さいしゅう|final, last
+リュート|りゅーと|lute
+職|しょく|occupation, job
+位|い|rank, position
+ふくらむ|ふくらむ|to swell, to bulge
+化|か|suffix: -ization, turning into
+そぼく|そぼく|simple, unsophisticated
+宮中|きゅうちゅう|the imperial court
+期|き|period, era (suffix)
+あたる|あたる|to hit; to correspond to, to be equivalent to
+まぎれる|まぎれる|to be mixed up in, to get lost among
+体験|たいけん|personal experience
+かかわる|かかわる|to be involved with, to concern
+性格|せいかく|personality, character
+まかす|まかす|to entrust
+勲|くん|meritorious deed, merit
+臣|しん|retainer, subject, vassal
+本家|ほんけ|the main family, head house
+諸|しょ|various (prefix)
+伝|でん|legend, biography (suffix)
+へっ|へっ|heh (scoff, derisive interjection)
