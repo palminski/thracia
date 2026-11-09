@@ -254,4 +254,5 @@ nomi|〜のみ|Formal "only" (= だけ, more literary/written).|https://bunpro.j
 niyoruto|〜によると／〜によれば|"According to ..." (a source of information).|
 youninaru|〜ようになる|"Come to ...; reach the point where ...": a gradual change of state or ability.|https://bunpro.jp/grammar_points/ようになる
 nimokakawarazu|〜にもかかわらず|"Despite, in spite of".|
+wari|〜わりに(は)|"Considering ..., relatively ..." — the outcome doesn't match what you'd expect given the premise.|https://bunpro.jp/grammar_points/わりに
 youni-wish|〜ますように|Polite wish or prayer: "may it be that …".|
