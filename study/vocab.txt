@@ -3946,3 +3946,15 @@
 敵軍|てきぐん|enemy army
 十|じゅう|ten
 義実|ぎじつ|honorable, dutiful and sincere (compound: 義 "duty" + 実 "sincerity")
+最大|さいだい|the biggest, the maximum
+皇女|こうじょ|imperial princess
+自軍|じぐん|one's own army, friendly forces
+流す|ながす|to let flow; to shed (blood, tears)
+神器|しんき|sacred treasure, divine regalia
+関する|かんする|to be related to, to concern
+余|よ|and more, -odd (suffix after a number, e.g. 十余年 "ten-odd years")
+大地母神|だいちぼしん|Earth Mother (goddess)
+魔道書|まどうしょ|grimoire, tome of dark magic
+東進|とうしん|advancing eastward
+まとも|まとも|direct, head-on; decent, proper
+越したことはない|こしたことはない|there's nothing better than, it's best to (idiom)
