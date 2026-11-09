@@ -3882,3 +3882,12 @@
 ひとつ|ひとつ|one (count)
 諸国|しょこく|various countries
 絶つ|たつ|to cut off, to sever
+破壊|はかい|destruction
+あら|あら|oh!, ah! (surprise, often feminine)
+限り|かぎり|limit; as far as, to the extent that
+ふん|ふん|hmph (dismissive grunt)
+その上|そのうえ|moreover, on top of that
+あなたがた|あなたがた|you all (plural, polite)
+マージナイト|まーじないと|Mage Knight (mounted magic-using unit class)
+スリープ|すりーぷ|Sleep (staff that puts a target to sleep)
+この世|このよ|this world, this life
