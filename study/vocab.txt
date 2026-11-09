@@ -3909,3 +3909,28 @@
 ハンマー|はんまー|hammer
 シーフ|しーふ|thief (job class)
 ふふ|ふふ|heh, hehe (soft laughter)
+下りる|おりる|to get off, to descend (intransitive)
+到着|とうちゃく|arrival
+末|すえ|end, after (〜の末に = "after much ~")
+東門|とうもん|east gate
+流星|りゅうせい|meteor, shooting star
+平民出|へいみんで|of commoner birth
+マジック|まじっく|magic, magic trick
+リング|りんぐ|ring
+レスキュー|れすきゅー|rescue
+戦術|せんじゅつ|tactics
+臆病|おくびょう|cowardice, cowardly
+あーあ|あーあ|ugh, oh well (sigh of resignation)
+ううん|ううん|uh-uh, no / hmm (thinking)
+うわっ|うわっ|whoa!
+えい|えい|hyah! (exertion/battle cry)
+おう|おう|hey, yeah (casual interjection)
+ぬう|ぬう|hmm, nngh (interjection of thought or strain)
+はあ|はあ|ahh, sigh (of exertion, exasperation, or relief)
+家#ie|いえ|family, household, house (as a lineage)
+神父|しんぷ|priest, Father (Catholic)
+さようなら|さようなら|goodbye (formal)
+あれこれ|あれこれ|this and that, various things
+おちおち|おちおち|calmly, leisurely (usu. with negative: can't relax)
+出でる|いでる|to come out, to be present (archaic/formal)
+勝ち|かち|being ahead, winning (noun)
