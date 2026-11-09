@@ -1,0 +1,245 @@
+1	Roy and his group moved their army toward Juteaux, a city in the island's northwest, to save its people.
+2	Of the Western Isles, Juteaux was the largest city,
+3	and it housed the office of the Governor-General for the Kingdom of Etruria, which held this land as a protectorate.
+4	According to Elffin, the current Governor-General of the Western Isles, Arcard,
+5	was an Etrurian noble, but not much of a man.
+6	Etruria's reaction back home to an attack on the Western Isles' governor was a concern, but
+7	to save the island's people even a little sooner, he had to bring him down.
+8	Having resolved on this, Roy hurried the army on toward Juteaux.
+9	(Arcard): Hff, hff... Lord Flaer!
+10	(Flaer): Why, Lord Arcard...
+11	(Flaer): For someone who holds the post of Governor-General of Etruria's Western Isles, what has you so flustered?
+12	(Arcard): It's that accursed Lycian army!
+13	(Arcard): The Lycian Alliance's men are after me — they're closing in on this very office!
+14	(Flaer): Ah, you mean those people?
+15	(Flaer): To us in Bern, they're an irritating lot one way or another.
+16	(Flaer): At this critical time, I thought it troublesome for them to grow close with Etruria,
+17	(Flaer): so I had them driven out to this remote island...
+18	(Flaer): Hmm... they really are stronger fighters than I expected.
+19	(Arcard): This is no time to be impressed!
+20	(Arcard): Because of them, do you have any idea how much damage I've suffered!
+21	(Arcard): Ahh... the wealth I've built up on this island all this time...
+22	(Arcard): N-no, more importantly, my life! If they come, I'm finished!!
+23	(Arcard): What in the world should I do...
+24	(Flaer): If you're so worried, why not leave this to us
+25	(Flaer): and return home to Etruria?
+26	(Arcard): Is that all right?
+27	(Flaer): Fighting is what Bern's warriors do best — besides, we have a "trump card."
+28	(Flaer): I'll be sure to finish off the Lycian Alliance's army for good.
+29	(Arcard): But...
+30	(Flaer): Lord Arcard... if we of Bern join hands with Etruria,
+31	(Flaer): there'll be nothing left in the world to fear. Wouldn't you agree?
+32	(Arcard): Y-yes, that's true... very well, I'll leave it to you!
+33	(Flaer): Hmph. How soft Etrurian nobles are.
+34	(Flaer): But once we've dealt with those Lycian Alliance people,
+35	(Flaer): these islands will be ours for the taking, Bern's alone... khe heh heh.
+36	※If you came through Chapter 10A and Chapter 11A
+37	(Roy): So this is the Etrurian governor's office... if we take it, we can go back to Lycia...
+38	(Elffin): Lord Roy, before we enter the castle, a moment.
+39	(Elffin): I heard a strange rumor in town.
+40	(Elffin): That there's "someone who isn't human" in the castle.
+41	(Roy): What do you suppose that means?
+42	(Elffin): The "dragon" sung of in legend... that it changes into a creature like that, or so they say...
+43	(Roy): !! A person? Turning into a dragon, you mean!?
+44	(Elffin): I don't know. In any case, let's proceed carefully.
+45	※If you came through Chapter 10B and Chapter 11B
+46	(Roy): So this is the Etrurian governor's office... if we take it, we can go back to Lycia...!
+47	(Elffin): ...My men should
+48	(Elffin): already be arranging things so we can get into the castle right away...
+49	(Elffin): There she is. That's the one.
+50	(Roy): Huh? The person dressed like a dancer?
+51	(Elffin): Yes.
+52	(Larum): Ah, Your Highness~!
+53	(Larum): Over here!
+54	(Larum): Over here, I say~!!
+55	(Roy): "Your Highness"?
+56	(Elffin): ...I wonder what she's talking about.
+57	(Larum): Oh my! You're so slow, Your Highness!!
+58	(Elffin): Larum, who is this "Your Highness" you speak of?
+59	(Larum): Eh... ah! N-no, um, well...
+60	(Larum): Mil... no, I mean, Lord Elffin just seems so princely,
+61	(Larum): so I came up with it myself — "Your Highness," see!
+62	(Elffin): ...........
+63	(Roy): ...........
+64	(Elffin): ...Lord Roy, I apologize. Let me introduce you — this girl is Larum...
+65	(Larum): Are you Lord Roy?
+66	(Larum): The one no one in the Western Isles doesn't know of these days — Lycia's savior!!
+67	(Larum): Nice to meet you~ I'm Larum!
+68	(Roy): Eh! Wh— whoa! Please, keep your distance!!
+69	(Larum): Lord Roy! Your face is bright red — how cute~~~!!!
+70	(Elffin): ...Larum.
+71	(Larum): Ah! Th— that's right! This is serious!!
+72	(Larum): Everyone's been rumoring that there's "someone who isn't human" inside this castle!
+73	(Roy): "Someone who isn't human"?
+74	(Larum): That's right — they say it turns into some creature nobody's ever seen!
+75	(Larum): Some people are saying it might be like the "dragon" from the old legends!
+76	(Roy): !! A person? Turning into a dragon, you mean!?
+77	(Larum): I don't know, but... maybe so.
+78	(Elffin): Let's proceed with caution.
+79	(Flaer): Oh, you've come, Ein.
+80	(Ein): Wass... called... I heard...
+81	(Flaer): I'm going to report to Lord Narcian about the Lycian Alliance's army.
+82	(Flaer): While I'm gone, you defend the castle from those attacking it.
+83	(Ein): ...Understood.
+84	(Flaer): Hm!? Is someone there!?
+85	(Flaer): ...........
+86	(Flaer): Must be my imagination... well then, Ein, I leave it to you.
+87	(Ein): ...Understood.
+88	(Flaer): Kukuku, against this "dragon," even the Lycian Alliance won't be able to do a thing.
+89	(Flaer): After all, it's hard enough to even scratch it with an ordinary weapon.
+90	(Flaer): The "Dark Priestess," was it... His Majesty really has brought along an unfathomable monster.
+91	(Ray): ...So that's the truth behind "someone who isn't human."
+92	(Ray): So it really was true that the Kingdom of Bern revived a "dragon."
+93	(Ray): Sneaking in here was worth it, at least... now then, what should I do from here.
+94	(Ray): For a while, I suppose I'll pose as one of the soldiers here and watch the dragon's power up close.
+95	(Cath): I've co~me, all this way~ to the island at the western edge~
+96	(Cath): a rich mine, a people who suffer, and the governor's office ruling over it all
+97	(Cath): ...given all that, it'd be a crime not to find some treasure here.
+98	(Cath): It's not like the people here worked hard and saved it up themselves, anyway.
+99	(Cath): So I'll just help myself to plenty of it!
+100	(soldier): Word has come that reinforcements will arrive from the south soon!
+101	(Ein): ...........
+102	(soldier): ...Th— that's all. Excuse me.
+103	(soldier): Somehow... that guy's kind of creepy.
+104	(soldier): ...How's that cave coming along?
+105	(soldier): We hired some bandits and sealed off the entrance.
+106	(soldier): That should mean no one can get near the "Divine Weapon" anymore.
+107	(soldier): Good. Now all that's left is finishing off the Lycian Alliance army!
+108	(Chad): Whoa! Ray!? What are you doing here!?
+109	(Ray): That's what I should be asking you.
+110	(Ray): Why are you here? What happened to the orphanage?
+111	(Chad): ...You left without a word, and yet you're worried about it, huh.
+112	(Ray): It's not really that. I just thought of it when I saw your face.
+113	(Chad): ...The orphanage isn't there anymore.
+114	(Ray): What do you mean?
+115	(Chad): When Bern invaded Lycia, it got crushed.
+116	(Chad): The headmistress too... by Bern's soldiers...
+117	(Ray): !? The headmistress...
+118	(Chad): I'm going to avenge the headmistress. I'm stuck on this backwater island for now, but
+119	(Chad): someday I'll go back to the continent, and the day will surely come when I fight Bern.
+120	(Chad): When that day comes, for sure...!
+121	(Ray): ...........
+122	(Chad): Well, a story like this probably doesn't mean much to someone as cold-hearted as you.
+123	(Ray): ...I'll come along with you, too.
+124	(Chad): Eh!? You're serious?
+125	(Ray): Bern's army always has a "dragon" with it. I'm interested in that.
+126	(Chad): ...Fine by me, whatever. Just don't get in my way.
+127	(Lugh): Ray, it really is you! I wanted to see you!!
+128	(Ray): Lugh...! Why are you here?
+129	(Lugh): I'm glad, you look well.
+130	(Lugh): You just suddenly vanished, saying "I'm off to train in magic," so...
+131	(Lugh): everyone was really worried about you.
+132	(Ray): ...Staying at that orphanage, I couldn't learn any decent magic anyway.
+133	(Ray): Well, that I managed to learn any magic at all in a place like that orphanage is practically a miracle.
+134	(Lugh): Ray... the orphanage isn't there anymore...
+135	(Ray): ? What happened?
+136	(Lugh): Bern's army attacked... they set it on fire... that's why.
+137	(Ray): ...Everyone else?
+138	(Lugh): The headmistress... protected us, and...
+139	(Lugh): the little ones are staying at Lycia's Elimine Church now.
+140	(Ray): ...I see, well, that's good then, isn't it — better than that poor orphanage.
+141	(Ray): The Elimine Church will give them a much better life.
+142	(Lugh): You don't... have to put it that way.
+143	(Ray): ...........
+144	(Lugh): Ray! Come with us, won't you!
+145	(Lugh): Let's beat Bern and go bring everyone back!
+146	(Ray): Sorry, but I'm not interested in something like that.
+147	(Lugh): But—!
+148	(Ray): Still... the Lycian Alliance might not be so bad. Seems to have some connection to that "dragon."
+149	(Ray): If you insist that much, I suppose I'll tag along.
+150	(Lugh): Ray...
+151	(Ray): D-don't get the wrong idea!
+152	(Ray): It's got nothing to do with avenging the headmistress or anything like that!!
+153	(Lugh): Right! I understand.
+154	(Ray): So don't look at me like that!
+155	(Roy): Ah, wait a second!
+156	(Cath): Huh? ...What, it's you again?
+157	(Cath): You're always getting in my way — do you have some kind of grudge against me or something?
+158	(Roy): No, it's not that... it's just, well... I wanted to apologize.
+159	(Cath): Huh?
+160	(Roy): Last time, I... without knowing the circumstances, I said something like you were a "horrible person"...
+161	(Cath): Oh, that? I'm not bothered by it, really.
+162	(Roy): But still, I think what you're doing is wrong.
+163	(Cath): You, listen here...
+164	(Roy): So, won't you give me a chance?
+165	(Cath): A chance?
+166	(Roy): Once this war is over, I'll rebuild the land and villages ravaged by it, I promise.
+167	(Roy): To do that, I'll put to good use the crops and money I've been collecting from the people.
+168	(Roy): So, until then...
+169	(Cath): ...Hmph. And when's that supposed to be, exactly?
+170	(Roy): Once this war ends, though I can't say exactly when that'll be,
+171	(Cath): and you expect me to trust that and just wait?
+172	(Roy): Is that no good?
+173	(Cath): Why? Why are you saying this to me?
+174	(Cath): You could just leave me be, you know — someone like me.
+175	(Roy): If it weren't for you, we never would have escaped from that mansion.
+176	(Roy): Whatever your reasons were, you're the one who saved us.
+177	(Roy): I can't just leave someone who saved us be.
+178	(Cath): Good grief, at this rate you'll keep getting in my way wherever I go.
+179	(Roy): As long as you're somewhere along our path.
+180	(Cath): Fine, I get it. I'll stop coming to the battlefield to steal.
+181	(Roy): Really? Thank you, for understanding.
+182	(Cath): In exchange, I'm going to tag along with you all too.
+183	(Roy): Huh?
+184	(Cath): Talk's cheap — anyone can say anything they like.
+185	(Cath): I'll just have to watch closely and see if you can really do what you say.
+186	(Roy): Bring it on!
+187	Buuurn...
+188	Wh... at...
+189	(Roy): So this... is the power of a "dragon"... somehow we managed to beat it, but...
+190	(Elffin): "Someone who isn't human"... I see, so that's what it meant.
+191	(Roy): Bern... revived something like this...
+192	(Roy): ...just how many more "dragons" are out there?
+193	(Roy): Facing monsters like this, how are we even supposed to keep fighting!
+194	(Elffin): Lord Roy! Please, calm yourself.
+195	(Roy): Ah...
+196	(Elffin): ...I understand how you feel.
+197	(Elffin): But if you lose your composure, it will unsettle the whole army.
+198	(Elffin): Please, calm down...
+199	(Roy): ...I'm sorry.
+200	(Elffin): No, after fighting something like that, it's only natural.
+201	(Elffin): But with this, one truth has come to light.
+202	(Roy): A truth...?
+203	(Elffin): Do you remember?
+204	(Elffin): I told you there was a rumor that Arcard, Governor-General of the Western Isles,
+205	(Elffin): was pro-Bern.
+206	(Roy): Ah!!
+207	(Roy): For there to be a "dragon" in this governor's office set up by Etruria...
+208	(Elffin): It seems Arcard really was secretly in league with Bern.
+209	(Roy): Unbelievable...
+210	(Roy): If that's the case, then Lycia might be in danger — in any case, let's return to the continent at once.
+211	(Roy): We need to contact General Cecilia and figure out a countermeasure...
+212	※If you clear the map within 20 turns
+213	(Elffin): Lord Roy, before we return to the continent,
+214	(Elffin): there's something left undone here on this island of Fibernia.
+215	(Roy): Are there still enemies here?
+216	(Elffin): No, that's not it.
+217	(Elffin): A weapon we need in order to fight the "dragons"...
+218	(Elffin): one of the "Divine Weapons" is hidden in a nearby cave.
+219	(Elffin): If we could get our hands on it, the fight against the "dragons" would surely be easier...
+220	(Roy): A "Divine Weapon"... a weapon used by the "Eight Legends" to defeat "dragons."
+221	(Roy): I see! If we gather those, we'll have a chance against Bern!
+222	(Elffin): Yes. There are eight "Divine Weapons" in all...
+223	(Elffin): the more we manage to obtain, the more it will favor us in the fight.
+224	(Roy): All right, let's head to that cave at once!
+225	※If you clear the map on turn 21 or later
+226	(soldier): T— terrible news!! Word has just come from Etruria...
+227	(soldier): There's been a coup d'état in the royal capital, Aquleia!
+228	(Marinus): Wh— what did you say!
+229	(soldier): The masterminds behind the coup are Chancellor Roartz and Arcard, Governor-General of the Western Isles.
+230	(soldier): With those two at its center, the coup faction first captured King Mordred,
+231	(soldier): and has declared that, together with the Kingdom of Bern, they will divide the world between them!
+232	(Marinus): This can't be happening...
+233	(Marinus): So... Etruria and Bern — the continent's two great kingdoms — have joined hands...
+234	(Roy): Lady Cecili— no, General Cecilia, is she safe!?
+235	(Roy): And... what of Princess Guinivere...?
+236	(soldier): We don't know the details, but...
+237	(soldier): Etruria's "Three Generals," who oversee its military affairs,
+238	(soldier): it seems they too have split apart.
+239	(soldier): General Cecilia of the Mage Corps got word beforehand and narrowly escaped the capital,
+240	(soldier): and is said to be heading for the Misur Peninsula at the continent's western edge.
+241	(Roy): And the remaining generals?
+242	(soldier): With the King held hostage, they've sided with the coup faction, it seems.
+243	(Marinus): Lord Roy...
+244	(Roy): In any case, let's get in touch with Cecilia.
+245	(Roy): Cecilia... Princess Guinivere... both of you... please, be safe!

@@ -2355,6 +2355,7 @@
 ムリをする|むりをする|to overdo it, to push oneself
 もちろんだよ|もちろんだ|of course
 もっとも|もっとも|however, that said
+もっとも#most|もっとも|most, extremely (superlative, = 最も)
 ゆかりある|ゆかりある|connected, related
 よかった|よかった|good, glad (past of 良い)
 よくぞ|よくぞ|well done (for managing to)
@@ -3449,3 +3450,119 @@
 おれ|おれ|I, me (rough male, kana variant of オレ)
 悪|あく|evil, wrongdoing
 旅|たび|a journey, a trip
+北西|ほくせい|northwest
+保護領|ほごりょう|a protectorate
+反応|はんのう|a reaction
+気がかり|きがかり|a worry, a concern
+親しい|したしい|close, intimate (of a relationship)
+やっかい|やっかい|troublesome, a nuisance
+感心|かんしん|admiration, being impressed
+こうむる|こうむる|to incur, to suffer (damage, a blow)
+奥の手|おくのて|a trump card, a last resort
+軟弱|なんじゃく|weak, soft, feeble
+格好|かっこう|appearance, shape, form
+整える|ととのえる|to arrange, to prepare
+あだ名|あだな|a nickname
+救世主|きゅうせいしゅ|a savior, a messiah
+真っ赤|まっか|bright red, crimson
+変身|へんしん|a transformation
+端|はし|edge, end
+本気|ほんき|serious, in earnest
+奇跡|きせき|a miracle
+火をかける|ひをかける|to set fire to
+かばう|かばう|to protect, to shield
+貧乏|びんぼう|poverty, poor
+必死|ひっし|frantic, desperate
+不気味|ぶきみ|eerie, creepy
+入り口|いりぐち|entrance
+孤児院|こじいん|orphanage
+仇|かたき|an enemy; a target of revenge
+かたきをとる|かたきをとる|to take revenge, to avenge
+縁|えん|a connection, a bond, a tie (fate-based)
+荒れる|あれる|to become ravaged, to fall into ruin
+立て直す|たてなおす|to rebuild, to restore
+正確|せいかく|accurate, precise
+恨み|うらみ|a grudge, resentment
+調子|ちょうし|condition, how things are going
+脱出|だっしゅつ|escape
+クーデター|クーデター|a coup d'état
+首謀者|しゅぼうしゃ|the ringleader, the mastermind
+両名|りょうめい|both people, the two of them
+宣言|せんげん|a declaration
+軍事|ぐんじ|military affairs
+つかさどる|つかさどる|to be in charge of, to administer
+事前|じぜん|in advance, beforehand
+からくも|からくも|barely, narrowly
+半島|はんとう|a peninsula
+溜める|ためる|to save up, to accumulate
+もぐりこむ|もぐりこむ|to sneak into, to slip into
+甲斐|かい|worth, use, effect
+見物|けんぶつ|watching, looking on (for curiosity/entertainment)
+はるばる|はるばる|all the way, from afar
+口先|くちさき|lip service, empty talk
+行く手|いくて|the path ahead, the way forward
+じっくり|じっくり|carefully, thoroughly, patiently
+なんとでも|なんとでも|(say) anything at all, however one likes
+なんで|なんで|why, what for (colloquial)
+普通|ふつう|normal, ordinary
+かすり傷|かすりきず|a scratch, a minor wound
+計り知れない|はかりしれない|immeasurable, unfathomable
+院長|いんちょう|the director/head of an institution
+先生|せんせい|teacher, mentor (also a respectful term for the head of an institution)
+入れる|いれる|to put in, to let in
+息の根を止める|いきのねをとめる|to finish off, to put an end to
+盾にとる|たてにとる|to use as a hostage/shield, to take advantage of
+分かれる|わかれる|to split, to divide
+少々|しょうしょう|a little, slightly
+フム|フム|hmm (interjection, musing)
+あやつら|あやつら|those guys (rough, archaic)
+どれほど|どれほど|how much, how many
+おしまい|おしまい|the end, finished
+遅い|おそい|slow, late
+注意|ちゅうい|caution, attention
+どうしようもない|どうしようもない|there's nothing that can be done about it
+正体|しょうたい|one's true identity, true form
+なし|なし|there is not (literary, = ない)
+ども|ども|(derogatory plural suffix) those, the likes of
+ふさぐ|ふさぐ|to block, to seal up, to close off
+薄情|はくじょう|cold-hearted, unfeeling
+ロクな|ロクな|decent, proper (usually with a negative)
+教会|きょうかい|church
+いつ|いつ|when
+いっつも|いっつも|always (emphatic, casual variant of いつも)
+この間|このあいだ|the other day, recently
+動揺|どうよう|unrest, agitation, being shaken
+走る|はしる|to run; (figuratively) to spread, to flash through
+明らか|あきらか|clear, obvious, evident
+おられる|おられる|honorific form of いる ("to be"), used respectfully
+なんという|なんという|what a..., such a... (exclamatory)
+こうじる|こうじる|to take (measures), to devise
+楽|らく|easy, comfortable
+用いる|もちいる|to use, to make use of
+勝機|しょうき|a chance of victory
+八つ|やっつ|eight (things)
+二分|にぶん|dividing into two, bisection
+我ら|われら|we, us (formal/archaic)
+うるさい|うるさい|noisy, annoying
+なにかと|なにかと|in various ways, one way or another
+それほど|それほど|that much, to that extent
+おかしな|おかしな|strange, odd
+耳にする|みみにする|to happen to hear
+耳|みみ|ear
+歌う|うたう|to sing
+そのような|そのような|that kind of, such
+今や|いまや|now, at this point (emphatic)
+よみがえる|よみがえる|to revive, to be resurrected
+セリフ|セリフ|a line (of dialogue), words
+そのうち|そのうち|before long, sooner or later
+つきもの|つきもの|something that always accompanies, an inseparable part
+ま|ま|well... (casual filler, short for まあ)
+習う|ならう|to learn, to study (under someone)
+子たち|こたち|children, the little ones
+だめ|だめ|no good, not allowed
+燃える|もえる|to burn
+何体|なんたい|how many (counter for bodies/large creatures)
+怪物|かいぶつ|a monster
+以内|いない|within (a limit)
+やり残す|やりのこす|to leave unfinished
+ウソ|うそ|a lie
