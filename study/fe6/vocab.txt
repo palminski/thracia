@@ -3781,3 +3781,70 @@
 めきめき|めきめき|rapidly, remarkably
 最強|さいきょう|strongest
 遠い昔|とおいむかし|long, long ago
+オアシス|オアシス|oasis
+地帯|ちたい|zone, belt (geographic area)
+砂嵐|すなあらし|sandstorm
+疲れる|つかれる|to get tired
+わがまま|わがまま|selfish, spoiled, willful
+長老|ちょうろう|elder (of a village)
+以前|いぜん|before, previously
+感じる|かんじる|to feel, to sense
+不吉|ふきつ|ominous
+占領|せんりょう|occupation (military), to occupy
+不可能|ふかのう|impossible
+神竜|しんりゅう|Divine Dragon (a dragon of the greatest power)
+飛ばす|とばす|to blow away, to send flying
+足もと|あしもと|at one's feet, underfoot
+迷子|まいご|a lost child, getting lost
+ゴメン|ごめん|sorry, pardon (casual)
+旅人|たびびと|traveler
+追いはぎ|おいはぎ|highway robbery, mugger
+もうかる|もうかる|to be profitable, to make money
+はっきり|はっきり|clearly
+光る|ひかる|to shine, to glow
+指輪|ゆびわ|ring
+運|うん|luck
+あやしい|あやしい|suspicious
+翼|つばさ|wing
+いにしえ|いにしえ|ancient times, the distant past
+守護|しゅご|protection, guardianship
+死角|しかく|blind spot
+刃|は|blade
+死にざま|しにざま|the way one dies
+最期|さいご|one's final moments, one's death
+手強い|てごわい|formidable, tough (opponent)
+こじ開ける|こじあける|to pry open
+祀る|まつる|to enshrine, to worship
+阻止|そし|to block, to prevent
+入りこむ|はいりこむ|to get into, to intrude into
+無礼|ぶれい|rude, impolite
+存知|ぞんじ|to know (humble/polite)
+ぼんやり|ぼんやり|vaguely, absent-mindedly
+ゆがめる|ゆがめる|to distort, to warp
+同行|どうこう|accompanying, going together
+本音|ほんね|one's true feelings, intentions
+腕|うで|arm; skill
+自信|じしん|confidence
+際|さい|occasion, time (〜の際 "on the occasion of, when")
+成体|せいたい|adult form (of a creature)
+血|ち|blood
+民家|みんか|private house
+引く#inherit|ひく|to inherit, to carry (a trait or blood)
+何度|なんど|how many times
+よろしくお願いします|よろしくおねがいします|please treat me well, nice to be working with you
+立ちふさがる|たちふさがる|to stand in the way, to block
+ボーッと|ぼーっと|absent-mindedly, zoning out
+参る#humble|まいる|to come, to go (humble)
+つかまえる|つかまえる|to catch, to capture
+ときどき|ときどき|sometimes, occasionally
+天駆ける|てんかける|to soar through the sky
+痛い|いたい|painful, it hurts
+わたる|わたる|to pass into (someone's hands), to cross over
+もしくは|もしくは|or, otherwise
+純粋|じゅんすい|pure, genuine
+いいもん|いいもん|fine then, I don't care (pouty/defiant tone)
+おいぼれ|おいぼれ|a senile old fool, an old fogey
+ほど遠い|ほどとおい|far from, a long way from
+おまえさんがた|おまえさんがた|you all, you folks (addressing a group, slightly old-fashioned)
+関わる|かかわる|to be involved with, to have to do with
+なんじゃ|なんじゃ|what (old-fashioned exclamation)

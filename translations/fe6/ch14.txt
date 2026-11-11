@@ -1,0 +1,150 @@
+1	Having successfully rescued Cecilia and Princess Guinivere, Roy
+2	was guided by Sophia, who claimed to be a shrine maiden of the "Village of Nabata,"
+3	and headed for the Nabata Desert, in the center of the Mithel Peninsula.
+4	According to Sophia, the "Village of Nabata" lay in an oasis region within the desert,
+5	and was now under attack by the Bern army, she said.
+6	Bern's target may be the "dragon" that lives there...
+7	As they hurried toward the village, Roy and the others found a great wall in their path: a sandstorm.
+8	Come on! Hurry, Fae.
+9	If we get to the back of the temple, there'll be somewhere to hide.
+10	Can you run that far?
+11	Ehh... Fae's tired...
+12	Don't be difficult. Come on, before Bern's soldiers get here...
+13	What about big sister Sophia?
+14	I don't know. She may have been caught by the Bernese soldiers...
+15	Hey, if I get caught by Bern, will I get to go to the outside world?
+16	Absolutely not.
+17	Didn't the elder also say we mustn't mix with the outside?
+18	Bleh... booo-ring...
+19	...Still, how in the world
+20	did Bern find out about this "Village of Nabata"?
+21	A while ago, Sophia was saying something
+22	about an ominous "power" she felt from the Bern army...
+23	...I wonder if there's some connection to that...
+24	What's wrong? You're zoning out.
+25	Oh! This isn't the time to be thinking about that.
+26	Fae, this way, hurry!
+27	I wanna see... the outside world...
+28	Zeiss! Is General Narcian still not here?
+29	Yes sir. The mercenaries and the "dragon" have arrived as reinforcements,
+30	but General Narcian's unit still hasn't shown up.
+31	Damn it, what in the world is he doing!
+32	With just the forces we have now, occupying this entire village is impossible, and yet...
+33	......
+34	For now, I must at least
+35	report to His Majesty about the "dragon" said to be in this village...
+36	Zeiss, you head to Aquleia, the royal capital of Etruria.
+37	His Majesty should be passing through there right about now.
+38	What should I report?
+39	...There appears to be something like a "dragon" in this village as well.
+40	According to the one we captured, it's a "dragon" called the "Divine Dragon."
+41	And a "Divine Dragon," among dragons, is said to be the "dragon" with the greatest power... That's all.
+42	Yes sir. I'll go at once.
+43	Hurry.
+44	What a terrible sandstorm.
+45	Yes... This sandstorm
+46	has protected our village... from the outside... all this time...
+47	I see. With this, it doesn't seem like we'll be found.
+48	So, which way should we go?
+49	Yes... Straight ahead like this... to the northeast...
+50	Only...
+51	Only what?
+52	Because of the sandstorm... all sorts of things blown into the desert... may have fallen here...
+53	Please watch your step...
+54	Earlier, someone passed by heading into the depths of the desert, didn't they, Maggie?
+55	Yeah, they did, Rose.
+56	So it really is true that there's a hidden village deep in here, huh, Maggie.
+57	Yeah, that's right, Rose.
+58	But I really don't want to get lost in the sandstorm, you know, Maggie.
+59	If that happens, we won't be able to get back, huh.
+60	So, should we just give up on the hidden village after all, Maggie?
+61	But they say there's treasure in there like nothing we've ever seen, Rose.
+62	That, I definitely want to get my hands on.
+63	It'd make a lot more money than robbing desert travelers, wouldn't it, Rose.
+64	But I really don't want to get lost, Maggie.
+65	How about this: we follow behind the people who passed through here, Rose?
+66	That's a great idea.
+67	So, we just finish those people off later, right, Maggie?
+68	That's the idea.
+69	All right, let's go, Maggie.
+70	Yeah, let's go, Rose.
+71	The sandstorm has died down...
+72	This is our chance, Lord Roy. We can clearly see where the village is!
+73	But the same goes for the enemy. Let's hurry, in any case!
+74	Ah... something's... shining...
+75	Oh my... what a beautiful ring...
+76	Sometimes you find strange things buried in the desert.
+77	If you're really lucky, you might find something, you know.
+78	Why don't you try looking somewhere that seems suspicious?
+79	Do you know the story of Delphi, the "Winged God"?
+80	It's a god believed since ancient times to protect all who soar through the sky.
+81	They say that with its protection, there's no danger in flying through the sky on a pegasus or wyvern...
+82	...Huh? Guess that didn't work out, Rose?
+83	...Huh? That really hurt, Maggie.
+84	There's no blind spot in my blade. Light, or steel...
+85	Choose. Choose how you're going to die.
+86	Impressive...
+87	At the end... I got to fight a strong one like you...
+88	...If Sophia survives and the village is taken within 25 turns
+89	That was a tough opponent... but with that, we should be fine now.
+90	Sophia, where are the people of the village...
+91	What's wrong?
+92	Lord Roy... the entrance to the temple...
+93	This door... it's been forced open.
+94	I take it this leads to the temple deeper inside — is something enshrined there?
+95	...Something called a "Divine Weapon"... a tome is... inside...
+96	A "Divine Weapon," you say!? There was one here in this village too?
+97	...The reason Bern attacked here...
+98	could it be that their goal was to steal a "Divine Weapon"!?
+99	If that's so... are we too late!?
+100	But... it's still... inside... the "Divine Weapon" is...
+101	What? How do you know?
+102	...Its "power"... I can still... feel... the "power" of the "Divine Weapon"...
+103	I see!
+104	If it's now, we might still be able to stop it from falling into Bern's hands!
+105	Let's hurry!
+106	...If Sophia has died or the village is taken from turn 26 onward
+107	Hm? And who might you be, young ones?
+108	How did you get in here!
+109	My name is Roy.
+110	I came here with Sophia to protect this village.
+111	With Sophia, you say...
+112	So that's how it was. So it was you all who drove off the Bernese soldiers.
+113	That was a rude thing of me to say. I am the elder of this "Village of Nabata."
+114	Elder... then, could it be, perhaps, that you are the "dragon"?
+115	...A "dragon," is it. There was a time I was called that, yes...
+116	But that's a story from long, long ago. Now I'm nothing more than an old fool.
+117	......
+118	That's right. The only one in this village who can purely be called a "dragon" now is this child, Fae.
+119	Ehehe...
+120	What! This girl is a "dragon"...
+121	Though she's still a long way from being fully grown.
+122	...Elder, you wouldn't happen to know anything about the "dragon" in Bern, would you?
+123	What did you say!? There's a "dragon" in Bern?
+124	Yes, we've already seen it ourselves, several times.
+125	Why would that be... "Dragons" shouldn't exist anywhere but in this village now...
+126	Elder, might I have a moment?
+127	What is it, Igrene?
+128	Some time ago, Sophia was speaking of an ominous "power" she sensed from Bern.
+129	...Might there be some connection to that?
+130	...Perhaps so.
+131	But... I no longer have the power left to sense such things.
+132	What do you mean by an ominous "power"?
+133	Perhaps because she carries half the blood of a "dragon," Sophia has a strange power.
+134	However, she only senses something vaguely,
+135	and says she can only tell that what's in Bern is also a "power" that has been unnaturally distorted.
+136	I think it should be confirmed.
+137	Would it be all right if I accompanied them and looked into Bern myself?
+138	...It's not that I want anything to do with the outside, truth be told... but it can't be helped.
+139	Lord Roy, would that be all right?
+140	Yes, of course.
+141	I am Igrene, one who protects this village.
+142	I have confidence in my skill with a bow, so I believe I can be of help in battle as well.
+143	That's reassuring. I look forward to working with you.
+144	Fae wants to go too!
+145	What are you saying, you can't.
+146	If the outside world found out you existed, who knows what would happen!
+147	Mmm...
+148	Well then, shall we go?
+149	Yes.
+150	...Fine. I'll just follow along secretly.

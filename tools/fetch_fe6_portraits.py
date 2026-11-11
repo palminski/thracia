@@ -39,6 +39,8 @@ NAMES = {
     "バアトル": "bartre", "アルカルド": "arcardo",
     "フレアー": "flaer", "アイン": "ein", "レイ": "raigh",
     "ゲレロ": "guerrero", "ソフィーヤ": "sophia",
+    "ファ": "fae", "イグレーヌ": "igrene", "ランディ": "randy", "ツァイス": "zeiss",
+    "ローズ": "rose", "マギー": "maggie",
 }
 
 
