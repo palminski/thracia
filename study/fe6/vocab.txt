@@ -3599,3 +3599,185 @@
 とも|とも|both, all (suffix after a count)
 付く|つく|to attach; to side with, to take (a position)
 とする|とする|to suppose, to assume (that)
+全土|ぜんど|the whole country, all the land
+飛び火|とびひ|a spark spreading elsewhere (fig. a problem spreading)
+さらに|さらに|furthermore, moreover
+転戦|てんせん|fighting in various places, campaigning
+後ろだて|うしろだて|backing, support
+勢い|いきおい|momentum, force
+抑える|おさえる|to hold back, to restrain
+押す|おす|to push
+はじめる|はじめる|to begin
+西端|せいたん|western edge
+追いこむ|おいこむ|to drive into, to corner
+居場所|いばしょ|whereabouts, where one is
+さがしあてる|さがしあてる|to locate, to find after searching
+救出|きゅうしゅつ|rescue
+頃|ころ|around (a time), about
+立てこもる|たてこもる|to barricade oneself in
+連合|れんごう|coalition, alliance
+働き|はたらき|effort, work, function
+善戦|ぜんせん|fighting well, putting up a good fight
+予想|よそう|expectation, prediction
+手こずる|てこずる|to have trouble with, to be unable to manage
+がんばる|がんばる|to try one's best, to persevere
+早急|そうきゅう|urgent, prompt
+攻略|こうりゃく|conquest, capture (of a stronghold)
+自ら|みずから|oneself, personally
+座興|ざきょう|amusement, entertainment (for fun)
+状況|じょうきょう|situation, circumstances
+ぶり|ぶり|manner of, style of (suffix, e.g. 戦いぶり)
+免じる|めんじる|to excuse, to pardon in consideration of something
+たわいない|たわいない|insignificant, trifling
+思い知る|おもいしる|to come to realize keenly
+取り決め|とりきめ|arrangement, agreement
+嫉妬|しっと|jealousy
+羨望|せんぼう|envy
+権力欲|けんりょくよく|lust for power
+絶える|たえる|to cease, to come to an end
+血で血を洗う|ちでちをあらう|an escalating cycle of violence (lit. washing blood with blood)
+変化|へんか|change
+犠牲|ぎせい|sacrifice
+肉親|にくしん|blood relative
+大目に見る|おおめにみる|to overlook, to go easy on
+二度|にど|twice, a second time
+親衛隊長|しんえいたいちょう|captain of the personal guard
+送り返す|おくりかえす|to send back
+飲みこむ|のみこむ|to swallow, to engulf
+理屈|りくつ|logic, reasoning
+支配|しはい|control, domination
+行きつく先|いきつくさき|where something ends up, the destination it leads to
+恨む|うらむ|to resent, to bear a grudge
+立場|たちば|position, standpoint
+忠誠|ちゅうせい|loyalty, allegiance
+変わりはない|かわりはない|there is no change
+騎士道|きしどう|chivalry, the code of knighthood
+反する|はんする|to go against, to be contrary to
+お見知りおき|おみしりおき|(polite) please remember me, pleased to make your acquaintance
+貸し与える|かしあたえる|to lend
+一部|いちぶ|a part, a portion
+砂漠|さばく|desert
+中心部|ちゅうしんぶ|the central area
+送り込む|おくりこむ|to send in, to dispatch
+否めない|いなめない|undeniable
+さし向ける|さしむける|to dispatch, to send
+かしこまる|かしこまる|to obey respectfully, understood (humble)
+すぐさま|すぐさま|immediately, at once
+傷|きず|wound, injury
+こう|こう|like this, in this way
+あたたかい|あたたかい|warm
+救い|すくい|salvation, help
+訪れ|おとずれ|arrival, visit
+および|および|and, as well as
+引く|ひく|to pull back, to withdraw
+侮辱|ぶじょく|insult
+貸す|かす|to lend
+いわれ|いわれ|reason, grounds
+謀る|はかる|to plot, to plan
+すみやか|すみやか|prompt, swift
+撤退|てったい|retreat, withdrawal
+生き延びる|いきのびる|to survive
+上官|じょうかん|superior officer
+一筋縄ではいかない|ひとすじなわではいかない|won't go so simply, won't be easy
+練る|ねる|to work out, to polish (a plan)
+打撃|だげき|blow, damage
+削る|けずる|to shave off, to reduce
+捨て石|すていし|sacrificial pawn, stepping stone
+乗っ取り|のっとり|takeover, hijacking
+時点|じてん|point in time
+むしろ|むしろ|rather, if anything
+処刑|しょけい|execution
+落馬|らくば|falling from a horse
+事故|じこ|accident
+馬上|ばじょう|on horseback
+毒矢|どくや|poisoned arrow
+射る|いる|to shoot (an arrow)
+いち早く|いちはやく|promptly, immediately
+棺|ひつぎ|coffin
+死体|したい|corpse
+思惑|おもわく|intention, scheme
+見せかける|みせかける|to make it look like, to feign
+作用|さよう|action, effect
+高熱|こうねつ|high fever
+生死の境|せいしのさかい|the border between life and death
+さまよう|さまよう|to wander
+抱える|かかえる|to hold, to carry (a burden)
+絶望|ぜつぼう|despair
+皮肉|ひにく|irony
+憎い|にくい|hateful, detestable
+もと|もと|under (someone's care or authority)
+非道|ひどう|inhumane, cruel
+数々|かずかず|numerous, various
+恥じる|はじる|to be ashamed
+活動|かつどう|activity
+好機|こうき|good opportunity
+ささげる|ささげる|to dedicate, to offer
+見かける|みかける|to catch sight of, to happen to see
+紋章|もんしょう|crest, emblem
+筆跡|ひっせき|handwriting
+斬る|きる|to cut down (with a blade)
+勧める|すすめる|to recommend
+使いこなす|つかいこなす|to master, to make full use of
+すてき|すてき|lovely, wonderful
+意地|いじ|will, pride, spirit
+いくら|いくら|however much, no matter how many
+みっともない|みっともない|unseemly, improper
+予言|よげん|prophecy, prediction
+交わる|まじわる|to associate with, to interact
+手をたずさえる|てをたずさえる|to join hands, to cooperate
+別命|べつめい|separate orders
+待機|たいき|standby, waiting
+備える|そなえる|to prepare for
+城中|じょうちゅう|within the castle
+大軍将|だいぐんしょう|Great General (a military rank specific to this game)
+隠れ里|かくれざと|a hidden village
+勅命|ちょくめい|imperial decree
+気を失う|きをうしなう|to faint, to lose consciousness
+話が違う|はなしがちがう|that's not what was agreed, that's a different story
+時間の問題|じかんのもんだい|a matter of time
+ありえない|ありえない|impossible, can't be
+まず間違いない|まずまちがいない|almost certainly, no mistake about it
+逃げおくれる|にげおくれる|to be too slow to escape, to fail to escape in time
+暴れ出す|あばれだす|to start thrashing, to start rampaging
+もしかしたら|もしかしたら|perhaps, possibly
+たちまち|たちまち|instantly, in no time
+着く|つく|to arrive
+あげる|あげる|to give
+次第に|しだいに|gradually, little by little
+後にする|あとにする|to leave, to depart from
+ここにきて|ここにきて|at this point, now that things have come to this
+またしても|またしても|yet again
+構う|かまう|to mind, to care
+お見事|おみごと|splendid, well done
+程度|ていど|degree, extent
+預ける|あずける|to entrust, to leave in someone's care
+国内|こくない|domestic, within the country
+久しい|ひさしい|a long time (since)
+平和|へいわ|peace
+過ごす|すごす|to spend (time)
+罪のない|つみのない|innocent, guiltless
+一言|ひとこと|a word, one word
+口車|くちぐるま|sweet talk, smooth words used to deceive
+以来|いらい|since, ever since
+光|ひかり|light
+里|さと|village
+行為|こうい|act, deed
+本来なら|ほんらいなら|normally, originally (if things had gone as planned)
+失敗|しっぱい|failure
+見忘れる|みわすれる|to forget having seen, to fail to recognize
+無理はない|むりはない|no wonder, it's not unreasonable
+年|ねん|year (counter)
+暗殺者|あんさつしゃ|assassin
+養い子|やしないご|foster child
+毒|どく|poison
+少しずつ|すこしずつ|little by little
+同時に|どうじに|at the same time
+愚か|おろか|foolish
+ショック|ショック|shock
+お使い|おつかい|errand, message
+恐れ入る|おそれいる|to be very grateful or impressed, to feel humbled
+びしっと|びしっと|decisively, sharply
+リング|リング|ring
+めきめき|めきめき|rapidly, remarkably
+最強|さいきょう|strongest
+遠い昔|とおいむかし|long, long ago

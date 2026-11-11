@@ -1,0 +1,335 @@
+1	The coup d'état that occurred in the royal capital Aquleia instantly spread like wildfire across all of Etruria.
+2	Cecilia, accompanying Princess Guinivere, escaped from the royal capital Aquleia.
+3	She went on to organize the anti-coup faction and fought battles across the land.
+4	But the coup faction, backed by the kingdom of Bern, held strong momentum.
+5	Furthermore, by the "royal decree" of King Mordred, whom they held in their grasp,
+6	two of the Three Generals—Douglas, the "Great General," and Perceval, the "Knight General"—
+7	had also sided with the coup,
+8	and the anti-coup faction gradually began to be pushed back.
+9	Eventually, they were driven into an old castle at the western edge of the Missur Peninsula.
+10	Roy and the Lycian League army, having somehow managed to locate Cecilia and the others,
+11	left the Western Isles to rescue them and headed for the Missur Peninsula.
+12	Around that time, the anti-coup faction was holed up in the old castle,
+13	under attack from the combined forces of Bern and Etruria.
+14	Thanks to Cecilia's efforts, the anti-coup faction had continued to fight well, but
+15	by this point, their defeat was only a matter of time...
+16	Can you still not take the castle!?
+17	Y-yes... General Cecilia's resistance is stronger than we expected...
+18	That insolent woman... getting in my way again...!
+19	You seem to be having trouble, Narcian.
+20	......
+21	Y-your Majesty! When did you arrive...
+22	I just arrived a moment ago.
+23	It seems the Etrurian general is putting up quite a fight.
+24	Y-yes... I will take the castle swiftly...
+25	No need. I shall deal with her myself.
+26	Your Majesty, you needn't fight this yourself...
+27	It's fine. This will be good sport.
+28	Narcian, show me the way.
+29	What's the situation?
+30	It seems the castle hasn't fallen yet.
+31	I see! In any case, let's hurry!
+32	So, you're the "Mage General," Cecilia?
+33	...King Zephiel of Bern.
+34	In light of how you've fought, I shall face you myself.
+35	......
+36	Ngh!!
+37	T-too strong...
+38	Did she faint? Hmph. How unimpressive.
+39	As expected of Your Majesty. Magnificent.
+40	So this is all an Etrurian general amounts to.
+41	Your Majesty, if it pleases you, might you leave this woman in my care?
+42	Hm?
+43	I bear this woman a bit of a grudge, and I'd like to make her thoroughly understand it...
+44	Hmph. Very well, do as you like.
+45	Much obliged. Hey, prepare the castle's dungeon for use.
+46	Yes, sir!
+47	The Bern army attacked the castle?
+48	Yes, sir.
+49	...That's not what we agreed.
+50	The arrangement was that we would handle Etruria's internal affairs ourselves.
+51	What should we do?
+52	...Was it General Narcian who commanded the attack on the castle?
+53	No, it's said to be King Zephiel himself.
+54	What? The king himself...
+55	In other words, Bern
+56	never intended to leave this to us in the first place.
+57	We will not move for the time being. Tell everyone so.
+58	Yes, sir!
+59	......
+60	Is it true that the castle has fallen?
+61	Yes... it seems we didn't make it in time.
+62	What happened to Cecilia?
+63	No word has come that she's been slain... but most likely—
+64	No, as long as there's a chance, I won't give up!
+65	Let's hurry to the castle!!
+66	Your Majesty! We've found Princess Guinivere.
+67	...I'll see her. Bring her here.
+68	Brother...
+69	Guinivere. It's been a while.
+70	Brother, why are you doing something like this...
+71	...dragging people who are living in peace into a war...
+72	"Living in peace," you say? Hmph.
+73	Jealousy, envy, the thirst for power...
+74	In every nation, aren't people forever fighting over such petty things?
+75	Even if it washes blood with blood,
+76	can you call it peace just because it isn't outright war?
+77	T-that is...
+78	The world must be "liberated" from such petty things.
+79	My war is a war fought for that very purpose.
+80	But because of that, innocent people...
+81	Sacrifice is inevitable with change.
+82	That's not something limited to this matter alone.
+83	B-brother...
+84	Guinivere, you are my sister. My only living blood relative.
+85	Therefore, I will overlook this, just this once.
+86	But I will not forgive a second time. Understood? Remember that!
+87	......
+88	Narcian! There's the captain of Guinivere's personal guard in this army, isn't there?
+89	Yes, a dragon knight named Melady.
+90	Order her to send Guinivere back to the Bernese homeland.
+91	And see that the "Fire Emblem" is returned to the "Shrine of Seals."
+92	Yes, sir.
+93	Brother...
+94	Melady...
+95	Lady Guinivere, I'm relieved more than anything that you're safe.
+96	Now then, let us head to Bern on my wyvern.
+97	...Lady Guinivere?
+98	Melady!
+99	W-what are you doing!? It's dangerous for you to hold a sword!
+100	Melady, please—let me go!
+101	!!
+102	If... if I were to let you go, what would you do from here?
+103	...I hear that Lord Roy of the Lycian League army has come nearby...
+104	What!? Are you saying you'd run to the enemy!?
+105	If things continue like this, the world...
+106	will be swallowed up by Bern... by my brother's army.
+107	No matter what reasoning he gives it, what my brother is doing now is rule by force.
+108	That something like that could lead anywhere good...
+109	I simply cannot believe it.
+110	......
+111	Please, Melady. Let me go... let me escape from here.
+112	...Just one thing.
+113	?
+114	There's one thing, just one, for which I resent you, Lady Guinivere.
+115	When you left Bern before, why didn't you consult with me, even just a word...
+116	T-that was out of consideration for your position, Melady...
+117	Did you think my loyalty to you was that shallow, Lady Guinivere?
+118	Before I am a knight of Bern, I am a knight of Princess Guinivere, the king's sister.
+119	That hasn't changed since the day I swore my knight's oath.
+120	Melady...
+121	So instead of pleading with me, if you'd simply commanded me, "let me escape from here,"
+122	I would gladly obey your order, Lady Guinivere.
+123	Melady, thank you...
+124	Please stop attacking! I'm not an enemy!
+125	What, not an enemy? Everyone, hold your attacks!
+126	L-Lord Roy, don't be taken in by the enemy's words...
+127	She might be an enemy envoy. Striking down an envoy would go against chivalry, wouldn't it?
+128	......
+129	Are you Lord Roy?
+130	...I am, but who are you?
+131	Lord Roy!
+132	P-Princess Guinivere, you're safe!
+133	Yes... with this woman's help, I managed to escape.
+134	I am called Melady. Please remember the name.
+135	Lord Roy, General Cecilia is alive.
+136	R-really?
+137	Yes. She suffered a deep wound, but she's now in the castle's dungeon...
+138	Understood. The details can wait... we need to hurry and rescue Cecilia!
+139	Are the preparations finished?
+140	Yes. Should you but give the order, the "dragons" are ready at any time...
+141	Narcian.
+142	I will lend you some of the "dragons."
+143	Send part of the army toward the "Nabata Desert."
+144	The "Nabata Desert"... that would be the region at the center of this peninsula, correct?
+145	That's right. It seems there's a "hidden village" there, dating back to the Scouring.
+146	Oh... then a "divine weapon" would be there as well...
+147	It's safe to assume so, almost certainly.
+148	It's of no use to us, but it would be troublesome if it fell into enemy hands.
+149	The unit I sent ahead has already begun its attack, but a shortage of forces is undeniable.
+150	Then I shall dispatch the "dragons" along with the mercenaries at once.
+151	Indeed.
+152	I'll leave with you a girl captured in the "Nabata Desert."
+153	She's apparently a shaman living in the "hidden village" I mentioned. Get the details out of her.
+154	Understood. It's merely one "hidden village,"
+155	so I, Narcian, shall bring it down at once.
+156	...I'll remember those words.
+157	Yes, sir!
+158	Ngh... mmm... where am I... ugh
+159	Ah... your body is still... please don't move...
+160	Did you tend to this wound?
+161	...Yes... I'm not used to it, so I'm afraid I couldn't do it very well...
+162	No, you saved me. Thank you.
+163	More importantly, we need to escape from here quickly... ngh
+164	Ah... please don't move... your wound...
+165	We can't just stay like this...
+166	It's all right... the warm "light" that will save you... it's coming soon...
+167	Light?
+168	Yes... that "light" will be my salvation too...
+169	Let us wait... for the light's arrival...
+170	Just who... are you?
+171	I am... Sophia... the shrine maiden of... "Nabata Village"...
+172	What is this "Nabata Village"?
+173	Later... I'll tell you... in detail. For now... please... trust me...
+174	Did you call for me, Lord Perceval?
+175	We're withdrawing our troops from here.
+176	Huh? Are you certain?
+177	The action Bern took is clearly an insult to us.
+178	There's no reason for us to lend Bern any more of our strength.
+179	We'll return to the capital, Aquleia, once and discuss what comes next with Lord Douglas.
+180	Retreat at once!
+181	Yes, sir!
+182	Lord Narcian! They've appeared!
+183	T-the Lycian League army!!
+184	The Lycian League army, you say?
+185	Flaer! Didn't we finish them off at the Jutou governor's office!?
+186	Yes! N-no, well, we left the "dragon" behind, so—
+187	I can't believe... they survived...
+188	What did you say!?
+189	Then what of my position, as your superior officer!?
+190	If we can't finish off the Lycian League army as things stand, my competence itself will be doubted...
+191	I must do something about this somehow... still, to think they even brought down that "dragon"—
+192	...it seems they won't be dealt with so easily after all.
+193	L-Lord Narcian, what on earth should we... do...
+194	It can't be helped... Flaer.
+195	I will return to the Etrurian capital once, and work out a countermeasure against them there.
+196	You will remain here.
+197	What! M-me... alone?
+198	I won't say you need to defeat them. Just inflict as much damage as you can, and whittle down their forces.
+199	Lord Narcian! Are you... are you intending to make me a sacrifice!?
+200	Flaer... normally,
+201	the moment you failed to seize the Western Isles, your life would have been forfeit.
+202	I'm giving you a chance to make up for that failure.
+203	If anything, I'd like some gratitude. Heh heh heh...
+204	B-but...
+205	Or would you rather be executed by my own hand, right here, right now?
+206	I... understand...
+207	Well then, I'm counting on you. Heh heh heh...
+208	Perceval. It's been a while.
+209	...You're... it can't be...
+210	Have you forgotten my face?
+211	No, that's impossible. The prince... passed away.
+212	...It's only natural that you can't believe it.
+213	After all, here I stand, when I should be dead.
+214	Prince Mildain!
+215	You were alive...? Truly...
+216	I've caused you worry for a long time.
+217	...It's been over a year since the time I was assassinated, hasn't it?
+218	Assassinated!? You... it was a fall from your horse...
+219	No, I was struck by a poisoned arrow while on horseback.
+220	First the horse was struck... and then, as I fell from the horse that had bolted, once more—
+221	Good heavens...
+222	Douglas realized what had happened immediately and had me declared dead as I was.
+223	A different body was placed in the coffin,
+224	and he made it appear as though everything had gone exactly as the assassins intended.
+225	Then he entrusted me to his foster child, who got me safely away to the Western Isles...
+226	Lord Douglas...
+227	Even after arriving in the west,
+228	the poison's effects kept me in high fever, and for a long time I wandered the border between life and death.
+229	Douglas's foster child, caring for me in that state,
+230	apparently despaired many times, thinking I could no longer be saved.
+231	......
+232	The ones who saved me there were the resistance fighters of that land.
+233	It's ironic—without knowing it,
+234	they had gone and saved the very prince of Etruria they so despised...
+235	......
+236	Under their care, little by little, I recovered.
+237	And at the same time, what gradually came into view was
+238	the countless, egregious acts of cruelty committed by Etrurian nobles in the west...
+239	I was ashamed of my foolish former self, who had only ever had eyes for the homeland.
+240	My prince...
+241	While helping the resistance's activities on the island, I waited for a chance to return to my homeland.
+242	And then... I met Lord Roy,
+243	and seized that opportunity—at last... at last, I've made it back this far.
+244	My prince... I'm so glad you returned alive.
+245	For now, I'll keep my true identity hidden, but I'm with the Lycian League army.
+246	If you would pledge to me the same loyalty as before, unchanged...
+247	Please, give me your command.
+248	The only lord to whom I've dedicated my sword is you, and you alone, Prince Mildain.
+249	Lord Perceval~! It is you, right~?
+250	Oh good, I've been looking for you~. See, I'm—
+251	Wah, hey! Wait a second!! Stop your horse and listen to me!
+252	...Who are you?
+253	I'm shocked... we've met a few times before!
+254	...I feel like I've seen you at Lord Douglas's mansion.
+255	Yes! That's it, that's it! See, you do know me after all!
+256	The girl I met there was a bit more... ordinary.
+257	What? What's that supposed to mean!?
+258	Well, never mind. More importantly—
+259	I'm Larum! I've come as a messenger for Prince Mildain.
+260	Prince Mildain... you say?
+261	Don't talk nonsense. The prince died in an accident a year ago.
+262	Hee hee hee...
+263	Ta-dah! Can't you see this crest!?
+264	...That's... the prince's...!
+265	Heh. Looks like you're impressed.
+266	Now look at this letter too! The prince said it's for you, Lord Perceval!
+267	...... ...... ......
+268	This is... indeed the prince's handwriting.
+269	I see... so he really was alive... then there's no more room for hesitation!
+270	If the prince is with the Lycian League, then there is only one path for me to take.
+271	Huh? Already?
+272	Mmm... and I had more stuff prepared too~
+273	I was planning to say something cool, like "If you'll still fight, then cut me down instead!"~
+274	I brought this along, thinking you all could make use of it.
+275	If you use this ring, your build improves remarkably.
+276	...though I wouldn't really recommend it for women...
+277	Ah, this sword?
+278	I got it to protect myself when I heard the army was attacking, but
+279	it seems I just can't handle it.
+280	It's a pretty good sword, isn't it?
+281	I hear it belonged to some spirited boy who was fighting against Bern, just like you all.
+282	I'll give it to you, so please end this war quickly.
+283	Lady Cecilia, Lord Perceval, and Lord Douglas!
+284	These three are Etruria's strongest, the Three Generals.
+285	They wouldn't lose even to Bern's Three Dragon Generals... never.
+286	Lady Cecilia, in just a single blow...
+287	That... that was...
+288	That was King Zephiel of Bern...
+289	They say that Lord Perceval, the "Knight General,"
+290	is even now still pledging his loyalty to the late Prince Mildain.
+291	Isn't that lovely~
+292	Ngh, damn it... but still!
+293	I, too, am a wyvern knight of Bern—I'll show you my resolve!!
+294	Ngh... remember this—there are plenty of generals greater than me.
+295	Bern's army, the strongest on the continent, will not let you live...
+296	Cecilia!
+297	Roy... I showed you quite an unseemly sight, didn't I.
+298	What are you saying! I'm just truly glad you're safe.
+299	But that wound... are you all right?
+300	Yes, because this girl here tended to it for me.
+301	...And you are?
+302	I am called... Sophia... I'm the shrine maiden of... "Nabata Village"...
+303	She foretold that you would come, Roy.
+304	Come to think of it, she said she'd tell us the details...
+305	Yes... our village... ...is located to the east, in the Nabata Desert...
+306	There, we have... as much as possible... tried not to associate with the outside world...
+307	But... the kingdom of Bern... came to know of us...
+308	And they attacked?
+309	Yes... I was too slow to escape...
+310	I see... but why would Bern go after your village?
+311	I don't know...
+312	But perhaps... they learned of the "dragon" that lives in our village...
+313	A "dragon," you say!?
+314	Yes... long, long ago, our village...
+315	was founded by "dragons" and "humans" joining hands together...
+316	...Something like that exists...
+317	...Lord Roy... I beg you...
+318	Please... save our village...
+319	But to be told that all of a sudden... it's rather hard to believe, you know.
+320	......
+321	...Either way,
+322	it's a fact that her village is being attacked by Bern, isn't it?
+323	Then let's go help them. We owe her a debt too, for saving Cecilia.
+324	...Thank you.
+325	So, if it's all right with you,
+326	could you tell us more about "Nabata Village" and the "dragons"?
+327	...If it's something I know... I'd be glad to...
+328	[Only triggers if every member of the NPC Knight General squad is still alive]
+329	General Perceval.
+330	Until further orders, we will remain stationed at this castle, prepared for an attack by the coup faction.
+331	I'm counting on you.
+332	This is a treasure we found within the castle. Please accept it.
+333	Then, General... Etruria... we leave it in your hands, please.
+334	I understand. Leave it to me.
+335	Yes, sir!

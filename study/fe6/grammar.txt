@@ -204,3 +204,4 @@ yori|〜より|Comparison: "more than...".|https://bunpro.jp/grammar_points/%E3%
 wakeganai|〜わけがない|"There's no way that...": a strong denial of possibility.|
 kotoninaru|〜ことになる|"It turns out that...; it has been decided that...".|
 tonokoto|〜とのことです|"I hear that...; I understand that...": reporting secondhand information.|
+gozaimasu|〜ございます|Very polite/formal copula or existence verb, the polite equivalent of です／あります.|

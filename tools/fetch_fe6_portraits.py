@@ -38,7 +38,7 @@ NAMES = {
     "ティト": "thea",
     "バアトル": "bartre", "アルカルド": "arcardo",
     "フレアー": "flaer", "アイン": "ein", "レイ": "raigh",
-    "ゲレロ": "guerrero",
+    "ゲレロ": "guerrero", "ソフィーヤ": "sophia",
 }
 
 
