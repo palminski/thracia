@@ -206,3 +206,6 @@ kotoninaru|〜ことになる|"It turns out that...; it has been decided that...
 tonokoto|〜とのことです|"I hear that...; I understand that...": reporting secondhand information.|
 gozaimasu|〜ございます|Very polite/formal copula or existence verb, the polite equivalent of です／あります.|
 tearu|〜てある|Resultant state: something has been done (and stays set up that way) — distinct from てある's close cousin ておく ("to do in advance").|
+sae|〜さえ|"even ~"; with a negative, "as long as ~ (doesn't happen)" — often paired with 〜なければ.|https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88
+tote|〜とて|Classical/literary "even ~, although ~" — close to 〜だって／〜でも. (Not in Bunpro's catalog.)|
+zaru|〜ざる|Classical negative attributive, same family as 〜ぬ／〜ん but used before a noun (〜ざる者 "one who doesn't ~"). (Not in Bunpro's catalog.)|

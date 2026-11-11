@@ -3870,3 +3870,84 @@
 導く|みちびく|to lead, to guide
 これほど|これほど|this much, to this extent
 育つ|そだつ|to grow up
+一任する|いちにんする|to leave entirely in someone's hands, to entrust fully
+小賢しい|こざかしい|sly, cunning, too clever for one's own good
+身内|みうち|one's own family, insider, kin
+生涯|しょうがい|a lifetime
+背負う|せおう|to carry on one's back, to shoulder (a burden)
+早々に|そうそうに|promptly, without delay
+つまみ出す|つまみだす|to throw out, to kick out
+細心|さいしん|scrupulous, meticulous (as in 細心の注意)
+折|おり|an occasion, a time
+寝首を掻く|ねくびをかく|to attack someone while they sleep; to betray someone from behind
+全うする|まっとうする|to carry out fully, to accomplish completely
+修復する|しゅうふくする|to repair, to restore
+新品|しんぴん|a brand-new item
+直す|なおす|to fix, to repair, to correct
+反省する|はんせいする|to reflect on one's conduct, to repent
+調子に乗る|ちょうしにのる|to get carried away, to get cocky
+勲章|くんしょう|a medal, a decoration
+竜石|りゅうせき|Dragonstone — a stone that seals away a dragon's true power
+裏切り|うらぎり|betrayal
+忠義|ちゅうぎ|loyalty, fidelity (to one's lord)
+忠誠心|ちゅうせいしん|a sense of loyalty, devotion
+独り言|ひとりごと|talking to oneself, a monologue
+滅びる|ほろびる|to be destroyed, to perish
+栄光|えいこう|glory
+消息|しょうそく|news of someone's whereabouts
+封じ込める|ふうじこめる|to seal something in, to confine
+最小限|さいしょうげん|a minimum
+察する|さっする|to sense, to infer
+強める|つよめる|to strengthen, to intensify
+殺生|せっしょう|killing, slaughter
+甘い|あまい|sweet; soft, lenient (figurative)
+ごっそり|ごっそり|entirely, all at once (colloquial)
+頼もしい|たのもしい|reliable, dependable
+普段|ふだん|normally, usually
+進撃|しんげき|advance, assault
+開始|かいし|start, commencement
+もたらす|もたらす|to bring about, to cause
+手に落ちる|てにおちる|to fall into (someone's) hands
+たどる|たどる|to trace, to follow (a trail)
+真っ先|まっさき|first and foremost, the very first
+口|くち|mouth; words, talk
+本|ほん|a book
+思い|おもい|a thought, a feeling
+笑う|わらう|to laugh
+一切|いっさい|entirely, at all (with negative)
+前方|ぜんぽう|ahead, in front
+前進|ぜんしん|advance, moving forward
+あがる|あがる|to go, to visit (humble)
+厚い|あつい|thick; deep, profound (feelings)
+終結|しゅうけつ|conclusion, end
+いざ|いざ|now then, well then
+順次|じゅんじ|in order, one by one
+目に入る|めにはいる|to catch one's eye, to come into view
+助力|じょりょく|assistance, help
+近ごろ|ちかごろ|these days, recently
+辛い|つらい|painful, hard (to bear)
+出歩く|であるく|to go out and about, to wander
+おおさわぎ|おおさわぎ|a big fuss, an uproar
+一人ぼっち|ひとりぼっち|all alone, by oneself
+ふれる|ふれる|to touch; to come into contact with
+目が届く|めがとどく|to be within sight, to keep an eye on
+やくそく|やくそく|a promise
+血も涙もない|ちもなみだもない|cold-blooded, merciless, heartless
+解せない|げせない|cannot understand, doesn't make sense
+揃える|そろえる|to make uniform, to align (voices, opinions)
+持ち物|もちもの|one's belongings, possessions
+同士|どうし|fellow, each other (e.g. 三軍将どうし)
+それきり|それきり|and that was the end of it, never since
+物騒|ぶっそう|dangerous, unsettling
+ぐすん|ぐすん|sniff, sob (crying sound)
+強いて言えば|しいていえば|if I had to say, if forced to say
+食う|くう|to eat (rough/masculine)
+退く|どく|to get out of the way, to step aside
+何とか|なんとか|somehow, in some way; something or other
+我が軍|わがぐん|our army, our forces
+申し訳ありません|もうしわけありません|I'm very sorry (formal apology)
+盗み|ぬすみ|theft, stealing
+今時|いまどき|these days, nowadays
+ちっちゃい|ちっちゃい|tiny, itty-bitty (colloquial for 小さい)
+付いてくる|ついてくる|to follow along, to come along with
+要る|いる|to need, to be necessary
