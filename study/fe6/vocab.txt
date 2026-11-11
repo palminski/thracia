@@ -3566,3 +3566,36 @@
 以内|いない|within (a limit)
 やり残す|やりのこす|to leave unfinished
 ウソ|うそ|a lie
+たち|たち|pluralizing suffix: "~ and the others"
+新たな|あらたな|new (na-adjective; cf. 新たに "newly")
+引きおこす|ひきおこす|to cause, to trigger
+古文書|こもんじょ|ancient document, old text
+やばい|やばい|risky, dangerous, uh-oh (slang)
+土砂|どしゃ|earth and sand, rubble
+きつい|きつい|tough, harsh, strict
+牢屋|ろうや|jail, prison cell
+逆戻り|ぎゃくもどり|reverting, backsliding
+埋める|うめる|to bury
+眠る|ねむる|to sleep; to lie dormant
+それと|それと|and also, and then
+天雷|てんらい|heavenly thunder (epithet)
+狂戦士|きょうせんし|mad warrior, berserker
+雄大|ゆうだい|grand, magnificent
+体格|たいかく|physique, build
+威力|いりょく|power, might
+すさまじい|すさまじい|tremendous, terrific, terrifying
+神話|しんわ|myth
+喜ばしい|よろこばしい|joyful, welcome (good news)
+先客|せんきゃく|previous visitor, earlier occupant
+壁|かべ|wall
+煙|けむり|smoke
+吹き出す|ふきだす|to spout out, to burst out
+漏れる|もれる|to leak, to escape (sound/light)
+隙間|すきま|gap, crevice
+まさに|まさに|truly, exactly
+なんということ|なんということ|what a thing! (shock, dismay)
+二大|にだい|two great, two major
+事前に|じぜんに|in advance, beforehand
+とも|とも|both, all (suffix after a count)
+付く|つく|to attach; to side with, to take (a position)
+とする|とする|to suppose, to assume (that)

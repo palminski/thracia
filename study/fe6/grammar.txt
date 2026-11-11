@@ -201,3 +201,6 @@ niseyo|〜にせよ|Formal/literary equivalent of にしても／にしろ: "eve
 oninaru|お + stem + になる|Honorific form: a respected person does something (= される, but more polite).|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%AB%E3%81%AA%E3%82%8B
 ppoi|〜っぽい|"-ish, -like": gives an impression of being that way.|https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%BD%E3%81%84
 yori|〜より|Comparison: "more than...".|https://bunpro.jp/grammar_points/%E3%82%88%E3%82%8A
+wakeganai|〜わけがない|"There's no way that...": a strong denial of possibility.|
+kotoninaru|〜ことになる|"It turns out that...; it has been decided that...".|
+tonokoto|〜とのことです|"I hear that...; I understand that...": reporting secondhand information.|
