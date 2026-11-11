@@ -205,3 +205,4 @@ wakeganai|〜わけがない|"There's no way that...": a strong denial of possib
 kotoninaru|〜ことになる|"It turns out that...; it has been decided that...".|
 tonokoto|〜とのことです|"I hear that...; I understand that...": reporting secondhand information.|
 gozaimasu|〜ございます|Very polite/formal copula or existence verb, the polite equivalent of です／あります.|
+tearu|〜てある|Resultant state: something has been done (and stays set up that way) — distinct from てある's close cousin ておく ("to do in advance").|

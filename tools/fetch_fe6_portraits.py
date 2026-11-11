@@ -41,6 +41,7 @@ NAMES = {
     "ゲレロ": "guerrero", "ソフィーヤ": "sophia",
     "ファ": "fae", "イグレーヌ": "igrene", "ランディ": "randy", "ツァイス": "zeiss",
     "ローズ": "rose", "マギー": "maggie",
+    "オーツ": "oates",
 }
 
 
