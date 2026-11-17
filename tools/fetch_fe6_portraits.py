@@ -44,6 +44,7 @@ NAMES = {
     "オーツ": "oates",
     "ダグラス": "douglas", "ガレット": "garret", "レイス": "raith", "ウィンダム": "windham",
     "マードック": "murdock", "ヒュウ": "hugh",
+    "ロアーツ": "roartz",
 }
 
 

@@ -222,3 +222,6 @@ okudasai|お + stem + ください|Honorific request — more polite than plain 
 kirenai|〜きれない／〜きれぬ|"Can't fully/completely do ~": potential negative of 〜切る ("to do all the way through").|
 shioru|stem + しおる|Archaic/contemptuous auxiliary — "to have the nerve to do ~", similar in tone to 〜やがる.|
 gayoi|〜がよい|"Had better ~, should ~": archaic/formal suggestion or command (滅びるがよい).|
+tsutsu|〜つつ|Literary "while doing ~" (formal equivalent of 〜ながら).|
+kotoganai|〜たことがない|"Have never done ~" (past-tense verb + ことがない).|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84
+niyotte|〜によって／〜による|"By, due to, according to" - marks the cause, means, or agent of a passive-like action.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6
