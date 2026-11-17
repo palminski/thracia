@@ -4166,3 +4166,26 @@
 形|かたち|shape, form
 流れ|ながれ|flow, stream, the passage (of time)
 賢い|かしこい|clever, wise
+外れ|はずれ|outskirts, edge (of a place)
+さまざま|さまざま|various, diverse, all sorts of
+まつわる|まつわる|to be related to, to be associated with
+神聖|しんせい|sacred, divine, holy
+じゃま|じゃま|a hindrance, to get in the way
+破れかぶれ|やぶれかぶれ|reckless desperation, do-or-die
+道連れ|みちづれ|a companion (often "to take along/down with" someone, even into misfortune)
+象徴|しょうちょう|symbol
+至高|しこう|supreme, the highest
+地上|ちじょう|the ground, the earth's surface
+降りる|おりる|to descend, to come down
+魔竜|まりゅう|Demon Dragon (title for the great antagonist dragon)
+本部|ほんぶ|headquarters
+仰せ|おおせ|a command, what a superior/respected person says
+聖女|せいじょ|a holy woman, a saint
+叛旗|はんき|a flag of rebellion/revolt (as in 叛旗を翻す, "to rise in revolt")
+翻す|ひるがえす|to turn over, to reverse (idiomatically: to raise a flag in revolt)
+指図|さしず|an order, an instruction (idiom 指図をする, "to give orders")
+この前|このまえ|until recently, the other day, last time
+なにもかも|なにもかも|everything, one and all
+方#way|ほう|way, direction; side (as in "on my end")
+建物|たてもの|a building
+そうなる|そうなる|to turn out that way, to become so

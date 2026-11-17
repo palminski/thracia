@@ -216,3 +216,9 @@ dewanaku|A ではなく、B|"Not A, but B" — negates A to set up a contrasting
 nitsuite|〜について|"About, regarding, concerning ~".|
 to-quote|〜と|Plain quotative と (= という/と言う), often trailing off as a question: "...is that what you're saying?"|
 kurai|〜くらい／ぐらい|"About, approximately"; or, with a minimizing nuance, "at least ~" (一人くらいは "at least one person").|
+tomade|〜とまで|"Even to the point of saying/thinking ~": emphasizes just how far a statement or feeling goes.|
+yotosuru|〜（よ）うとする|"To try to, to be about to do ~": volitional form + とする.|
+okudasai|お + stem + ください|Honorific request — more polite than plain 〜てください: "please do" (said to/about a respected person).|
+kirenai|〜きれない／〜きれぬ|"Can't fully/completely do ~": potential negative of 〜切る ("to do all the way through").|
+shioru|stem + しおる|Archaic/contemptuous auxiliary — "to have the nerve to do ~", similar in tone to 〜やがる.|
+gayoi|〜がよい|"Had better ~, should ~": archaic/formal suggestion or command (滅びるがよい).|
