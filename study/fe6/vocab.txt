@@ -4405,3 +4405,81 @@
 だます|だます|to trick, to deceive
 ころっと|ころっと|easily, readily (describing being tricked or changing suddenly)
 戦|いくさ|war, battle (as a noun)
+杯|さかずき|cup, goblet (for sake)
+遺跡|いせき|ruins, remains
+秩序|ちつじょ|order (orderliness)
+狂う|くるう|to go mad, to go haywire
+原因|げんいん|cause, reason
+歪む|ゆがむ|to warp, to become distorted
+通説|つうせつ|common view, widely accepted theory
+魔力|まりょく|magical power
+無関係|むかんけい|unrelated, irrelevant
+曖昧|あいまい|ambiguous, vague
+一点|いってん|a single point
+刃向う|はむかう|to turn against, to defy
+戦役|せんえき|war, campaign
+封|ふう|seal
+当時|とうじ|at that time, back then
+疎んじる|うとんじる|to shun, to treat coldly
+平凡|へいぼん|ordinary, mediocre
+才能|さいのう|talent, ability
+感情|かんじょう|feeling, emotion
+秀でる|ひいでる|to excel, to be outstanding
+冷たい|つめたい|cold (to the touch, or in manner)
+夫|おっと|husband
+期待|きたい|expectation, hope
+思い余る|おもいあまる|to be overwhelmed by one's feelings, to be at one's wit's end
+酒宴|しゅえん|banquet, drinking party
+手ずから|てずから|with one's own hands, personally
+養育|よういく|raising, rearing (a child)
+取り留める|とりとめる|to retain, to hold onto (命をとりとめる "to survive")
+邪魔者|じゃまもの|a nuisance, an obstacle (person)
+策|さく|scheme, plan, measure
+巡らす|めぐらす|to devise, to work out (a scheme)
+偽る|いつわる|to pretend, to feign, to deceive
+笑顔|えがお|smiling face, smile
+小せがれ|こせがれ|(derogatory) brat, little pup
+地獄|じごく|hell
+災い|わざわい|calamity, disaster
+根|ね|root
+断つ|たつ|to cut off, to sever
+取って代わる|とってかわる|to replace, to take the place of
+地道|じみち|steady, down-to-earth
+目を通す|めをとおす|to look over, to skim through
+名が通る|ながとおる|to be well-known, to have a reputation
+仕入れる|しいれる|to stock up on, to pick up (information or goods)
+気を抜く|きをぬく|to let one's guard down, to relax too much
+仕組み|しくみ|mechanism, system
+隣|となり|next to, neighboring
+なんとしても|なんとしても|no matter what, by all means
+何より|なにより|more than anything, best of all
+速やか|すみやか|prompt, speedy
+否|いな|no (classical/formal)
+なぜなら|なぜなら|because, the reason is
+全く|まったく|entirely, completely; (with negative) not at all
+犬|いぬ|dog
+扱う|あつかう|to handle, to deal with
+待ちかまえる|まちかまえる|to wait in ambush, to lie in wait
+参加|さんか|participation
+志|こころざし|resolve, aspiration, ambition
+ちょうど|ちょうど|just, exactly, right (timing/amount)
+怪我|けが|injury
+申し分ない|もうしぶんない|flawless, nothing to complain about
+しかるべき|しかるべき|fitting, appropriate, proper
+遂げる|とげる|to achieve, to accomplish
+幼い|おさない|young, childish
+訴える|うったえる|to appeal, to sue, to plead
+以後|いご|from now on, from then on, thereafter
+納める|おさめる|to put away, to store
+席|せき|seat; (here) a gathering, banquet
+昼|ひる|daytime, noon
+夏|なつ|summer
+冬|ふゆ|winter
+変える|かえる|to change (something)
+えらそう|えらそう|acting high and mighty, arrogant
+ほざく|ほざく|to talk big, to mouth off (contemptuous)
+ユニット|ユニット|unit (game term for a character/troop)
+かつ|かつ|and, moreover (formal conjunction)
+または|または|or, alternatively
+願い|ねがい|wish, request, favor
+あまりに|あまりに|too, excessively

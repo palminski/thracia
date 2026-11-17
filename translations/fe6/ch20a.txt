@@ -1,0 +1,194 @@
+1	Through what the "mountain hermit" Niime told them at the city of Bulgar,
+2	the truth about the "dragons" Bern makes use of gradually comes to light.
+3	Though troubled by what they heard, Roy and the others advance into the manor deep within Bulgar.
+4	There, former Etrurian prime minister Roartz
+5	had readied himself and lay in wait to meet Roy and the others in battle...
+6	Did you let the enemy into the manor?
+7	Argh, well, if it's come to this, there's no helping it.
+8	That brat called Roy too, I'll take him down to hell with me!
+9	Lord Roartz, word has just come from the remnants of the Djute tribe
+10	that after hiding the "Murgleis," they'll rush to reinforce us.
+11	Murgleis? That weapon they call a "Divine Weapon"?
+12	Fine, until then, hold out no matter what it takes!
+13	So this is... the manor...
+14	It's said there's a mechanism here that lets you attack through gaps in the passage.
+15	Don't let your guard down just because you think the next space over is a wall.
+16	Do you know a lot about this building?
+17	Even looking like this, I,
+18	well, I'm known a bit for knowing things.
+19	Mind you, this bit I only just picked up in the town of Bulgar before.
+20	Niime, would you happen to know... what a "dragon" looks like?
+21	Oh, so you're curious after all.
+22	Yes, the other day it occurred to me,
+23	whether a "dragon" might also take a human form.
+24	That's so.
+25	All the "dragons" may well be borrowing human form right now.
+26	I don't know if it's true or false,
+27	but I've at least heard tell that there are dragonkin living alongside humans in human form.
+28	The village of Nabata...
+29	Hm? Did you say something?
+30	No, it's nothing.
+31	I don't know the details, but after the "Scouring,"
+32	dragons are said to have begun taking human form, or so I've seen in an old document.
+33	The "Scouring"...
+34	You've at least heard of it, haven't you?
+35	Yes, as a legend.
+36	"At that time, the world's 'order' went mad,
+37	day became night, summer became winter..." or so it's told.
+38	That's right. It's such an old thing that accounts differ depending on the text,
+39	but in any case, the "Scouring" was something that changed the world.
+40	What was the cause?
+41	Well now... the common account is that the "dragons" used great magical power,
+42	and nature's order was warped, but as for the truth, even I don't know.
+43	Still, it does seem certain that it was after this that "dragons" began taking human form.
+44	I can't think it's entirely unrelated.
+45	Indeed, that does seem so.
+46	Well, whatever the case, the truth about "dragons" lies with Bern, it seems.
+47	Hm, the manor is in disarray, just as I thought.
+48	Watch closely, you dogs of Bern.
+49	Even if I, Dayan, am left alone, I will not stop fighting.
+50	You wretches, you Etrurian curs.
+51	We'll avenge our tribe, the Djute, upon you!
+52	Are you... the general of the Etrurian army?
+53	Yes, and you are?
+54	I am one called Dayan.
+55	Dayan... sir? I feel I've heard that somewhere...
+56	First, I must give you my thanks.
+57	We have fought on and on against Bern and the tribes that became its lackeys.
+58	Before Bern's overwhelming power, we had no choice but to resist
+59	through a slow, steady fight, slipping in and watching for our chance.
+60	Thanks to your advance, the situation has turned in our favor.
+61	I see... I'm glad we could be of use.
+62	But there is one thing I wish to confirm.
+63	Once this war ends, do you intend to withdraw your troops promptly, or not?
+64	This war... you mean?
+65	That's right. The plains of Sacae belong to the people who live in Sacae.
+66	If Etruria is only going to take Bern's place here,
+67	then we will find ourselves at war with you next.
+68	Right after this war... I cannot promise that.
+69	Because we are going to advance our troops into Bern's homeland itself.
+70	What did you say... into Bern's homeland...
+71	If we only drive Bern out of Sacae here and now, the peace that follows will be only temporary.
+72	The root of this calamity must be cut out. Don't you agree?
+73	No... you're right.
+74	...I see, if that's how it is, then we too will offer our cooperation.
+75	That's much appreciated.
+76	Only, once the war with Bern is over, you must promise to withdraw your troops from Sacae.
+77	Is that acceptable?
+78	Of course. I'll gladly make that promise.
+79	Grandfather...
+80	Could it be Sue? You're safe!
+81	This army here saved me.
+82	But of those who went with me, I'm the only one who survived.
+83	I see... it must have been a fierce battle.
+84	Grandfather, please fight together with us.
+85	This army isn't the kind that would invade Sacae.
+86	...Are you certain of that?
+87	I swear it by Father Sky and Mother Earth.
+88	Understood. If you'll say that much, I'll believe it.
+89	Chieftain!
+90	Shin, is it? So you've returned. Good timing, join us and...
+91	Chieftain... I'm currently fighting as part of this army.
+92	What did you say! For the Etrurian army?
+93	Yes.
+94	......
+95	Chieftain, this army has no intention of invading Sacae.
+96	So please, Chieftain, fight alongside us too.
+97	...If it's what you say, there should be no mistake in it.
+98	Understood. Let us fight together.
+99	Grandfather...
+100	Could it be Sue? You're safe!
+101	This army here saved me.
+102	But of those who went with me, I'm the only one who survived...
+103	I see... it must have been a fierce battle.
+104	Grandfather, will you fight together with us?
+105	Yes, this army doesn't seem like the kind that would invade.
+106	I see...
+107	Chieftain!
+108	Shin, is it? So you've returned. Good timing, join us and...
+109	Chieftain... I'm currently fighting as part of this army.
+110	What did you say! For the Etrurian army?
+111	Yes.
+112	......
+113	Chieftain, this army has no intention of invading Sacae.
+114	They share the same resolve as us, to stop Bern's invasion.
+115	So please, Chieftain, fight alongside us too.
+116	...If it's what you say, there should be no mistake in it.
+117	Understood. Let us fight together.
+118	If fought against Douglas: Hmph. Talking so high and mighty, but
+119	in the end, you too serve someone stronger, don't you?
+120	From the outside, perhaps that's so.
+121	But in my heart right now, there isn't a shred of doubt.
+122	Spare me your talk!
+123	If fought against anyone else: Someone, hurry here! Will you not protect me!
+124	If I, their commander, am injured, what then!
+125	Wait, w-wait, submit to me... there's still time to turn back...
+126	The crime of raising a blade against me, I'll forgive you specially... gngh.
+127	If Sue, Shin, and Dayan are all alive, and the manor is taken within 25 turns:
+128	Next comes... Bern, at last...
+129	Lord Roy, this is terrible!
+130	It seems the survivors of the Djute tribe have barricaded themselves in some ruins nearby.
+131	Ruins?
+132	Yes, and moreover, according to a prisoner's account,
+133	a bow from the age of the Dragon-Human War is said to be kept there...
+134	You mean...! Then that would...
+135	The chance it's a "Divine Weapon" is high, I'd say.
+136	We can't just sit around! Let's hurry to those ruins!!
+137	If anyone of Sue, Shin, or Dayan has died, or the manor is taken on turn 26 or later:
+138	Marinus, I'd like you to send this letter to Father Yodel of Etruria.
+139	A letter, is it... might I ask what it contains?
+140	It's what I heard from Niime. About the "dragons" Bern makes use of.
+141	Oh! Just what sort of tale did she tell you?
+142	It would take too long to explain.
+143	I haven't sealed it yet, so it'll do if you just read over the letter.
+144	Understood. Well then, right away...
+145	...Lord Roy.
+146	Princess Guinivere, is something the matter?
+147	...From here on, it will be Bern, won't it.
+148	Yes, we are finally going to advance our army into Bern's homeland.
+149	...So, this time, could I ask you to tell me everything, to the very end?
+150	...Yes. I came here intending to do just that.
+151	...At the time, Prince Zephiel
+152	had grown up to be more than worthy as Bern's heir, hadn't he?
+153	That's what I've heard.
+154	And yet, Bern's former king came to shun Prince Zephiel?
+155	Rather... it's because my brother achieved such outstanding growth.
+156	Huh...
+157	My father, Bern's former king, was by all accounts a man of ordinary ability as a king.
+158	So my brother's outstanding talent only seemed to make our father's feelings grow colder still.
+159	......
+160	And then, one day at last, my father called my brother and said to him,
+161	"I will bring in one fit for the position and have him marry Guinivere and take Bern's throne."
+162	What! ...That's too much!
+163	Even so, at the time, my brother is said to have answered that if that's how it was, so be it.
+164	But those around would not allow such a thing for my brother, who had been expected to be the next king.
+165	And so, driven to despair, my father...
+166	...Attempted to assassinate Prince Zephiel?
+167	...At a banquet, my brother was handed, by our father's own hand, a cup laced with poison.
+168	And that was, for my brother, the first and last cup he ever received from our father...
+169	After returning to his room, my brother began to suffer,
+170	and for more than ten days after that, he hovered between life and death.
+171	Sheltered by General Murdock, who had raised him,
+172	my brother somehow managed to survive.
+173	...And after that, did the king do nothing more?
+174	...No.
+175	He came to regard General Murdock, who had saved my brother, and my brother's mother too as obstacles,
+176	and is said to have schemed to do away with my brother along with them.
+177	My brother, still confined to a sickbed, learned of this and feigned his own death...
+178	and when our father came to confirm my brother's death, from within the coffin... with a sword...
+179	......
+180	At the time, I was still young, and could never have understood such circumstances.
+181	All I understood was that, from that day on, the day our father died, the smile vanished from my brother's face.
+182	Until then, he could be strict, but he was a warm, gentle brother. That's why...
+183	Princess Guinivere...
+184	That's why, deep in my heart, I believe my brother hasn't changed.
+185	Someday, surely, he will return to being that kind Zephiel, my brother.
+186	Believing that... I've gone on believing that, all this time...
+187	So that's how it was...
+188	...But now, my brother is somewhere my voice can no longer reach.
+189	Lord Roy, I beg you. Please... please stop my brother.
+190	Please make him stop tormenting the people of Bern and other lands any further.
+191	Even if it means I must appeal to him by the sword?
+192	...From the moment I entrusted everything to you, Lord Roy, I made up my mind.
+193	Understood. I will surely stop King Zephiel!
+194	I swear it upon the "Fire Emblem" entrusted to me by the Princess!
