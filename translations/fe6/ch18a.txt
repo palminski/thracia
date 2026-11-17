@@ -1,0 +1,111 @@
+1	Having defeated Alcardo, Etruria's former governor-general of the Three Western Isles,
+2	Roy and his army finally advance their forces into the great plains of Sacae.
+3	But ever since Bern's invasion, Sacae—
+4	the tribes that defied Bern and the Djute tribe who follow them had been almost entirely wiped out,
+5	and the chieftain of the Kutolah tribe, defeated by Bern, who is said to be the greatest warrior even in Sacae—
+6	the "Grey Wolf" Dayan and his men, though continuing a guerrilla resistance,
+7	could be said to have become, for the most part, a pro-Bern power.
+8	Just as Roy's group reached the middle of the great plains,
+9	the Djute tribe, now the largest tribe on the plains, using tactics unique to the plains,
+10	blocks the path ahead of Roy's group.
+11	An Etrurian army has appeared to the west!
+12	Hm. As planned, lure them into our camp.
+13	Let's make them learn just how terrifying we are.
+14	Did you send word to the other tribes?
+15	Yes.
+16	There is deep resentment toward our Djute tribe for being close with Bern, but—
+17	—quite a few are rushing to help, saying we must stand against Etruria's invasion.
+18	I see... Compared to our battle with that "Grey Wolf," this one's much easier.
+19	After all, the enemy is an "invading" army.
+20	Against those who come to invade, we unite and fight...
+21	Right. That's the Law of Sacae.
+22	Our fight with the "Grey Wolf" Dayan's Kutolah tribe was seen as a fight between tribes,
+23	so no one else got involved.
+24	But in truth, we had the backing of Bern's army...
+25	That's how it is.
+26	Although, as a result, there are quite a few who resent the fact
+27	that Bern now secretly controls Sacae.
+28	That's true. Right now, there are quite a few tribes and forces
+29	who sympathize with and are sheltering the "Grey Wolf" Dayan, who fights us and Bern like a guerrilla.
+30	Since his tribe was destroyed too, he should just obediently follow us.
+31	It's not as though he doesn't know the fate of those who fought Bern head-on.
+32	The great city of Bulgar, for instance, defied Bern, and was attacked and completely conquered.
+33	From here on, those who, like our Djute tribe, skillfully maneuver among the strong will win.
+34	For that, I'll make the most of that old-fashioned "Law of Sacae."
+35	Princess Guinivere...
+36	From here on, our army will be drawing closer to Bern.
+37	...Yes.
+38	Accordingly, the chances of fighting Bern's soldiers are increasing too.
+39	Eventually, it will come to a full-scale battle with the army of the Kingdom of Bern.
+40	......
+41	Before that, there's something I'd like to ask you, Princess.
+42	What is it?
+43	It's something I heard from someone the other day, but—
+44	—that King Zephiel killed the former king of Bern... his own father... and took the throne that way...
+45	!!
+46	I couldn't believe that story was true.
+47	Because, think about it!
+48	Princess Guinivere, you were prepared to even abandon your own country
+49	in order to try to stop it.
+50	If King Zephiel really were the cruel man the story makes him out to be,
+51	you wouldn't have thought to go that far, would you, Princess?
+52	......
+53	The reason I
+54	took the Fire Emblem into my keeping from you
+55	wasn't just to fight Bern,
+56	but because I thought I might be able to search, to the very end, for the "path to peace" you wished for.
+57	Lord Roy...
+58	So please, won't you let me hear the truth from your own lips, Princess?
+59	I'm sorry... please... just give me a little more time.
+60	! Princess Guinivere!!
+61	As long as there's an enemy within our camp, every tribe keeps up the attack...
+62	That's the Law of Sacae.
+63	Each tribe sets up camp surrounding the castle and meets any intruder head-on...
+64	That's the Law of Sacae.
+65	Against invaders, all the tribes unite and stand against them...
+66	That's the Law of Sacae.
+67	Every day without fail, we offer prayers to the earth and the stars...
+68	That's the Law of Sacae.
+69	That's it... just like that, come closer.
+70	We'll dye our camp through with your blood.
+71	※If attacked with Sue: You... the granddaughter of Dayan of the Kutolah tribe...
+72	......
+73	※If attacked with Sin: ...A survivor of the Kutolah tribe?
+74	Monke! Know the grudge of my tribe!
+75	Gah... ha... I... misjudged...
+76	I never thought... it would come to this...
+77	Quite the tough opponent, that was.
+78	But with this, we should have struck down Sacae's greatest enemy.
+79	Though the remaining forces are still a concern...
+80	It seems they're gathering together, waiting for a chance to counterattack.
+81	Do you know where they're trying to gather?
+82	I've sent out scouts — they should be back by now, I'd think.
+83	I'll go take a look.
+84	...Lord Roy.
+85	Princess Guinivere. What's the matter?
+86	Will you... will you hear me out... about my brother?
+87	!! ...Are you sure?
+88	Yes... after all, I want you to know, before we enter Bern.
+89	About the dreadful thing that happened within the royal family of Bern.
+90	...The other day, you asked whether my brother — King Zephiel of Bern—
+91	—had killed our father, the former king, didn't you?
+92	Yes...
+93	To give you the conclusion first... it is true.
+94	! Then it's really true — King Zephiel, aiming for the throne, killed his own father...?
+95	That part is wrong!
+96	Wrong? Didn't he assassinate the former king for the sake of the throne?
+97	That's not it... It was my father... who tried to assassinate first.
+98	Eh! Th-then King Zephiel...
+99	Unable to bear his tyrannical conduct any longer, he... killed our father... with his own hands...
+100	What on earth...
+101	...Lord Roy. We've found where the enemy army is gathering!
+102	Hm? What's the matter, you two?
+103	No... um... some other time...
+104	...Could it be that my coming here just now was bad timing?
+105	No, that's not it. Anyway, where's the enemy army gathering?
+106	Yes, a city called Bulgar.
+107	Bulgar... I've heard of that.
+108	It was originally the greatest city in all of Sacae, after all.
+109	Though it was attacked by Bern once and crushed...
+110	I see... Understood. Let's head there right away.
+111	But why would Bern's former king... his own son...?

@@ -225,3 +225,9 @@ gayoi|〜がよい|"Had better ~, should ~": archaic/formal suggestion or comman
 tsutsu|〜つつ|Literary "while doing ~" (formal equivalent of 〜ながら).|
 kotoganai|〜たことがない|"Have never done ~" (past-tense verb + ことがない).|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84
 niyotte|〜によって／〜による|"By, due to, according to" - marks the cause, means, or agent of a passive-like action.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6
+sasete-morau|〜させてもらう|Causative + もらう: "to get to do ~ / to have someone let me do ~" (more casual than させていただく).|
+monono|〜ものの|"Although ~, even though ~": concessive, similar to だが but more literary.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%AE
+doori|〜どおり|"According to ~, as ~": follows a plan, instructions, or expectation exactly.|https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%8A%E3%82%8A
+monogaaru|〜ものがある|"There is a certain quality of ~, there's something ~ about it": expresses a subjective impression.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8B
+osuru|お + stem + する|Humble form: the speaker does something for a respected person (lowers the speaker, not the action's grammatical subject).|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
+teitadakemasenka|〜ていただけませんか|Very polite request: "Could you possibly ~ for me?" (て-form + いただけませんか).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
