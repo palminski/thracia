@@ -231,3 +231,7 @@ doori|〜どおり|"According to ~, as ~": follows a plan, instructions, or expe
 monogaaru|〜ものがある|"There is a certain quality of ~, there's something ~ about it": expresses a subjective impression.|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8B
 osuru|お + stem + する|Humble form: the speaker does something for a respected person (lowers the speaker, not the action's grammatical subject).|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
 teitadakemasenka|〜ていただけませんか|Very polite request: "Could you possibly ~ for me?" (て-form + いただけませんか).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
+kakeru|verb stem + かける|"To be on the verge of doing, to almost do": the action was begun or nearly happened but didn't complete (暗殺されかけた = "was nearly assassinated").|
+seika|〜せいか|"Perhaps because of ~, maybe due to ~": a tentative, uncertain cause.|
+katoomoeba|〜かと思えば|"No sooner had ... than ...": one event is immediately followed by a contrasting one.|
+toiitoii|〜といい〜といい|"Both A and B", "whether it's A or B": listing two parallel examples to make a point.|

@@ -46,6 +46,7 @@ NAMES = {
     "マードック": "murdock", "ヒュウ": "hugh",
     "ロアーツ": "roartz",
     "モンケ": "monke",
+    "ケル": "kel", "ニイメ": "niime", "ダヤン": "dayan",
 }
 
 

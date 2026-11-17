@@ -1,0 +1,151 @@
+1	Having defeated the Djute tribe, the strongest tribe on the plain,
+2	Roy's Etrurian army now closes in on Bulgar, the largest city on the Sacae plain.
+3	Bulgar developed as a crossroads of transportation and commerce linking the three regions of Etruria, Bern, and Ilia,
+4	and had thrived as a free city, but with Bern's recent invasion, that history came to an end,
+5	and now former Etrurian prime minister Roartz governs this land under Bern's protection.
+6	To take Sacae back from Bern's hands, and to use it as a foothold for an advance into Bern,
+7	Roy and the others now advance their army toward that land.
+8	Ngh... So they've finally come. And so much sooner than I thought...
+9	At this rate, there's no way to prepare to fight!
+10	We will hold off the enemy.
+11	You should remain inside the manor and prepare to meet them there.
+12	...Do we have any chance of winning?
+13	We won't know until we try.
+14	If we don't even know whether we can win...
+15	Then what will you do? Will you run away from here too?
+16	Where is there for you to go now?
+17	Ugh...
+18	Since I've received Lady Brunya's order to protect you,
+19	I will guard you with everything I have.
+20	So you too must resolve yourself to fight!
+21	Nngh... A-alright, I understand.
+22	Then I'll leave what's outside to you.
+23	...That man is the prime minister of Etruria?
+24	Are we really fighting for a man like that?
+25	Don't say that.
+26	Lady Brunya didn't tell us to protect that man out of any gladness either.
+27	...As warriors, we need only think about fulfilling our duty.
+28	......
+29	There's also word that a faction of the "Grey Wolves" has slipped into this city of Bulgar.
+30	Don't let your guard down.
+31	Yessir.
+32	Princess Guinivere.
+33	Lord Roy... Another battle is about to begin today, isn't it.
+34	Yes. I'm sorry I haven't been able to find the time to properly talk with you...
+35	I apologize.
+36	No, not at all. After all, the real cause of all this is my brother.
+37	Princess Guinivere.
+38	...Yes.
+39	May I ask you the reason?
+40	The reason King Zephiel was nearly assassinated by his own father...
+41	...My brother and I had different mothers. We're half-siblings.
+42	I heard King Zephiel's mother was an Etrurian princess?
+43	Yes. She became my father's consort to strengthen the bond between Etruria and Bern.
+44	But my father already had a woman he loved by then — and that woman is my mother.
+45	......
+46	The marriage between my father and my brother's mother—
+47	—was apparently forced through by the people around him, the other nobles and his chief vassals.
+48	Because of that, my father didn't love my brother's mother, and he seems to have come to find my brother tiresome.
+49	Is that why the relationship between the former king of Bern and King Zephiel turned sour?
+50	No. Even so, my brother apparently tried desperately to earn our father's favor.
+51	He trained himself in the knowledge and refinement needed to inherit the throne, and in the military discipline needed to lead an army...
+52	My brother grew into a prince fit in every way to inherit the kingdom of Bern.
+53	But then, why did the former king of Bern...
+54	Lord Roy! Preparations for the attack are complete!
+55	Understood, I'll go right away!
+56	Princess Guinivere, I'm sorry, but...
+57	No, please — do take care...
+58	Well, well, it's finally started, hasn't it.
+59	...So it seems.
+60	Just when I thought Bern had finished attacking, now it's Etruria.
+61	Honestly, I wish they'd give us a break.
+62	......
+63	Can't be helped, I suppose. This town is a crossroads, after all.
+64	Everyone's bound to want it... ...there we go.
+65	H-hey, old woman, where are you off to?
+66	Off to watch the battle.
+67	To see the skill of this rumored general called Roy.
+68	S-such a carefree thing to be doing...!
+69	Oh, don't worry, don't worry...
+70	Hey, wait a second — where are you off to too, old man!
+71	The reinforcements should be arriving soon.
+72	Hey—
+73	Open the front gate and bring the reinforcements into the town.
+74	Yessir.
+75	Should be about time... Alright, opening the gate!
+76	Tell the ones hiding in the town to join the attack.
+77	Yes.
+78	Before the war, I used to sell all sorts of weapons to the Bern army...
+79	But if this place gets occupied, those guys won't pay up at all.
+80	This one's fine on credit, so do something about it, would you.
+81	I kept this Dragonkiller hidden from the Bern lot.
+82	If they'd found it, it would've been confiscated on the spot.
+83	You get why, don't you?
+84	How about a magic ring from Etruria?
+85	Up until not long ago, saying that would get me a lot of buyers, but...
+86	With the war on, I had no choice but to close up shop.
+87	I'll give you one — it's not like it'll sell anyway...
+88	Heave... ho...
+89	It fell on the battlefield, so it's not stealing, right?
+90	With this, I bet I could sell it for a lot—
+91	Waah! A-a person from Bern?
+92	Huh? What's this sword? I dunno.
+93	Welp.
+94	This is a lucky goddess statue.
+95	Come to think of it, travelers used to get completely fooled by it, but...
+96	With this war on, I can't even do business.
+97	If you want it, take it — it's not like luck's coming our way anyway.
+98	This is Sacae's pride, the longbow — want to take it with you?
+99	You don't owe me anything for it. Just do something about those Bern guys for me instead.
+100	Drive them out of Bulgar.
+101	My name is Kell.
+102	My final sword... Bear witness.
+103	As one who bears a sword, this too was inevitable...
+104	Ho ho ho, you're quite capable, aren't you.
+105	Wh-who are you?
+106	Hey, wait! You can't just walk in! General Roy is busy!
+107	What's going on?
+108	Sir! This person keeps insisting on meeting with General Roy.
+109	We tried to send her away since you're busy, but—
+110	Wouldn't it not be too late, even after hearing what I have to say?
+111	I think I've brought a story that would interest even you.
+112	An interesting story?
+113	It concerns a creature that takes a human's form, but isn't human.
+114	...I'll talk with this person for a while.
+115	The rest of you, please keep watch at the entrance to the room.
+116	Yessir.
+117	Ho ho, your face just changed color.
+118	Old woman, do you mean that creature is possibly—
+119	I mean the "dragons."
+120	The "dragons" you're talking about—
+121	You don't mean the wyverns that dragon knights ride, but rather... something among Bern's soldiers themselves?
+122	Yes, that's it.
+123	Those are the "dragons" that should have perished in that Human-Dragon War, long ago.
+124	!? Just who are you...?
+125	I am one called Niime.
+126	Perhaps because I study ancient dark magic deep in the mountains, I'm sometimes called the "Mountain Hermit."
+127	At first I thought this whole uproar was just an ordinary war, and watched it from the sidelines, but—
+128	It seems something ominous is mixed in among the soldiers.
+129	Curious, I looked into it.
+130	And did you find out anything?
+131	Hmm, well — there are too many mysteries about the "dragons." I tried poring over various old texts, but—
+132	There weren't many records that could shed light on it. Except...
+133	...Except?
+134	I've come to think they may have revived the "Demon Dragon."
+135	The "Demon Dragon"... you mean the dragon chieftain said to have been slain by the hero Hartmut?
+136	That's right.
+137	The "dragons" are creatures overwhelmingly superior to humans — in vitality, in intelligence...
+138	But it seems their power to bear children — to increase their numbers — was decisively inferior to humans'.
+139	But among them, only the "Demon Dragon" is said to have had the power to create more "dragons."
+140	I'm fairly certain I've seen that in an old document.
+141	Such power...
+142	A being capable of creating "dragons"—
+143	Hasn't Bern revived it, and gotten hold of a "dragon" through it, I wonder.
+144	That may well be so.
+145	Now then, I have a proposal.
+146	Perhaps because I pursue ancient magic, I want to solve more of the mysteries surrounding the "dragons."
+147	Would you allow me to accompany you and the others?
+148	I can use dark magic, I believe I'd be of use.
+149	...Understood.
+150	When it comes to the "dragons," there's a lot we want to know too.
+151	There may be danger involved, but if you're still willing, let's go together.

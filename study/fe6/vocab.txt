@@ -4323,3 +4323,85 @@
 もともと|もともと|originally, from the start
 最高|さいこう|highest, greatest, best
 反感|はんかん|antipathy, resentment
+撃破する|げきはする|to defeat, to rout
+交通|こうつう|traffic, transportation
+商業|しょうぎょう|commerce
+要所|ようしょ|key location, strategic point
+発達する|はったつする|to develop
+進攻|しんこう|advance, offensive (into enemy territory)
+足がかり|あしがかり|foothold
+勝算|しょうさん|chance of victory
+おこたる|おこたる|to neglect, to be negligent
+母親|ははおや|mother
+母君|ははぎみ|(one's) mother (honorific/old-fashioned)
+妃|きさき|consort, queen
+愛する|あいする|to love
+結婚|けっこん|marriage
+王族|おうぞく|royalty, royal family
+努力する|どりょくする|to make an effort
+知識|ちしき|knowledge
+教養|きょうよう|education, refinement
+修練|しゅうれん|training, discipline
+終了|しゅうりょう|completion, end
+せまる|せまる|to approach, to close in on
+終わり|おわり|end
+ほしがる|ほしがる|to want, to desire
+戦見物|せんけんぶつ|watching a battle (as a spectator)
+うでまえ|うでまえ|skill, prowess
+のんびり|のんびり|carefree, leisurely
+なあに|なあに|oh, don't worry (casual reassurance)
+後払い|あとばらい|payment later, paying on credit
+ドラゴンキラー|どらごんきらー|Dragonkiller (a named anti-dragon weapon)
+即|そく|immediately, instantly
+没収|ぼっしゅう|confiscation
+店をたたむ|みせをたたむ|to close up shop, to go out of business
+売れる|うれる|to sell (intransitive, to be sold)
+どろぼう|どろぼう|thief
+刀|かたな|sword, blade
+像|ぞう|statue
+旅先|たびさき|travel destination
+商売|しょうばい|business, trade
+長弓|ちょうきゅう|longbow
+必定|ひつじょう|inevitable, certain
+いそがしい|いそがしい|busy
+追い返す|おいかえす|to send back, to turn away
+関する|かんする|to be related to, to concern
+顔色|かおいろ|complexion, look on one's face
+山奥|やまおく|deep in the mountains
+古代|こだい|ancient times
+隠者|いんじゃ|hermit, recluse
+初め|はじめ|beginning
+混ざる|まざる|to be mixed in
+謎|なぞ|mystery
+ひも解く|ひもとく|to pore over, to peruse (a book)
+解明|かいめい|clarification, elucidation
+圧倒的|あっとうてき|overwhelming
+生命力|せいめいりょく|vitality, life force
+知能|ちのう|intelligence
+種族|しゅぞく|race, species
+増やす|ふやす|to increase
+決定的|けっていてき|decisive
+劣る|おとる|to be inferior
+探究する|たんきゅうする|to investigate, to pursue (knowledge)
+役にたつ|やくにたつ|to be useful
+まっとうする|まっとうする|to fulfill, to carry out (fully)
+うとましい|うとましい|repulsive, loathsome
+腹ちがい|はらちがい|half-sibling (different mother)
+申し分のない|もうしぶんのない|flawless, leaving nothing to be desired
+三|さん|three
+貴公|きこう|you (archaic, used by a man addressing an equal or subordinate with respect)
+ついに|ついに|finally, at last
+とうとう|とうとう|finally, at last
+こんなに|こんなに|this much, to this extent
+勘弁する|かんべんする|to go easy on, to spare, "have mercy"
+よいしょ|よいしょ|heave-ho (exertion grunt)
+ばあさん|ばあさん|old woman, granny (casual address)
+迎え入れる|むかえいれる|to welcome in, to bring in
+潜む|ひそむ|to hide, to lurk
+おまえさん|おまえさん|you (casual-familiar address)
+こら|こら|hey! (sharp rebuke)
+かの|かの|that, the aforementioned (archaic/literary)
+お代|おだい|payment, charge (for goods)
+だます|だます|to trick, to deceive
+ころっと|ころっと|easily, readily (describing being tricked or changing suddenly)
+戦|いくさ|war, battle (as a noun)
