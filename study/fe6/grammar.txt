@@ -209,3 +209,10 @@ tearu|〜てある|Resultant state: something has been done (and stays set up th
 sae|〜さえ|"even ~"; with a negative, "as long as ~ (doesn't happen)" — often paired with 〜なければ.|https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88
 tote|〜とて|Classical/literary "even ~, although ~" — close to 〜だって／〜でも. (Not in Bunpro's catalog.)|
 zaru|〜ざる|Classical negative attributive, same family as 〜ぬ／〜ん but used before a noun (〜ざる者 "one who doesn't ~"). (Not in Bunpro's catalog.)|
+zaruwoenai|verb nai-stem + ざるを得ない|Classical "cannot help but ~, have no choice but to ~" (ざる = classical negative, 得ない = "cannot get/obtain").|
+toiuni|〜というのに|Emphatic variant of 〜のに: "even though, despite the fact that".|
+nado|noun + など|"Such things as ~, etc." — listing examples, often with understatement or a dismissive nuance.|
+dewanaku|A ではなく、B|"Not A, but B" — negates A to set up a contrasting B.|
+nitsuite|〜について|"About, regarding, concerning ~".|
+to-quote|〜と|Plain quotative と (= という/と言う), often trailing off as a question: "...is that what you're saying?"|
+kurai|〜くらい／ぐらい|"About, approximately"; or, with a minimizing nuance, "at least ~" (一人くらいは "at least one person").|

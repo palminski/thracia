@@ -43,6 +43,7 @@ NAMES = {
     "ローズ": "rose", "マギー": "maggie",
     "オーツ": "oates",
     "ダグラス": "douglas", "ガレット": "garret", "レイス": "raith",
+    "マードック": "murdock", "ヒュウ": "hugh",
 }
 
 

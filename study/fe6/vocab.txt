@@ -644,8 +644,6 @@
 引き締める|ひきしめる|to tighten, to brace
 必ず|かならず|without fail, certainly
 止めたい|とめたい|want to stop
-生存時|せいぞんじ|when alive (branch condition label)
-死亡時|しぼうじ|when dead (branch condition label)
 無用|むよう|unnecessary, needless
 確かに|たしかに|certainly, indeed
 神様|かみさま|God
@@ -2092,6 +2090,7 @@
 情報収集|じょうほうしゅうしゅう|intelligence gathering
 付近|ふきん|vicinity, nearby area
 死亡|しぼう|death
+死亡時|しぼうじ|at the time of death (branch-condition label: "if X has died")
 とりかえす|とりかえす|to get back, to recover
 力を合わせる|ちからをあわせる|to join forces
 のりこえる|のりこえる|to overcome
@@ -3242,6 +3241,7 @@
 内乱|ないらん|civil war, internal strife
 仲間|なかま|comrade, ally, companion
 生存|せいぞん|survival
+生存時|せいぞんじ|at the time of survival (branch-condition label: "if X survives")
 団|だん|group, corps, order (as in 傭兵騎士団 = mercenary knight order)
 部隊|ぶたい|unit, troop, corps
 前|まえ|before, in front of; ago
@@ -3951,3 +3951,218 @@
 ちっちゃい|ちっちゃい|tiny, itty-bitty (colloquial for 小さい)
 付いてくる|ついてくる|to follow along, to come along with
 要る|いる|to need, to be necessary
+魔道士|まどうし|mage, sorcerer
+食べる|たべる|to eat
+頂く|いただく|to receive (humble)
+返す|かえす|to return (something)
+敵軍|てきぐん|enemy army
+拾う|ひろう|to pick up
+見届ける|みとどける|to see through to the end, to confirm with one's own eyes
+頼り|たより|reliance, something to rely on
+迷い|まよい|hesitation, confusion
+断る|ことわる|to refuse, to decline
+女神|めがみ|goddess
+救い出す|すくいだす|to rescue, to save
+いよいよ|いよいよ|finally, at last
+進軍する|しんぐんする|to march forth, to advance (an army)
+迎え撃つ|むかえうつ|to meet in battle, to intercept
+当初|とうしょ|at first, originally
+城壁|じょうへき|castle wall, rampart
+影響|えいきょう|influence, effect
+信者|しんじゃ|believer, follower
+支援|しえん|support, assistance
+王宮内|おうきゅうない|inside the royal palace
+精鋭|せいえい|elite
+待ち構える|まちかまえる|to wait in ambush, to lie in wait
+死に損ない|しにそこない|a near-death experience; one who should have died
+迎え|むかえ|greeting, welcoming
+丁重に|ていちょうに|courteously, with due respect
+お迎えする|おむかえする|to go/come to greet (polite)
+逃走|とうそう|flight, escape
+失態|しったい|blunder, disgraceful failure
+任す|まかす|to entrust (alternate form of 任せる)
+放置|ほうち|neglect, leaving unattended
+申し開き|もうしびらき|explanation, justification (for one's conduct)
+降格する|こうかくする|to be demoted
+かわりに|かわりに|instead of, in place of
+昇格する|しょうかくする|to be promoted
+もう一度|もういちど|once more, one more time
+成功する|せいこうする|to succeed
+取りなす|とりなす|to mediate, to put in a good word for someone
+失望する|しつぼうする|to disappoint, to be disappointed
+降格|こうかく|demotion
+しかも|しかも|moreover, what's more
+後任|こうにん|successor
+名誉|めいよ|honor
+失敗する|しっぱいする|to fail
+張本人|ちょうほんにん|ringleader, instigator
+合う|あう|to meet with, to suit, to encounter
+そもそも|そもそも|in the first place, to begin with
+し損なう|しそこなう|to fail to do, to botch
+言い争う|いいあらそう|to argue, to quarrel
+持ってくる|もってくる|to bring
+お断りする|おことわりする|to decline, to refuse (polite)
+おん身|おんみ|your person (honorific)
+賛同する|さんどうする|to agree with, to support
+カタブツ|かたぶつ|a stern, inflexible person
+しっぽを出す|しっぽをだす|to show one's true colors, to reveal oneself
+うす汚い|うすぎたない|dirty, filthy
+これでは|これでは|at this rate, like this
+立ち直る|たちなおる|to recover, to bounce back
+最後まで|さいごまで|until the very end
+尽力|じんりょく|effort, dedication
+市街戦|しがいせん|urban warfare, street fighting
+厳しく|きびしく|harshly, strictly
+教祖|きょうそ|founder of a religion
+不幸|ふこう|misfortune, unhappiness
+まねく|まねく|to invite, to bring about
+全力|ぜんりょく|all one's strength, all-out effort
+土|つち|earth, soil
+手を組む|てをくむ|to join hands, to team up
+助言する|じょげんする|to advise
+心ならずも|こころならずも|against one's will, reluctantly
+呼びだす|よびだす|to call out, to summon
+詳しく|くわしく|in detail
+目前|もくぜん|right before one's eyes, imminent
+逃亡する|とうぼうする|to flee, to abscond
+共謀する|きょうぼうする|to conspire
+身を寄せる|みをよせる|to take refuge with, to throw in one's lot with
+一緒に|いっしょに|together
+接触する|せっしょくする|to make contact
+おえらい|おえらい|high and mighty, important (colloquial, ironic)
+給料|きゅうりょう|salary, wages
+世界一|せかいいち|the best in the world
+お金持ち|おかねもち|a rich person
+豪華|ごうか|gorgeous, splendid
+期待する|きたいする|to expect, to look forward to
+取り上げる|とりあげる|to take away, to confiscate
+不足する|ふそくする|to be lacking, to be insufficient
+腕が立つ|うでがたつ|to be skilled, to be good with one's hands
+似たよう|にたよう|similar, of the same sort
+悪いけど|わるいけど|sorry, but...
+飛び降りる|とびおりる|to jump down, to jump off
+しける|しける|to be stingy, to be cheap (colloquial)
+元気になる|げんきになる|to become well, to recover one's health
+苦労をかける|くろうをかける|to cause someone trouble or hardship
+いしずえ|いしずえ|cornerstone, foundation
+本望|ほんもう|one's heart's desire, what one truly wished for
+かえりみる|かえりみる|to look back on, to care about
+未練|みれん|regret, lingering attachment
+いても|いても|even if (somewhere), see grammar
+注意を引く|ちゅういをひく|to draw attention
+苦しい|くるしい|painful, hard
+マネ|まね|imitation, pretense, acting as if
+育てる|そだてる|to raise, to bring up
+恩返しをする|おんがえしをする|to repay a favor, to return a kindness
+相まみえる|あいまみえる|to face each other, to meet as rivals
+考え直す|かんがえなおす|to reconsider
+目標|もくひょう|goal, target
+成り果てる|なりはてる|to end up as, to degenerate into
+捕らわれる|とらわれる|to be captured, to be held captive
+世の中|よのなか|the world, society
+考え方|かんがえかた|way of thinking
+けがす|けがす|to disgrace, to sully
+誇り|ほこり|pride
+戻れました|もどれました|was able to return
+手の内|てのうち|in one's hands, in one's grasp
+捨て|すて|throwing away, abandoning
+晴れる|はれる|to clear up (doubts, weather)
+歩む|あゆむ|to walk, to go through life
+命にかえる|いのちにかえる|to give up one's life for, at the cost of one's life
+それ以外|それいがい|other than that
+そのもの|そのもの|itself, in itself
+失われる|うしなわれる|to be lost
+消え去る|きえさる|to disappear, to vanish
+命運|めいうん|fate, destiny
+やむを得ない|やむをえない|cannot be helped, unavoidable
+き弁|きべん|sophistry, a fallacious argument (詭弁)
+投げうつ|なげうつ|to sacrifice, to throw away (for a cause)
+つとめ|つとめ|duty, task
+私兵|しへい|a private army
+疑いをかける|うたがいをかける|to cast suspicion on
+追われている|おわれている|to be pursued
+聞いた|きいた|heard
+信じられない|しんじられない|unbelievable
+身勝手|みがって|selfish
+憎む|にくむ|to hate, to despise
+確信する|かくしんする|to be convinced
+納得する|なっとくする|to consent, to accept, to be convinced
+指揮官|しきかん|commander
+許し|ゆるし|permission, forgiveness
+母国|ぼこく|homeland
+見下げ果てる|みさげはてる|to be utterly contemptible
+捧げる|ささげる|to offer, to dedicate
+義|ぎ|duty, loyalty, righteousness
+貫く|つらぬく|to pierce through, to uphold (a principle)
+一時|いっとき|for a moment, temporarily
+不覚|ふかく|carelessness, a blunder
+懲りる|こりる|to learn one's lesson
+闇|やみ|darkness
+もうしわけない|もうしわけない|I'm sorry, I apologize
+頼み|たのみ|a request, a favor
+力を貸す|ちからをかす|to lend one's strength, to help
+塔|とう|a tower
+シンボル|シンボル|symbol
+むくいる|むくいる|to reward, to repay
+亡くす|なくす|to lose (a person, to death)
+至宝|しほう|treasure
+封印する|ふういんする|to seal
+解く|とく|to undo, to release, to solve
+制する|せいする|to control, to rule over
+赴く|おもむく|to proceed to, to head for
+汚名|おめい|disgrace, a stigma
+憎まれる|にくまれる|to be hated
+攻めこむ|せめこむ|to invade, to attack into
+手出しする|てだしする|to lay a hand on, to meddle
+進撃する|しんげきする|to advance, to march on (an attack)
+アクレイア|アクレイア|Aquleia (the royal capital of Etruria)
+しそこなう|しそこなう|to fail to do, to botch (= 仕損じる)
+弾圧|だんあつ|suppression, oppression
+復活する|ふっかつする|to revive, to resurrect
+探求する|たんきゅうする|to search for, to pursue (research, truth)
+加護|かご|divine protection, blessing
+共謀|きょうぼう|conspiracy, collusion
+姉さん|ねえさん|older sister (as a form of address)
+王家|おうけ|royal family
+ゴールド|ゴールド|gold (currency)
+おばあさん|おばあさん|grandmother, old woman
+思い残す|おもいのこす|to have regrets, to leave something unresolved
+お義父さま|おとうさま|Father (addressing one's father-in-law)
+お供|おとも|attendant, escort, companion
+敵味方|てきみかた|friend and foe alike
+尽きる|つきる|to run out, to be exhausted
+生き方|いきかた|way of life
+恋人|こいびと|lover, sweetheart
+実|じつ|real, genuine (as in 実の兄, "one's actual older brother")
+侮辱する|ぶじょくする|to insult, to disrespect
+尚|なお|still, moreover
+あやまち|あやまち|mistake, fault, error
+正す|ただす|to correct, to rectify
+思い知らせる|おもいしらせる|to make (someone) realize, to teach a lesson
+目障り|めざわり|eyesore, annoyance
+そなた|そなた|you (archaic, used by nobility)
+自由|じゆう|freedom
+建国|けんこく|the founding of a nation
+長|おさ|chief, leader
+むりやり|むりやり|forcibly, by force
+よって|よって|therefore, accordingly
+おやおや|おやおや|well, well (surprised interjection)
+お出まし|おでまし|(honorific) appearance, showing up
+あら|あら|oh my (surprised interjection)
+違い|ちがい|difference
+いっそう|いっそう|all the more, even more
+申し訳ない|もうしわけない|I'm sorry, inexcusable
+幸|さいわい|happiness, good fortune (classical, as in 幸あらんことを)
+えっ|えっ|huh?, what? (surprise interjection)
+物|もの|thing (tangible)
+大人物|だいじんぶつ|great person, important figure
+とくに|とくに|especially, particularly
+腰|こし|hip, lower back
+頭痛|ずつう|headache
+これまで|これまで|until now, so far
+選択する|せんたくする|to choose, to select
+おいおい|おいおい|hey, c'mon (exasperated address)
+あるいは|あるいは|or, perhaps, possibly
+形|かたち|shape, form
+流れ|ながれ|flow, stream, the passage (of time)
+賢い|かしこい|clever, wise
