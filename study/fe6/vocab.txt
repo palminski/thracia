@@ -4685,3 +4685,27 @@
 転戦する|てんせんする|to fight from place to place, to campaign
 やっていく|やっていく|to get by, to manage, to carry on (doing something)
 いかん|いかん|no good, won't do (= いけない)
+総合する|そうごうする|to put together, to synthesize
+きわめて|きわめて|extremely
+存在する|そんざいする|to exist
+二重|にじゅう|double, two layers
+三重|さんじゅう|triple, three layers
+かこむ|かこむ|to surround (= 囲む)
+侵入する|しんにゅうする|to intrude, to invade
+守りきる|まもりきる|to defend successfully, to hold out
+かたく|かたく|firmly, solidly
+やりすごす|やりすごす|to let pass, to wait out
+手本|てほん|a model, an example to follow
+でてくる|でてくる|to come up, to come out (= 出てくる)
+残兵|ざんぺい|remaining soldiers, stragglers
+うめる|うめる|to fill in, to bury
+壊れやすい|こわれやすい|fragile, easily broken
+やってみる|やってみる|to try doing, to give it a go
+真|しん|true, real
+白銀|はくぎん|silver-white
+輝く|かがやく|to shine, to glitter
+踏み入れる|ふみいれる|to step into, to set foot in
+友軍|ゆうぐん|allied forces, friendly troops
+上|うえ|on top of, above; 〜うえで = "in the process of, when it comes to"
+通り|とおり|as, in the way of; 名前の通り = "just as the name suggests"
+さん|さん|Mr./Ms. (honorific suffix)

@@ -1,0 +1,121 @@
+1	Pursuing the Bern army's Ilia garrison force, Roy and the Etrurian army
+2	set foot into a great ruin located a short distance from Edessa.
+3	This place dates back to the "Scouring," and putting together the accounts of the locals and the like,
+4	it seemed extremely likely that one of the "Divine Weapons" existed here.
+5	Lord Tick! The enemy, the enemy is closing in!
+6	There's no need to panic. This place is surrounded by walls two and three layers deep.
+7	They can't force their way in that easily.
+8	B-but, sir...
+9	The enemy has utterly crushed Ilia's own army and our allied forces, every one of them!
+10	For us alone to win is...
+11	There's no need to win.
+12	General Murdock said it would be enough for us just to hold this place.
+13	We need only defend firmly and let it pass us by. Understood?
+14	※If Zelot is deployed
+15	So this is where a "Divine Weapon" is...
+16	Lord Zelot, did you know about this place?
+17	I'd heard of it. As for the "Divine Weapon" here, at least a little...
+18	What kind of weapon is it?
+19	It's said to have been used by Barigan, who was praised as "the knight among knights."
+20	The "Icewater Spear," Marte.
+21	If it's about Barigan, I know the story well.
+22	His name always comes up as a model of knighthood when learning about war.
+23	...By the way, this building, no matter which way you turn, is nothing but walls...
+24	There doesn't seem to be a path leading further in.
+25	The remaining Bern soldiers guarding this place must have filled in the passage.
+26	...If it was done in a hurry, it might be fragile, then.
+27	That's right. Probably so.
+28	Understood. Let's try what we can.
+29	※If Zelot is not deployed, and Juno is deployed
+30	So this is where a "Divine Weapon" is...
+31	Lady Juno, did you know about this place?
+32	I'd heard of it. As for the "Divine Weapon" here, at least a little...
+33	What kind of weapon is it?
+34	It's said to have been used by Barigan, who was praised as "the knight among knights."
+35	The "Icewater Spear," Marte.
+36	If it's about Barigan, I know the story well.
+37	His name always comes up as a model of knighthood when learning about war.
+38	...By the way, this building, no matter which way you turn, is nothing but walls...
+39	There doesn't seem to be a path leading further in.
+40	Surely the remaining Bern soldiers guarding this place
+41	must have filled in the passage.
+42	...If it was done in a hurry, it might be fragile...
+43	That's certainly a possibility.
+44	Understood. Let's try what we can.
+45	※If Zelot and Juno are not deployed
+46	So this is where a "Divine Weapon" is...
+47	Elffin, was anything about this place recorded anywhere?
+48	Yes. It seems the "Icewater Spear," Marte, is hidden here.
+49	The "Icewater Spear"...
+50	It's said to have been used by Barigan, who was praised as "the knight among knights."
+51	I see, if it's about Barigan, I know the story well.
+52	His name always comes up as a model of knighthood when learning about war.
+53	...By the way, this building, no matter which way you turn, is nothing but walls...
+54	There doesn't seem to be a path leading further in.
+55	Surely the remaining Bern soldiers guarding this place
+56	must have filled in the passage.
+57	...If it was done in a hurry, it might be fragile...
+58	That's certainly a possibility.
+59	Understood. Let's try what we can.
+60	Impossible... am I dreaming?
+61	How in the world did they get past that wall...?
+62	...Go on ahead, worthy one.
+63	And know this: Bern's true power...
+64	We found it! A spear, beneath the throne!
+65	.........
+66	So this is... the "Icewater Spear" Barigan used, Marte.
+67	Just as its name says, it gleams silver-white—a magnificent spear.
+68	Lord Roy.
+69	It seems the Bern soldiers who were elsewhere in the ruins are fleeing.
+70	I see.
+71	"I see" isn't good enough. We must pursue them.
+72	No.
+73	They're trying to get away from the battlefield. They surely have no more will to fight.
+74	But still...
+75	Soldiers have families too. There's no need to fight them more than necessary.
+76	Princess Guinevere, we'll finally be advancing our army into Bern's homeland. Before that, though...
+77	...You mean about my brother, don't you.
+78	...At the time, Prince Zephiel, as heir to Bern,
+79	had grown up splendidly, hadn't he.
+80	So I've heard.
+81	Even so, Bern's former king came to resent Prince Zephiel, didn't he?
+82	Rather... it's because my brother had grown so remarkably.
+83	Eh...
+84	My father, Bern's former king, was, as a king, a man of ordinary talent, they say.
+85	So my brother's outstanding talent seems to have only made Father's feelings all the colder.
+86	.........
+87	And then, one day at last, Father is said to have called my brother and told him:
+88	"Someone fit for it shall be brought in to marry Guinevere, and he shall take the throne of Bern."
+89	What...! ...That's too much!
+90	Even so, my brother is said to have answered then that if that was how it was, so be it.
+91	But to my brother, who everyone expected to be the next king, those around him would not allow such a thing.
+92	And so, Father, driven to distraction...
+93	...Plotted to assassinate Prince Zephiel?
+94	...At a drinking banquet, my brother was handed a poisoned cup directly by our father the king.
+95	And that, it's said, was the first and last cup he ever received from Father...
+96	After returning to his room, my brother began to suffer,
+97	and for more than ten days after that, he is said to have hovered between life and death.
+98	He was sheltered by General Murdock, who had raised him,
+99	and somehow, my brother's life was spared.
+100	...Did Father do nothing after that?
+101	...No.
+102	He treated General Murdock, who had saved my brother, and my brother's mother as obstacles too,
+103	and is said to have schemed to do away with my brother along with them.
+104	My brother, still bedridden with illness, learned of this and feigned his own death...
+105	and when Father came to confirm my brother's death, from within the coffin... with a sword...
+106	.........
+107	...At the time, I was still young, and had no way of understanding such circumstances.
+108	All I understood was that from that day—the day Father died—onward, my brother's face lost its smile.
+109	Until then, he could be strict, but he was a warm, gentle brother. That's why...
+110	Princess Guinevere...
+111	That's why, deep in my heart, I believed my brother hadn't changed.
+112	That someday, surely, he would return to being the kind Zephiel brother he once was.
+113	I believed that... I kept believing that, all along...
+114	I see, so that's how it was...
+115	...But now, my brother is somewhere my voice can no longer reach.
+116	Lord Roy, I beg you. Please... please stop my brother.
+117	Please make him stop tormenting Bern and the people of other regions any further.
+118	Even if it means appealing to the sword?
+119	...Ever since I entrusted everything to Lord Roy, I've made up my mind to it.
+120	Understood. I will definitely stop King Zephiel!
+121	I swear it on the "Fire Emblem" entrusted to me by the princess!
