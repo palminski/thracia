@@ -4864,3 +4864,109 @@
 保障|ほしょう|a guarantee
 自負する|じふする|to pride oneself on
 出で立ち|いでたち|one's attire, one's getup
+辿る|たどる|to trace, to follow (a path)
+語り継ぐ|かたりつぐ|to pass down (a story), to hand down orally
+根底|こんてい|the foundation, the root
+覆す|くつがえす|to overturn, to overthrow
+異様|いよう|strange, bizarre
+雰囲気|ふんいき|atmosphere, mood
+威圧感|いあつかん|an oppressive feeling, a sense of intimidation
+異なる|ことなる|to differ, to be different
+純血種|じゅんけつしゅ|a purebred
+凌ぐ|しのぐ|to withstand, to endure; to surpass
+幻|まぼろし|an illusion, a phantom
+承知|しょうち|knowledge, consent; 承知の上で = "knowingly"
+個体数|こたいすう|population (number of individuals)
+補う|おぎなう|to make up for, to compensate for
+反対する|はんたいする|to oppose
+別れる|わかれる|to part, to separate (from someone)
+無縁|むえん|unrelated, having nothing to do with
+あだ|あだ|harm, misfortune; あだとなる = "to backfire, to become one's undoing"
+発見する|はっけんする|to discover
+除く|のぞく|to exclude, to remove
+存亡|そんぼう|survival, existence (life or death of a group)
+勝負|しょうぶ|a match, a contest
+対抗|たいこう|opposition, rivalry
+よりすぐる|よりすぐる|to carefully select the best
+形づくる|かたちづくる|to form, to shape
+崩れる|くずれる|to collapse, to crumble
+暴走する|ぼうそうする|to run wild, to go out of control
+蓄える|たくわえる|to store up, to save
+互い|たがい|each other, mutual
+阻む|はばむ|to obstruct, to block
+賢明|けんめい|wise, prudent
+致命的|ちめいてき|fatal, critical
+弱まる|よわまる|to weaken
+無力|むりょく|powerless
+呆ける|ぼける|to be dazed, to be in a stupor
+戸惑い|とまどい|confusion, bewilderment
+意見|いけん|an opinion
+敵意|てきい|hostility
+反応する|はんのうする|to react
+反映する|はんえいする|to reflect
+誕生|たんじょう|birth
+説得する|せっとくする|to persuade
+子孫|しそん|a descendant
+知り合う|しりあう|to get to know, to become acquainted
+千年|せんねん|a thousand years
+癒す|いやす|to heal
+幻影|げんえい|a phantom, an illusion
+あちこち|あちこち|here and there
+唯一|ゆいいつ|the only, the sole
+雑作|ざっさく|a trivial matter; 雑作もない = "easy, no trouble at all"
+波動|はどう|a wave, a pulse
+呼び覚ます|よびさます|to awaken, to arouse
+にらむ|にらむ|to glare at, to stare down
+つぶやく|つぶやく|to mutter
+笑み|えみ|a smile
+真意|しんい|one's true intention
+遂行する|すいこうする|to carry out, to execute
+相いれる|あいいれる|to be compatible with, to coexist with
+相対する|そうたいする|to face each other, to confront
+足りる|たりる|to be enough, to suffice
+作り変える|つくりかえる|to remake, to remodel
+強化する|きょうかする|to strengthen, to reinforce
+盛り返す|もりかえす|to regain, to recover (strength, momentum)
+造り出す|つくりだす|to create, to produce (= 作り出す)
+辿り着く|たどりつく|to arrive at, to reach (after a journey)
+純血|じゅんけつ|purebred, pure-blooded
+たった|たった|just, only (= ただ)
+続き|つづき|a continuation, the rest (of a story)
+いくたび|いくたび|however many times (archaic)
+しだいに|しだいに|gradually (= 次第に)
+次第|しだい|depends on; as soon as
+差|さ|a difference, a gap
+寸前|すんぜん|just before, on the verge of
+意気込み|いきごみ|enthusiasm, eagerness
+手元|てもと|at hand, in one's possession
+痛手|いたで|a grave wound, a heavy blow
+化する|かする|to turn into, to transform into
+ろくな|ろくな|decent, proper (used with negative)
+座り込む|すわりこむ|to sit down (and stay), to plant oneself
+見つめる|みつめる|to gaze at, to stare at
+くだす|くだす|to give (an order), to hand down
+とまどい|とまどい|confusion, bewilderment (= 戸惑い)
+抱く|いだく|to hold, to harbor (a feeling)
+効力|こうりょく|effect, efficacy
+見守る|みまもる|to watch over
+実体|じったい|a physical body, substance
+満ちる|みちる|to be filled, to become full
+大陸中|たいりくじゅう|all over the continent
+わずか|わずか|slight, a little
+動かす|うごかす|to move (something)
+まっすぐに|まっすぐに|straight, directly
+逆に|ぎゃくに|conversely, on the contrary
+浮かべる|うかべる|to float, to bring (a smile) to one's face
+計りかねる|はかりかねる|to be unable to fathom, to be at a loss to judge
+縛る|しばる|to bind, to tie
+何しろ|なにしろ|at any rate, anyway
+極めて|きわめて|extremely
+そうして|そうして|and so, and then
+そこで|そこで|so, thereupon
+生|せい|life; 生をうける = "to be born, to be given life"
+泣く|なく|to cry
+おじちゃん|おじちゃん|uncle (childish/casual address)
+わかりあう|わかりあう|to understand one another
+後世|こうせい|later generations, posterity
+戦闘竜|せんとうりゅう|"War Dragon" (a dragon created only to fight)
+神竜族|しんりゅうぞく|the "Divine Dragon clan"

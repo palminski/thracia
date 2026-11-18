@@ -1,0 +1,315 @@
+1	Having barely managed to defeat Bern's remaining forces, Roy and the others
+2	follow the same path once walked by the "Eight Generals" of old,
+3	and at last set foot into the "Shrine of Dragons."
+4	Pursuing the "Priestess of Darkness," in order to protect the world once more from the misfortune of the "Scouring"...
+5	But here, Roy and the others come to learn the true form of the legend that has been passed down through the ages.
+6	It was something that would overturn, from its very foundations, everything Roy and the others had believed up until now...
+7	So this is... the "Shrine of Dragons"... what an eerie atmosphere.
+8	I wonder if the "Eight Generals" of old fought amid this same sense of oppression, too...
+9	Once again, you stand in our way, do you, you humans.
+10	!! Who are you! When did you get there...
+11	My name is Yarne. The last "dragon" remaining in this "Shrine of Dragons."
+12	The last "dragon"?
+13	Somehow you feel different from the "dragons" we've fought up until now...
+14	Could it be that you're the "Dragon-Devil"?
+15	The "dragons" you've fought up until now are "War Dragons," who know nothing but fighting.
+16	And the "Dragon-Devil," too, is something different from me.
+17	I am a purebred "dragon" who once fought against you humans for the sake of the world.
+18	What do you mean, "different"? Isn't the "Dragon-Devil" supposed to be the chief of the dragon race...?
+19	Human, the "Dragon-Devil" is the "thing" meant to bring glory once more to us "dragons."
+20	It is not the chief of the dragon race.
+21	! Then just what is the "Dragon-Devil"?
+22	It seems you humans don't know much about the "Dragon-Devil" after all.
+23	Tell me. What is the "Dragon-Devil," really?
+24	We... no, I want to know the truth about the one I'm fighting against!
+25	There's no particular reason I must tell you, nor any reason I mustn't.
+26	Now, what should I do, I wonder...
+27	.........
+28	...Very well.
+29	Then let me test whether you're worthy of knowing the truth.
+30	I am deep within this "Shrine of Dragons." Withstand our attacks and make your way to me, if you can.
+31	Deep within? But aren't you right there, now...
+32	The form you see before you now is not my true form. It's merely an illusion.
+33	If you wish to know everything, come to where I am.
+34	If you have power enough to fight me, I will teach you the truth...
+35	You... ! Are you the real one, or...
+36	This is still only the entrance. It's a long way yet to where I am.
+37	But you don't seem weak enough to fall so easily.
+38	Of course not.
+39	We've overcome countless trials up until now
+40	to make it this far.
+41	I see.
+42	Then let me teach you a little about the "Dragon-Devil."
+43	The "Dragon-Devil" is not the chief of the dragons, as you put it.
+44	It was made in order to bring victory to us "dragons."
+45	Made, you say?!
+46	Wasn't it the "Dragon-Devil" that was creating the "dragons"?
+47	That "dragon" you speak of is, properly speaking, called a "War Dragon."
+48	As I said before, it's different from a true "dragon" like myself.
+49	"War Dragons" are what the "Dragon-Devil" creates.
+50	And the "Dragon-Devil" is something that we, the purebred "dragons," remade
+51	from the "Divine Dragon"—the "dragon" possessing the greatest power among our kind—so that we could win against you humans.
+52	! It remade the "Divine Dragon"?
+53	Then the "Dragon-Devil"'s original form was...
+54	Did that "Divine Dragon" become the "Dragon-Devil" knowingly?
+55	There was no "knowingly" about it.
+56	We stole its "heart," so that it would obey only our chief's commands.
+57	What...?! What did you say...!
+58	We had no choice. We needed the "Divine Dragon"'s power.
+59	This matter concerns our entire "dragon" race. We will not be particular about the means.
+60	You needed the "Divine Dragon"'s power...
+61	Just for that reason, just that alone, you'd do something like steal its "heart"!
+62	You ask "why," do you.
+63	If you wish for an answer, press on ahead.
+64	Let us see a bit more of your power.
+65	You're doing quite well. But let's see how far you can get.
+66	That's a promise. I want to hear the rest of the story.
+67	...No matter how many times we fought, you humans kept multiplying, one after another.
+68	We gradually found ourselves pressed by your numbers, and in order to make up for the overwhelming difference in population,
+69	it was decided that we would gather the power held by the "Divine Dragons" and create "War Dragons."
+70	"War Dragons"... the dragons you said were made for fighting?
+71	That's right. But the "Divine Dragon clan" opposed it, saying it went against the order of nature.
+72	While the rest of us, the other "dragons," were beginning to think of how we might obtain the "Divine Dragon"'s power,
+73	the "Divine Dragon clan" suddenly vanished from before us.
+74	Why was that?
+75	Probably, they thought to avoid being exploited.
+76	We never did learn where they went, in the end, but
+77	fortunately, there happened to be one "Divine Dragon" we were able to capture.
+78	That became the "Dragon-Devil"?
+79	That's right.
+80	That "Divine Dragon"—later the "Dragon-Devil," Idunn—seems to have felt something like hesitation
+81	at the prospect of us, the other "dragons," and the "Divine Dragon clan" splitting into two.
+82	Hesitation is the sort of thing that, unlike you humans, ought to have had nothing to do with us.
+83	So then, that hesitation became her undoing...
+84	She was discovered by us right at the moment she was about to vanish along with the "Divine Dragon clan."
+85	She was still a "Divine Dragon" with some youthfulness remaining,
+86	but there was no problem at all in equipping her with the power to create "War Dragons."
+87	Except for one thing alone—that she would not obey our commands.
+88	So that's why... you stole her "heart"?
+89	That's right.
+90	We stole her "heart" and made her obey only the commands of our "dragon" chief.
+91	What a thing to do...
+92	Let's leave it at about this much for this time.
+93	If you want to know more, why don't you show me your power once again...
+94	You've gotten a little closer. But the way ahead is still long.
+95	I'll make it all the way there!
+96	Your resolve seems strong enough. Now then, what do you want to know next?
+97	...You succeeded in creating the "Dragon-Devil." Why were you defeated by "humans"?
+98	...The one that became the "Dragon-Devil," as intended, obeyed our chief's commands
+99	and, using the power of the strengthened "Divine Dragon," went on creating "War Dragons," one after another.
+100	And so, we were able to regain our strength.
+101	.........
+102	But eventually, you humans came to learn of the "Dragon-Devil"'s existence,
+103	and, deciding that numbers alone would no longer suffice,
+104	you created powerful weapons through magic, as a means of countering us "dragons"...
+105	The things you call the "Divine Weapons."
+106	That part matches with our "humans'" own legends...
+107	And then, from among you humans, the most select of warriors took up those weapons
+108	and attacked our home base, this "Shrine of Dragons."
+109	But when the magic power held by your humans' powerful weapons and the powerful force we "dragons" wielded—
+110	when these two forces concentrated here, on this land of Bern, something unforeseen occurred.
+111	Just what happened?
+112	The "order" that shapes the world began to crumble.
+113	As a result, snow fell in summer, and day turned to night...
+114	You mean the "Scouring"?
+115	But that's said to be because you "dragons" let your magic power run wild...
+116	Is that how your "legend" has it?
+117	And that the magic power stored in the "Divine Weapons"
+118	was released to restore the "order."
+119	Hmph, so it's all our fault, we "dragons," whenever something is inconvenient for you.
+120	That's just the sort of thing you humans would think.
+121	The collapse of that "order" was caused by both sides generating "power" strong enough to warp the very order of nature,
+122	and then hurling it at each other.
+123	Then was the "Divine Weapons" being hidden meant to prevent the collapse of "order" from happening again?
+124	And the mechanisms obstructing us at the place where these were hidden, too...?
+125	Oh, so you hid them away, did you. That was a wise thing to do.
+126	Although now, it seems, they're in your own hands.
+127	.........
+128	Rest easy. These "Divine Weapons" of yours now don't carry the power they once did.
+129	Even should you make use of them, it won't lead to the collapse of "order."
+130	.........
+131	For us too, that was a stroke of luck.
+132	After all, that earlier collapse of "order" left us "dragons" with a grave wound.
+133	A wound?
+134	That, in fact, is the very reason we "dragons" were defeated by "humans"...
+135	As for that, I'll tell you once you've drawn a little closer to me.
+136	So you've come this far... hmph, that's quite impressive.
+137	I'd like to hear the rest of the story.
+138	Very well.
+139	The wound we suffered—that was something fatal for us "dragons."
+140	With the collapse of "order," the power of earth and sky weakened,
+141	and it became difficult for us to keep maintaining our true "dragon" forms.
+142	And so we sealed the power of our true "dragon" forms into stones, and came to take on human form.
+143	Those stones are what you call "Dragonstones," aren't they.
+144	That's right.
+145	Because of this, a decisive gap in military strength opened up between us and you humans.
+146	Without a "Dragonstone," we are just as powerless as humans—no, even more so.
+147	You humans began attacking "dragons" who had turned human and lost their power, specifically targeting them.
+148	Why, of all things, human form?
+149	Because, within the new "order," this form required the least power.
+150	We fell one after another before the "Eight Generals," with no way to resist.
+151	I myself suffered a grave wound then, and hovered between life and death.
+152	...Do you hate the humans who wounded you?
+153	Hate? Only humans harbor such a trivial emotion.
+154	We fought with the survival of our race at stake, and as a result, "humans" won and "dragons" were defeated.
+155	That's all there is to it.
+156	.........
+157	But the next time, it may well be you humans' turn to be defeated.
+158	One of you humans—
+159	one calling himself King Zephiel of Bern, is the one who awakened the "Dragon-Devil."
+160	!! Then, as I thought, it was King Zephiel who undid the "Dragon-Devil"'s seal!
+161	That's right.
+162	Whether you get to hear the rest depends on you.
+163	Now then, show me that power of yours.
+164	Yarne! You're there, aren't you?
+165	Hmph, you've managed to defeat that Zephiel fellow, it seems. That's no small feat.
+166	At this rate, it may come to me having to fight you myself.
+167	...What connection was there between the "Dragon-Devil" and King Zephiel?
+168	Do you know that Bern's founding king was Hartmut, chief of the "Eight Generals"?
+169	I know that.
+170	In the Scouring, the one who sealed the "Dragon-Devil" away instead of defeating it—
+171	that was that very Hartmut, wasn't it?
+172	I know that.
+173	But why Hartmut did that, I don't know, not that far...
+174	I see... so that's as far as you know.
+175	The "Eight Generals" at last defeated even our chief as well,
+176	and made their way to where the "Dragon-Devil" was, deep within the "Shrine of Dragons."
+177	What the "Eight Generals" saw, upon reaching the "Dragon-Devil,"
+178	was, they say, the figure of a single human girl, sitting in a stupor, gazing up at the sky.
+179	You mean she made no attempt to fight... why?
+180	Her "heart" had been stolen, so that she would obey our chief's commands.
+181	With no chief left to give that command, it's only natural that she'd stopped doing anything at all.
+182	And then, what became of the "Dragon-Devil"?
+183	It seems the "Eight Generals" felt at a loss, faced with that "Dragon-Devil."
+184	They had wondered just how terrifying a "dragon" it would be,
+185	only to find nothing but a single girl who showed no response even when spoken to, her heart lost.
+186	.........
+187	But even so, a "Dragon-Devil" is a "Dragon-Devil."
+188	In the end, opinion arose, even among the "Eight Generals," that she must be slain after all.
+189	And Idunn, reacting to that hostility, is said to have turned into the "Dragon-Devil" and attacked.
+190	Just like the "War Dragons," who have no proper will of their own and only react to hostility.
+191	Hartmut, with no other choice,
+192	cut her down with the sword he had created to fight the "Dragon-Devil," one that even surpassed the "Divine Weapons"—
+193	a sword of terrible power—and slew the "Dragon-Devil."
+194	The "Sword of Seals"...
+195	Whatever you "humans" call it, I don't know, but
+196	the "Dragon-Devil," cut by that sword, fell into some kind of sleep, for some reason.
+197	You mean she didn't die?
+198	That's right. Apparently, that sword
+199	had some mysterious power that reflected the wielder's own heart in its force.
+200	In other words, Hartmut had no intention of killing her...?
+201	Hartmut seems to have known something, beforehand, about the "Dragon-Devil"'s birth, to some degree.
+202	On top of that, it seems he felt something like "pity" upon first seeing Idunn's form.
+203	An emotion we "dragons" can't understand at all.
+204	"Pity," is it...
+205	As a result, it's likely he came to hold a feeling, deep in his heart, that he didn't want to defeat her.
+206	From where I stand, I can't see any reason to spare something that could invite your own ruin, but.
+207	That heart of his changed the sword's effect... is that what you mean?
+208	Hartmut persuaded those who said it would be better to destroy her outright,
+209	and decided to seal the "Dragon-Devil" away instead.
+210	Hartmut built a shrine deep in the forests of what is now Bern,
+211	and there sealed the "Dragon-Devil" away with the sword and the jewel.
+212	Those are what you call the "Sword of Seals" and the "Fire Emblem."
+213	And then he built a nation around that area, making the royal family, generation after generation, its watchers.
+214	Their descendant is that king you know, the one called Zephiel.
+215	Why do you know so much... even down to the fact that the "Dragon-Devil" was sealed?
+216	...Were you watching, somewhere?
+217	It's not that. At that time, I hovered between life and death, and afterward
+218	hid away, healing my wounds where humans wouldn't find me.
+219	This story just now, that man—Zephiel—taught it to me himself.
+220	Though Zephiel said he learned it from reading documents passed down within the Bern royal family.
+221	...How did you come to know King Zephiel?
+222	That man, is it...
+223	If you wish to hear, come here. Where I am is close now.
+224	So you've finally come this far... I am just within the inner chamber now.
+225	It's been a long time since I've met a human in the flesh.
+226	After all, I haven't once set foot outside this "Shrine of Dragons," not since the Scouring.
+227	You... you mean you've been here this whole time?
+228	A thousand years.
+229	I, who survived the Scouring, kept waiting, healing my wounded body,
+230	for the time the "Dragon-Devil" would revive once more, bringing glory to us "dragons."
+231	And at last, that time came.
+232	The "Dragon-Devil"'s seal was undone, and as if in answer to that "power,"
+233	power began filling my body as well.
+234	Why would your body have anything to do with the "Dragon-Devil"'s seal?
+235	This "Shrine of Dragons"'s power
+236	was sustained by the power of the "Divine Dragon," the pinnacle of "dragons"—or rather, of the "Dragon-Devil."
+237	When she was sealed away, I had been recovering by drawing on the "Shrine of Dragons"'s power.
+238	It couldn't be helped that my power never did return.
+239	I see, so that's it...
+240	And so, having regained power once more, I set out to investigate who it was that had freed the "Dragon-Devil,"
+241	and what their purpose was, using illusions.
+242	Now that you humans overflow every corner of the continent,
+243	I wanted, as much as possible, to avoid leaving this "Shrine of Dragons."
+244	Now that I think of it... aren't "dragons" in human form supposed to lose their power?
+245	How are you creating that illusion standing before me right now?
+246	This "Shrine of Dragons" exists for the sake of "dragons."
+247	It's the only place on this earth where a "dragon" can keep a measure of ability even while in human form.
+248	I am an extremely capable "dragon." As long as I hold a Dragonstone and remain within this "Shrine of Dragons,"
+249	moving an illusion of myself like this is a trivial matter.
+250	Though creating a physical body, the way the "Dragon-Devil" creates "War Dragons," would be impossible for me.
+251	And that's how you found Zephiel.
+252	That's right.
+253	I traced the "Dragon-Devil"'s pulse, and appeared before the one called Zephiel as an illusion.
+254	And I asked him.
+255	"What is your purpose in awakening the 'Dragon-Devil'?" I asked.
+256	That man was a strange sort of human. He showed almost no surprise at my sudden appearance,
+257	and instead stared me straight in the eye and asked back, "What are you?"
+258	When I answered that I was a "dragon,"
+259	he murmured, "A 'dragon,' truly?"—and after that,
+260	a smile rose to the corner of his mouth, and he continued like so:
+261	"Then my purpose is to hand this world over to you."
+262	.........
+263	I couldn't fathom his true intent, but
+264	I decided to join forces with the man who had become the "Dragon-Devil"'s "master."
+265	And as her "master," that man commanded the "Dragon-Devil" to guide the world in place of humans.
+266	Now that her "master," King Zephiel, has passed, what is the "Dragon-Devil" doing?
+267	That man was defeated by you, but the "Dragon-Devil" is, in a chamber even deeper than mine,
+268	waiting for the opportunity to begin the world's "liberation."
+269	!! Even though her "master" is gone now?
+270	Don't tell me—did you become her new "master"?
+271	There was no need for that. Even should her "master" fall,
+272	she had been ordered to carry out the task unchanged regardless.
+273	She will go on obeying that order,
+274	until the day the world's rule by humans comes to an end.
+275	How awful! Having had her "heart" stolen, and bound by orders on top of that...
+276	Did you feel something like "pity," too, I wonder? ...Truly, humans are beyond understanding.
+277	But let me teach you just one last thing. No matter what you do,
+278	the hearts of "humans" and "dragons" will never mingle.
+279	We are, in the end, different creatures—there's no coming to understand one another.
+280	That's not true!
+281	I know of a village where "humans" and "dragons" live together.
+282	Both "humans" and "dragons" were given life on this same earth.
+283	I'm sure we can come to understand each other!!
+284	"Humans" and "dragons," living together, you say?
+285	Hmph, nonsense. I have no intention of lending an ear to such talk.
+286	Now, come deeper in. From here, we will face each other with power alone!
+287	...A thousand years, is it. My power... it's filling me now...
+288	To think someone could surpass me...
+289	Humans truly possess an unfathomable power.
+290	At last... deep within here is the "Dragon-Devil"...
+291	...Big Brother Roy.
+292	? What's wrong, Fae? Why that look on your face, like you're about to cry...?
+293	Is Fae the enemy too, Big Brother?
+294	Eh?
+295	Someday... someday when I grow up, will Fae become a bad dragon too?
+296	!?
+297	Wait a moment, Fae. Tell me slowly what you want to say.
+298	That uncle said... that "humans" and "dragons" can't understand each other...
+299	But Fae was living together properly with humans, in the village of Nabata, wasn't she?
+300	But isn't Mister Dragon-Devil the same kind of "Divine Dragon" as Fae?
+301	But isn't she going to be defeated by you and the others, Big Brother?
+302	Then what about Fae?
+303	If Fae grows up and becomes like Mister Dragon-Devil, then Fae would...
+304	There's no need to worry about that at all.
+305	Even when you grow up, Fae will still be Fae. You'll always be together with humans, with us, from now on too.
+306	Really?
+307	Yes.
+308	And you know, if I can, I want to save the "Dragon-Devil," here deep inside.
+309	Eh?
+310	Even if I'm called a fool for it, her "heart" was stolen from her, not of her own will,
+311	and she's only ever been used by others—that it would be fine to simply defeat a "Dragon-Devil" like that,
+312	I really can't bring myself to think so.
+313	Fae... the story is difficult, and Fae doesn't really understand it.
+314	It's all right if you don't understand it yet, for now.
+315	What the hero Hartmut entrusted to later generations—we're the ones who will show the answer to that!
