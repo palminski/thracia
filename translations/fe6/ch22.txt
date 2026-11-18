@@ -1,0 +1,143 @@
+1	Having obtained the "Sword of Seals," Roy and the others turn their army toward Bern's royal capital.
+2	There waits the opponent Roy and the others must defeat—
+3	the very mastermind who started this great war,
+4	Bern's King Zephiel, who should be lying in wait leading Bern's formidable royal guard.
+5	Roy and the others press on, straight for Bern's royal capital,
+6	in order to bring an end to this long war, and to bring back a peaceful day to the continent once more...
+7	I see... so Murdock has fallen, has he...
+8	...I regret it deeply.
+9	...How do things stand with the Etrurian army's movements?
+10	After subjugating the "Shrine of Seals," it's said they're heading this way.
+11	I see... Then let us meet them in battle here, at this royal palace.
+12	Yes, sir. My arm itches for it.
+13	No, Brunnya. There's something I need you to do instead.
+14	Eh...
+15	Idoun. Idoun, are you there?
+16	...Before you, my lord.
+17	I will meet the Etrurian army in battle here.
+18	You are to escape from here. Hide yourself away until the fighting is over.
+19	...If that is what Your Majesty commands.
+20	Brunnya. You are to protect Idoun and escape from here.
+21	Th-that can't... please, let me fight alongside Your Majesty too!
+22	No. ...This battle will be a harsh one. I cannot afford to lose Idoun here.
+23	Otherwise, this war—my fight—will become something without meaning.
+24	But, Your Majesty! I... I...
+25	Enough, Brunnya. This is a royal command!
+26	Or are you telling me that you cannot obey this command of mine!
+27	No, I would never...
+28	Idoun. Even should I fall... you understand, don't you.
+29	Yes... just as Your Majesty has commanded, I will show you the world's "liberation."
+30	Good. The dream I saw does not end here.
+31	So long as you do not die, my dream will go on living—forever.
+32	Yes.
+33	The Etrurian army... so it's finally come, has it.
+34	We won't let you lot through to His Majesty... to the "Throne Room."
+35	No matter what, I will see to it that this "mechanism" is defended!
+36	So this is... Bern's royal palace...
+37	Lord Roy, Bern's King Zephiel
+38	is said to be in the central part of this place, the "Throne Room."
+39	However, it seems this castle's "Throne Room" has a special
+40	"mechanism" installed, for times when it comes under attack.
+41	What kind of thing is it?
+42	According to what we drew out of a Bern prisoner,
+43	there are "mechanisms" in the inner chambers on both sides of the royal palace,
+44	and it's said you must first disarm the "mechanisms" on both sides.
+45	That's quite a detour, isn't it...
+46	There's more still.
+47	After that, you must hold up the "jewel" to the door of the "Throne Room."
+48	When you do that, it's said the final mechanism releases, and the door opens.
+49	The "jewel"? I wonder if that means the "Fire Emblem."
+50	Most likely.
+51	In that case, I'm already carrying it right now.
+52	So all I have to do is head straight for the throne, then...
+53	That would surely be the quickest way.
+54	...But still, would he really so easily tell us such important information...?
+55	Could it be a trap set by the enemy...?
+56	No, that fellow also said this:
+57	"Those places are guarded by formidable men."
+58	"Even if you lot find out, there's nothing you can do about it," he said.
+59	...Whether we can or can't, we won't know until we try.
+60	The ones guarding it might be tough opponents, but
+61	we won't lose either!
+62	※If it's a male unit
+63	So this is it... a "mechanism," you say, but there's nothing special here...
+64	※If it's a female unit
+65	So this is it... a "mechanism," you say, but there's nothing special here...
+66	So you've come... hmph, to think a mere boy like you would dare stand in my way.
+67	Bern's King Zephiel...
+68	There's one thing... I want to ask. Why did you invade other nations!
+69	...In order to put an end to a world ruled by men.
+70	...What did you say?
+71	People are ugly.
+72	They sway toward whoever's strongest, and casually betray those they've trusted up until then.
+73	You too must have been made to suffer, time and again, by those who betrayed you, haven't you?
+74	.........
+75	Jealousy, envy, resentment...
+76	Swayed by such trivial emotions, kin and comrades turn on each other,
+77	and out of love for oneself, a father is born who would lay hands on his own son.
+78	As long as man rules man, as long as man stands above man, such things will never end.
+79	But—
+80	What you yourself are doing is precisely a man ruling over men, is it not!
+81	...You know how the "Scouring" ended, don't you.
+82	The tale that your ancestor, the hero Hartmut, defeated the "Dragon-Devil"...
+83	That was a mistake.
+84	A mistake?
+85	Man should never have won. Because man won, this world came to be ruled by man,
+86	and became an ugly thing, swayed by trivial emotions.
+87	.........
+88	Mistakes must be corrected swiftly.
+89	I will hand the world over to the "dragons."
+90	I will "liberate" the world from man's rule, and redo everything from after the Scouring once more.
+91	Th-then, is it true that you're the one who revived the "Dragon-Devil"?
+92	Who knows. Why don't you confirm that for yourself.
+93	...You just said you'd hand the world over to the "dragons," but that just means men are replaced by dragons!
+94	But the "dragons" that have been revived are vessels made for fighting...
+95	those have no "self."
+96	A world ruled by them will become a fair and quiet one.
+97	I don't think that would make for a good world at all!
+98	It's true, people are led astray by all sorts of petty thoughts, but
+99	isn't it people, too, who overcome them!
+100	Hmph... pretty words.
+101	I believe in the possibility of people!
+102	I will never lose to you, who have despaired of people and denied even yourself!!
+103	I won't let the likes of you stand in my way!
+104	Mmgh... so I... lose...
+105	But remember this...
+106	My conviction... was not what lost here...
+107	As long as man rules over man... tragedy will... repeat itself...
+108	※If you have all 8 Divine Weapons (not whether you picked them up, but whether all have been used at least once)
+109	So this is the Bern king's end...
+110	Lord Roy, you've done it.
+111	...It may be too soon to celebrate.
+112	What do you mean by that?
+113	What's that supposed to mean?
+114	The figure of the one called the "Priestess of Darkness" is nowhere to be seen...
+115	Hm, so it seems she's gotten away.
+116	...I see.
+117	Whoa! Wh-what is this?
+118	King Zephiel's sword just... glowed!
+119	If I recall, its name was...
+120	"Eckesachs"...
+121	A sword that, it's said, only Bern's king is permitted to use...
+122	Th-that reminds me, in one account of the "Scouring" legend,
+123	...the "Divine Weapons" wielded by the Eight Generals—
+124	when they all gather together in one place, the Shrine of Dragons shall appear...
+125	there was something like that, I believe.
+126	The Shrine of Dragons...
+127	It's said to have been the home base of the dragons, in the age of the "Scouring."
+128	I do believe... I recall reading something like that...?
+129	Yes, that's how the legend has it.
+130	Then, is "Eckesachs" the final "Divine Weapon"?
+131	I had thought Hartmut used the "Sword of Seals."
+132	...Perhaps the "Sword of Seals" is something other than a "Divine Weapon"...
+133	It may be an existence that surpasses even that...
+134	...Something that surpasses even the "Divine Weapons"... just what is the power of the "Sword of Seals"...?
+135	Oh! It's glowing again!
+136	This time, the light is stretching out, in a streak, toward the south!!
+137	Does this mean the Shrine of Dragons lies at the end of this light?
+138	If we consider that the legend's "shall appear" points to that location,
+139	then that would be so.
+140	...If the "Priestess of Darkness" really is the "Dragon-Devil"...
+141	then the chances she's there are quite high, I'd say...
+142	Understood. Let's go—to the Shrine of Dragons!
+143	※If you don't have all 8 Divine Weapons

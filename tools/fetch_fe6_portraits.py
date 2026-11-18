@@ -48,7 +48,7 @@ NAMES = {
     "モンケ": "monke",
     "ケル": "kel", "ニイメ": "niime", "ダヤン": "dayan",
 "マーテル": "martel", "シグーネ": "sigune", "ユーノ": "juno", "ティック": "tick",
-"ペレス": "peres",
+"ペレス": "peres", "イドゥン": "idunn_01",
 }
 
 
