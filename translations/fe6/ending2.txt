@@ -1,0 +1,35 @@
+1	Brother...
+2	...Princess Guinevere.
+3	Lord Roy, I'm terribly sorry. Please, leave me be for now...
+4	Ah! Princess...
+5	Lord Roy, perhaps it's best not to follow her right now...
+6	...I'll go.
+7	Elffin!
+8	Yes.
+9	...Thank you.
+10	Even though there must have been matters concerning your own country too... you helped us all the way to the end.
+11	...I'm not sure what you mean by that... but if I was of some use, nothing could please me more.
+12	Yeah.
+13	...Still, though... man ruling over man, was it...
+14	Those were King Zephiel's words, weren't they.
+15	There may well be a grain of truth in what that man said.
+16	...Was the "Priestess of Darkness" found?
+17	No... it seems she vanished before the battle with us even began.
+18	I see... Marinas, do you think that person is truly the "Dragon-Devil"?
+19	I can't say... not unless we actually find that woman.
+20	But it seems she always kept herself wrapped and hidden in a jet-black robe,
+21	and hardly anyone, they say, knows her true appearance.
+22	I'll try to do everything I can... but it may be difficult.
+23	I see... but still, with this, the fighting is finally over, isn't it.
+24	No, from here on is when things get hard, Lord Roy.
+25	Restoring the land ravaged by war, helping the people who suffered...
+26	That's true. There's a mountain of things that still need doing.
+27	The real fight may well be only just beginning.
+28	That's so.
+29	We who are alive must think of tomorrow.
+30	No matter how hard the future may be, we will not lose.
+31	Let us prove that even by human hands, we can build a beautiful world!
+32	I, Marinas, will go on helping you forever, Lord Roy!
+33	First, Lord Roy, let us leave this castle.
+34	Let us tell everyone of our victory!
+35	And so, the great upheaval that would later come to be called the "Bern Uprising," one that had engulfed the entire continent, drew to a close. The kingdom of Bern surrendered to the kingdom of Etruria along with the death of King Zephiel. The kingdom of Etruria dissolved the kingdom of Bern once, and, citing the distance involved, did not rule it directly, but instead had a new kingdom of Bern founded anew on Bern's land, with Guinevere as its queen. There remained deep-rooted backlash from Bern's former vassals and citizens over handing the "Fire Emblem" to the enemy, but as a result of Guinevere's persistent efforts, the newborn kingdom of Bern, though one couldn't call its progress smooth, pressed on down the road to recovery. The whereabouts of Idunn, the "Priestess of Darkness" who had served close by Zephiel's side, were never discovered, and the matter ended there. The world, under the leadership of the kingdom of Etruria, once again regained stability and peace. In time, the continent of Elibe, in an age far later than that of Roy and the others, would come to be united into a single nation—but that is another story entirely...
