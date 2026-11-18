@@ -1,0 +1,185 @@
+1	※If Fae survived, and the Sword of Seals dealt the finishing blow
+2	Eek!
+3	Wh-what's this!? The building's starting to collapse!
+4	Everyone, hurry! Let's get out of here!
+5	Big Brother Roy...
+6	I know.
+7	Leave the rest to me! Now, hurry!!
+8	Oh! Lord Roy! You're safe!!
+9	Yeah, somehow.
+10	But I was surprised, when it suddenly started to collapse like that...
+11	It's a building already over a thousand years old, after all.
+12	It probably couldn't withstand the power of the "Dragon-Devil" and the "Divine Weapons."
+13	I see...
+14	It's another sign of the changing of the times, I suppose.
+15	...Now then, Lord Roy? Just who might that person be, carried on your back...?
+16	Ah, this person?
+17	Marinas, actually, there's a favor I'd like to ask of you...
+18	※If Fae died, or the Sword of Seals did not deal the finishing blow ※Only if the Sword of Seals dealt the finishing blow
+19	Wh-what's this... the building's starting to collapse!
+20	Everyone, hurry! Let's get out of here!
+21	※Only if the Sword of Seals dealt the finishing blow
+22	Oh, Lord Roy, you're safe!
+23	Yeah, somehow.
+24	But I was surprised, when it suddenly started to collapse like that...
+25	...It's a building already over a thousand years old.
+26	A battle using a vast amount of energy was fought within it...
+27	The building itself must not have been able to withstand it.
+28	I see...
+29	So with this, it's finally over, is it, Lord Roy.
+30	No.
+31	This isn't the end. From here on is where it truly begins.
+32	We have to restore the land and the people ravaged by war.
+33	There's so much that still needs to be done.
+34	The real fight starts now!
+35	※If support level between Roy and Lilina is A
+36	Roy, it's finally here, isn't it. Princess Guinevere's coronation ceremony.
+37	This is my first time seeing her in formal dress. I bet she's beautiful enough to leave you speechless.
+38	When I first met her, I was honestly surprised.
+39	That someone so beautiful could exist in this world.
+40	That's true.
+41	But Princess Guinevere—from here on, things are going to be hard for her.
+42	Eh?
+43	If she becomes queen of Bern now, through the power of the kingdom of Etruria,
+44	I think there's bound to be backlash from within Bern, no matter what.
+45	Oh, no...
+46	Some people will probably say that Princess Guinevere
+47	"aimed for the throne and borrowed Etruria's strength for it," and she'll have to face voices like that.
+48	...But I'm sure Princess Guinevere can get through it.
+49	And someday, Bern will become a richer nation than ever before...
+50	Because she's that noble, that wise... and that strong a person.
+51	That's right. I believe that too.
+52	...Roy, what will you do from now on?
+53	Me? I'm going back to Pherae.
+54	I'm worried about my father's illness too, and I need to rebuild the land ravaged by war.
+55	That... I... I too...
+56	Eh?
+57	Eh? N-no, it's nothing.
+58	I see... so Roy's going back to Pherae...
+59	What about you, Lilina? You're going back to Ostia, right?
+60	...Yes, that's how it'll be. I have to take up my father's will.
+61	I'm glad that where Lilina's going home to is Ostia.
+62	...Why?
+63	Because, if it's Ostia, I can always go to pick you up, any time.
+64	Eh...
+65	Lilina, I don't know when it'll be, but,
+66	I will definitely, Lilina...
+67	...S-suddenly saying something like that, I'm not even mentally prepared...
+68	B-but, I've always... thought of you, Roy...
+69	Oh, the coronation ceremony is about to start.
+70	Lilina, let's hurry. We have to go congratulate Princess Guinevere!
+71	Ah, R-Roy... wait a moment...
+72	※If support level between Roy and Lilina is not A ※If the Sword of Seals dealt the finishing blow
+73	Princess, it's finally here, isn't it. The coronation ceremony.
+74	Yes...
+75	For me, from here on will be even more days of struggle.
+76	I'm sorry. For me, there was no other way but to borrow the strength of the kingdom of Etruria.
+77	I had no other means.
+78	No. I'm grateful to you, Lord Roy.
+79	It's true that many will likely say I
+80	"aimed for the throne and borrowed Etruria's strength for it."
+81	Princess Guinevere...
+82	But right now, more than any of that, rebuilding Bern is what matters.
+83	I will work to make the people and the vassals understand, by reviving this nation.
+84	Even if it takes years, even decades, someday, surely...
+85	If there's anything I can help with, please tell me, anytime.
+86	Thank you. I may well ask you for that help, someday.
+87	More than that... Lord Roy...
+88	Eh?
+89	What will you do from here on? Will you stay with the Etrurian army as you are?
+90	No. I'll be returning to Pherae.
+91	I'm worried about my father's illness too, and I need to rebuild the land ravaged by war.
+92	I see. So you'll be returning to your homeland.
+93	How like you, Lord Roy... with your ability and achievements,
+94	you could aim for an even higher position within the kingdom of Etruria...
+95	I-I'm not suited for anything like that!
+96	Hee hee... Pherae's people are fortunate, then.
+97	Surely, in no time, it will become a land even richer than before...
+98	Princess, your Highness... no, Your Majesty...
+99	"Guinevere" is fine. What is it?
+100	Yes, Lady Guinevere, the preparations for the ceremony are complete!
+101	Understood. I'll come right away.
+102	Lord Roy, there's just one thing I'd like to ask, if I may.
+103	What is it?
+104	Did you... deal the finishing blow, to the "Dragon-Devil"?
+105	.........Must I answer that?
+106	No... I think your not answering is itself the answer.
+107	※Only if the Sword of Seals did not deal the finishing blow
+108	Princess, it's finally here, isn't it. The coronation ceremony.
+109	Yes...
+110	For me, from here on will be even more days of struggle.
+111	I'm sorry. For me, there was no other way but to borrow the strength of the kingdom of Etruria.
+112	I had no other means.
+113	No. I'm grateful to you, Lord Roy.
+114	It's true that many will likely say I
+115	"aimed for the throne and borrowed Etruria's strength for it."
+116	Princess Guinevere...
+117	But right now, more than any of that, rebuilding Bern is what matters.
+118	I will work to make the people and the vassals understand, by reviving this nation.
+119	Even if it takes years, even decades, someday, surely...
+120	If there's anything I can help with, please tell me, anytime.
+121	Thank you. I may well ask you for that help, someday.
+122	More than that... Lord Roy...
+123	Eh?
+124	What will you do from here on? Will you stay with the Etrurian army as you are?
+125	No. I'll be returning to Pherae.
+126	I'm worried about my father's illness too, and I need to rebuild the land ravaged by war.
+127	I see. So you'll be returning to your homeland.
+128	How like you, Lord Roy... with your ability and achievements,
+129	you could aim for an even higher position within the kingdom of Etruria...
+130	I-I'm not suited for anything like that!
+131	Hee hee... Pherae's people are fortunate, then.
+132	Surely, in no time, it will become a land even richer than before...
+133	Princess, your Highness... no, Your Majesty...
+134	"Guinevere" is fine. What is it?
+135	Yes, Lady Guinevere, the preparations for the ceremony are complete!
+136	Understood. I'll come right away.
+137	Lord Roy, would you accompany me?
+138	Eh? Me?
+139	Ever since I left Bern carrying the "Fire Emblem,"
+140	you've truly taken such good care of me, Lord Roy.
+141	That's why I want you, Lord Roy, to witness it.
+142	The moment I receive Bern's crown, and Bern begins to walk a new path...
+143	Understood. If I'll do, I'd be glad to.
+144	Then...
+145	To witness the start of a new Bern... no, a new era...
+146	※Only if Fae survived and the Sword of Seals dealt the finishing blow: And so, time flowed on...
+147	Oh, why, it's you, Lord Roy. It's been a while.
+148	I had business that brought me near here,
+149	so I took the chance to stop by.
+150	Fae will be glad too, I'm sure.
+151	I saw her just now, actually. She looks as lively as ever.
+152	These days she's able to go outside more often, which must be all the more reason for it.
+153	So, how is it going? The woman I left in your care.
+154	The technique that stole her "heart"—I have undone it, but...
+155	...I take it she still hasn't been able to return to how she was, then.
+156	Fae takes her out sometimes,
+157	but she never tries to do anything on her own.
+158	I see...
+159	...Lord Roy.
+160	We were aware that that girl had been captured by the "dragons," and yet
+161	we did not go to help her... fearing that showing ourselves before them again
+162	would put our whole race in danger.
+163	Even now, I wonder whether that judgment was the right one.
+164	.........
+165	Is this, too, because we've come to live alongside humans, I wonder?
+166	With that atonement in mind as well,
+167	I intend to give everything I have, in order to restore that girl's "heart."
+168	...Please. I'm counting on you.
+169	If only there were even some "sign" that her feelings have stirred at all—
+170	crying, or laughing, something like that...
+171	And then, you know, and then—that's called a "tree," you know!
+172	A "tree"...
+173	Yeah! And on that "tree," there's this really, really delicious "fruit" that grows!
+174	A "fruit"?
+175	Look, look, up there, that one. And then, you know, if you shake the "tree" like this...
+176	Eek!
+177	*sniff* It hit my hand...
+178	...Heh.
+179	Eh... Big Sister, did you just laugh?
+180	...Laugh? Me?
+181	Yeah, just now, a "heh"!
+182	Yay! Big Sister laughed, she laughed~
+183	"Laugh"? Is this... "laughing"...?
+184	Fae's going to go tell Big Brother Roy! That Big Sister laughed!!
+185	The wind...
