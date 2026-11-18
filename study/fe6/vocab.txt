@@ -4589,3 +4589,48 @@
 頭#counter|とう|counter for large animals (e.g. 何頭 "how many [animals]")
 商人|しょうにん|a merchant
 どこか|どこか|somewhere
+嵐|あらし|a storm
+恐れ|おそれ|fear, dread
+たどりつく|たどりつく|to finally arrive at, to struggle one's way to
+独立|どくりつ|independence
+巻く|まく|to wrap, to roll; 長いものに巻かれる = "to go along with the stronger side" (idiom)
+回す|まわす|to turn, to send around; 気を回す = "to worry about, to fret over"
+配置|はいち|placement, positioning
+吹雪|ふぶき|a snowstorm, a blizzard
+名物|めいぶつ|a local specialty, something famous (about a place)
+とくと|とくと|thoroughly, well (emphatic)
+余裕|よゆう|room to spare, composure
+蘇る|よみがえる|to be revived, to come back to life
+拒む|こばむ|to refuse, to reject
+荒れ狂う|あれくるう|to rage violently
+大災害|だいさいがい|a great disaster
+一説|いっせつ|one theory, one account
+膨大|ぼうだい|huge, vast
+冬将軍|ふゆしょうぐん|"General Winter" (personification of a harsh winter)
+最果て|さいはて|the farthest end, the remotest place
+渦巻く|うずまく|to swirl, to eddy
+書|しょ|a document, a writing
+暗雲|あんうん|dark clouds
+一陣|いちじん|a gust (of wind)
+一条|いちじょう|a streak, a ray (of light)
+差し込む|さしこむ|to shine in, to stream in (of light)
+悩む|なやむ|to agonize, to be troubled
+定まる|さだまる|to be decided, to be settled
+安息|あんそく|peace, rest
+じっと|じっと|motionlessly, intently
+ひそめる|ひそめる|to hold (one's breath); to knit (one's brows)
+悪魔|あくま|a devil, a demon
+手遅れ|ておくれ|too late
+震え|ふるえ|a shiver, a tremble
+末妹|まっまい|the youngest sister
+加減|かげん|degree, extent; 手加減 = "holding back, going easy on"
+寒い|さむい|cold
+終点|しゅうてん|the end of the line, the terminus
+とっくに|とっくに|a long time ago, long since
+読む|よむ|to read
+ブリザード|ブリザード|a blizzard
+外敵|がいてき|an outside enemy, a foreign threat
+敬意|けいい|respect, reverence
+上手|じょうず|skilled, good at
+終末|しゅうまつ|the end, the ending
+白い|しろい|white

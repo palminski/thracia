@@ -1,0 +1,133 @@
+1	Having defeated Priest-General Martel of Bern's Northern Army,
+2	what awaited Roy and the others as they broke through the forest
+3	was a blizzard of snow and ice unique to the Ilia region... a true blizzard.
+4	This harsh climate of Ilia, having turned back the invasions of outside enemies so many times before,
+5	had come to be called, with dread and reverence, the "General Winter."
+6	That mightiest of Ilia's commanders, "General Winter," together with the pegasus knight order Sigune Squadron, which had sided with Bern,
+7	now falls upon Roy and the others.
+8	Captain Sigune! A report has come in that the enemy has reached the far side of the mountain...
+9	So they've come. It's finally here, is it.
+10	...Captain Sigune. Is this really all right?
+11	What do you mean?
+12	The enemy claims to be liberating the continent from Bern's rule.
+13	If that's true, then Ilia's independence too...
+14	You—do you honestly believe what those people say?
+15	What fool fights a war for the sake of others? Where in the world does such a thing exist?
+16	Once they've beaten Bern, in the end they'll just turn around and think to rule over Ilia too.
+17	That may well be so, but...
+18	That's exactly why it's best to just go along with the stronger side. Bern is far better at war, after all.
+19	.........
+20	If you have the spare time to worry about such things, spend it thinking about how to beat the enemy in front of you instead.
+21	Are the Shooters ready?
+22	Yes, the Archers are all in position.
+23	Hee hee hee... the enemy, caught in the blinding snow, won't even be able to see properly around them.
+24	Taste well the dread of Ilia's famous "General Winter."
+25	What a terrible blizzard. With this, I can't see anything around us at all...
+26	Ho ho ho, Ilia's winters are always like this.
+27	Seeing as you're trying to wage a war in winter, there's no helping it.
+28	We can't very well afford to give Bern the chance to recover its footing...
+29	Well, that's certainly true.
+30	It would be a serious problem if the "Dragon-Devil" really has been revived.
+31	Niime, I wonder what sort of form the "Dragon-Devil" takes.
+32	Just like the "dragons" we've seen up till now, perhaps the "Dragon-Devil" too takes a human form?
+33	That's so.
+34	All the "dragons" may well be borrowing human form right now.
+35	I don't know if it's true or false, but
+36	I've at least heard tell that there are dragonkin living alongside humans in human form.
+37	The village of Nabata...
+38	Hm? Did you say something?
+39	No, it's nothing.
+40	I don't know the details, but after the "Ending Winter,"
+41	dragons are said to have begun taking human form, or so I've seen in an old document.
+42	The "Ending Winter"...
+43	You've at least heard of it, haven't you?
+44	Yes, I learned of it as a legend.
+45	"At that time, the world's 'order' went mad,
+46	day became night, summer became winter,
+47	and heaven and earth raged as if to reject all living things," or so it's told.
+48	That's right. It's such an old thing that accounts differ depending on the text,
+49	but in any case, the "Ending Winter" was a great calamity that changed the world.
+50	What was the cause?
+51	Well now...
+52	By one account, it's said that the "dragons" used a vast amount of magical power,
+53	and that this warped the order of nature, but the truth of the matter I don't know either.
+54	However, it does seem certain that it was after this that "dragons" began taking human form.
+55	I can't think it's entirely unrelated.
+56	Yes, indeed, that does seem true.
+57	Well, in any case, it seems the truth about "dragons" lies with Bern.
+58	To think anyone would come all the way out to a remote place like this...
+59	So then... the prophecy was right after all.
+60	The world now is like a storm swirling outside... the light still cannot be seen...
+61	This tome is a single gust of wind that will clear away that dark cloud.
+62	And you all, surely... are the single ray of light that shines down into it.
+63	Do I keep living, following along with Bern... or...
+64	I've agonized over it for so long... but at last my heart is made up.
+65	I'll give this to you.
+66	This is a ring that awakens the power of the inner fight.
+67	They say if you use it, you can gain tremendous power.
+68	Please... bring peace to this land...
+69	The Bern army's stronghold here in Ilia...? Um, let me think, I believe it was Eda... Ere...
+70	Ede— a castle called Edessa, I believe. It's said to be northeast of here.
+71	The Shooters to the east, do you know about them? Here should still be fine, though.
+72	I think the item shop nearby is dangerous...
+73	Pegasus knights, and Shooters too...
+74	Ilia's Sigune has her sights set on you all.
+75	Deep within the blizzard, holding her breath, waiting.
+76	You all are out of luck too.
+77	Guarding this place is the "White Devil"—the Sigune Squadron.
+78	Ilia's pegasi fly even through this blizzard.
+79	They suddenly appear right before your eyes, out of the white snow.
+80	By the time you notice them, it's already too late...
+81	Ah... just thinking about it makes me shiver...!
+82	※If Sigune survives only
+83	Captain! Some of the pegasus knights from other units
+84	have reported that they're heading this way to help us!
+85	Is that so? That's quite welcome news.
+86	If, in this unfamiliar blizzard, we were suddenly attacked from all sides...
+87	Hee hee hee. The enemy would be in quite a pitiable state.
+88	※If fought with Shanna: You're Juno's youngest sister, aren't you.
+89	Are you saying you'll be my opponent?
+90	.........
+91	The Ilia knight's oath... I won't go easy on you, understand?
+92	Mm...
+93	※If fought with Thea: Oh, isn't that Thea? What are you doing here...
+94	I see, so you've sided with Etruria...
+95	Sigune...
+96	You remember the Ilia knight's oath, don't you?
+97	I won't hold back.
+98	※If fought with any other unit: You've worked hard in this cold, haven't you? But that's over now...
+99	This is the end of the line for you all...
+100	...How unfair. So it's me who ends up dying...
+101	No... perhaps I died a long, long time ago...
+102	Marinas, I'd like you to send this letter to Bern's Priest Yodel.
+103	A letter...? May I ask what it says?
+104	It's something I heard from Niime. About the "dragons" Bern makes use of.
+105	Oh! Whatever sort of talk did you have?
+106	It would take a while to explain, so...
+107	I haven't sealed it yet, so it'd be best if you just read over the letter yourself.
+108	Understood. Well then, let me have a look right away...
+109	...Lord Roy.
+110	Princess Guinevere. What's the matter?
+111	Would you listen... to something I have to say, about my brother?
+112	!! ...Are you sure you want to tell me?
+113	Yes... after all, I feel you ought to know, before we enter Bern.
+114	About the dreadful thing that happened within the Bern royal family.
+115	...The other day, you asked whether my brother—whether King Zephiel of Bern—
+116	had laid hands on our father, the former king.
+117	Yes...
+118	To give you the conclusion first... it's true.
+119	! Then King Zephiel truly did, aiming for the throne, lay hands on his own father...
+120	That's not it!
+121	Not it? Then didn't he assassinate the former king for the sake of the throne?
+122	That's not it... it was Father, first, who plotted the assassination.
+123	What! Th-then King Zephiel...
+124	Unable to bear Father's tyrannical conduct any longer, he... he took Father's life with his own hands...
+125	What in the world...
+126	...My, "dragons" truly are mysterious creatures, aren't they...
+127	Hm? Is something the matter, you two?
+128	No... it's... we'll speak of it again sometime...
+129	...Could it be that my coming here just now was poorly timed?
+130	No, that's not it at all. More to the point, did you send it off for me? The letter.
+131	Yes. After I read it through, I sealed it and sent it off right away...
+132	I see. Thank you.
+133	Bern's former king... why would he do that, to his own true son...
