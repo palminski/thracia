@@ -1,0 +1,293 @@
+1	Having defeated the pegasus knight order led by Sigune in the midst of the blizzard, Roy and the others
+2	advance their army toward Castle Edessa in the southern part of the Ilia region.
+3	This castle, also the home base of a pegasus knight order, was originally under the command
+4	of Zelot, the head of a mercenary knight order, but in his absence it could not withstand Bern's invasion and surrendered.
+5	Since then, it has become the center of Bern's administration of Ilia.
+6	And now, in this land, in place of General Murdock of Bern's Three Dragon Generals, who had returned to the homeland,
+7	former Etrurian Prime Minister Roartz had been entrusted with the Bern garrison force.
+8	Roartz, alarmed by the speed of the advance of Roy and the Etrurian army,
+9	hastily sent word to Ilia's various knight orders asking them to side with him, but
+10	the replies he received were less than promising.
+11	Well then, have the troops gathered?
+12	That's just it, sir...
+13	We're ordering the knight orders scattered across the Ilia region to join us, but
+14	apart from the ones that came at General Murdock's call, the response has been lukewarm...
+15	Argh! What is the meaning of this!!
+16	...That's right, we were holding this castle's lady and the knights' families, weren't we.
+17	What about those families?
+18	Yes, sir, about that... they're constantly moving as a mercenary knight order, fighting all across the region,
+19	so even just pinning down where they are right now seems to be difficult.
+20	Grr...
+21	Ever since the Sigune Squadron, the pegasus knight order fighting for Bern, was defeated by the enemy,
+22	it seems the other knight orders across the region have grown even more hesitant to act...
+23	Argh! Every single one of them makes my blood boil!
+24	Me, the prime minister of the kingdom of Etruria, me of all people—you're telling me to fall in a backwater like this?!
+25	*cough* *cough*...
+26	Are you all right? Here, put this on.
+27	B-but that's... then Lady Yuno would—
+28	It's fine. I'm used to the cold. It's still far better than flying through the snow on a pegasus.
+29	...Thank you so much. *cough* *cough*
+30	Lady Yuno, what's going to become of us...?
+31	I don't know either. But let's keep holding onto hope.
+32	Maybe the occupying army will withdraw, or maybe our husbands will come back.
+33	It's not as though everything ahead of us is necessarily bleak.
+34	...Where could Lord Zelot and the others be?
+35	In his last letter, he wrote that he was going to join the Lycian Alliance, but after that...
+36	He might well be somewhere nearby, you know.
+37	I do hope that's so...
+38	Lord Roy... today again, the fighting is about to begin, isn't it.
+39	Yes. If we can take this castle,
+40	next we'll be advancing our army into Bern's homeland.
+41	Princess Guinevere.
+42	...Yes.
+43	May I ask you the reason?
+44	The reason King Zephiel was nearly assassinated by his father the king...
+45	...My brother and I had different mothers. We're half-siblings.
+46	I'd heard that King Zephiel's mother was an Etrurian princess?
+47	Yes. She was the woman who became Father's consort in order to strengthen the bond between Etruria and Bern.
+48	But Father already loved another woman by then—and that was my own mother.
+49	.........
+50	As for the marriage between Father and my brother's mother, those around them—
+51	the other royalty and the senior vassals had forced it upon them, or so I'm told.
+52	Because of that, Father never loved my brother's mother, and he seems to have come to feel burdened by my brother because of it.
+53	Is that why the relationship between Bern's former king and King Zephiel soured?
+54	No, my brother, for his part, still tried desperately to earn Father's favor, even so.
+55	Both the knowledge and refinement befitting an heir to the throne, and the discipline befitting a commander who leads an army...
+56	My brother grew into a prince with nothing lacking, as one fit to inherit the kingdom of Bern.
+57	But then, if that's so, why did Bern's former king...
+58	Lord Roy! Preparations for the attack are complete!
+59	Understood. I'll be right there!
+60	Princess Guinevere, I'm terribly sorry, but...
+61	No, not at all. Please, take care...
+62	Yuno!
+63	You...
+64	Are you all right? Are you hurt? Did they treat you badly? Hm?
+65	My, my, the way you talk, it's as if you think you're dealing with a child.
+66	Even so, I was once a captain of the pegasus knight order, you know.
+67	That's true, but, still, well...
+68	I'm fine. I haven't been hurt, and I haven't been treated badly either.
+69	I see. That's good...
+70	But why with the Etrurian army? Weren't you part of the Lycian Alliance?
+71	Well, that's a bit of a complicated story...
+72	This army I currently belong to, the Etrurian army,
+73	is called that in name, but in truth, the main body is the Lycian Alliance army.
+74	My, so that's how it was.
+75	I'm sorry, that this happened to you while I was away.
+76	There's no helping it. It's the flow of the times that made it so.
+77	But still, to think I made you wear a soldier's uniform, of all things...
+78	My, dear, do you dislike the sight of me as a pegasus knight captain?
+79	No, it's not that at all! Certainly not, but...
+80	Then isn't it just fine?
+81	Besides, from now on, you'll be seeing it all the time anyway.
+82	What do you mean! You don't mean...
+83	Yes, I'll be going into battle too.
+84	No! No, no, absolutely not! You've already retired from the army!
+85	So, leave the fighting to us, and...
+86	But even while waiting like that, I still got caught up in the fighting, didn't I?
+87	In this day and age, there's no such thing as a safe place.
+88	That may well be true, but...
+89	That's exactly why I'll fight too.
+90	So that a time when we can live in peace, safely, arrives even a little sooner...
+91	Sister!
+92	Thea... why are you here?
+93	...It's a long story, but right now I've joined the Etrurian army.
+94	When I heard that this Edessa had fallen into Bern's hands,
+95	I was worried, but I'm glad you're safe...
+96	But you—
+97	Weren't you hired by the faction that was fighting the Etrurian army just now?
+98	Don't tell me you—
+99	That's not it! As an Ilia knight, I haven't broken my oath.
+100	I properly fulfilled my duty as a mercenary, and only after that did I...
+101	That's right, you're such a very serious girl. There's no way you'd do something like that.
+102	I'm sorry, for saying something so unnecessary.
+103	It's fine, don't worry about it. More to the point, Sister, that uniform of yours...
+104	This? Hee hee, what do you think?
+105	Do I still look up to the task, as captain of the pegasus knight order?
+106	Well, until recently, you certainly were, so...
+107	But why? Weren't you retired from the pegasus knights...?
+108	In an emergency like this, I can hardly keep saying that, can I?
+109	By myself, keeping everyone safe here was already all I could manage, but
+110	with you all, I feel I could stand up against Bern's army.
+111	So then, Sister, will you fight together with us too?
+112	Yes.
+113	I'm so happy!
+114	I never thought I'd get to fight shoulder to shoulder with you again.
+115	Hee hee hee... but don't think I'll lose to you two just yet.
+116	Big Sister Yuno!
+117	My, Shanna. Why are you here?
+118	I've been with this army this whole time, the one led by this general from the Etrurian army.
+119	When I heard that Edessa had been occupied by Bern's army, I was so shocked, but
+120	I believed that if it was Big Sister Yuno, you'd surely be all right.
+121	Eh, why's that?
+122	Because Big Sister Yuno was the captain of the glorious pegasus knight order, wasn't she!
+123	There's no way that sister of mine would lose to the likes of Bern.
+124	Thank you. It makes me happy to hear you say that.
+125	Unfortunately, right now, I'm a prisoner, though.
+126	Th-that's...
+127	But I don't intend to stay defeated by Bern either.
+128	By myself, keeping everyone safe here was already all I could manage, but
+129	with you all, I feel I could stand up against Bern's army.
+130	Eh, so then, Big Sister, will you fight together with us?
+131	Yes.
+132	Really? Yay!!
+133	My, my, there's no need to be so overjoyed...
+134	Because I've always admired Big Sister Yuno, and that's why I became a pegasus knight.
+135	Getting to fight together with you feels like a dream!
+136	My, Shanna, honestly, you're as dramatic as ever. Hee hee hee...
+137	Yuno!
+138	You...
+139	Are you all right? Are you hurt? Did they treat you badly? Hm?
+140	My, my, the way you talk, it's as if you think you're dealing with a child.
+141	Even so, I was once a captain of the pegasus knight order, you know.
+142	That's true, but, still, well...
+143	I'm fine. I haven't been hurt, and I haven't been treated badly either.
+144	I see. That's good...
+145	But why are you here? Weren't you part of the Lycian Alliance?
+146	Well, it's a matter of how things turned out...
+147	This General Roy, who leads this army, is also the one leading the current Lycian Alliance.
+148	My, so that's how it was.
+149	I'm sorry, that this happened while I was away.
+150	There's no helping it. It's the flow of the times that made it so.
+151	But still, to think I made you wear a soldier's uniform, of all things...
+152	My, dear, do you dislike the sight of me as a pegasus knight captain?
+153	No, it's not that at all! Certainly not, but...
+154	Then isn't it just fine?
+155	Besides, from now on, you'll be seeing it all the time anyway.
+156	What do you mean! You don't mean...
+157	Yes, I'll be fighting too.
+158	No! No, no, absolutely not! You've already retired from the army!
+159	So, leave the fighting to us, and...
+160	But even while waiting like that, I still got caught up in the fighting, didn't I?
+161	In this day and age, there's no such thing as a safe place.
+162	Well, that may well be true, but...
+163	That's exactly why I'll fight too.
+164	So that a time when we can live in peace, safely, arrives even a little sooner...
+165	Sister!
+166	Thea... you too, with this army?
+167	Yes, it's a long story.
+168	When I heard that this Edessa had fallen into Bern's hands,
+169	I was worried, but I'm glad you're safe...
+170	But you—
+171	Weren't you hired by the faction that was fighting the Etrurian army just now?
+172	Don't tell me you—
+173	That's not it! As an Ilia knight, I haven't broken my oath.
+174	I properly fulfilled my duty as a mercenary, and only after that did I...
+175	That's right, you're such a very serious girl. There's no way you'd do something like that.
+176	I'm sorry, for saying something so unnecessary.
+177	It's fine, don't worry about it. More to the point, Sister, that uniform of yours...
+178	This? Hee hee, what do you think?
+179	Do I still look up to the task, as captain of the pegasus knight order?
+180	Well, until recently, you certainly were, so...
+181	But why? Weren't you retired from the pegasus knights...?
+182	In an emergency like this, I can hardly keep saying that, can I?
+183	From now on, we'll be together, won't we.
+184	I'm so happy!
+185	I never thought I'd get to fight shoulder to shoulder with you again.
+186	Hee hee hee... but don't think I'll lose to you two just yet.
+187	Big Sister Yuno!
+188	My, Shanna. You too, with this army?
+189	Yeah, I've been part of it this whole time.
+190	When I heard that Edessa had been occupied by Bern's army, I was so shocked, but
+191	I believed that if it was Big Sister Yuno, you'd surely be all right.
+192	Eh, why's that?
+193	Because Big Sister Yuno was the captain of the glorious pegasus knight order, wasn't she!
+194	There's no way that sister of mine would lose to the likes of Bern.
+195	Thank you. It makes me happy to hear you say that.
+196	Up until now, I was a prisoner, though.
+197	Th-that's...
+198	But from now on, we get to fight together, don't we.
+199	Eh, really? Yay!!
+200	My, my, there's no need to be so overjoyed...
+201	Because I've always admired Big Sister Yuno, and that's why I became a pegasus knight.
+202	Getting to fight together with you feels like a dream!
+203	My, Shanna, honestly, you're as dramatic as ever. Hee hee hee...
+204	The blizzard has grown fierce... this march is likely to take longer than I expected.
+205	Once we take the castle, let's head for Bern right away.
+206	※If fought with Douglas: Douglas... hmph. All that talk, and
+207	in the end, you too are just following whoever's strongest, aren't you.
+208	Seen from the outside, perhaps that's so.
+209	But right now, there's not a single doubt in my heart.
+210	Hmph, spare me the talk!
+211	※If fought with any other unit: Someone, hurry! Come quickly! Will none of you protect me!
+212	If I, who should be a commander, were to be hurt, what would you all do about it!
+213	W-wait, submit to me, and it's still not too late...
+214	The crime of raising a blade against me—I'll make a special exception and forgive it... guh.
+215	※If Yuno and Zelot both survive, and the castle was taken within 25 turns
+216	This next step, at last, is Bern itself...
+217	Lord Roy, this is serious!
+218	It seems part of Bern's army has barricaded itself in some ruins on the outskirts of Edessa.
+219	Ruins?
+220	Yes. What's more, according to the locals,
+221	a spear from the age of the "Scouring" is said to be kept there...
+222	What! That spear, could it possibly be...
+223	The chances it's a "Divine Weapon" are quite high.
+224	I can't just sit still. Let's hurry to those ruins!
+225	※Only if all the NPC citizens survived (and left)
+226	Um, excuse me...
+227	Yes...?
+228	Are you the one who saved this castle?
+229	No, I'm not...
+230	Thank you so much!
+231	Thanks to you, we're able to be safe like this.
+232	Here, this is a token of our gratitude. Please, take it!
+233	Well then, we'll be on our way...
+234	.........
+235	...I think I'll pass this along to Lord Roy.
+236	※If either Yuno or Zelot has died, or the castle was taken on turn 26 or later
+237	Princess Guinevere, we'll finally be advancing our army into Bern's homeland. Before that, though...
+238	...You mean about my brother, don't you.
+239	...At the time, Prince Zephiel, as heir to Bern,
+240	had grown up splendidly, hadn't he.
+241	So I've heard.
+242	Even so, Bern's former king came to resent Prince Zephiel, didn't he?
+243	Rather... it's because my brother had grown so remarkably.
+244	Eh...
+245	My father, Bern's former king, was, as a king, a man of ordinary talent, they say.
+246	So my brother's outstanding talent seems to have only made Father's feelings all the colder.
+247	.........
+248	And then, one day at last, Father is said to have called my brother and told him:
+249	"Someone fit for it shall be brought in to marry Guinevere, and he shall take the throne of Bern."
+250	What...! ...That's too much!
+251	Even so, my brother is said to have answered then that if that was how it was, so be it.
+252	But to my brother, who everyone expected to be the next king, those around him would not allow such a thing.
+253	And so, Father, driven to distraction...
+254	...Plotted to assassinate Prince Zephiel?
+255	...At a drinking banquet, my brother was handed a poisoned cup directly by our father the king.
+256	And that, it's said, was the first and last cup he ever received from Father...
+257	After returning to his room, my brother began to suffer,
+258	and for more than ten days after that, he is said to have hovered between life and death.
+259	He was sheltered by General Murdock, who had raised him,
+260	and somehow, my brother's life was spared.
+261	...Did Father do nothing after that?
+262	...No.
+263	He treated General Murdock, who had saved my brother, and my brother's mother as obstacles too,
+264	and is said to have schemed to do away with my brother along with them.
+265	My brother, still bedridden with illness, learned of this and feigned his own death...
+266	and when Father came to confirm my brother's death, from within the coffin... with a sword...
+267	.........
+268	...At the time, I was still young, and had no way of understanding such circumstances.
+269	All I understood was that from that day—the day Father died—onward, my brother's face lost its smile.
+270	Until then, he could be strict, but he was a warm, gentle brother. That's why...
+271	Princess Guinevere...
+272	That's why, deep in my heart, I believed my brother hadn't changed.
+273	That someday, surely, he would return to being the kind Zephiel brother he once was.
+274	I believed that... I kept believing that, all along...
+275	I see, so that's how it was...
+276	...But now, my brother is somewhere my voice can no longer reach.
+277	Lord Roy, I beg you. Please... please stop my brother.
+278	Please make him stop tormenting Bern and the people of other regions any further.
+279	Even if it means appealing to the sword?
+280	...Ever since I entrusted everything to Lord Roy, I've made up my mind to it.
+281	Understood. I will definitely stop King Zephiel!
+282	I swear it on the "Fire Emblem" entrusted to me by the princess!
+283	※Only if all the NPC citizens survived (and left)
+284	Um, excuse me...
+285	Yes...?
+286	Are you the one who saved this castle?
+287	No, I'm not...
+288	Thank you so much!
+289	Thanks to you, we're able to be safe like this.
+290	Here, this is a token of our gratitude. Please, take it!
+291	Well then, we'll be on our way...
+292	.........
+293	...I think I'll pass this along to Lord Roy.
