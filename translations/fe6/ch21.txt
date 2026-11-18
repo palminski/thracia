@@ -1,0 +1,180 @@
+1	Having overcome countless hardships, Roy and the others at last advance their troops into Bern's homeland.
+2	There, they set their course for the "Shrine of Seals" that Guinevere had told them of, but
+3	there, Bern's main army, centered on the Bern Wyvern Knight order, which both friend and foe alike acknowledged as "the continent's strongest,"
+4	along with General Murdock, foremost of Bern's Three Dragon Generals, the strongest commander in the kingdom of Bern, lie waiting for Roy and the others.
+5	The kingdom of Etruria and the kingdom of Bern—a head-on decisive battle between the two nations that divide the continent.
+6	The "longest day" of this great war was now, at last, about to begin...
+7	The army's deployment—all of it is complete!
+8	Good. Well done.
+9	It's finally here, isn't it, Gail.
+10	Yes. Our preparations here are finished as well.
+11	In this operation, your unit will be the key. Understood?
+12	Leave it to me. I will surely live up to your expectations.
+13	Good. Let us make them learn the full dread of Bern's main army.
+14	But to think they've come this far at last... that general of the Lycian Alliance.
+15	You mean Lord Roy.
+16	I wonder what manner of fighting he does... I look forward to crossing swords with him.
+17	Oh, Lord Roy! I've finally managed to meet you.
+18	Why, it's none other than Priest Yodel!
+19	Whatever brings you here? All the way from Etruria, to a battlefield such as this...
+20	Based on the letter I received from you, Lord Roy, I looked into various things, and
+21	it seems something quite serious is happening, it would appear!
+22	As I thought, it's highly likely that Bern has indeed revived the "Dragon-Devil"!
+23	Really?!
+24	...But the "Dragon-Devil" should have been slain, long ago, by the hero Hartmut.
+25	Just how in the world did Bern...
+26	It seems that Hartmut
+27	did not deal the "Dragon-Devil" its final blow, after all.
+28	What did you say?!
+29	Rather than defeating the "Dragon-Devil," he is said to have sealed it away in Bern's hinterlands instead.
+30	And at that time, the sword that sealed the "Dragon-Devil" was, it's said, that very legendary...
+31	The "Sword of Seals," you mean?
+32	Oh my, so you already knew of it?
+33	Yes, I've heard a little about that matter...
+34	Even if the "Dragon-Devil" really has been revived, if only we can get our hands on the "Sword of Seals,"
+35	wouldn't it be possible, once again, to either defeat it or seal it away?
+36	That is the judgment the Church of Elimine has reached.
+37	And so, I was sent here in order to make that request of you, Lord Roy.
+38	Do we have no way of knowing where the "Dragon-Devil" is?
+39	As for that—just as that fire-breathing "dragon" does,
+40	if the "Dragon-Devil" too normally takes a human form, then...
+41	a woman who serves close by Bern's king, called the "Priestess of Darkness," seems rather suspicious to me.
+42	The "Priestess of Darkness"...
+43	I have no firm proof, but...
+44	the time she appeared at the Bern king's side and the time the "dragons" began reviving are nearly the same.
+45	.........
+46	They say the "dragons," in order to adapt to this world that had become difficult for them to live in,
+47	sealed their power as dragons into stones called "Dragonstones," and took on human form, or something like that...
+48	If that's so, then even if the "Dragon-Devil" has taken the form of a human woman,
+49	there would be nothing strange about it at all.
+50	In any case,
+51	it seems we won't be able to confirm the truth without meeting that woman ourselves.
+52	Yes. I will help with that as well.
+53	Priest Yodel, you will? That's a great help.
+54	And please, accept this too—a "Divine Weapon" that we managed to obtain.
+55	The Church of Elimine asked that it be delivered to you, Lord Roy.
+56	Even a "Divine Weapon," no less!
+57	Lord Roy, if the "Dragon-Devil" truly
+58	has been revived, this is a crisis for all humankind, the likes of which hasn't been seen since the "Scouring"!
+59	Yes. Let us face it together, with everything we have!!
+60	Right, let's move out.
+61	Crush the enemy, every last one of them, without exception!
+62	Let them now learn well the dread of us Bern wyvern knights!!
+63	Why, Priest Yodel.
+64	Saul. You've worked hard.
+65	Thanks in part to you all supporting and fighting for Lord Roy,
+66	our Church of Elimine too has been saved.
+67	...If someone like me has been of even the smallest help,
+68	there's no greater joy than that.
+69	My, my, how unusually earnest you sound.
+70	Lady Yodel, appearances aside, I too am at least something of a priest, you know.
+71	When it comes to caring for others, I won't lose to anyone.
+72	That's true, forgive me.
+73	Well then, shall we go on together?
+74	Dorothy. Have you been well?
+75	Yes, it's been a while, Priest Yodel.
+76	You're always so cheerful, aren't you.
+77	God surely loves your heart dearly too.
+78	I wonder if that's so...
+79	Everyone who's touched by the purity of your heart has their own heart laid bare.
+80	Saul must have been the same, and I myself as well.
+81	Treasure that purity of heart.
+82	Yes, Father.
+83	Gail...
+84	Melady, is it.
+85	Gail, I...
+86	Say nothing.
+87	Both you and I are Bern's knights. We fight for the lord to whom we've sworn our loyalty.
+88	That's all there is to it.
+89	.........
+90	Since this will likely be the last time, let me say just this much.
+91	Melady, I'm glad I got to know you.
+92	As wyvern knights polishing our skills together, fighting side by side on the battlefield,
+93	the days I spent with you were the happiest days of my life.
+94	I... I too...
+95	Farewell, Melady.
+96	If I could have, I would have wished to have met you in a more peaceful age.
+97	Gail...
+98	Wait, Gail, don't go!
+99	Gaaaaail!!
+100	Lord Gail...
+101	Zeiss, is it. You look well.
+102	Lord Gail, must we really fight, you and I?
+103	Yes.
+104	I... I don't want to fight you. You, of all people!
+105	Don't be so spoiled, Zeiss!
+106	Eh...
+107	Was that the extent of your resolve, when you left Bern?
+108	Was that the extent of your resolve, when you decided to fight against Bern?!
+109	That's not it!
+110	My resolve... is firm.
+111	Turning my spear against my homeland of Bern is still hard for me, even now...
+112	But it's precisely because I believed the path I chose wasn't wrong...!
+113	Then cast aside your doubts.
+114	And think only of crushing whoever stands in the way of the path you believe in.
+115	Even if that person should be anyone at all.
+116	Lord Gail...
+117	Zeiss, you're a full-fledged Bern wyvern knight too, aren't you!
+118	...Yes!
+119	The next time we meet, there'll be no more words exchanged between us. Understood, Zeiss!
+120	I have no regrets...
+121	Zeiss... I entrust Melady to you...
+122	※If fought with Roy: So you're General Roy, are you.
+123	Hee hee hee... I've been looking forward to crossing blades with you!
+124	※If fought with Melady: Melady, is it...
+125	It's not what I wish for, but since matters have come to this,
+126	fighting is unavoidable. Come then, come at me!
+127	※If fought with Zeiss: You, I recall, are one of Narcian's men...
+128	I've heard the story from Gail.
+129	I do pity you, but an enemy is an enemy. I'll show no mercy.
+130	Come then, come at me!
+131	※If fought with any other unit: Hmph... to think you'd come this far.
+132	Impressive. But can you really defeat me, I wonder?
+133	Guh... strong... indeed...
+134	Zephiel... my lord... it seems
+135	I can no longer... protect you...
+136	You lot, you're the Etrurian army, aren't you?
+137	There's not a single soldier here.
+138	I'll give you this village's treasure, so please, leave without doing anything!
+139	※If Melady and Zeiss both survive, and the castle was taken within 30 turns
+140	Lord Roy... this shrine seems to have an entrance leading underground.
+141	An entrance leading underground... I wonder if the "Sword of Seals" is there.
+142	I don't know... but,
+143	I was told something that caught my attention, by a Bern soldier we took prisoner.
+144	They said two sacred things are enshrined within the "Shrine of Seals"...
+145	! That means...
+146	Could it be that there's one more "Divine Weapon"?
+147	...I wonder.
+148	It might be worth asking someone of Bern origin within this army.
+149	Understood. Let's look into it right away.
+150	※If either Melady or Zeiss has died, or the castle was taken on turn 31 or later
+151	Lord Roy, what's embedded in this pedestal is...
+152	So this is the "Sword of Seals."
+153	Let's see, let's see... hm? It... it won't come out...
+154	That's because it's sealed. You have to use the "Fire Emblem."
+155	How does one use it, I wonder?
+156	From what Princess Guinevere said, you embed it in the sword's hilt...
+157	Whoa, what's this?
+158	The sword has started to glow.
+159	I think this will let it come free. Let me try.
+160	.........!...
+161	...This is...
+162	...Just what...?
+163	The "Sword of Seals"...
+164	Hartmut's... memory...?
+165	!
+166	That person... who...?
+167	I wonder... somehow, it feels very...
+168	Lord Roy? Wh-what's the matter?
+169	No... I'm fine. It's nothing.
+170	So this is... the "Sword of Seals" the hero Hartmut once used...
+171	Am I... really allowed to use it?
+172	They say that, since ancient times, a fine sword chooses its own master.
+173	That sword is now in your hand, Lord Roy... which means, surely, that's simply how it is.
+174	But it's only by chance that this sword is in my hand.
+175	What we think of as chance...
+176	even that may well be just one part of the wheel of fate.
+177	.........
+178	In any case! Now that we've obtained the "Sword of Seals," all that's left is to head for Bern's royal palace.
+179	This is no time to be faint of heart, Lord Roy!
+180	You're right. The confrontation with King Zephiel awaits!!

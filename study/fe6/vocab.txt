@@ -4709,3 +4709,54 @@
 上|うえ|on top of, above; 〜うえで = "in the process of, when it comes to"
 通り|とおり|as, in the way of; 名前の通り = "just as the name suggests"
 さん|さん|Mr./Ms. (honorific suffix)
+困難|こんなん|difficulty, hardship
+両|りょう|both (prefix, as in 両国 "both countries")
+大戦|たいせん|a great war
+完了|かんりょう|completion
+作戦|さくせん|a strategy, an operation
+鍵|かぎ|a key
+応える|こたえる|to respond, to live up to (expectations)
+とどめ|とどめ|a finishing blow; とどめをさす = "to finish off"
+刺す|さす|to stab, to pierce
+吐く|はく|to breathe out, to spit out; 炎を吐く = "to breathe fire"
+確たる|かくたる|firm, definite
+証拠|しょうこ|evidence, proof
+適応する|てきおうする|to adapt
+一騎|いっき|one horseman, one-on-one (combat)
+叩きつぶす|たたきつぶす|to smash, to crush
+よろこび|よろこび|joy, delight
+物言い|ものいい|way of speaking, manner of talking
+はしくれ|はしくれ|a mere scrap, something of a ~ (humble self-reference)
+思いやる|おもいやる|to be considerate of, to care about
+明るい|あかるい|bright, cheerful
+触れる|ふれる|to touch, to come into contact with
+ならべる|ならべる|to line up, to place side by side
+最も|もっとも|most
+さらば|さらば|farewell (archaic/dramatic)
+甘える|あまえる|to presume on another's kindness, to be spoiled
+一人前|いちにんまえ|a full-fledged adult, one portion
+悔い|くい|regret
+本意|ほんい|one's true wish, one's real intention
+至る|いたる|to reach, to arrive at (a state); 事ここに至る = "matters having come to this"
+やむをえない|やむをえない|unavoidable, having no choice
+哀れ|あわれ|pitiable, pathetic
+聞かされる|きかされる|to be told, to be made to hear
+聖なる|せいなる|holy, sacred
+出身|しゅっしん|one's origin, where one is from
+刺さる|ささる|to be stuck in, to pierce into
+柄|つか|a hilt (of a sword)
+埋め込む|うめこむ|to embed
+画面|がめん|the screen
+流れる|ながれる|to flow, to play (of music)
+記憶|きおく|memory
+偶然|ぐうぜん|chance, coincidence
+輪|わ|a ring, a wheel
+気後れ|きおくれ|feeling intimidated, losing one's nerve
+対決|たいけつ|a confrontation, a showdown
+自他|じた|oneself and others
+認める|みとめる|to acknowledge, to recognize
+人類|じんるい|humankind
+清らか|きよらか|pure, clean
+日々|ひび|days
+楽しい|たのしい|fun, enjoyable
+勝る|まさる|to surpass, to exceed
