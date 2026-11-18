@@ -47,6 +47,7 @@ NAMES = {
     "ロアーツ": "roartz",
     "モンケ": "monke",
     "ケル": "kel", "ニイメ": "niime", "ダヤン": "dayan",
+"マーテル": "martel",
 }
 
 

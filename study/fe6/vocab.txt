@@ -4531,3 +4531,61 @@
 反|はん|anti-, counter- (prefix)
 靡く|なびく|to sway, to incline toward, to side with
 因る|よる|to be due to, to be caused by; 〜によると = "according to ~"
+氷雪|ひょうせつ|snow and ice
+大魔法|だいまほう|great magic, powerful sorcery
+北方|ほっぽう|the north, northward
+駐留|ちゅうりゅう|stationing, being garrisoned (of troops)
+太古|たいこ|ancient times, time immemorial
+数十|すうじゅう|several tens (of ~), dozens
+天候|てんこう|the weather
+大量|たいりょう|a large amount
+雨|あめ|rain
+降る|ふる|to fall (rain, snow)
+溢れる|あふれる|to overflow
+実際|じっさい|actually, in fact
+一回|いっかい|one time, once
+指折り|しおり|one of the best, outstanding (lit. "finger-counted")
+精通する|せいつうする|to be well-versed in
+深い|ふかい|deep
+磨く|みがく|to polish
+腹|はら|belly, stomach; 腹が立つ = "to get angry"
+散歩|さんぽ|a walk, a stroll
+人形|にんぎょう|a doll
+剣聖|けんせい|"Sword Saint" (a legendary title for a master swordsman)
+陰険|いんけん|sly, underhanded
+自滅|じめつ|self-destruction
+真冬|まふゆ|the depths of winter, midwinter
+凍る|こおる|to freeze
+時期|じき|the time, the season
+氷|こおり|ice
+知将|ちしょう|a brilliant tactician, a wise general
+謳う|うたう|to extol, to praise highly (= 歌う, "to sing," used figuratively)
+闇魔法|やみまほう|dark magic
+研究する|けんきゅうする|to research, to study
+方便|ほうべん|a means to an end, a convenient pretext
+眺める|ながめる|to gaze at, to watch
+はかばかしい|はかばかしい|satisfactory, going well (usu. negated: "not going well")
+管理|かんり|management, control
+盗み見る|ぬすみみる|to steal a glance at, to peek at
+成果|せいか|a result, an achievement
+もしかすると|もしかすると|perhaps, possibly
+成す|なす|to accomplish, to bring about; 子を成す = "to bear children"
+勝敗|しょうはい|victory or defeat, the outcome (of a contest)
+分ける|わける|to divide, to separate; to decide (an outcome)
+せっかち|せっかち|impatient, hasty
+子供|こども|a child
+損|そん|a loss, a disadvantage
+婆|ばば|an old woman (contemptuous)
+わざと|わざと|on purpose, deliberately
+森林|しんりん|forest, woodland
+ドルイド|ドルイド|Druid (a dark-magic class)
+のこのこ|のこのこ|showing up shamelessly, nonchalantly
+しょうがない|しょうがない|it can't be helped, there's no choice
+割れる|われる|to break, to crack
+雪|ゆき|snow
+役立たず|やくだたず|a useless person, a good-for-nothing
+生み出す|うみだす|to produce, to bring forth
+記す|しるす|to record, to write down
+頭#counter|とう|counter for large animals (e.g. 何頭 "how many [animals]")
+商人|しょうにん|a merchant
+どこか|どこか|somewhere

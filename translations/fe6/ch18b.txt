@@ -1,0 +1,156 @@
+1	Having defeated Arcardo, former Governor-General of Etruria's Western Isles,
+2	Roy and the others march east, ever east, through the snow-and-ice-bound land of Ilia.
+3	Then, as Roy and his Etrurian army advanced into Ilia's uniquely deep forest belt,
+4	using ancient great magic thought to have already been lost,
+5	the Bern army stationed in Ilia, led by priest-general Martel of the Bern Northern Army, meaning to meet Roy and the others in battle,
+6	lay waiting for them...
+7	Priest Martel! I've brought Lady Niime as ordered.
+8	Good. Let her through.
+9	What business do you have with little old me?
+10	Are you the "Hermit of the Mountain," Niime?
+11	Some call me that, yes. Niime is most certainly who I am.
+12	I've heard that you can use the ancient tomes of magic from the age of the "Scouring," kept here in this castle.
+13	Is that true?
+14	I wouldn't say I can't use them.
+15	After all, I'm a dark mage. I've spent several decades studying ancient magic.
+16	I hear that tome can be used to control the weather...
+17	Well, it's not that I couldn't make it happen, at least.
+18	Then I command you: use that tome to bring down a massive rain.
+19	Flood the river's waters,
+20	and halt the advance of the Etrurian army now pushing in close.
+21	Even if you say that, I don't actually know what'll happen.
+22	What's more, that type of tome can only be used once.
+23	Grrr! Just do as you're told!
+24	You came to us yourself, saying you wanted to join our army, did you not! I heard as much!
+25	Then show us now—make yourself useful to us!
+26	.........
+27	Princess Guinevere...
+28	From here on, our army will be drawing closer to Bern.
+29	...Yes.
+30	Along with that, the chances of fighting Bern's soldiers are increasing too.
+31	Before long, it will surely come to a full-scale war against the kingdom of Bern's army.
+32	.........
+33	Before that happens, there's something I'd like to ask you, Princess.
+34	What might it be?
+35	It's something I heard from someone the other day.
+36	That King Zephiel laid hands on Bern's former king—his own true father—and took the throne that way...
+37	!!
+38	I couldn't bring myself to believe that story was true.
+39	Because, isn't that so!
+40	Princess Guinevere, you went so far as to resolve to abandon your own country,
+41	in order to try to stop him.
+42	If King Zephiel really were the kind of cruel man the story makes him out to be,
+43	there's no way the princess would think to go that far, is there?
+44	.........
+45	The reason I
+46	was entrusted by you with the "Fire Emblem"
+47	wasn't simply to fight against Bern,
+48	but because I thought to search, to the very end, for the "path to peace" the princess wished for.
+49	Lord Roy...
+50	So please, won't you let me hear the truth from your own lips, Princess?
+51	I'm sorry... please give me... just a little time.
+52	! Princess Guinevere!!
+53	...Is something the matter?
+54	Princess Guinevere went running off, which is unusual for her...
+55	...No, it's nothing. More to the point, what did you need, Marinas?
+56	I've been gathering all sorts of information, and it seems things are about to get troublesome.
+57	Among the enemy there seems to be a dark mage named Niime, said to be one of the finest in all Ilia.
+58	A dark mage... you mean a Druid.
+59	They say she's well-versed in ancient magic, and the depth of her knowledge is beyond measure, or so it's said...
+60	But there's no way we can retreat here.
+61	Of course not. Still, there's nothing better than being careful...
+62	I know. Let's stay on our guard!
+63	This is a statue of the goddess of good fortune, or so I'd always heard...
+64	I polish it every day and pray to it, but nothing good ever happens.
+65	That merchant—he tricked me, he did.
+66	Well, take it anyway. Just looking at it makes my blood boil.
+67	Hey, hey—earlier, when I was out on a walk,
+68	this came falling down out of the sky.
+69	...A god, up in the heavens? Silly, there's no way that's it.
+70	It was surely some wyvern knight or pegasus knight who dropped it.
+71	Here, you can have it. I like dolls better anyway.
+72	You folks are from the Etrurian army, aren't you.
+73	Before this, some men from Bern's army were prowling around nearby,
+74	and I wonder, when in the world will the world become peaceful?
+75	I'll give you this, so please, hurry and bring the war to an end.
+76	You lot, could it be that you're the Etrurian army that old woman was talking about?
+77	That old woman, apparently, had really meant to join your army,
+78	but instead she wandered off to the Bern lot's side... I wonder what she's thinking.
+79	You all look quite strong.
+80	But I hear that in some country, there's an incredibly strong person called the "Sword Saint."
+81	That priest Martel staying at the castle is a sly one.
+82	He was saying he had some kind of trick up his sleeve.
+83	Well, a man like that is bound to destroy himself in the end, surely.
+84	Once deep winter comes, the rivers around here freeze solid, rock hard.
+85	You could easily reach the eastern village then, but
+86	it's not that season yet, so no luck.
+87	※If Martel survives
+88	Hey! Is the magic ready yet, is it ready!
+89	...I really don't know what's going to happen, you know.
+90	I don't care, hurry it up!
+91	Good grief, there's no helping it, I suppose...
+92	Wh-what in the world... is this...
+93	Is it the enemy's magic? Everyone, stay alert!
+94	Wh-what in the world... is this! The river— the river is frozen solid!
+95	Oh my, oh my... to think it would come to this.
+96	You wretch! You did that on purpose!!
+97	What are you talking about? I did say I don't know what'll happen, didn't I...
+98	Argh, silence! Someone, throw this woman in the dungeon!
+99	Yes, sir!
+100	Good grief...
+101	What on earth just happened...
+102	Lord Roy, a report has just come in. It seems the river has frozen over!
+103	What!
+104	What's more, it seems the ice has become thick enough that even knights can cross without it breaking.
+105	Good. This will make it easier for us to advance.
+106	Everyone! Let's aim straight for the enemy's castle, all at once!
+107	To think they'd push this deep into our territory, in all this snow...
+108	Damn it! That useless old hag!
+109	No, this can't be...
+110	I, who was praised as a brilliant tactician...
+111	Good grief, at last... to be freed from the Bern lot.
+112	And you are?
+113	Me, you ask?
+114	I'm just someone called Niime.
+115	I do things like study ancient dark magic, deep in the mountains.
+116	You said "freed," but didn't you join Bern's army of your own will?
+117	Ho ho ho, that was just a means to an end, a means to an end. There was something I wanted to know, in Bern's army.
+118	Something you wanted to know?
+119	The "dragons," that's what.
+120	!!
+121	Oh my, your color changed. It seems you have some idea of what I mean.
+122	...Not the wyverns that wyvern knights ride, but... something in Bern's army itself...
+123	That's right, that's exactly it.
+124	Those are the "dragonkin" that should have perished in that "Scouring."
+125	How is it that you know such a thing...
+126	This commotion Bern has stirred up this time—
+127	at first I merely watched it, thinking it was just some ordinary war,
+128	but it did seem like something ominous was mixed in among the soldiers.
+129	It piqued my curiosity, so I looked into it.
+130	Did you find out anything?
+131	No, not really—I didn't get very far. There are too many mysteries when it comes to the "dragons."
+132	I even stole a look at the ancient documents kept by Bern's army,
+133	but I didn't turn up much of anything worthwhile. Except... just one thing.
+134	...Just one thing?
+135	Those fellows may well have revived the "Dragon-Devil," perhaps...
+136	The "Dragon-Devil"... you mean the one the hero Hartmut is said to have slain, the chief of the dragons?
+137	That's right.
+138	To begin with, "dragons" are, in both vitality and intelligence,
+139	overwhelmingly superior creatures compared to us "humans."
+140	But the power to bear young...
+141	the power to increase their numbers seems to have been decisively inferior to that of "humans."
+142	That, it's thought, is the decisive reason behind the outcome of the "Scouring."
+143	So that's how it was... I'm learning this for the first time.
+144	Well, it's still only a hypothesis.
+145	But— but here's the thing.
+146	In a certain old document, it's said only the "Dragon-Devil" alone had the power to give birth to many "dragons"...
+147	That's what was written.
+148	In other words, Bern revived the "Dragon-Devil," and is making use of the "dragons" it had made?
+149	...What an impatient child you are. But well, that's about the gist of it.
+150	Now, I have something to discuss with you.
+151	What is it?
+152	I'd like to solve more of the mysteries surrounding the "dragons."
+153	Won't you let me travel along with you all? You won't lose out by it either.
+154	...Understood.
+155	When it comes to the "dragons," there's plenty we'd like to know too.
+156	There may well be danger involved, but if you're still fine with that, let's go together.
