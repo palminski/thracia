@@ -1,0 +1,167 @@
+1	With the fall of King Zephiel, the kingdom of Bern surrendered.
+2	The great upheaval that had engulfed the continent had, for the moment, come to an end here.
+3	But the fight for Roy and the others was not yet over.
+4	Pursuing the "Priestess of Darkness," who was highly likely to be the "Dragon-Devil,"
+5	and relying on the streak of light that the "Divine Weapons" pointed to,
+6	they advanced their army toward the "Shrine of Dragons," once the home base of the "dragons" of old.
+7	But before the "Shrine of Dragons," General Brunnya, the last of Bern's Three Dragon Generals, leading Bern's remaining forces,
+8	wagers the pride and honor of being "the continent's strongest" and challenges Roy and the Etrurian army to one final battle.
+9	Against a kingdom of Bern that no longer exists in this world,
+10	the fight against these "ghosts"
+11	casts a dark shadow over the hearts of Roy and the others...
+12	Well then, Lord Yarne, I entrust Lady Idunn to your care, without fail.
+13	What will you all do? You humans.
+14	We will challenge the Etrurian army to one more battle, here.
+15	Do you have the fighting strength for it?
+16	The Bern wyvern knights, who had been scattered across the land, have gathered to our side.
+17	Do you have any chance of victory?
+18	...It's by no means high. But we are the army of Bern, the strongest kingdom on the continent.
+19	We should be able to show you that "pride" of ours.
+20	"Pride," is it... you humans sometimes act for reasons that go beyond our understanding.
+21	Can this thing called "pride" really raise the chances of victory?
+22	Well, fine. We will fight in our own way.
+23	...Did you convey my words to everyone?
+24	Yes, sir.
+25	"Even those who leave the army from here on will not be charged with the crime of desertion.
+26	Whether to stay and fight, or to leave this place, is left to each person's own judgment," I told them.
+27	And so, how many remained?
+28	Nearly everyone has said they wish to fight alongside you, Lady Brunnya.
+29	Everyone?
+30	This isn't a battle with good odds of victory. There must be those among them with families waiting for them.
+31	There's no need to force yourselves to keep me company in my fight.
+32	We too are knights of Bern.
+33	We have no intention of obeying those who shamefully submitted to Etruria's rule.
+34	...Those with the wounded, those with young children, and those with aged parents—remove them by force.
+35	But, Lady Brunnya...
+36	This is an order. Understood?
+37	...Lord Roy, our allied army's deployment is complete.
+38	Did you send an envoy to the enemy?
+39	Yes.
+40	As expected... it seems they have no intention of surrendering to our army.
+41	What about the fact that if they surrender, their lives will be guaranteed?
+42	Of course, I conveyed that as well... but
+43	they said: "We're grateful for the offer, but we have no intention of surrendering."
+44	Why is that? The kingdom of Bern has already surrendered, and yet...
+45	...I imagine this person here would know the answer to that.
+46	.........
+47	Princess Guinevere... do you understand it, Princess?
+48	Yes.
+49	...The kingdom of Bern's army prides itself on being the strongest on the continent.
+50	Surely that pride and sense of honor won't allow them to accept defeat to another nation.
+51	That's so...
+52	Lord Roy! The enemy has begun to move!
+53	There's no helping it. Let's fight! Marinas, take Princess Guinevere to the rear...
+54	No, please, let me stay here too.
+55	I must take in their cries myself.
+56	That's the very least I can do, I who ended up betraying Bern as a result...
+57	Princess Guinevere...
+58	C-Lord Karel, soon... this place too will become a battlefield...
+59	I see.
+60	This village is a place unknown to those who live in other lands.
+61	I had thought that as long as we stayed here, we wouldn't get caught up in war, but...
+62	What should we do...
+63	Don't worry. If it comes to that, I'll protect the village.
+64	Oh, that's a great relief.
+65	If we can be protected by Lord Karel, known as the "Sword Saint,"
+66	there's nothing at all for us to fear.
+67	I'm just an ordinary swordsman, you know.
+68	People's rumors are the sort of thing that swell the more time passes.
+69	...Still, it seems this war has grown larger than I'd thought.
+70	I wonder if my little sisters are all right...
+71	...I had no idea you had siblings, Lord Karel. This is the first I've heard of it.
+72	It's been a long time since I last saw their faces, but I heard through others that one fell ill.
+73	I can only hope she's recovered and is living a settled life now, with her husband and daughter, the three of them together.
+74	※If visited with Fir
+75	Uncle!
+76	That voice... is that Fir...! What are you doing in a place like this?
+77	Uncle, the same goes for you—why are you in this land?
+78	After traveling from place to place, I settled down here.
+79	I thought that here, at least, I could pursue the way of the sword without getting caught up in the world's conflicts, but...
+80	Uncle, there's something I must tell you...
+81	It's... Mother...
+82	...Has she died?
+83	Yes...
+84	...
+85	I see. So she couldn't be saved, then...
+86	I'm sorry. I couldn't be by her side in such a difficult time.
+87	No, it's...
+88	But why are you here, of all places?
+89	Judging by your appearance, it doesn't seem you were searching for me just to tell me that?
+90	Yes. Right now, I'm fighting against Bern's army.
+91	Joining in a war...? Is that what you mean?
+92	I know that you, Uncle, dislike conflicts between people.
+93	But I couldn't bring myself to overlook the people suffering under this drawn-out war...
+94	Uncle, am I wrong to feel this way?
+95	Is it not right, for one who aspires to the way of the sword...?
+96	No, that's not true at all. The path you walk is not a mistaken one.
+97	I will lend my strength to that same path as well.
+98	Really?!
+99	Yes... ...you're right, after all.
+100	Heh... you've grown. And here I thought you were still a mere infant.
+101	Uncle...
+102	※If visited with Bartre
+103	C-Lord Karel!
+104	...Could that be Lord Bartre? Why are you in such a place as this?
+105	I'm currently with the Etrurian army, fighting.
+106	What of you, Lord Karel—why are you here, of all places...
+107	After traveling from place to place, I settled down in this land.
+108	I thought that here, at least, I could pursue the way of the sword without getting caught up in the world's conflicts, but...
+109	...Actually, there's something I must apologize to you for, Lord Karel...
+110	...Is it about my sister?
+111	Indeed... I did everything I could, but...
+112	She couldn't be saved, then...
+113	I'm sorry! Even with me there by her side...
+114	It's hardly your fault, Lord Bartre.
+115	If anyone must apologize, it's me.
+116	I couldn't do anything for her, in such a difficult time.
+117	...Lord Karel, I have a favor to ask.
+118	What might it be?
+119	I want this war to end soon.
+120	I know that you, Lord Karel, dislike war, but
+121	won't you fight alongside us?
+122	...Very well, Lord Bartre. I too will do what I can.
+123	I'm grateful!
+124	If you lend us your strength, Lord Karel, nothing could be more reassuring!
+125	※If visited with any other unit
+126	There's no one in this village connected with the war.
+127	I'm sorry, but would you mind leaving?
+128	You're Lord Roy, then?
+129	And you are?
+130	I am Karel. I've come to be allowed to join this army.
+131	Pleased to make your acquaintance.
+132	You're the "Sword Saint"...
+133	I've heard about you. Said to be the owner of an incredible sword arm.
+134	The pleasure's mine as well. Thank you for having me.
+135	※If fought with Melady: You... Melady...
+136	I see. So you intend to walk the same path as Her Highness Guinevere.
+137	That too may well be one path to take...
+138	But I, too, cannot yield on Bern's pride!
+139	※If fought with Zeiss: You are... one of Bern's wyvern knights...
+140	I see. So you intend to walk the same path as Her Highness Guinevere.
+141	That too may well be one path to take...
+142	But I, too, cannot yield on Bern's pride!
+143	※If fought with any other unit: Bern will not fall!
+144	Even should we fall here, we will be reborn, again and again!!
+145	My lord... with this... at last... I'll be by your side...
+146	So this is the "Shrine of Dragons"... does that mean the "Priestess of Darkness" is somewhere inside?
+147	Judging by the circumstances, there's little doubt. There is, however, something that concerns me...
+148	What is it?
+149	In one account of the legend concerning the Scouring...
+150	...it's said the "Shrine of Dragons" holds within it the power of the "dragons"...
+151	something along those lines exists.
+152	I wonder what that means.
+153	It could also mean the power of the "dragons" protects the "dragons" themselves.
+154	The power of the "dragons"... protecting the "dragons"...
+155	...That only confuses me more.
+156	...This is just my own interpretation, but
+157	might not the "dragons" within the "Shrine of Dragons"
+158	hold some kind of power stronger than those outside it?
+159	In other words, our usual way of fighting might not work... is that what you're saying?
+160	Yes.
+161	But still... if we combine someone with power equal to the "Eight Generals" with a "Divine Weapon" as well,
+162	perhaps...
+163	So you're saying we should follow the example of the "Scouring" once more.
+164	...There isn't really any other good method available, is there...
+165	All right! Then let's go in with only those who have particularly strong power!
+166	The choice of who you bring with you should be made carefully...
+167	Once we go in, there's a chance we won't easily be able to come back...
