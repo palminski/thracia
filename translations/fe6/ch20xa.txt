@@ -1,0 +1,134 @@
+1	Seeking one of the "Divine Weapons," Roy and the others advance their army toward the ruins on the Sacae plains.
+2	But there, survivors of the Djute tribe that Roy and the others once defeated
+3	had set a trap and lay in wait for them.
+4	The Etrurian lot are attacking!
+5	Are they trying to make even this place their own, to the very end...?
+6	We won't let them. Send word to our brothers too.
+7	We will defend this place to the death without fail. We'll avenge the Djute tribe's grudge.
+8	Yes, sir!
+9	※If Shin is deployed
+10	So this is where a "Divine Weapon" is...
+11	Shin, did you know about this place?
+12	...I've heard of it.
+13	The bow used by the "Divine Knight" Hanon,
+14	the "Gale Bow" Murgleis, is said to be kept here.
+15	Hanon... I've heard the only two women ever given
+16	the title of "Eight Generals" were the Saint Elimine and Hanon.
+17	So it seems.
+18	...You should be careful.
+19	Those guarding this place are survivors of the Djute tribe.
+20	They'll see us as their mortal enemy and come at us with everything they have.
+21	Got it. Let's keep our guard up!
+22	※If Shin is not deployed, and Dayan is deployed
+23	So this is where a "Divine Weapon" is...
+24	Dayan, do you know about this place?
+25	Of course.
+26	The bow used by the "Divine Knight" Hanon is kept here.
+27	The weapon Hanon used was the "Gale Bow" Murgleis...
+28	At least, that's what I heard from Elffin.
+29	So that's what you call it over where you're from.
+30	Being a woman, the one given the title of "Eight Generals"
+31	is said to be the two of them, the Saint Elimine and Hanon.
+32	I see.
+33	By the way, Lord Roy, you should be careful.
+34	Those guarding this place are survivors of the Djute tribe.
+35	They'll see us as their mortal enemy and come at us with everything they have.
+36	Got it. Let's keep our guard up!
+37	※If Shin and Dayan are not deployed, and Sue is deployed
+38	So this is where a "Divine Weapon" is...
+39	Sue, did you know about this place?
+40	...Only by rumor.
+41	I hear the bow Hanon used is kept here.
+42	Hanon, you mean the "Divine Knight," right?
+43	Then that bow would be the "Gale Bow" Murgleis...
+44	I don't know its name.
+45	You don't know? Even though it's the weapon an "Eight General" used?
+46	It's all the same no matter who used it. A name is nothing but a vessel.
+47	Isn't it enough to "know" the thing itself?
+48	...I wonder about this bow, though.
+49	Do you think it's the one we call Murgleis?
+50	Yes, from what I've heard, there's no mistake.
+51	※If Shin, Dayan, and Sue are not deployed
+52	So this is where a "Divine Weapon" is...
+53	Elffin, did you find out anything about this place?
+54	...I looked into the legends of the Sacae region, and
+55	here, the bow used by the "Divine Knight" Hanon,
+56	the "Gale Bow" Murgleis, is said to be kept.
+57	Hanon... I've heard the only two women ever given
+58	the title of "Eight Generals" were the Saint Elimine and Hanon.
+59	Yes.
+60	...Lord Roy, those guarding this place are said to be survivors of the Djute tribe.
+61	They'll treat our army as their "enemy" and come at us with everything they have.
+62	Got it. Let's keep our guard up!
+63	※Only if you attacked the wrong place
+64	The enemy's fallen for the trap! Get them!
+65	We found it! A bow, on the altar inside the tent!
+66	.........
+67	So this is... the "Gale Bow" Murgleis.
+68	...It looks like an ordinary bow, but
+69	surely it holds some tremendous power within it.
+70	Lord Roy.
+71	It seems the Bern soldiers who were nearby are fleeing.
+72	I see.
+73	"I see" isn't good enough. We must pursue them.
+74	No.
+75	They're trying to get away from the battlefield. They surely have no more will to fight.
+76	But still...
+77	Soldiers have families too. There's no need to fight them more than necessary.
+78	Marinas, I'd like you to send this letter to Bern's Priest Yodel.
+79	A letter...? May I ask what it says?
+80	It's something I heard from Niime. About the "dragons" Bern makes use of.
+81	Oh! Whatever sort of talk did you have?
+82	It would take a while to explain, so...
+83	I haven't sealed it yet, so it'd be best if you just read over the letter yourself.
+84	Understood. Well then, let me have a look right away...
+85	...Lord Roy.
+86	Princess Guinevere. Is something the matter?
+87	...From here on, it's Bern, isn't it.
+88	Yes, we'll finally be advancing our army into Bern's homeland.
+89	...So, this time, could I ask you to hear me out to the very end?
+90	...Yes. I came prepared to do just that.
+91	...At the time, Prince Zephiel, as Bern's heir,
+92	had grown up with nothing lacking, hadn't he.
+93	So I've heard.
+94	Even so, Bern's former king came to resent Prince Zephiel, didn't he?
+95	Rather... it's because my brother had grown so remarkably.
+96	Eh...
+97	My father, Bern's former king, was, as a king, a man of ordinary talent, they say.
+98	So my brother's outstanding talent seems to have only made Father's feelings all the colder.
+99	.........
+100	And then, one day at last, Father is said to have called my brother and told him:
+101	"Someone fit for it shall be brought in to marry Guinevere, and he shall take Bern's throne."
+102	What...! ...That's too much!
+103	Even so, my brother is said to have answered then that if that was how it was, so be it.
+104	But to my brother, who everyone expected to be the next king, those around him would not allow such a thing.
+105	And so, Father, driven to distraction...
+106	...Plotted to assassinate Prince Zephiel?
+107	...At a drinking banquet, my brother was handed a poisoned cup directly by our father the king.
+108	And that, it's said, was the first and last cup he ever received from Father...
+109	After returning to his room, my brother began to suffer,
+110	and for more than ten days after that, he is said to have hovered between life and death.
+111	He was sheltered by General Murdock, who had raised him,
+112	and somehow, my brother's life was spared.
+113	...Did Father do nothing after that?
+114	...No.
+115	He treated General Murdock, who had saved my brother, and my brother's mother as obstacles too,
+116	and is said to have schemed to do away with my brother along with them.
+117	My brother, still bedridden with illness, learned of this and feigned his own death...
+118	...and when Father came to confirm my brother's death, from within the coffin... with a sword...
+119	.........
+120	...At the time, I was still young, and had no way of understanding such circumstances.
+121	All I understood was that from that day—the day Father died—onward, my brother's face lost its smile.
+122	Until then, he could be strict, but he was a warm, gentle brother. That's why...
+123	Princess Guinevere...
+124	That's why, deep in my heart, I believed my brother hadn't changed.
+125	That someday, surely, he would return to being the kind Zephiel brother he once was.
+126	I believed that... I kept believing that, all along...
+127	I see, so that's how it was...
+128	...But now, my brother is somewhere my voice can no longer reach.
+129	Lord Roy, I beg you. Please... please stop my brother.
+130	Please make him stop tormenting Bern and the people of other regions any further.
+131	Even if it means appealing to the sword?
+132	...Ever since I entrusted everything to Lord Roy, I've made up my mind to it.
+133	Understood. I will definitely stop King Zephiel!
+134	I swear it on the "Fire Emblem" entrusted to me by the princess!
