@@ -1,0 +1,106 @@
+1	Roy and the others advance their army deep into the recesses of the "Shrine of Seals."
+2	There, enshrined alongside the "Sword of Seals," is said to be one more sacred thing.
+3	But standing before Roy and the others is Peres, a subordinate of Murdock's,
+4	lying in wait with all manner of traps.
+5	I see... so the surface has fallen, has it...
+6	Yes, sir.
+7	How regrettable...
+8	I had wished, at the very least, to remain alongside Lord Murdock until the end.
+9	...We feel the same way.
+10	But we have a vital mission entrusted to us by His Lordship.
+11	Listen well: no matter what happens, this "Divine Weapon" here—
+12	the "Apocalypse of Dark Revelation"—must never, under any circumstances, be handed over!
+13	※If Melady is deployed
+14	Is there a "Divine Weapon" here, underground?
+15	Yes, most likely...
+16	It's only a rumor I happened to overhear, one being whispered about quietly within the army, but
+17	it went: "Within the 'Shrine of Seals,' as something to guard it, a 'Sacred Tome' is enshrined underground."
+18	I've heard that much, at least.
+19	...This place too seems to be guarded by a great many Bern soldiers.
+20	The chances that tome is a "Divine Weapon" seem quite high.
+21	Right.
+22	That confrontation with King Zephiel draws near.
+23	...When we march on Bern's royal castle, I want even one more powerful weapon on our side.
+24	No matter what, we have to get our hands on it...!
+25	Lord Roy, there was more to that rumor besides.
+26	It went: "Within that underground place—the passages, the treasure chests... traps are set everywhere."
+27	Traps?
+28	Yes. They're apparently the kind we'd have absolutely no way of telling apart.
+29	If we had someone who could handle traps, like a thief, it might be a bit better, but...
+30	Please, do be careful, every step of the way.
+31	Understood. Let's proceed with caution.
+32	※If Melady is not deployed
+33	Princess Guinevere, is there a "Divine Weapon" here, underground?
+34	Yes, most likely...
+35	"Within the 'Shrine of Seals,' as something to guard it, a 'Sacred Tome' is enshrined underground."
+36	That's how the story's been passed down to me, so...
+37	...This place too seems to be guarded by a great many Bern soldiers.
+38	The chances that tome is a "Divine Weapon" seem quite high.
+39	Right.
+40	That confrontation with King Zephiel draws near.
+41	...When we march on Bern's royal castle, I want even one more powerful weapon on our side.
+42	No matter what, we have to get our hands on it...!
+43	...Lord Roy, I've also been told that this underground place has passages, treasure chests...
+44	and that traps are set everywhere throughout.
+45	Traps?
+46	Yes. They're apparently the kind we'd have absolutely no way of telling apart.
+47	If we had someone who could handle traps, like a thief, it might be a bit better, but...
+48	Please, do be careful, every step of the way.
+49	Understood. I'll make sure we proceed with caution.
+50	A lightless, primordial darkness...
+51	Let me teach you the terror that lies within it.
+52	I can see... I can see nothing at all...
+53	Elffin, can you tell what this tome is?
+54	...It's most likely Apocalypse, I'd say.
+55	Apocalypse?
+56	Yes. It's a dark tome, also known by another name, the "Dark Revelation."
+57	It's said to have been used by Brammimond, one of the "Eight Generals," a figure shrouded in mystery...
+58	...Brammimond...
+59	I feel like I've only ever heard the name, myself.
+60	...Whether male or female, whether elderly or young—
+61	none of the old documents seem to record anything accurate about them.
+62	I see...
+63	.........
+64	Lord Roy? Is something the matter?
+65	...No, there's just something that's been on my mind a little...
+66	Eh?
+67	At every place a "Divine Weapon" is kept, why is there always some
+68	"mechanism" meant to keep people away?
+69	Perhaps it's so that the "Divine Weapon" won't be misused...?
+70	But even so, the "mechanism" seems far too elaborate...
+71	Don't you think so?
+72	Isn't there perhaps some other, different reason behind it?
+73	.........
+74	...I've felt the same way too.
+75	...Shall I look into it more closely?
+76	Yes, please do.
+77	Lord Roy, what's embedded in this pedestal is...
+78	So this is the "Sword of Seals."
+79	Let's see, let's see... hm? It... it won't come out...
+80	That's because it's sealed. You have to use the "Fire Emblem."
+81	How does one use it, I wonder?
+82	From what Princess Guinevere said, you embed it in the sword's hilt...
+83	Whoa, what's this?
+84	The sword has started to glow.
+85	I think this will let it come free. Let me try.
+86	.........!...
+87	...This is...
+88	...Just what...?
+89	The "Sword of Seals"...
+90	Hartmut's... memory...?
+91	!
+92	That person... who...?
+93	I wonder... somehow, it feels very...
+94	Lord Roy? Wh-what's the matter?
+95	No... I'm fine. It's nothing.
+96	So this is... the "Sword of Seals" the hero Hartmut once used...
+97	Am I... really allowed to use it?
+98	They say that, since ancient times, a fine sword chooses its own master.
+99	That sword is now in your hand, Lord Roy... which means, surely, that's simply how it is.
+100	But it's only by chance that this sword is in my hand.
+101	What we think of as chance...
+102	even that may well be just one part of the wheel of fate.
+103	.........
+104	In any case! Now that we've obtained the "Sword of Seals," all that's left is to head for Bern's royal palace.
+105	This is no time to be faint of heart, Lord Roy!
+106	You're right. The confrontation with King Zephiel awaits!!

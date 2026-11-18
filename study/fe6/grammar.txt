@@ -242,3 +242,4 @@ dewanaika|〜ではないか|Rhetorical "isn't it?!": used to point out somethin
 hazuganai|〜はずがない|"There's no way that …": confident denial of a possibility (stronger than 〜わけがない).|https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84
 kanoyouni|〜かのように|"As if, as though": likens something to a state that isn't actually the case.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB
 nari|〜なり〜なり|"Either ... or ...": lists options, implying either/any would do.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8A%E3%81%AA%E3%82%8A
+tewanaranai|〜てはならない|Prohibition: "must not". 〜てはならぬ is the old-style negative ending.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
