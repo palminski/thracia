@@ -237,3 +237,4 @@ katoomoeba|〜かと思えば|"No sooner had ... than ...": one event is immedia
 toiitoii|〜といい〜といい|"Both A and B", "whether it's A or B": listing two parallel examples to make a point.|
 tarunaru|〜たる／〜なる|Classical attributive "which is, that is": attaches a noun in apposition, as in 将たるわし ("I, who am the commander") or 父なる天 ("Father, who is the sky"). (Not in Bunpro's catalog.)|
 nisuginai|〜にすぎない|"Merely, nothing more than": downplays something as just that and no more.|
+wakeda|〜わけだ|Explanatory "so that means, that's why": draws a logical conclusion from what's known.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A0

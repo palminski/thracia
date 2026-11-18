@@ -4500,3 +4500,34 @@
 かかる#charge|かかる|to attack, to charge, to rush at (imperative かかれ = "Charge!")
 どのような|どのような|what kind of
 命#inochi|いのち|life — distinct from 命 (めい, "order, command")
+北部|ほくぶ|the northern part
+自衛|じえい|self-defense
+創設する|そうせつする|to found, to establish
+指導|しどう|guidance, instruction
+切りひらく|きりひらく|to clear (land), to open up
+寒冷|かんれい|cold, frigid
+気候|きこう|climate
+立ちはだかる|たちはだかる|to stand in the way, to block (someone's path)
+たばねる|たばねる|to bundle together; to hold sway over, to govern (figurative)
+蒔く|まく|to sow (seeds); 自分のまいた種 = "the seeds one has sown oneself" (idiom for one's own doing)
+種|たね|seed
+容易|ようい|easy
+処遇|しょぐう|treatment, handling (of a person)
+やり方|やりかた|way of doing things, method
+滞りなく|とどこおりなく|without a hitch, smoothly
+湾|わん|bay
+地元|じもと|the local area
+砂|すな|sand
+入り江|いりえ|inlet, cove
+対岸|たいがん|the opposite shore
+満ち引き|みちひき|the ebb and flow of the tide
+はげしい|はげしい|fierce, intense (= 激しい)
+船|ふね|boat, ship
+外海|そとうみ|the open sea
+潮|しお|the tide
+逃す#nogasu|のがす|to miss, to let slip (an opportunity) — distinct from 逃す (にがす, "to let escape/free")
+素敵|すてき|lovely, wonderful
+一日|いちにち|one day, all day
+反|はん|anti-, counter- (prefix)
+靡く|なびく|to sway, to incline toward, to side with
+因る|よる|to be due to, to be caused by; 〜によると = "according to ~"

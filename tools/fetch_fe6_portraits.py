@@ -27,7 +27,7 @@ NAMES = {
     "ダマス": "damas", "レイガンス": "legance", "ゼロット": "zelot", "トレック": "trec",
     "ミレディ": "melady", "ルード": "ruud", "エレン": "elen", "ディーク": "dieck",
     "シャニー": "shanna", "ワード": "ward", "ロット": "lot", "ブルーニャ": "brunnya",
-    "ゼフィール": "zephiel", "ヘクトル": "hector", "ドリー": "dory", "ヨーデル": "yodel",
+    "ゼフィール": "zephiel", "ヘクトル": "hector", "ドリー": "dory", "ヨーデル": "yoder",
     "ドロシー": "dorothy", "サウル": "saul", "チャド": "chad", "ルゥ": "lugh",
     "ナーシェン": "narcian", "スレーター": "slater", "エリック": "erik", "クラリーネ": "clarine",
     "ルトガー": "rutger", "キャス": "cath", "ワグナー": "wagner", "アストール": "astolfo",

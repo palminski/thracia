@@ -1,0 +1,122 @@
+1	With Roy and the Lycian alliance army's recapture of the Etrurian royal capital Aquleia as a turning point,
+2	the other Etrurian factions who had been watching and waiting
+3	one after another swung over to the anti-coup faction, and Prime Minister Roartz and Western Isles Governor-General Arcardo's coup faction were driven out of Etruria,
+4	fleeing into the Ilia region, which lay under the power of the kingdom of Bern.
+5	The Ilia region is land spread across the continent's north, with short summers and long winters—amid such harsh nature,
+6	knight orders had been founded in each locale for self-defense, and under their guidance the wastelands had been cleared.
+7	The kingdom of Etruria was liberated. Under King Mordred,
+8	Roy and the others formed a combined army with the Lycian Alliance,
+9	dispatching troops to Ilia to pursue the coup faction,
+10	and at the same time, in order to resolve the root of the problem, decided to also strike at the kingdom of Bern behind it.
+11	Roy, not wishing to stand in the shadow of the Lycian Alliance, and also considering the effect on Etruria's knight orders and the like,
+12	deliberately took to calling it the "Etrurian army" and became the commander of the combined force,
+13	and with the cooperation of the Church of Elimine, set out on the expedition.
+14	But what stood before Roy and the others, on top of the harshness of cold Ilia's climate,
+15	was the Bern army commanded by General Murdock, foremost of Bern's Three Dragon Generals who held sway over the Ilia region,
+16	and following him, a portion of Ilia's various knight orders.
+17	In the midst of all this, Roy and the others approach Castle Remy, near the border into Ilia.
+18	Has Narcian... fallen?
+19	Yes... Lord Murdock. Was it truly fine not to help him?
+20	Those are His Majesty's orders.
+21	Besides, a man who can't even clean up the mess he's sown himself has no place in this Bern army.
+22	M-Lord Murdock... whatever will become of us?
+23	Lord Arcardo, I leave this Remy to you. Lord Roartz, I leave Edessa to you.
+24	Each of you see to it. Prepare your counterattack.
+25	Wha—! Hold on just a moment!
+26	Being this close to the Etrurian capital, the enemy will come attack us right away, won't they!
+27	But by that same measure, it'll be easy for us to strike from here too.
+28	Edessa, you say... isn't that deep in Ilia's hinterlands...?
+29	It seems to me a fine place to prepare a counterattack, wouldn't you say?
+30	...W-won't you take back Etruria for us, with Bern's strength?
+31	If we win that way, Etruria becomes Bern's territory—will that still be acceptable to you?
+32	T-that's a problem!
+33	Then you'll just have to manage somehow on your own.
+34	Well then, we'll be taking our leave.
+35	.........
+36	...Was that treatment of those men really all right?
+37	It's fine. Each man settles his own affairs—that's Bern's way.
+38	More to the point... what was his name, Roy? The enemy's general?
+39	Yes.
+40	To think the Lycian Alliance we beat down so thoroughly has come to amount to this much.
+41	...If the chance arises, I'd like to cross swords with him once, on the battlefield.
+42	We'll soon be at Etruria's border.
+43	Truly, thank you for everything, Priest Yodel.
+44	Thanks to you and the Church of Elimine, the preparations for the expedition went off without a hitch.
+45	Not at all. If Lord Roy hadn't recaptured the capital Aquleia for us,
+46	we would surely still be under the rule of the kingdom of Bern even now, continuing to suffer under oppression.
+47	When I think of that, this much is nothing at all.
+48	I'm glad to have been of use.
+49	Lord Roy, actually, there's a favor I'd like to ask of you, if I may.
+50	What is it? If it's something I can do...
+51	At the place you're headed from here, if you learn anything new about the "dragons"...
+52	I understand. I'll let Priest Yodel know whenever that happens.
+53	I'm grateful! I'll be counting on you.
+54	Oh, and one more thing I must tell you.
+55	About this Remy Bay.
+56	According to the locals, at a certain time of day, a path of sand is said to form across the inlet...
+57	...A path? You mean it becomes possible to cross the sea?
+58	That's right. The castle you can see on the far shore here—
+59	ordinarily, it's a place you could only reach by going quite far around.
+60	But if what they say about the path is true,
+61	wouldn't the march on that Castle Remy become much easier?
+62	I see.
+63	To win in battle, rushing isn't always the quickest way.
+64	Understood. I'll give it some thought.
+65	Well then, may the Etrurian army have the Saint Elimine's blessing!
+66	You lot, are you going to fight against Bern's army?
+67	If so, please, take this staff with you.
+68	They say it's a staff some highborn princess once used, or something like that...
+69	Did you know? At a certain time, a path forms in the middle of the sea.
+70	That path—we locals
+71	call it the "Sea Road."
+72	Rather nice, isn't it?
+73	The sea around here has fierce tides.
+74	Before you get used to it, I failed at it plenty myself.
+75	What with it being so, even if you finally set sail, you can't get out to the open sea.
+76	Lord Arcardo! Ugh—there's... a path, in the sea!
+77	What! What do you mean!
+78	Well... when I asked one of the locals, they said the tide goes out around this hour...
+79	No way, that can't be! You lot didn't know that!
+80	Even if you say so, we aren't from around here, so...
+81	Ngh... what is the meaning of this.
+82	...In any case, don't let the enemy cross that path!!
+83	Lord Roy! A report has just come in!
+84	That a path formed in the sea?
+85	Yes.
+86	Priest Yodel's story was true, it seems.
+87	Hm, I wonder if the enemy knew about this beforehand?
+88	No, it seems there's confusion running through the enemy's ranks.
+89	Well then, let's not miss this chance and press the attack all at once!
+90	※If attacked by Douglas: G-General Douglas!
+91	So you've sided with the enemy after all, damn you!!
+92	※If attacked by another unit: W-why has it come to this!
+93	I... I am... a noble of Etruria.
+94	T-to think I'd fall in a place like this... gwah!...
+95	Lord Arcardo...
+96	Even one who rose as far as Governor-General of Etruria's Western Isles,
+97	in the end, amounts to such a trifling thing.
+98	That's right. Even we ourselves could never have imagined, a year ago, that we'd be standing here like this now.
+99	A person's fate—maybe that's just how it is.
+100	And that must be true of the king of Bern as well, surely...
+101	...Oh, Lord Roy, that thing you're holding in your hand there—whatever is it?
+102	This? This is supposedly the "Fire Emblem."
+103	My word, this little jewel is...
+104	I was entrusted with it by Princess Guinevere.
+105	When she handed it to me... the princess looked terribly pained.
+106	She surely wanted, to the very end, to make King Zephiel reconsider...
+107	Hmm... the bond between brother and sister, is it?
+108	From the outside, I'd always thought it an impossible story.
+109	Why is that?
+110	The one you're up against is King Zephiel of Bern, after all!
+111	He's a man suspected of having even laid hands on his own father, no less.
+112	For him to be moved by family feeling—that's hardly...
+113	Wh-what did you say! His own father?
+114	Oh my, Lord Roy, you didn't know?
+115	Zephiel gained his current throne through the death of Bern's former king,
+116	and as for that former king, since his death was so sudden,
+117	all sorts of dark rumors have been circulating.
+118	One of them being that his own son, the current King Zephiel...
+119	An assassination, that is.
+120	...I wonder if Princess Guinevere knows about that.
+121	It's hardly conceivable that she wouldn't know at all.
+122	.........
