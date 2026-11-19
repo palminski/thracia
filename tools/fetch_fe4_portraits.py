@@ -46,6 +46,11 @@ NAMES = {
     "ラナ": "nanna", "ディムナ": "deimne", "マナ": "muirne", "フィー": "fee",
     "アーサー": "arthur", "フェミナ": "hermina", "スレイダー": "slayder schmidt",
     "ハロルド": "harold",
+    "セリス": "seliph", "シャナン": "shannan 02", "リーフ": "leif", "ナンナ": "nanna",
+    "ブルーム": "bloom", "パティ": "patty", "クトゥーゾフ": "kutuzov dagon",
+    "イシュトー": "ishtore", "ライザ": "liza", "ブラムセル": "bramsel",
+    "ジャバロー": "javarro", "リーン": "lene", "アレス": "ares",
+    "トリスタン": "tristan", "ジャンヌ": "jeanne", "ティニー": "tine",
 }
 
 

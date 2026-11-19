@@ -29,6 +29,7 @@ TOKEN = re.compile(r"<[^>]*>|[^<]+")
 TAG = re.compile(r"<\s*(/?)\s*([A-Za-z0-9]+)([^>]*)>")
 CLASS = re.compile(r'class="([^"]*)"')
 DATAVIEW_TABLE = re.compile(r'<table class="dataview">.*?</table>', re.S)
+HTML_COMMENT = re.compile(r"<!--.*?-->", re.S)
 # Screen-position note right after a speaker's name starts: FE6 uses e.g. " (右)",
 # " (中央左)", " (左端)", " (画面外)"; FE4 uses " (上)"/" (下)". Strip it, don't display it.
 POS_TAG = re.compile(r"^\s*[\(（](?:(?:中央)?[右左](?:端)?|上|下|画面外)[\)）]")
@@ -48,6 +49,7 @@ class Fe4Parser:
         self.keywait_count = 0
         self.expect_pos_tag = False
         text = DATAVIEW_TABLE.sub("", text)
+        text = HTML_COMMENT.sub("", text)
         main = re.search(r"<main.*?</main>", text, re.S)
         body = main.group(0) if main else text
         start = body.find("<h2")
