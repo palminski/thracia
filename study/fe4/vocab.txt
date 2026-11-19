@@ -1,1 +1,568 @@
 # FE4 (Genealogy of the Holy War) central vocabulary. key|reading|meaning
+# A key may carry "#tag" to separate different senses of the same word; the tag is not shown.
+大陸|たいりく|continent
+中央|ちゅうおう|center
+位置する|いちする|to be located, positioned
+大国|たいこく|great power, major nation
+十二|じゅうに|twelve
+聖戦士|せいせんし|crusader, holy warrior
+一人|ひとり|one person, alone
+聖者|せいじゃ|saint, holy person
+建国する|けんこくする|to found (a nation)
+子孫|しそん|descendant
+王家|おうけ|royal family
+他|ほか|other, besides
+やはり|やはり|also, as one would expect
+血|ち|blood
+ひく|ひく|to draw, be descended from (血をひく)
+公爵家|こうしゃくけ|ducal house, duchy
+広大|こうだい|vast
+領地|りょうち|domain, territory
+軍隊|ぐんたい|army
+有する|ゆうする|to possess, have
+当主|とうしゅ|head of the family/house
+王国|おうこく|kingdom
+従属する|じゅうぞくする|to be subordinate to
+独自性|どくじせい|independence, distinctiveness
+保つ|たもつ|to maintain, keep
+政治|せいじ|politics
+老いる|おいる|to grow old, age
+才知|さいち|wit, cleverness
+あふれる|あふれる|to overflow, brim with
+取り仕切る|とりしきる|to take charge of, run
+信任|しんにん|trust, confidence
+厚い|あつい|deep, strong (of trust, feeling)
+助ける|たすける|to help, assist
+宰相|さいしょう|chancellor, prime minister
+任|にん|duty, office
+地位|ちい|position, status
+脅かす|おびやかす|to threaten, endanger
+危機感|ききかん|sense of crisis
+覚える|おぼえる|to feel, sense; to remember, learn
+強欲|ごうよく|greedy, avaricious
+知られる|しられる|to be known
+誘う|さそう|to invite, lure
+反|はん|anti-, opposing (prefix)
+勢力|せいりょく|faction, power, influence
+形成する|けいせいする|to form
+若き|わかき|young (literary form of 若い)
+関与する|かんよする|to be involved in
+立場|たちば|standpoint, position
+近衛軍|こんえぐん|royal guard (army)
+指揮官|しきかん|commander
+神父|しんぷ|(Christian) priest, father
+危険|きけん|danger, dangerous
+状況|じょうきょう|situation
+不安|ふあん|anxiety, unease
+おり|おり|occasion, time
+東方|とうほう|the east, eastern direction
+危急|ききゅう|urgent, critical
+知らせ|しらせ|news, report
+届く|とどく|to arrive, reach
+砂漠|さばく|desert
+友好|ゆうこう|friendly, friendship
+都市|とし|city
+蛮族|ばんぞく|barbarians
+侵略する|しんりゃくする|to invade
+住民|じゅうみん|resident, inhabitant
+虐殺する|ぎゃくさつする|to massacre
+罰する|ばっする|to punish
+べし|べし|(classical) should, must
+国中|こくじゅう|throughout the country
+満ちる|みちる|to be filled with
+討伐|とうばつ|subjugation, suppression
+決定|けってい|decision
+下す|くだす|to hand down, bestow
+父王|ふおう|father king (the king, one's father)
+諸公|しょこう|the various lords
+率いる|ひきいる|to lead
+出陣する|しゅつじんする|to march out to battle
+かたわら|かたわら|one's side
+つねに|つねに|always
+勇壮|ゆうそう|valiant, brave
+武人|ぶじん|warrior, military man
+姿|すがた|figure, appearance
+遠征|えんせい|expedition
+わずか|わずか|a few, scant
+兵|へい|soldier(s)
+残る|のこる|to remain
+国境|こっきょう|border
+接する|せっする|to border, be adjacent to
+西|にし|west
+南西|なんせい|southwest
+同盟|どうめい|alliance
+関係|かんけい|relationship
+うれい|うれい|worry, concern
+はず|はず|should be the case, expectation
+期待|きたい|expectation
+あっけなく|あっけなく|all too easily, abruptly
+裏切る|うらぎる|to betray
+大軍|たいぐん|large army
+突然|とつぜん|suddenly
+突破する|とっぱする|to break through
+包囲する|ほういする|to surround, besiege
+留守|るす|absence from home, care of the house while away
+娘|むすめ|daughter
+託す|たくす|to entrust
+部下|ぶか|subordinate(s)
+がくぜんとする|がくぜんとする|to be shocked, stunned
+幼なじみ|おさななじみ|childhood friend
+渡す|わたす|to hand over
+決意|けつい|resolve, determination
+すぐさま|すぐさま|immediately, at once
+暦|れき|calendar, era
+こうして|こうして|thus, in this way
+運命|うんめい|fate, destiny
+扉|とびら|door, gate
+開く|ひらく|to open
+恐ろしい|おそろしい|terrible, dreadful
+出来事|できごと|event, incident
+まえぶれ|まえぶれ|omen, harbinger
+誰一人|だれひとり|not a single person
+敵|てき|enemy
+戦う|たたかう|to fight
+ふがいない|ふがいない|spineless, disappointing (of oneself)
+皆|みな|everyone
+生き延びる|いきのびる|to survive
+命|いのち|life
+代える|かえる|to exchange, trade
+覚悟|かくご|resolve, readiness
+いたす|いたす|to do (humble)
+城|しろ|castle
+頼む|たのむ|to ask, request
+主力|しゅりょく|main force
+とはいえ|とはいえ|even so, that said
+死ぬ|しぬ|to die
+わかる|わかる|to know, understand
+戦い|たたかい|battle, fight
+巻き込む|まきこむ|to drag into, involve
+ばか|ばか|idiot, foolish
+騎士|きし|knight
+生まれる|うまれる|to be born
+あたりまえ|あたりまえ|natural, to be expected
+主君|しゅくん|lord, master
+死なせる|しなせる|to let die, cause to die
+おめおめと|おめおめと|shamefully, disgracefully
+参る|まいる|to go/come (humble)
+同じ|おなじ|same
+考え|かんがえ|thought, idea, opinion
+もちろん|もちろん|of course
+大事|だいじ|important
+村|むら|village
+襲う|おそう|to attack, raid
+奪う|うばう|to steal, plunder
+殺す|ころす|to kill
+焼き尽くす|やきつくす|to burn to the ground
+手おくれ|ておくれ|too late
+回る|まわる|to go around
+守り|まもり|defense, protection
+固める|かためる|to strengthen, solidify
+確かに|たしかに|certainly, indeed
+民|たみ|the people, citizens
+義務|ぎむ|duty, obligation
+よく|よく|well (adv.)
+本当は|ほんとうは|actually, truthfully
+意見|いけん|opinion
+さすが|さすが|as expected (of), truly
+軍師|ぐんし|military strategist, tactician
+孫|まご|grandchild
+子供|こども|child
+気がつく|きがつく|to notice
+王宮|おうきゅう|royal palace
+来る|くる|to come
+勝手に|かってに|without permission, selfishly
+出撃する|しゅつげきする|to sortie, go out to attack
+連れていく|つれていく|to take (someone) along
+留守番|るすばん|looking after the house (while away)
+いや|いや|unpleasant, disliked
+大丈夫|だいじょうぶ|all right, fine
+才|さい|years old (counter for age)
+世話|せわ|care, looking after
+おねがい|おねがい|request, please
+どうか|どうか|please (polite entreaty)
+そば|そば|side, nearby
+見習い|みならい|apprentice, trainee
+年|ねん|year
+そろそろ|そろそろ|soon, before long
+経験する|けいけんする|to experience
+悪い|わるい|bad
+早い|はやい|early, fast
+しばらく|しばらく|for a while
+相談|そうだん|consultation
+相手|あいて|partner, companion
+なる|なる|to become
+守る|まもる|to protect, guard
+守備|しゅび|defense (military)
+上がる|あがる|to go up; to take up (a post)
+本拠地|ほんきょち|home base, headquarters
+全滅する|ぜんめつする|to be wiped out, annihilated
+固い|かたい|hard, tough
+強い|つよい|strong
+おそい|おそい|slow
+三拍子|さんびょうし|three key qualities ("three-beat rhythm")
+揃う|そろう|to be complete, all present
+なんで|なんで|why (casual)
+気に入る|きにいる|to like, be pleased with
+任せる|まかせる|to entrust
+おまえ|おまえ|you (informal, rough)
+取りあえず|とりあえず|for now, for the time being
+てめえ|てめえ|you bastard (rough)
+ちっぽけ|ちっぽけ|tiny, insignificant
+かかる|かかる|to take (time)
+しょうがない|しょうがない|it can't be helped
+あんちゃん|あんちゃん|young man, buddy (slang)
+頑張る|がんばる|to try hard, persevere
+これまで|これまで|this far, the end
+食らう|くらう|to eat; to take (a hit) ("くらえ" = "take this!")
+許す|ゆるす|to forgive, allow
+上玉|じょうだま|a prize, a beauty (slang)
+姫君|ひめぎみ|princess
+連れる|つれる|to bring, take (someone) along
+帰る|かえる|to go home, return
+なんとかする|なんとかする|to deal with somehow
+心配|しんぱい|worry
+弟|おとうと|younger brother
+戻る|もどる|to return
+攻め上る|せめあがる|to advance, march on
+なんといっても|なんといっても|no matter what, after all
+放題|ほうだい|as much as one likes (suffix)
+ぐずぐず|ぐずぐず|to dawdle, dither
+さっさと|さっさと|quickly, hurry up
+歩く|あるく|to walk
+落とす|おとす|to drop, bring down
+しっかり|しっかり|firmly, properly
+戦利品|せんりひん|war trophy, spoils of war
+妻|つま|wife
+よだれ|よだれ|drool, saliva
+物欲しい|ものほしい|looking envious, covetous
+占領する|せんりょうする|to occupy
+好き|すき|liking, fondness
+くれる|くれる|to give (to me/us)
+我慢する|がまんする|to endure, be patient
+獣|けだもの|beast, brute
+神|かみ|god
+者|もの|person, one (who...)
+人間|にんげん|human being
+心|こころ|heart, mind
+ぶつぶつ|ぶつぶつ|muttering
+野郎|やろう|bastard, guy (rough)
+ついでに|ついでに|while we're at it, incidentally
+宝|たから|treasure
+巻き上げる|まきあげる|to swipe, extort, plunder
+間に合う|まにあう|to be in time, make it
+苦戦する|くせんする|to struggle in battle
+俺|おれ|I, me (masc., informal)
+物好き|ものずき|curious, eccentric
+別に|べつに|particularly (not)
+放っておく|ほうっておく|to leave alone, neglect
+部隊|ぶたい|troops, unit
+ほとんど|ほとんど|almost, mostly
+決死|けっし|determined to die, life-or-death
+見捨てる|みすてる|to abandon, forsake
+相変わらず|あいかわらず|as always, unchanged
+素直|すなお|obedient, honest, straightforward
+理由|りゆう|reason
+赤|あか|red
+可愛い|かわいい|cute
+いい加減|いいかげん|(stop being) half-hearted, irresponsible
+俺様|おれさま|yours truly (boastful "I")
+力|ちから|power, strength
+見せる|みせる|to show
+無事|むじ|safe, uninjured
+兄|あに|older brother
+側|そば|side, near
+魔法|まほう|magic
+使う|つかう|to use
+困る|こまる|to be in trouble
+あげる|あげる|to give (to someone else)
+嫁ぐ|とつぐ|to marry (into)
+身|み|body, one's person
+黙る|だまる|to be silent, say nothing
+見る|みる|to see, watch
+つらい|つらい|hard, painful
+礼|れい|thanks, gratitude
+無用|むよう|unnecessary, no need
+大切|たいせつ|important, dear
+親友|しんゆう|close friend
+まして|まして|moreover, much more so
+義兄|ぎけい|brother-in-law
+兄上|あにうえ|(honorific address) elder brother
+何より|なにより|more than anything, best of all
+役に立つ|やくにたつ|to be useful
+駆けつける|かけつける|to rush to, hurry to
+むろん|むろん|of course, naturally
+願う|ねがう|to wish, hope
+承知|しょうち|consent, awareness
+国王|こくおう|king
+側近|そっきん|close aide, attendant
+指揮|しき|command
+王都|おうと|capital (royal capital)
+離れる|はなれる|to leave, be away from
+きつい|きつい|strict, severe
+言う|いう|to say
+叱る|しかる|to scold
+受ける|うける|to receive
+息|いき|breath
+詰まる|つまる|to be blocked, choked
+それに|それに|moreover
+出来|でき|result, how something turns out
+足手まとい|あしでまとい|a burden, hindrance
+訳|わけ|reason, circumstance
+心強い|こころづよい|reassuring, encouraging
+君|きみ|you (familiar)
+いつまでも|いつまでも|forever, as long as one likes
+噂|うわさ|rumor
+通り|とおり|as, in accordance with
+違う|ちがう|to differ, be different
+応援|おうえん|support, cheering
+無理やり|むりやり|forcibly
+連れてくる|つれてくる|to bring (someone) along
+まったく|まったく|really, completely
+迷惑|めいわく|trouble, annoyance
+口|くち|mouth
+父上|ちちうえ|(honorific address) father
+まさか|まさか|no way, surely not
+目の敵にする|めのかたきにする|to treat as an enemy, bear a grudge against
+誤解|ごかい|misunderstanding
+あんた|あんた|you (colloquial, rough)
+為|ため|sake, purpose
+真似|まね|mimicry, imitation
+協力|きょうりょく|cooperation
+狙う|ねらう|to target, aim at
+ランスリッター|ランスリッター|Lance Knight (a lance-wielding mounted class)
+我々|われわれ|we (formal)
+約束|やくそく|promise
+少年|しょうねん|boy, youth
+頃|ころ|time, period
+士官学校|しかんがっこう|officers' academy
+知り合う|しりあう|to get to know each other
+互いに|たがいに|mutually, with each other
+夢|ゆめ|dream
+語り合う|かたりあう|to talk together, share
+助け合う|たすけあう|to help each other
+誓う|ちかう|to vow, swear
+忘れる|わすれる|to forget
+すぐに|すぐに|right away, immediately
+追い払う|おいはらう|to drive away, repel
+絶対に|ぜったいに|absolutely
+失う|うしなう|to lose
+元気|げんき|energy, health
+負ける|まける|to lose
+思う|おもう|to think
+向こう見ず|むこうみず|reckless, rash
+幼い|おさない|young, childish
+亡くなる|なくなる|to pass away
+母上|ははうえ|(honorific address) mother
+面倒|めんどう|trouble, care
+女|おんな|woman
+少しも|すこしも|not at all (+ negative)
+変わる|かわる|to change
+大変|たいへん|tough, difficult
+口うるさい|くちうるさい|nagging, fussy
+だらしない|だらしない|careless, slovenly
+感謝|かんしゃ|gratitude
+休む|やすむ|to rest
+街|まち|town
+人々|ひとびと|people
+会う|あう|to meet
+安心|あんしん|peace of mind
+救う|すくう|to save, rescue
+金|かね|money
+集める|あつめる|to gather, collect
+聞く|きく|to listen, ask
+剣|けん|sword
+斧|おの|axe
+槍|やり|lance, spear
+組み合わせ|くみあわせ|combination
+考える|かんがえる|to think, consider
+傷つく|きずつく|to be wounded
+教会|きょうかい|church
+たちまち|たちまち|instantly, at once
+完治する|かんじする|to heal completely
+タダ#free|ただ|free (of charge)
+ゴールド|ゴールド|gold (currency)
+必要|ひつよう|necessary
+治める|おさめる|to govern, rule
+代々|だいだい|for generations
+使い手|つかいて|user, wielder
+有名|ゆうめい|famous
+なにしろ|なにしろ|after all, in any case
+光|ひかり|light
+聖剣|せいけん|holy sword
+あっという間に|あっというまに|in an instant
+やっつける|やっつける|to beat, defeat
+長ける|たける|to excel at, be skilled in
+双子|ふたご|twins
+姉妹|しまい|sisters
+海賊|かいぞく|pirates
+さらう|さらう|to abduct, kidnap
+行方不明|ゆくえふめい|missing, whereabouts unknown
+弟君|おとうとぎみ|(honorific) younger brother
+親子|おやこ|parent and child
+冷める|さめる|to cool down, grow cold
+やっと|やっと|finally
+だめ|だめ|no good, hopeless
+リング|リング|ring (the item)
+そなた|そなた|you (archaic, polite)
+やる|やる|to give; to do
+スピードリング|スピードリング|Speed Ring (raises Speed when worn)
+つける|つける|to attach, wear
+素早い|すばやい|quick, nimble
+不思議|ふしぎ|strange, mysterious
+腕輪|うでわ|bracelet
+当たる|あたる|to hit
+腰抜け|こしぬけ|coward
+まとめる|まとめる|to put together, gather up
+片付ける|かたづける|to finish off, dispose of
+倒れる|たおれる|to collapse, fall
+たぶん|たぶん|probably
+取り返す|とりかえす|to take back, retrieve
+癒す|いやす|to heal
+体|からだ|body
+気がかり|きがかり|worry, concern
+しくじる|しくじる|to fail, blunder
+直す|なおす|to fix, repair
+攻め込む|せめこむ|to invade, attack
+様子|ようす|appearance, state
+手こずる|てこずる|to have trouble with, struggle
+所詮|しょせん|after all, in the end
+程度|ていど|degree, extent
+陛下|へいか|Your/His Majesty
+命じる|めいじる|to order, command
+くださる|くださる|to give, bestow (honorific)
+受け取る|うけとる|to receive, accept
+銀|ぎん|silver
+名誉|めいよ|honor
+伝える|つたえる|to convey, tell
+ところで|ところで|by the way
+加わる|くわわる|to join
+本当|ほんとう|true, real
+追い返す|おいかえす|to turn away, send back
+母親|ははおや|mother
+やむを得ない|やむをえない|unavoidable
+教える|おしえる|to teach
+終わる|おわる|to end, finish
+説得|せっとく|persuasion
+戦死|せんし|death in battle
+足りる|たりる|to be enough, suffice
+待つ|まつ|to wait
+飛び道具|とびどうぐ|ranged weapon, projectile
+卑怯|ひきょう|cowardly, unfair
+返す|かえす|to return, give back
+犬|いぬ|dog
+くたばる|くたばる|to die, drop dead (vulgar)
+残念|ざんねん|too bad, regrettable
+今頃|いまごろ|around now, by now
+くまなく|くまなく|thoroughly, all over
+探す|さがす|to search
+見当たる|みあたる|to be found
+一体|いったい|on earth, really
+おそらく|おそらく|probably
+連れ去る|つれさる|to take away
+追いかける|おいかける|to chase, pursue
+使者|ししゃ|messenger
+この度|このたび|this time, this occasion
+見事|みごと|splendid, magnificent
+いたく|いたく|greatly, deeply
+喜ぶ|よろこぶ|to be glad, rejoice
+称号|しょうごう|title
+余る|あまる|to be too much, exceed
+光栄|こうえい|honor, glory
+更なる|さらなる|further, additional
+忠誠|ちゅうせい|loyalty
+重要|じゅうよう|important
+最後|さいご|the end, final
+軍用金|ぐんようきん|war funds
+得る|える|to get, obtain
+破壊する|はかいする|to destroy
+額|がく|amount, sum
+少ない|すくない|few, little
+今後|こんご|from now on, henceforth
+気をつける|きをつける|to be careful
+卿|けい|lord, sir (title of nobility)
+王子|おうじ|prince
+公子|こうし|prince (duke's son)
+公女|こうじょ|princess (duke's daughter)
+王|おう|king
+ありがとう|ありがとう|thank you
+六つ|むっつ|six
+公国|こうこく|duchy, principality
+自分|じぶん|oneself
+声|こえ|voice
+年老いる|としおいる|to grow old, age
+出る|でる|to go out, leave, depart
+後|あと|after, behind
+後顧|こうこ|concern for what's left behind (esp. in 後顧の憂い)
+しかし|しかし|however, but
+ただ#only|ただ|only, merely
+父|ちち|father
+彼女|かのじょ|she, her
+手|て|hand
+時|とき|time
+知る|しる|to know
+事|こと|thing, matter
+危ない|あぶない|dangerous
+軍|ぐん|army, forces
+わが|わが|my, our (archaic/formal)
+共に|ともに|together
+生きる|いきる|to live
+いろいろ|いろいろ|various
+一緒に|いっしょに|together
+置く|おく|to put, leave
+国|くに|country
+二人|ふたり|two people
+顔|かお|face
+次|つぎ|next
+急ぐ|いそぐ|to hurry
+久しぶり|ひさしぶり|long time no see
+村人|むらびと|villager
+少し|すこし|a little, a bit
+弓|ゆみ|bow
+男の子|おとこのこ|boy
+父君|ちちぎみ|(honorific) father
+訪問|ほうもん|visit
+場合|ばあい|case, situation
+生存|せいぞん|survival
+死亡|しぼう|death
+ユニット|ユニット|unit (a character/piece in the game)
+やがて|やがて|eventually, before long
+東|ひがし|east
+行く|いく|to go
+先|せん|ahead, first, prior
+まだ|まだ|still, yet
+連中|れんちゅう|the lot, the bunch, those guys
+入る|はいる|to enter
+橋|はし|bridge
+なんとか|なんとか|somehow, one way or another
+良い|よい|good
+代わる|かわる|to take the place of, substitute
+全然|ぜんぜん|not at all (+ negative)
+できるだけ|できるだけ|as much as possible
+だから|だから|so, therefore
+すまない|すまない|sorry (informal)
+掛ける|かける|to cause, impose (迷惑をかける)
+家柄|いえがら|family lineage, social standing
+方々|かたがた|people (polite plural)
+もう一度|もういちど|once more, one more time
+どこまでも|どこまでも|to the ends of the earth, no matter where
+姫様|ひめさま|princess, milady
+聖騎士|せいきし|holy knight (a title)
+地|ち|land, ground
+下|しも|below, under
+姉|あね|older sister
+方#person|かた|person (polite)
+あまり|あまり|not very, (not) much
+攻撃|こうげき|attack
+若い|わかい|young
+とても|とても|very
+川|かわ|river
+貴様|きさま|you (rough, contemptuous)
+男|おとこ|man
+たった|たった|just, only
+やつ|やつ|guy, fellow (rough)
+限り|かぎり|as far as, limit
+殿|どの|(honorific suffix) Lord, Sir
+落ちる|おちる|to fall
+前|まえ|before, front
+三人|さんにん|three people
+今度|こんど|this time

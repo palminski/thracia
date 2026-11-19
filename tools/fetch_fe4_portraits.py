@@ -20,6 +20,13 @@ UA = {"User-Agent": "thracia-fansite-build/0.1 (personal fan project)"}
 # Japanese speaker name (as it appears in the transcript) -> wiki file-name slug.
 # Grows chapter by chapter as new named characters show up.
 NAMES = {
+    "シグルド": "sigurd", "エーディン": "edain", "キュアン": "quan", "アイラ": "ayra",
+    "アゼル": "azelle", "ディアドラ": "deirdre", "フィン": "finn_01", "ラケシス": "lachesis",
+    "レックス": "lex", "エルトシャン": "eldigan", "アルヴィス": "arvis_01",
+    "エスリン": "ethlyn", "ミデェール": "midir", "ガンドルフ": "munnir",
+    "アレク": "alec", "アーダン": "arden", "ノイッシュ": "naoise",
+    "オイフェ（少年）": "oifey_02", "キンボイス": "cimbaeth", "ゲラルド": "gerrard",
+    "デマジオ": "dimaggio",
 }
 
 

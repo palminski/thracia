@@ -1,1 +1,43 @@
 # FE4 (Genealogy of the Holy War) central grammar points. id|pattern|explanation|bunpro_url
+# A point with no URL isn't in Bunpro's catalog (dialect, classical, or very colloquial).
+tsutsu|〜つつ|Literary "while doing", simultaneous action. 保ちつつ = "while maintaining".|
+ni-kawatte|〜に代わって|"In place of, on behalf of".|
+to-iu|〜という|"It is said that, called". Reports what's heard or named.|
+beshi|〜べし|Classical auxiliary: "should, must". 罰するべし = "should be punished".|
+wake-niwa-ikanai|〜わけにはいかない|"Cannot possibly ~" - a social/moral obligation makes the action impossible.|
+no-dearu|〜のである|Formal, written explanatory sentence ending, = 〜のだ.|
+toshite|〜として|"As, in the capacity of".|
+kurai|〜くらい／〜ぐらい|"About, to the extent of".|
+sasete-morau|〜させてもらう|"Let me do ~" - asking/stating permission to do something for one's own benefit.|
+rashii|〜らしい|"Seems like, I heard that" - inference from outside information.|
+sae-ba|〜さえ〜ば|"As long as ~, if only ~".|
+tehoshii|〜てほしい|"Want (someone) to do ~".|
+tewa-naranu|〜てはならぬ／〜てはならない|"Must not do ~".|
+yagaru|〜やがる|Contemptuous auxiliary added to a verb stem - "have the nerve to ~".|
+ni-kaete|〜に代えても|"Even at the cost of ~". 命にかえても = "even at the cost of my life".|
+ijou|〜以上|"Given that ~ (as a natural consequence)".|
+nakerebanaranai|〜なければならない|"Must do ~".|
+nasai|〜なさい|Polite command form, softer than the plain imperative.|
+koto-ga-dekinai|〜ことができない|"Cannot do ~".|
+shika-nai|〜しかない|"Nothing but ~, only ~".|
+ni-tsuki|〜につき|"Per, for each".|
+to-yoi|〜とよい|"It's good to ~, you should ~".|
+nikui|〜にくい|"Hard to do ~".|
+goto-ni|〜ごとに|"Each time, every ~".|
+teshimau|〜てしまう|"End up doing ~, finish doing ~" - often with a sense of regret or finality.|
+nioite|〜において|"In, at, with regard to" - formal.|
+senebanaranu|〜せねばならぬ|Classical "must do ~", = 〜しなければならない.|
+koso|〜こそ|Emphatic particle: "it is precisely ~, ~ of all things".|
+shiru-yoshi-mo-nai|知る由もない|Idiom: "to have no way of knowing".|
+niyotte|〜によって|"By, due to" - marks the agent or cause, especially in passive sentences.|
+de-aru|〜である|Formal written copula, = だ／です.|
+teiru|〜ている|Ongoing action or resulting state ("is doing", "has done"). Past: 〜ていた.|
+totomoni|〜とともに|"Together with".|
+renyou|verb stem, … (連用中止)|Ending a clause on the verb's plain stem links it to the next clause, like "and" - a formal, written alternative to the て-form.|
+passive|〜れる／〜られる|Passive: "be …-ed". The doer is marked with に.|
+de-copula|〜で (copula て-form)|で here is the て-form of だ: "it is … and".|
+zu-neg|〜ず|Classical negative, = 〜ない. Often links to the next clause like a て-form.|
+tekudasai|〜てください|Polite request, "please do ~".|
+kono-mama-dewa|このままでは|"If things stay as they are".|
+te-orenai|〜ておれません|Dialect/classical "cannot remain ~ing", = 〜ていられない.|
+kamoshirenai|〜かもしれない|"Might be, perhaps" - expresses a possibility.|

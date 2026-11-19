@@ -1,0 +1,258 @@
+1	Grannvale, the great nation at the center of the continent of Jugdral, was
+2	founded by Saint Heim, one of the Twelve Crusaders.
+3	This nation is home not only to the royal family, descendants of Heim,
+4	but also to six Grand Duchies, which likewise carry the blood of the Crusaders.
+5	As lords of vast domains and their own armies,
+6	the duchies kept their own independence even while remaining subject to the kingdom.
+7	The kingdom's government, in place of the aging King Azmur,
+8	was run by the brilliant Prince Kurth,
+9	aided by Lord Byron, head of House Chalphy, who had the prince's deep trust,
+10	together with Lord Ring of House Jungby.
+11	Lord Reptor of House Freege, who held the position of chancellor,
+12	felt his own position threatened
+13	and drew in Lord Langobalt of the greedy House Dozel,
+14	forming a faction opposed to the prince.
+15	Lord Arvis, the young head of House Velthomer,
+16	did not involve himself in politics, holding the post of commander of the royal guard protecting the king,
+17	and only Father Claude of House Edda alone felt uneasy about the kingdom's dangerous state.
+18	Around that time, urgent news arrived from the east.
+19	Darna, a friendly city in the Yied Desert, had been invaded by the eastern barbarians of Isaach,
+20	and its people, it was said, had been slaughtered.
+21	Voices across the country rose up calling for the barbarians to be punished, and at last, the decision was made to subjugate Isaach.
+22	Prince Kurth, in place of his aging father King Azmur,
+23	led the nation's lords out to war.
+24	By his side, as always, was the man known as a valiant warrior—
+25	Lord Byron.
+26	After the expeditionary force departed, only a scant few soldiers remained in Grannvale, but
+27	to the west, on the border, lay Agustria,
+28	and to the southwest, the Kingdom of Verdane—both allied nations,
+29	so there should have been no cause for concern from behind.
+30	But that expectation was betrayed all too easily.
+31	A great army of the Kingdom of Verdane, led by Prince Gandolf,
+32	suddenly broke through the border and laid siege to Jungby Castle.
+33	The only one left to guard House Jungby was its daughter, Edain, alone.
+34	Sigurd, prince of the Duchy of Chalphy, who had been entrusted with the kingdom's defense by his father Lord Byron and had remained at the castle with a handful of men,
+35	was stunned by this news.
+36	Princess Edain was his childhood friend.
+37	"I cannot hand her over to those barbarians."
+38	Prince Sigurd resolved at once to march out.
+39	In the year 757 of the Grannvale calendar... thus, the gate of destiny was opened.
+40	That this would, in time, become the harbinger of a terrible chain of events,
+41	no one, at that moment, had any way of knowing.
+42	Lady Edain, the enemy has surrounded the castle. We who should be protecting you, princess, have been so powerless...
+43	It's all right, Mideel... Everyone fought so well. Don't worry about me anymore.
+44	Right now, even if it's just one person, please—live on.
+45	No, Lady Edain. Everyone is resolved to protect you, princess, to the very end.
+46	Even at the cost of our lives, we will protect you.
+47	Thank you, Mideel... ...I'm sorry.
+48	Jungby Castle has been surrounded by Gandolf's army. At this rate, Edain is in danger.
+49	Noish, I'm going to go save her. I'm leaving the rest to you!
+50	Please wait, Lord Sigurd. Surely you don't mean to go alone?
+51	The main force of our army went on the expedition to Isaach with Father. Only a few of us remain here.
+52	The Verdane army may be barbarians, but it's a large force. I can't drag all of you into a fight where death is certain.
+53	Don't talk nonsense. Having been born a knight, dying in battle is only natural.
+54	We can't just sit back and let our lord die alone. We're coming with you too.
+55	Alec, you feel the same way, don't you?
+56	Ah, of course. But Jungby Castle matters, sure, but shouldn't saving the villages come first?
+57	They say the barbarians are raiding every village in their path, plundering, killing, and burning it all to the ground.
+58	We ought to go around the villages and strengthen their defenses before it's too late, don't you think?
+59	You're right. Protecting the people is our duty as knights. Well said, Alec.
+60	Nah, honestly, it was Oifey's idea.
+61	No wonder—grandson of the famed tactician Lord Shuhal. Even though he's still a kid, he notices all sorts of things.
+62	Is Oifey here at the castle? Oifey, if you're here, come out.
+63	Lord Sigurd, I'm sorry for coming without permission. But if you're marching out, please take me with you too.
+64	I don't want to just stay behind and watch the castle.
+65	But you're still a child. Will you be all right?
+66	I've already turned fourteen. I still can't fight, but I can at least take care of things for you, Lord Sigurd.
+67	Please—I'm begging you. Please keep me by your side.
+68	All right, Oifey. It's been two years since you came to me as a knight-in-training.
+69	It wouldn't hurt for you to experience the battlefield by now. But it's still too soon for you to fight.
+70	For a while, just stay by my side and be someone I can talk things over with.
+71	Yes! Thank you very much!
+72	Lord Sigurd, what will we do about defending this castle?
+73	Someone needs to stay on defense, or it's dangerous. If our home base, this castle, falls to the enemy, we're finished.
+74	Noish, there's nobody better for defending the castle than this guy! Right, Arden?
+75	Hey, Alec, why me?
+76	Tough, strong, and slow! You're the only one with all three!
+77	Tough and strong, fine, but I don't appreciate the "slow" part.
+78	No, Arden—I'm asking you myself too. You're the only one I can trust to guard the castle.
+79	Hah, fine, I get it. I'll go up and defend it for now. But let me go out and fight sometimes too, all right?
+80	Good, then let's go. For now, we help the villages. And then—on to Jungby!
+81	You lot, how much longer are you gonna drag this out with such a tiny castle... Damn it, I'll do it myself.
+82	Heh heh... You put up a good fight all on your own, kid. But this is as far as you go—take this!
+83	Guh... Lady Edain... forgive me.
+84	Ahh, Mideel...
+85	Ohh, now this is quite the prize. The princess of Jungby, is it... heh heh... All right, I'll take this woman back to my country.
+86	Leave the rest to you and Gerald.
+87	Heh...
+88	Don't worry. I'll head back with my brother Kinbois's army.
+89	Then we'll march all the way up to Belhalla—after all, there's no army left in this country right now.
+90	We can do whatever we want.
+91	Yessir, understood, leave it to us!
+92	Hey, don't you dawdle! Walk, and quick about it!!
+93	.........
+94	Knock down the bridge so the Grannvale lot can't follow us in!
+95	Yessir, understood.
+96	Hey, Gerald, I'm heading back to Marfa Castle. I'm leaving this castle to you, so guard it well.
+97	Yessir, understood. But Prince Gandolf, who is this woman?
+98	My spoils of war. I'll take her back to Marfa and make her my wife. Not bad, eh?
+99	Heh, I can't help but drool just looking at her.
+100	Fool, don't make that greedy face. Once we've occupied Grannvale, I'll give you all you want too.
+101	Until then, be patient.
+102	You people are beasts... God, please—give these people the hearts of human beings...
+103	What are you muttering about? Come on, let's go! Don't dawdle!!
+104	Go on, men! Chalphy's next! While we're at it, grab the villages' treasure too!
+105	Lex, looks like we made it in time somehow.
+106	Yeah, Prince Sigurd seems to be having a rough time against Verdane's big army.
+107	He'll be glad we came. But you're a strange one too—you could've just left it alone.
+108	Our country's main forces are off on the expedition to Isaach. Almost nobody's left in the homeland.
+109	Prince Sigurd is trying to fight to the death with just the handful of soldiers left in Chalphy.
+110	I can't just abandon him.
+111	Heh... You're as dishonest with yourself as ever. That's not the only reason, is it?
+112	Wh-what are you talking about!
+113	You're worried about Princess Edain of Jungby. I know you like her.
+114	Y-you're talking nonsense!
+115	See, your face is already turning red. Ha, you're a cute one.
+116	L-Lex! Cut it out already! I'm going on ahead!
+117	Ha ha ha, all right, all right. Guess I'll show off a bit of my own strength here too.
+118	Looks like we made it. Is Sigurd safe?
+119	Yes, my brother should be fine... But he doesn't have anyone with him who can use magic,
+120	so I'm sure he's in trouble. I wanted to help him with my heal staff...
+121	I'm sorry, Quan, for making even you fight.
+122	I'm a woman married into House Leonster now, no longer one of Chalphy's own, but it was too painful just to watch quietly...
+123	On my brother's behalf, let me thank you.
+124	No need for thanks, Ethlyn. Sigurd is a dear friend to me too.
+125	And now that I've made you my wife, he's my brother-in-law as well. I won't let you fight alone.
+126	Thank you... Quan.
+127	Let's hurry, Lord Quan, Lady Ethlyn. The battlefield is probably just ahead.
+128	Prince Sigurd, I'm glad to see you safe.
+129	You're Prince Azel of House Velthomer? Why are you here?
+130	I wanted to be of some help, even a little, in the fight against Verdane, so I rushed here with Lex.
+131	Please allow us to fight alongside you as well.
+132	Of course, nothing could please me more. But does your older brother—Lord Arvis—know about this?
+133	No... My brother's been entrusted with command of the royal guard, as the king's close aide.
+134	I was told firmly that I must never leave the capital, Belhalla, either.
+135	I'd imagine so. But then won't you be scolded for this later?
+136	It's hard to say, but... I'm afraid of my brother. Just being near him makes it feel hard to breathe...
+137	Besides... a no-good little brother like me is nothing but a burden to him anyway...
+138	I see... sounds like there's a lot going on there. But I'm glad you came—it gives me courage. If you don't mind, I'd like you to stay as long as you like.
+139	Yes!
+140	He really is just like the rumors say... nothing at all like my brother...
+141	Prince Sigurd, it's been a while.
+142	Lex! You came to help too?
+143	Azel practically dragged me along. Honestly, what a pain.
+144	Ha, still as sharp-tongued as ever. But does your father, Lord Langobalt, know about this?
+145	No way. My old man's got it in for your father something fierce,
+146	there's no way he'd allow helping Chalphy. I came on my own.
+147	Just so there's no misunderstanding—it's not for your sake. My best friend Azel asked, so I came.
+148	Ha, that's harsh... but I'm grateful. Really, thank you.
+149	...Well, I'll do what I can. Can't let those Verdane barbarians just do as they please.
+150	Sigurd, you're safe!
+151	Prince Quan! Why are you here...
+152	I heard about the fight with Verdane and couldn't just leave it be. I wanted to help too.
+153	But is the Kingdom of Leonster all right? I heard Thracia has its eye on it?
+154	That's true, which is why I could only bring Finn. I left my Lance Knights in Father's care.
+155	I see... I'm sorry, Quan, for dragging you into trouble too.
+156	What are you saying, Sigurd. This is what we promised each other, isn't it?
+157	Eh...?
+158	When we were boys, the three of us—you, Eldigan of the Kingdom of Nodion, and I—
+159	met at the officers' academy in the capital, Belhalla.
+160	And we talked about our dreams together and swore to help each other no matter what.
+161	That's right... I haven't forgotten either...
+162	Verdane's barbarians will be driven off in no time if we work together.
+163	Sigurd, don't forget—I will never allow you to be lost in a battle like this.
+164	Brother, you're safe!!
+165	Ethlyn, it's been a while. Thank you for coming.
+166	When I heard Verdane had attacked, I was so, so worried... but I'm glad, you look well.
+167	Ethlyn, did you really think I'd lose to the likes of Verdane?
+168	Well, I'd heard only a handful of soldiers were left in Chalphy.
+169	Brother, you've always been reckless.
+170	I thought I had to come help in Father's place, while he's away on the expedition...
+171	Heh, you've always been so dependable.
+172	In place of our mother, who passed away when we were young, you looked after Father and me.
+173	I thought marrying into the royal house of Leonster might have made you a bit more ladylike, but you haven't changed one bit.
+174	Quan must have a hard time of it too, ha ha...
+175	Brother...! The reason I got so naggy is because of you and Father.
+176	Because the two of you are so careless...
+177	Ha, maybe that's true. Ethlyn... I really am grateful to you.
+178	I really am sorry about this whole thing too. I don't know how to thank you...
+179	Brother...
+180	[Only if visited as Sigurd]
+181	Lord Sigurd, once you've rested, please go meet the people of the town.
+182	If they see you looking well, Lord Sigurd, I think the townspeople will feel reassured.
+183	Ah, thank you so much for coming. Our village is saved now.
+184	This money was collected from the villagers. It's not much, but please put it to use in the fight.
+185	If you can save the other villages too, I'm sure they'll want to help you as well.
+186	Listen well—the sword is strong against the axe, the axe is strong against the lance, and the lance is strong against the sword.
+187	Think carefully about these matchups when you fight.
+188	And if you're wounded, it's good to go to a church—just a little rest there, and you'll heal right up.
+189	Mind you, it's not free. It costs 5 gold per 1 HP.
+190	The House of Chalphy that rules this land has been famous for generations as swordsmen, you know.
+191	After all, they carry the blood of Baldr, the god of light.
+192	Those Verdane barbarians—if only Lord Byron had his holy sword Tyrfing, he'd finish them off in no time.
+193	This place, Jungby, is a house known for archery. The duke's family descends from Ulir, the god of bows.
+194	Duke Ring had twin sisters, and below them, a son,
+195	but the elder of the twin sisters was carried off by pirates when she was young, and she's still missing to this day.
+196	Lady Edain's younger brother, Lord Andrey, is away on the expedition with his father, Duke Ring, but I haven't heard good rumors about him.
+197	Seems the relationship between father and son has gone cold too...
+198	Oh, you've finally come to help us. I thought it was hopeless. Here, let me give you this ring as thanks.
+199	It's called a Speed Ring. It's a strange bracelet—just wearing it raises your Speed.
+200	Here, try putting it on. This should make it harder for enemies to land their attacks on you.
+201	So you've come, you Grannvale cowards. I'll finish you all off myself!
+202	This... this can't be happening...
+203	Lord Sigurd, a young knight has fallen here!
+204	Hm...? Ah, isn't that Mideel? What happened—stay with me!
+205	Ugh... ...you're... ...Lord Sigurd.
+206	Mideel, are you all right!? What happened to Edain?
+207	I don't know... probably... Gandolf took her...
+208	I see... Don't worry, Mideel. I'll get Edain back. You just rest and heal.
+209	No, Lord Sigurd, I'm coming too. I can't rest at all with Lady Edain on my mind!
+210	What, Demazio failed!? Entrusted with the castle by Prince Gandolf, and he's useless for anything!
+211	Damn it, repair the bridge over the Jung River—we're attacking again!
+212	His Majesty asked me to come check on things, but to think you'd struggle this much against mere barbarians.
+213	Sigurd... so this is all you amount to after all...
+214	[If Azel is alive]
+215	Prince Sigurd, it's been a while.
+216	Lord Arvis!? Why are you here...
+217	His Majesty was worried and ordered me to come see how things were.
+218	And this—this is something His Majesty has bestowed on you. Please take it.
+219	This is the Silver Sword!... His Majesty, giving this to me... ah, what an honor.
+220	Lord Arvis, please tell His Majesty that Sigurd is deeply grateful.
+221	Understood. By the way, Sigurd, I heard that my brother Azel has joined your army. Is that true?
+222	I'm sorry, he seems to have come without telling you, but I couldn't turn him away.
+223	If possible, I'd like him to stay with my army for a while.
+224	I see... no, as long as he's safe, that's fine. Azel may have a different mother, but he's still my one and only precious little brother.
+225	I'd rather have him by my side, but I suppose it can't be helped...
+226	Sigurd, I leave Azel in your hands. Please teach him all sorts of things.
+227	Leave it to me. Once this battle is over, I'll try to persuade him to go back myself.
+228	Hearing that puts me at ease. Well, I'll be heading back to the capital, Belhalla. I must protect His Majesty, after all.
+229	Sigurd, I'll leave the rest to you.
+230	[If Azel has died]
+231	Prince Sigurd, it's been a while.
+232	Lord Arvis!?... Why are you here...
+233	His Majesty was worried and ordered me to come see how things were.
+234	And this—this is something His Majesty has bestowed on you. Please take it.
+235	This is the Silver Sword!... His Majesty, giving this to me... ah, what an honor.
+236	Lord Arvis, please tell His Majesty that Sigurd is deeply grateful.
+237	Understood. By the way, Sigurd, I heard my brother Azel joined your army—is he safe?
+238	That... Azel is...
+239	You mean he died in battle?
+240	I'm sorry... it's because my strength wasn't enough...
+241	Azel... what a foolish little brother...
+242	[If fought against Mideel]
+243	W-wait! Using ranged weapons is such a coward's trick!
+244	Silence! Where have you taken Lady Edain! Give her back, now!!
+245	[If fought against any other unit]
+246	You Grannvale dogs, drop dead!
+247	Too bad for you... that woman isn't here. By now, she's probably with Prince Gandolf...
+248	Lord Sigurd, I searched every corner of the castle, but Lady Edain is nowhere to be found.
+249	What... Where on earth could Edain be...
+250	She was likely taken away by Verdane before the castle fell... I hope she's safe.
+251	Guh... unforgivable... as long as they don't give Edain back, I'll chase them to the ends of the earth.
+252	Lord Sigurd, a messenger from the king has arrived from Belhalla.
+253	Lord Sigurd, this battle was a splendid victory.
+254	His Majesty was greatly pleased and has bestowed upon you the title of Royal Holy Knight.
+255	An honor beyond what I deserve. I swear even greater loyalty to His Majesty.
+256	And this is important: the castle must not be taken by the enemy. As long as the castle remains standing to the end,
+257	you'll continue receiving war funds, but each time it's destroyed by the enemy, that amount will be reduced.
+258	Please take care in the battles to come as well.
