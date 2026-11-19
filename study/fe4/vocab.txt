@@ -3683,3 +3683,213 @@
 可能|かのう|possible
 ち|ち|(tsk)
 からだ|からだ|the body
+族|ぞく|a tribe, clan (suffix)
+神々|かみがみ|the gods
+弁当|べんとう|a boxed lunch
+蜂起|ほうき|an uprising
+帝都|ていと|the imperial capital
+古代|こだい|ancient times
+竜族|りゅうぞく|the dragon tribe
+ふふ|ふふ|(chuckle)
+ぐぐ|ぐぐ|(groan)
+謎|なぞ|a mystery
+魔将|ましょう|a demon general
+再興|さいこう|revival, restoration
+えっ|えっ|eh
+秘密|ひみつ|a secret
+生き血|いきち|lifeblood
+飲む|のむ|to drink
+降臨|こうりん|a divine descent
+新トラキア|しんとらきあ|New Thracia
+手作り|てづくり|handmade
+九|きゅう|nine
+麻|あさ|hemp (unused placeholder)
+聖典|せいてん|a holy scripture
+呼応|こおう|responding in kind, echoing
+温存|おんぞん|preservation, keeping in reserve
+従える|したがえる|to command, have under oneself
+余り|あまり|more than, over
+分断|ぶんだん|a division, split
+同士|どうし|fellow, each other
+相打つ|あいうつ|to strike each other
+悲惨|ひさん|tragic, miserable
+無残|むざん|cruel, pitiless
+御為|おんため|for (someone's) sake (honorific)
+反対|はんたい|opposition
+気質|きしつ|temperament
+ほう|ほう|oh (interjection)
+昨日|きのう|yesterday
+黒い|くろい|black
+下さる|くださる|to give (honorific)
+任す|まかす|to entrust
+僧兵|そうへい|a warrior monk
+混成|こんせい|mixed, composite
+真理|しんり|truth
+探る|さぐる|to search for, probe
+辿り着く|たどりつく|to arrive at, reach
+創始者|そうししゃ|a founder
+生き物|いきもの|a living creature
+備わる|そなわる|to be equipped with
+感化|かんか|influence, inspiration
+作り上げる|つくりあげる|to build up, create
+続き|つづき|a continuation
+姉弟|きょうだい|siblings (sister and brother)
+許せる|ゆるせる|can forgive (potential of 許す)
+あれっ|あれっ|huh
+スタミナドリンク|すたみなどりんく|an energy drink
+ピクニック|ぴくにっく|a picnic
+荷物|にもつ|baggage, a burden
+込める|こめる|to put (heart/effort) into
+減る|へる|to decrease, grow empty
+大盛り|おおもり|a large portion
+美味しい|おいしい|delicious
+最高|さいこう|the best
+薄い|うすい|thin, faint
+絶好|ぜっこう|perfect, ideal
+天罰|てんばつ|divine punishment
+感ずる|かんずる|to feel, sense
+積り|つもり|an intention
+異母|いぼ|(of) a different mother
+従兄弟|いとこ|a cousin
+働ける|はたらける|can work (potential of 働く)
+回り|まわり|surroundings
+待ち侘びる|まちわびる|to wait eagerly for
+愚痴|ぐち|a complaint
+零す|こぼす|to spill, grumble
+叩き落す|たたきおとす|to knock down
+間近い|まぢかい|close at hand
+交わす|かわす|to exchange
+指先|ゆびさき|a fingertip
+流し|ながし|flowing, shedding
+体内|たいない|inside the body
+取り入れる|とりいれる|to take in, incorporate
+竜王|りゅうおう|a dragon king
+対抗|たいこう|opposition, rivalry
+合う|あう|together (協力しあう)
+第二|だいに|second
+何奴|どいつ|which guy, who
+勝負|しょうぶ|a match, contest
+後方|こうほう|the rear
+襲い掛かる|おそいかかる|to pounce on, assail
+挟み打ち|はさみうち|a pincer attack
+罠|わな|a trap
+突っ切る|つっきる|to cut through
+回り込む|まわりこむ|to circle around
+包囲|ほうい|a siege, encirclement
+立てる|たてる|to be of use (役に立てる)
+恋しい|こいしい|dear, longed for
+台無し|だいなし|ruined, spoiled
+四|し|four
+立て直す|たてなおす|to rebuild
+浮かばれる|うかばれる|to rest in peace
+度々|たびたび|repeatedly
+密命|みつめい|a secret order
+連れ出す|つれだす|to lead out, take out
+力無い|ちからない|powerless
+ヴァイスリッター|う゛ぁいすりったー|White Knight corps
+死に急ぐ|しにいそぐ|to rush toward death
+止め|とどめ|a stop, finishing blow
+けり|けり|an end, conclusion (けりをつける)
+仇|あだ|an enemy, foe
+語り掛ける|かたりかける|to speak to
+見栄|みえ|vanity, appearances
+こだわる|こだわる|to be particular about, cling to
+見失う|みうしなう|to lose sight of
+気楽|きらく|carefree, easygoing
+挨拶|あいさつ|a greeting
+膨れる|ふくれる|to pout, sulk
+人生|じんせい|a life, lifetime
+此の頃|このごろ|these days
+色んな|いろんな|various
+恩返し|おんがえし|repaying a favor
+背伸び|せのび|stretching, overreaching
+持ち出す|もちだす|to take out, carry out
+窪み|くぼみ|a hollow, indentation
+飾り|かざり|an ornament, decoration
+血迷う|ちまよう|to lose one's senses
+詩|し|a poem
+裂く|さく|to tear, cleave
+打ち払う|うちはらう|to drive away, sweep aside
+照らす|てらす|to illuminate
+白い|しろい|white
+行き着く|いきつく|to arrive at, reach
+心地良い|ここちよい|pleasant
+ぶつける|ぶつける|to throw, hurl (effort) at
+差す|さす|to shine (light)
+未来|みらい|the future
+将|しょう|a general (suffix)
+余|よ|and more, over (suffix)
+打つ|うつ|to strike
+はぶける|はぶける|can be saved/omitted (potential of 省く)
+無惨|むざん|cruel, pitiless
+御|おん|(honorific prefix)
+ほお|ほお|oh (interjection)
+きのう|きのう|yesterday
+か|か|that (何もかも)
+まかす|まかす|to entrust
+くわだてる|くわだてる|to plot, scheme
+たどり着く|たどりつく|to arrive at, reach
+創始|そうし|founding
+のむ|のむ|to drink
+叩きつぶす|たたきつぶす|to crush
+追いやる|おいやる|to drive to (death etc.)
+新|しん|new (prefix)
+スタミナ|すたみな|stamina
+ドリンク|どりんく|a drink
+ジャマ|じゃま|a hindrance
+あつかい|あつかい|treatment
+へる|へる|to decrease, grow empty
+まわる|まわる|to spin, go around
+おいしい|おいしい|delicious
+うすい|うすい|thin, faint
+つかれる|つかれる|to get tired
+おそろしい|おそろしい|terrifying
+く|く|(groan)
+足手|あして|hands and feet (足手まとい)
+待ちわびる|まちわびる|to wait eagerly for
+グチ|ぐち|a complaint
+こぼす|こぼす|to spill, grumble
+たたき落とす|たたきおとす|to knock down
+いましめ|いましめ|a warning, precept
+勝てる|かてる|can win (potential of 勝つ)
+あう|あう|together (協力しあう)
+気づく|きづく|to notice
+どいつ|どいつ|which guy
+おそいかかる|おそいかかる|to pounce on
+挟み撃ち|はさみうち|a pincer attack
+つきあい|つきあい|an association
+あそぶ|あそぶ|to play
+だいなし|だいなし|ruined, spoiled
+シ|し|(stammered syllable)
+アニキ|あにき|older brother
+うかばれる|うかばれる|can rest in peace
+ありがたい|ありがたい|grateful
+くやしい|くやしい|frustrating
+ヴァイス|う゛ぁいす|white, vice (White Knight corps)
+おれる|おれる|to be (humble)
+あだ|あだ|an enemy, foe
+しとめる|しとめる|to bring down, finish off
+サカラウモノ|さからうもの|one who defies
+ミナ|みな|all, everyone
+殺|さつ|to kill (suffix)
+語りかける|かたりかける|to speak to
+あちら|あちら|over there
+あいさつ|あいさつ|a greeting
+ふくれる|ふくれる|to pout, sulk
+くらす|くらす|to live
+このごろ|このごろ|these days
+いろんな|いろんな|various
+背のび|せのび|stretching, overreaching
+くらえる|くらえる|take this! (imperative of 食らう)
+ウウッ|ううっ|(groan)
+くぼみ|くぼみ|a hollow, indentation
+かざり|かざり|an ornament
+グワォォォォォォォォォォー|ぐわおー|(roar)
+てらす|てらす|to illuminate
+いのり|いのり|a prayer
+白し|しろし|white (archaic 白い)
+いきつく|いきつく|to arrive at, reach
+うけつぐ|うけつぐ|to inherit, carry on
+心地よい|ここちよい|pleasant
+ひびき|ひびき|a resonance, echo
+さす|さす|to shine (light)

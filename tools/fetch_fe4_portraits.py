@@ -59,6 +59,8 @@ NAMES = {
     "ムーサー": "musar", "レイリア": "laylea",
     "ユリウス": "julius", "イシュタル": "ishtar", "ヒルダ": "hilda", "ザガム": "zagam",
     "パルマーク（灰）": "palmarch", "シグルド（幽霊）": "sigurd", "ディアドラ（幽霊）": "deirdre",
+    "ロダン": "rodan", "ボイス": "boyce", "フィリップ（紫）": "philip", "ブリアン": "brian",
+    "スコピオ": "scipio", "パルマーク（赤）": "palmarch", "メイベル": "mabel",
 }
 
 
