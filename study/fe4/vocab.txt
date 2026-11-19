@@ -3480,3 +3480,206 @@
 じゃ|じゃ|(dialect copula, "is")
 オイラ|おいら|I, me (rustic)
 ハッピー|はっぴー|happy
+勝ち|かち|a win, victory
+富|とみ|wealth
+思える|おもえる|can think, seems (potential of 思う)
+城外|じょうがい|outside the castle
+品物|しなもの|goods, merchandise
+海峡|かいきょう|a strait
+待ち望む|まちのぞむ|to eagerly await
+術|じゅつ|a technique, spell
+化身|けしん|an incarnation, avatar
+負け|まけ|a loss, defeat
+一路|いちろ|straight (toward), directly
+貿易|ぼうえき|trade
+巨大|きょだい|huge, massive
+築く|きずく|to build
+あらゆる|あらゆる|every, all
+群|ぐん|a cluster, group
+死に絶える|しにたえる|to die out
+女王|じょおう|a queen
+狂気|きょうき|madness
+見過ごす|みすごす|to overlook, let pass
+末|すえ|the end, aftermath
+自由都市|じゆうとし|a free city
+歓呼|かんこ|cheers, jubilation
+到来|とうらい|an arrival
+吹き返す|ふきかえす|to draw (breath) again
+着々|ちゃくちゃく|steadily
+火|ひ|fire
+焼く|やく|to burn
+人形|にんぎょう|a doll, puppet
+切る|きる|to be complete, run out of (入りきらない)
+都度|つど|each time
+教育|きょういく|education
+兄弟|きょうだい|siblings
+殺し合う|ころしあう|to kill each other
+生き残る|いきのこる|to survive
+忠実|ちゅうじつ|loyal, faithful
+領民|りょうみん|subjects (of a domain)
+惜しい|おしい|a pity; しっかりおし "pull yourself together"
+名門|めいもん|a distinguished family
+出身|しゅっしん|origin, background
+相応しい|ふさわしい|fitting, suitable
+共々|ともども|together with
+滝|たき|a waterfall (unused placeholder, かたき "enemy")
+手配|てはい|arrangements
+紛れる|まぎれる|to get mixed up in, slip away amid
+ねえ|ねえ|hey (casual address)
+飽き飽き|あきあき|being fed up with
+裏切れる|うらぎれる|can betray (potential of 裏切る)
+抗う|あらがう|to resist
+さっき|さっき|a little while ago
+ゆるり|ゆるり|leisurely
+別けて|わけて|sharing (it) out
+年寄り|としより|an elderly person
+引き入れる|ひきいれる|to draw in, recruit
+旨い|うまい|to go well
+街々|まちまち|towns
+果てる|はてる|to come to an end (荒れ果てる "to fall into ruin")
+商業都市|しょうぎょうとし|a commercial city
+賑やか|にぎやか|lively
+町並み|まちなみ|a row of houses, streetscape
+珍しい|めずらしい|rare, unusual
+パール|ぱーる|pearl
+ティアラ|てぃあら|a tiara
+華奢|きゃしゃ|slender, delicate
+じっと|じっと|still, motionless
+縋り付く|すがりつく|to cling to
+突っ掛かる|つっかかる|to pick a fight
+ジョーク|じょーく|a joke
+鈍い|にぶい|slow, dense
+格好いい|かっこいい|cool, good-looking
+様|さま|(honorific suffix)
+へえ|へえ|huh, oh
+素敵|すてき|wonderful
+久々|ひさびさ|after a long time
+天命|てんめい|fate, heaven's will
+くう|くう|(groan)
+一先ず|ひとまず|for now
+思い出|おもいで|a memory
+もがき苦しむ|もがきくるしむ|to writhe in agony
+再来|さいらい|a return, reincarnation
+イメージ|いめーじ|an image
+過酷|かこく|harsh, severe
+例えば|たとえば|for example
+引き離す|ひきはなす|to tear apart
+確実|かくじつ|certain
+称える|たたえる|to praise, extol
+叫び|さけび|a cry, shout
+答える|こたえる|to answer, respond
+ゴーストタウン|ごーすとたうん|a ghost town
+虐殺|ぎゃくさつ|a massacre
+善良|ぜんりょう|good, virtuous
+振り|ふり|a pretense
+傷|きず|a wound, scar
+口汚い|くちぎたない|foul-mouthed
+罵る|ののしる|to curse, revile
+乾く|かわく|to dry
+汗|あせ|sweat
+本意|ほんい|one's true intention
+引退|いんたい|retirement
+成す|なす|to accomplish, do
+追放|ついほう|exile, banishment
+うろうろ|うろうろ|wandering about aimlessly
+飛ばす|とばす|to blow away, send flying
+封印|ふういん|a seal
+宿る|やどる|to dwell within
+言わす|いわす|to make (someone) say
+消し去る|けしさる|to erase, wipe out
+総力|そうりょく|total strength
+御前|ごぜん|before (someone's) presence
+継承権|けいしょうけん|right of succession
+然程|さほど|not so much (as expected)
+血祭り|ちまつり|a sacrifice, offering
+腕試し|うでだめし|testing one's skill
+修復|しゅうふく|repair, restoration
+生まれ変わり|うまれかわり|a reincarnation
+最愛|さいあい|most beloved
+苦痛|くつう|pain, suffering
+味わう|あじわう|to experience, taste
+ぐだぐだ|ぐだぐだ|rambling on
+低い|ひくい|low
+呪文|じゅもん|a spell, incantation
+手伝い|てつだい|help, assistance
+偉大|いだい|great, grand
+帰還|きかん|a return
+祝う|いわう|to celebrate
+詰め掛ける|つめかける|to crowd, throng
+温か|あたたか|warm
+生け贄|いけにえ|a sacrifice
+繰り広げる|くりひろげる|to unfold, play out
+給う|たまう|(honorific auxiliary verb)
+吸い寄せる|すいよせる|to draw in, attract
+不可能|ふかのう|impossible
+思い上がる|おもいあがる|to grow conceited
+ちっ|ちっ|(tsk)
+ふきかえす|ふきかえす|to draw (breath) again
+きる|きる|to run out of, be complete
+つど|つど|each time
+殺しあう|ころしあう|to kill each other
+おしい|おしい|pull yourself together (しっかりおし)
+ともども|ともども|together with
+おす|おす|to urge, push
+まぎれる|まぎれる|to slip away amid confusion
+あきあき|あきあき|being fed up with
+さがす|さがす|to search for
+あらがう|あらがう|to resist
+わけて|わけて|sharing out
+うまい|うまい|to go well
+商業|しょうぎょう|commerce
+にぎやか|にぎやか|lively
+街なみ|まちなみ|a row of houses, streetscape
+めずらしい|めずらしい|rare, unusual
+きゃしゃ|きゃしゃ|slender, delicate
+すがりつく|すがりつく|to cling to
+よお|よお|hey
+あい|あい|(prefix, 相変わらず)
+突っかかる|つっかかる|to pick a fight
+ついな|ついな|(unused placeholder, それでついな)
+かっこ|かっこ|cool, good-looking (格好)
+さま|さま|(honorific suffix)
+へぇ|へぇ|huh, oh
+すてき|すてき|wonderful
+ひとまず|ひとまず|for now
+なつかしい|なつかしい|nostalgic
+ふみ入れる|ふみいれる|to set foot in
+たとえば|たとえば|for example
+たたえる|たたえる|to praise, extol
+さけび|さけび|a cry, shout
+応える|こたえる|to answer, respond
+ゴースト|ごーすと|ghost
+うたがう|うたがう|to doubt
+ふり|ふり|a pretense
+むちゃ|むちゃ|reckless
+キズ|きず|a wound, scar
+しいたげる|しいたげる|to oppress
+ののしる|ののしる|to curse, revile
+かわく|かわく|to dry
+なす|なす|to accomplish
+とらえる|とらえる|to capture
+とばす|とばす|to blow away
+権|けん|a right (suffix)
+さほど|さほど|not so much
+腕だめし|うでだめし|testing one's skill
+パルマーク|ぱるまーく|Palmark
+つれる|つれる|to bring along
+負える|おえる|can bear, be responsible for (potential of 負う)
+グダグダ|ぐだぐだ|rambling on
+なあに|なあに|what (casual)
+誓える|ちかえる|can swear (potential of 誓う)
+まへ|まえ|before (archaic たまへ)
+灼く|やく|to scorch
+いわう|いわう|to celebrate
+つめかける|つめかける|to crowd, throng
+暖か|あたたか|warm
+喜べる|よろこべる|can rejoice (potential of 喜ぶ)
+子ども|こども|children
+泣きさけぶ|なきさけぶ|to cry out, wail
+くり広げる|くりひろげる|to unfold, play out
+たまう|たまう|(honorific auxiliary verb)
+すい寄せる|すいよせる|to draw in, attract
+行方|ゆくえ|whereabouts
+可能|かのう|possible
+ち|ち|(tsk)
+からだ|からだ|the body

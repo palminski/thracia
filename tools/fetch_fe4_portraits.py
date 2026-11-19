@@ -57,6 +57,8 @@ NAMES = {
     "ハンニバル": "hannibal", "コープル": "coirpre", "ジュダ": "judah",
     "カナッツ": "kanatz", "アサエロ": "asaello", "シャルロー": "charlot",
     "ムーサー": "musar", "レイリア": "laylea",
+    "ユリウス": "julius", "イシュタル": "ishtar", "ヒルダ": "hilda", "ザガム": "zagam",
+    "パルマーク（灰）": "palmarch", "シグルド（幽霊）": "sigurd", "ディアドラ（幽霊）": "deirdre",
 }
 
 
