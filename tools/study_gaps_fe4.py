@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """List content words in an FE4 chapter's bubbles not yet covered by its
-study notes file. Read-only reporting tool (no --apply / accept.txt side),
-same spirit as tools/study_gaps_fe6.py - surfaces candidates fast so a
-chapter's vocab tags can be checked against the whole window set at once.
+study notes file, same spirit as tools/study_gaps_fe6.py - surfaces
+candidates fast so a chapter's vocab tags can be checked against the whole
+window set at once.
 
-    .venv/bin/python tools/study_gaps_fe4.py ch01 ch02 ...
+    .venv/bin/python tools/study_gaps_fe4.py ch01 ch02 ...          # print candidates
+    .venv/bin/python tools/study_gaps_fe4.py --apply ch01 ch02 ...  # auto-add words whose
+                                                                     # tokenizer base form is
+                                                                     # already a vocab.txt key
 """
 import json
 import re
@@ -27,17 +30,58 @@ NAMES = {
     "シア", "ルフィ", "ブリギッド", "イチイ", "バル", "ヴェルト", "マー", "アルヴィス",
     "エス", "リン", "リターン", "マーファ", "クロス", "ナイツ", "アグ", "スティ",
     "ワープ", "バー", "ハラ", "サイレス", "ジャム",
-
+    "ハイ", "ディオン", "エルト", "アン", "リー", "シル", "ベール", "イーヴ", "エヴァ",
+    "アルヴァ", "アンフォ", "ニー", "マッキ", "アル", "ヴィス", "バーハラ", "イムカ",
+    "ムカ", "イム", "カ国", "ヴォル", "レプトール", "ランゴバルト", "バイロン",
+    "ヴェルトマー", "シギュン", "フォニー", "シルヴィ", "フォルセティ", "セティ",
+    "ナーガ", "マディ", "レンスター", "ズル", "ミストルティン", "ムンク", "クルト",
+    "ラーナ", "フュリー",
+    "シャガール", "レヴィン", "フュリー", "エバンス", "ハイライン", "ライン",
+    "ベオウルフ", "シルヴィア", "ヴォルツ", "マクベス", "クレメント", "ザイン",
+    "フィラート", "ボルドー", "エリオット", "フィリップ", "アンフォニー",
+    "マッキリー", "アグスティ", "グラン", "ベル", "ディア", "ドラ", "ホリン",
 }
 SKIP = {
     "する", "こと", "そう", "それ", "この", "たち", "いう", "ある", "お", "おまえ",
     "ない", "どう", "その", "いる", "あの", "なん", "さま", "もの", "よう", "ここ",
     "これ", "何", "こう", "ご", "ら", "ども", "とも", "ゆえ", "くっ",
+    "あなた", "いい", "よい", "はい", "おい", "わし", "きみ", "あたし", "め", "まあ",
+    "ああ", "ま", "ふっ", "ヤツ", "いく", "なに", "達", "みたい", "くる", "すむ",
+    "わたし", "あっ", "こんな", "え", "よる", "ふ", "えっ", "しれる", "上", "さん",
+    "みんな", "そ", "いま", "なれる", "だれ", "まま", "ところ", "ワシ", "みる",
+    "くそっ", "われ", "下さる", "とおり", "あんな", "とき", "ねがう", "ごめん",
+    "お前", "一緒", "ん", "むむ", "げっ", "なにっ", "やれる", "なさる", "いっしょ",
+    "ほら", "あれ", "キュ", "さ", "すぎる", "ヒマ", "共", "ううっ", "そして",
+    "おっ", "へぇー", "たのむ", "はやい", "こやつ", "しだい", "むむっ", "ああっ",
+    "す", "腹", "たてる", "キザ", "すき", "かける", "ううむ", "やむ", "える",
+    "じゃあ", "ハァ", "おおっ", "なか", "らん", "むっ", "くさい", "もめ", "うう",
+    "ひい", "はじまる", "あ", "ちぇ", "どこ", "とこ", "わかる", "さあ", "よーし",
+    "きける", "ほしい", "ござる", "うち", "ふーん", "言える", "ははは", "長い",
+    "もつ", "おとこ", "わるい", "ほぉ", "はざん", "てつ", "良い", "うっ", "しかた",
+    "ど", "もめる", "おる", "内", "ほう", "妃", "人", "方", "事", "すぐ", "だす",
+    "きゃー", "ムッ", "セクシー", "うーん", "うん", "みせる", "見せる", "姫",
+    "ふふっ", "ぞんじ", "は", "はーん", "でる", "思い", "おれ", "つぐ", "おじ",
+    "うえ", "まいる", "フュ", "母", "可愛いい", "いえ", "風", "聖戦", "士",
+    "ペガサス", "侵略", "しかたない", "出陣", "はぁ", "ぐぐっ", "ふっふっふ",
+    "おもう", "おしえる", "たしか", "大", "司教", "たかい", "死ねる", "おのれ",
+    "ふふふ", "まつ", "いのち", "以外", "どんな", "次第", "国", "一", "駐留",
+    "撃破", "士", "そんな", "きさま", "等", "知れる", "おお", "サービス", "スリープ",
+    "部", "下達",
 }
+
+VOCAB_KEYS = {}
+p = ROOT / "study" / "fe4" / "vocab.txt"
+if p.exists():
+    for line in p.read_text(encoding="utf-8").splitlines():
+        if line.strip() and not line.startswith("#"):
+            key = line.split("|")[0]
+            base = key.split("#")[0]
+            VOCAB_KEYS.setdefault(base, []).append(key)
 
 script = json.loads((ROOT / "data" / "fe4_script.json").read_text(encoding="utf-8"))
 tagger = fugashi.Tagger()
-slugs = sys.argv[1:]
+apply = "--apply" in sys.argv
+slugs = [a for a in sys.argv[1:] if not a.startswith("--")]
 cands = {}
 for slug in slugs:
     boxes = [i for s in script[slug]["scenes"] for i in s["items"] if i["t"] == "box"]
@@ -60,7 +104,7 @@ for slug in slugs:
             i = text.find(s)
             if i >= 0:
                 covered.append((i, i + len(s)))
-        pos = 0
+        pos, new = 0, []
         for line in lines:
             for t in tagger(line):
                 a = text.find(t.surface, pos)
@@ -74,8 +118,20 @@ for slug in slugs:
                     continue
                 if any(a < e and s < b for s, e in covered):
                     continue
+                if apply and len(VOCAB_KEYS.get(base, [])) == 1:
+                    key = VOCAB_KEYS[base][0]
+                    new.append((a, key if t.surface == key else f"{t.surface}>{key}"))
+                    covered.append((a, b))
+                    continue
                 c = cands.setdefault(base, [0, f.pos1, f.lemma, f"{slug}#{n}: {line}"])
                 c[0] += 1
+        if apply and new:
+            allw = [(text.find(w.split(">")[0].split("#")[0]), w) for w in words] + new
+            rows[n] = ([w for _, w in sorted(allw, key=lambda x: x[0])], g)
+    if apply:
+        path.write_text(
+            "".join(f"{n}|{','.join(rows[n][0])}|{rows[n][1]}\n" for n in sorted(rows)),
+            encoding="utf-8")
 
 for base, (cnt, pos, lemma, ctx) in sorted(cands.items(), key=lambda kv: -kv[1][0]):
     print(f"{base}\t{cnt}\t{pos}\t{lemma}\t{ctx}")

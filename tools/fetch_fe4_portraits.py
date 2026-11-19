@@ -29,6 +29,10 @@ NAMES = {
     "デマジオ": "dimaggio",
     "アイラ": "ayra", "エスリン": "ethlyn", "エルトシャン": "eldigan",
     "シャナン（少年）": "shannan_01", "デュー": "dew", "バトゥ": "batu",
+    "ボルドー": "bordeaux", "エリオット": "elliot", "フィリップ": "philip",
+    "マクベス": "macbeth", "クレメント": "clement", "ベオウルフ": "beowolf",
+    "シルヴィア": "silvia", "ザイン": "zane", "フィラート": "filat",
+    "レヴィン": "lewyn_01", "マンフロイ": "manfroy", "イーヴ": "eve",
 }
 
 

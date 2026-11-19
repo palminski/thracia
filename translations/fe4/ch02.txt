@@ -1,0 +1,465 @@
+1	Sigurd, who had subdued the kingdom of Verdane, followed the orders from Belhalla Castle
+2	and became lord of the border castle of Evans, taking Deirdre as his wife.
+3	Grannvale's subjugation of Verdane brought great turmoil to Agustria.
+4	The lords of Agustria showed a strong will to oppose Grannvale,
+5	and the wise King Imuka of Agustria, who valued peace above all,
+6	was assassinated by an unknown hand.
+7	The one who succeeded to the throne in his place was King Imuka's eldest son, Prince Chagall.
+8	Grannvale's royal army was still far away in the east, in Isaach.
+9	Chagall ordered the lords of Agustria to invade Verdane.
+10	Sigurd, guarding Evans Castle, once again found himself in the thick of battle.
+11	Lachesis, I'm going to Agusty to ask King Chagall to call off this foolish uprising.
+12	Please wait, brother! King Chagall is a man who laid hands on even his own father,
+13	Whatever you say to someone like that is pointless. Worse, even your own life would be in danger.
+14	Lachesis, don't say such reckless things. I too have heard the rumor that Lord Chagall assassinated the former king.
+15	But there's no proof of it. If I keep trying to persuade him without giving up, I believe the king will surely understand.
+16	But...
+17	Say nothing more.
+18	In case the worst happens, I'll leave the three retainers I trust most behind at this castle.
+19	Lachesis, don't make such a sad face. It'll be fine—I'll definitely come back. I won't die and leave you behind.
+20	Brother Elt...
+21	Your Majesty Chagall, please call off this uprising.
+22	Your father wished for coexistence with Grannvale.
+23	War will only make the people suffer, and it will tarnish even your own name, Majesty.
+24	War is the one thing you must not wage!!
+25	Eldigan of Nodion, is it. You, taking advantage of being doted on by my father, have defied me endlessly until now.
+26	But... Father is dead, and now I am the ruler of all Agustria.
+27	I'll make you pay in full for all the times you made a fool of me. Someone, throw this man in the dungeon!
+28	W-wait, please! Lord Chagall...!!
+29	Heh, that Eldigan, what an eyesore. Right, order Bordeaux of Heirhein to conquer Nodion.
+30	Once that's done, we'll march on Grannvale with our full forces.
+31	...Lord Chagall, you've finally made up your mind.
+32	Manfroy, is it. Just as you said, I assassinated my father with my own hands.
+33	There's no turning back now. But can we really win?
+34	Grannvale, trusting the non-aggression pact with Agustria, has sent its entire army on campaign to Isaach.
+35	If we attack now, we will surely win.
+36	Mm, I see. If we can just defeat Grannvale, Agustria can become the ruler of the world.
+37	And then, I could become emperor.
+38	Fo fo fo... Do dream of such a thing happening...
+39	Lady Lachesis! There's a report that King Eldigan has been captured in Agusty!
+40	What, brother!? Ahh... that's why I tried so hard to stop him...
+41	Princess, that's not the only worry. We should be wary of our neighbor, Heirhein.
+42	If they learn the king is absent, they might attack at any time.
+43	They likely still hold a grudge over the fighting in Verdane, especially Prince Elliot...
+44	Elliot is angry because I won't do as he says.
+45	But I absolutely hate a conceited man like that! I couldn't fall for anyone unless he's like my brother Elt.
+46	That's why I won't become anyone's wife...
+47	...That's all well and good, but the King's own Cross Knights are currently stationed at Silesse Fort to the north,
+48	and only a small number of soldiers remain at this castle.
+49	My two younger brothers and I will protect you with all our strength, but please be prepared, just in case.
+50	I understand, Eve. I'm grateful to you. But please don't push yourself too hard—you mustn't die.
+51	Eva, please tell Alva too that Lachesis is sorry.
+52	Those words are more than we deserve.
+53	...However, we were specially chosen by King Elt and entrusted with protecting you, Princess.
+54	We too are glorious Holy Knights of Nodion. We will protect you to the very end, even at the cost of this life!
+55	What? That Eldigan incurred His Majesty's wrath and was thrown into the dungeon!?
+56	Good! Elliot! Take this chance to conquer Nodion. Make Eldigan cry out in defeat!
+57	Understood, Father.
+58	Lord Sigurd, it's terrible! Lord Eldigan has been imprisoned in Agusty Castle, and Nodion is under attack!
+59	A letter has arrived from Princess Lachesis requesting reinforcements.
+60	Eldigan!? Why—a man like him...
+61	Understood. In any case, let's march out to Nodion.
+62	I must protect Lachesis at the very least, even at the cost of my own life.
+63	Eldigan never said it aloud, but he has always cherished that princess.
+64	If he were to lose Lachesis, how deeply he would grieve...
+65	Lord Sigurd, is another battle beginning?
+66	Deirdre, I'm sorry, but I owe Eldigan a great deal.
+67	I cannot abandon his sister while she's in such distress.
+68	Yes, I understand. I won't stop you. But I'm coming with you too.
+69	What, that's no good. I don't want to put you in danger.
+70	Lord Sigurd, you promised me you'd never let me go. I... I'm anxious...
+71	...If I were apart from you, I feel like we might never meet again... Please, let me stay by your side...
+72	I'm sorry... that's right, I did promise. All right, let's go together. But you mustn't leave my side.
+73	Yes! Lord Sigurd.
+74	Princess Lachesis of Nodion, is it—that insolent woman.
+75	She's always humiliated me, but... just watch this time.
+76	Surrounded by an army this large, even Lachesis can't refuse.
+77	I'll take her back to Heirhein and make her mine, even by force.
+78	Our duty is to defend the castle, understood! Don't be distracted by the enemy in front of you—hold your position to the death!
+79	I see, so Heirhein has finally raised its army.
+80	Good, as planned—have the bandits we hired raid the village.
+81	Under the former king we couldn't lay a hand on it, but with Lord Chagall, it's easy to get away with.
+82	Seize every last bit of the village's wealth and bring it back to the castle!
+83	Heirhein is going to attack Nodion? Hmm... which side would it profit me to take...
+84	It won't be too late to wait and see how it's settled. Don't move a single soldier—let's just watch for now.
+85	...To think you've defeated me, who has never once lost before... Just who are you?
+86	There was real spirit in the way you fought. You're probably fighting for something you believe in.
+87	Until now I've only fought for money... but seeing you, that's started to feel empty.
+88	If you'll have me, I want to fight alongside you too. I want to use this sword for some greater purpose.
+89	Lady Deirdre, are you unhurt? My brother was very worried about you.
+90	Lady Ethlyn... thank you. I'm fine.
+91	I'm just happy to be able to be with Lord Sigurd.
+92	My brother is lucky to be loved by someone as kind as you.
+93	Lady Ethlyn, there's something I'd like to give you. Please take this.
+94	Huh... oh, this is the Sword of Light!? You're giving me something this important?
+95	Yes, I think it'll be of some use to you.
+96	Thank you, Lady Deirdre! I'll treasure it!
+97	Lord Sigurd! You've come to help us. Thank goodness—for a moment I didn't know what would happen...
+98	Lachesis, I'm glad you're safe. Is Eldigan still being held captive!?
+99	Yes, my brother is still in Agusty... All the lords of Agustria have become our enemies.
+100	Lord Sigurd, please lend me your strength.
+101	I must rescue my brother, no matter what...!
+102	I understand. I'm reluctant to bring my army into another nation, but this time it can't be helped.
+103	I've already obtained permission from the King of Grannvale. Prince Chagall assassinated his own father, King Imuka,
+104	and the king already knew the information that he was planning to attack Grannvale.
+105	The king declared that rescuing Eldigan, a man of peace, was also necessary for Grannvale,
+106	and entrusted me with that duty. Lachesis, I will definitely rescue Eldigan... don't worry.
+107	[Only if both Dew and Lachesis have no sweetheart]
+108	Lachesis, I've been looking for you. I found an interesting sword, and I thought I'd give it to you.
+109	Oh my, really, what an unusual sword. I've never seen one like it...
+110	It's a thief's sword, I suppose. Use it to beat up bad guys.
+111	I'm happy, but... are you sure I should take it? Won't you use it, Dew?
+112	It's fine, don't worry about it. It wouldn't mean much even if I used it myself...
+113	Heh heh, well anyway, it's a useful sword! See ya!
+114	...Ah, I'm so lonely... I'm this tough and strong, and yet everyone makes fun of me...
+115	If only I could get a follow-up attack like Alec, I could pull my weight a bit more...
+116	Then maybe I could get a girlfriend too... *sigh*... being a man is hard.
+117	Hm? What's this old bracelet? It looks like some kind of magic bracelet—let me try putting it on.
+118	Hm... mmm...! Wh-what is this feeling!? Ohh, now even I have the power to follow up...
+119	Haah~, being alone in mountains like these, I just can't stand it.
+120	No matter how much our army's prized Shooter up ahead... hm!
+121	Someone's there!! ...Or is it just my imagination...
+122	[If fought against Lachesis]
+123	Princess Lachesis, why not just give it up already. If you become my wife, I'll spare your life at least.
+124	Don't come near me! You disgust me!! I'd rather die than become your wife!
+125	[If fought against any other unit]
+126	Ugh... why is the Grannvale army here!
+127	Since it's come to this, I'll clean you all out at once!
+128	Damn it... why is it always Eldigan...
+129	Grannvale, damn you... as long as I live, I won't let you reach Heirhein Castle!
+130	Lord Bordeaux... please forgive me...
+131	What, the Grannvale army!? Damn it... every last one of them useless!
+132	Since it's come to this, I'll be your opponent myself!
+133	Ugh... my castle...
+134	Lord Sigurd, we've finally managed to subdue Heirhein. What will we do now?
+135	Indeed, the immediate crisis has passed.
+136	But Eldigan is still being held captive in Agusty. And besides...
+137	Besides?
+138	I hear a settlers' village in the central forest is being attacked by bandits. I want to help if I can.
+139	Indeed. To show that we aren't invaders, I think it's necessary to help the people.
+140	If that's decided, let's head out right away.
+141	If we dawdle, it'll be too late!
+142	You fool! While you were busy being greedy, Heirhein was taken from us, wasn't it!
+143	How do you intend to take responsibility for this mess, Macbeth!
+144	Eeek, please forgive me, Lord Chagall!
+145	I'll have Volts's mercenary corps sortie right away.
+146	Tch, a sortie order, huh. Well, can't be helped.
+147	But there's no need for us to go charging in either. Let's wait here and watch until the fighting starts.
+148	Hey, Beowolf, what'll you do?
+149	This time I'm just not feeling it. That Macbeth guy, I don't like him. I think it's about time I found myself a different employer.
+150	Suit yourself. We mercenaries are free as we please—it doesn't matter who we serve.
+151	Comrades today, enemies tomorrow—isn't that interesting too?
+152	True enough. But I don't want to fight you—I wouldn't stand a chance.
+153	Heh, there's no one who can take me down, not in this whole wide world...
+154	Village chief, something seems like a commotion—what happened?
+155	Oh, you're the traveling bard. You should hurry and prepare to flee too—a band of bandits is coming to attack.
+156	Bandits? Won't Agustria's army protect you?
+157	This country is in a state of civil war right now—there's no time to worry about the likes of us.
+158	No, in fact, the one controlling the bandits—
+159	—there's even a rumor that it's the lord of Amphony himself.
+160	That's an awful story. All right, got it—I'll go on out and take care of them.
+161	But in exchange, make the reward a generous one.
+162	You, blowing more hot air like that—if you're going to run off, just go already.
+163	We don't have time to deal with the likes of you.
+164	Tch, no one trusts me either. Well, whatever...
+165	Hey, Levin! Where are you going, leaving me behind?
+166	Ugh, Silvia! Found me, huh.
+167	What's that about, toying with someone so much and then throwing them away once you don't need them anymore?
+168	Hey now, don't say things that make me sound so bad.
+169	We only met in this village and ate together a couple of times, that's all.
+170	You're a traveling dancer, I'm a bard—that's all our relationship was, I'd think.
+171	But you told me I was cute. I... I was happy about that...
+172	That's just a habit of mine, there's no deep meaning behind it... hey, hey... don't cry in a place like this.
+173	See, everyone's gathering around now. All right, all right, come along with me then.
+174	But it's going to get a little rough. Are you ready for that?
+175	Sure, I love rough stuff!
+176	Tch, you were just crying and now you're already laughing—you're like a little kid...
+177	Did you say something?
+178	Nothing! All right, let's go!
+179	All right, this is it—men, don't give an inch! Show them the power of the mercenary corps!!
+180	Oh, that's Agusty Castle. Hey, everyone, let's take a break.
+181	If we go to the town, we might be able to hear some news about Prince Levin.
+182	Finn, this battle is against Agustrian knights—it's different from the barbarians we've faced until now.
+183	With the weapons we've had until now, we won't escape a hard fight—so I'll give you this lance.
+184	This is... the Brave Lance... are you sure it's all right for me to take this lance?
+185	You're not just my retainer—you're a precious knight who serves Leonster. I can't afford to lose you in this battle.
+186	This is about all I can do for you right now, but I want you to take it.
+187	Thank you very much, Lord Quan.
+188	You're Levin? I hear you helped the villagers. Thank you, I'm grateful.
+189	I heard you're a traveling bard, but it's surprising that you can use magic.
+190	Well, magic is part of my act too, I guess. Hmm, so you're Lord Sigurd.
+191	Going out of your way to barge into another country and wage war—you must have a lot of free time.
+192	You seem to be angry.
+193	Of course I am. Try putting yourself in the shoes of someone who actually has to work for a living.
+194	Go ahead and fight your battles if you want, but it's a nuisance for the rest of us!
+195	I'm sorry, you're quite right. I do feel bad for the people of this country.
+196	Anyone can say anything with just words. If you really think it's bad, why not go home right now?
+197	You're right... all right, I'll talk it over with everyone.
+198	Hey now, are you serious?
+199	Of course. I've been thinking about it all along—being told by you finally made up my mind.
+200	I'll stop the war. I'll try talking it over with King Chagall.
+201	It's no use saying anything to that man.
+202	If Grannvale withdraws its troops, he'll probably execute every single resident who cooperated with you, one after another.
+203	Are you really fine with that?
+204	That's... but...
+205	Hahaha, it's fine, forget it. Just as I thought, you're the kind of person I expected. I'll lend you my help too.
+206	Huh? Just who exactly are you...
+207	I'm just a traveler... a bard.
+208	Thank you for saving us. As thanks, I'll give you something precious to me.
+209	See, isn't it a beautiful bracelet? If you wear this, the shopkeepers will give you discounts.
+210	King Eldigan is too earnest for his own good. That's why he got captured by the likes of King Chagall...
+211	Please, I beg you—please save Lord Eldigan.
+212	The former king of Agustria was a fine man. But he suddenly passed away, and we're left at a loss.
+213	If his only heir is that Prince Chagall, this country won't last much longer.
+214	If it were possible, I'd want Lord Eldigan to become king...
+215	Be careful of the lord of Mackily, Father Clement.
+216	That man has a magic holy staff called the Sleep Staff.
+217	If you carelessly get close, you'll be put to sleep and rendered unable to move.
+218	Is it true that the bloodline of the dark god Loptous is still alive?
+219	In big towns like Agusty and Mackily, every year many people
+220	are burned at the stake and killed in the name of a "demon hunt," even though they're not criminals—it's an awful thing.
+221	Macbeth, the lord of Amphony, is a man obsessed with money—he's tormented us terribly until now.
+222	A guy like that ought to just die!
+223	Hey, you, what do you think?
+224	King Eldigan of Nodion and his sister Princess Lachesis—don't you think they're a little too close for siblings?
+225	We're always gossiping about it. What, you think we have too much free time on our hands? Well, excuse us!!
+226	War is such a terrible thing. It's always women and children who end up crying. You should hurry back to your sweetheart too.
+227	Ohh~, well, you've come a long way. As a reward, I'll give you this sword.
+228	This is called the Armorslayer—a mysterious sword that can cut through even hard armor.
+229	If you can't use it yourself, you could sell it to a secondhand shop—it'll fetch a good price.
+230	King Eldigan of Nodion is a descendant of Hezul the Brave, one of the legendary Twelve Crusaders.
+231	The magic sword he carries, Mystletainn, together with Tyrfing of Sylvail and Balmung of Isaach,
+232	are the strongest swords in the world.
+233	I bear you no grudge, but... this is all for the sake of survival too.
+234	Ugh... no luck today...!
+235	[If holding 10,000 gold or more]
+236	You want to hire me? Then hand over 10,000 gold.
+237	...All right, I've certainly received it. I'll work at least as much as what I've been paid.
+238	[If holding less than 10,000 gold]
+239	If you want to hire me, hand over 10,000 gold. If you don't have the money, there's nothing to talk about.
+240	[If fought against Beowolf]
+241	Heh, Beowolf, is it. Seems you were a little too early to fight me.
+242	Yeah, true enough... but I'm a mercenary too. Since I've been ordered to, there's nothing for it...
+243	[If fought against any other unit]
+244	This is work too. Don't take it personally.
+245	I-impossible... to think there'd be someone who could defeat me...
+246	[If fought against Levin]
+247	W-what are you...
+248	So you're Macbeth? You seem unfit to be a lord. Give it up...
+249	[If fought against any other unit]
+250	I-impossible, Grannvale!? Damn it, those mercenaries—do they know how much I've paid them!
+251	Ugh... since it's come to this, I'll be your opponent!
+252	Guh... why me...
+253	Lord Sigurd, Lord Filat has come from Belhalla.
+254	Lord Filat, welcome. Thank you for coming.
+255	Lord Sigurd, so it has finally become full-scale war with Agustria. How goes the fighting?
+256	We're managing to fight, but it's been difficult.
+257	By the way, Lord Sigurd, this is hard to bring up, but...
+258	Yes, what is it?
+259	There are unpleasant rumors about you within the royal court.
+260	That you've joined forces with Prince Quan of Leonster and King Eldigan of Nodion, and are plotting rebellion against the king.
+261	And that for that purpose, you're even harboring the prince of Isaach...
+262	What, that's absurd! Just who would say such a thing...
+263	It's Duke Reptor and Lord Langobalt.
+264	I see... those two hate my father, so... but even so, that's a terrible thing to say...
+265	Those two are jealous that Prince Kurth relies solely on Lord Byron.
+266	If the prince becomes king, those two would certainly lose their positions. They're probably anxious about that.
+267	In any case, you'd do well to be cautious.
+268	Understood. By the way, Lord Filat, has the war with Isaach still not ended?
+269	According to reports, it seems mostly settled. Your father should be returning in triumph along with Prince Kurth before long, together.
+270	I'm relieved Prince Kurth is safe too. Since he still has no wife,
+271	my father was always worried that if anything happened to him, the royal bloodline would die out.
+272	Indeed, we too keep telling him he should take a wife soon, but...
+273	Is there some reason for it?
+274	Hmm... this is something only a few people even at court know, but...
+275	The prince once deeply loved a certain woman in the past, and it's said he still hasn't been able to forget her.
+276	Why weren't they able to be together?
+277	Well... I'll tell you everything. It happened about twenty years ago.
+278	The prince fell in love with Duke Vertomer's beautiful wife—that is to say, a woman who was already another man's wife.
+279	Duke Vertomer was a man of poor character with women, and had many mistresses. Since the prince was an earnest man,
+280	he probably felt sympathy for her at first, but before long, the two of them came to deeply love each other...
+281	But Duke Vertomer, driven into a fury, left behind a letter cursing the two of them and took his own life,
+282	and as a result, the lady too could no longer bear to stay and disappeared. Her name was, I believe... Sigyun, I think it was.
+283	...Such a thing happened... then, Lord Arvis's mother was...
+284	That's right. Lord Arvis was about seven years old, I believe. Losing both parents at once—it was pitiable.
+285	I see... but the prince is just as pitiable, isn't he. And that lady too...
+286	No, I've gone and told you something trivial. Court gossip is of no use to a warrior like yourself.
+287	Please forget it. The war with Agustria will surely continue for some time yet.
+288	I look forward to the day you return in triumph to your homeland.
+289	What, even Amphony has been subdued... hmm... so they intend to conquer all of Agustria, do they.
+290	Since it's come to this, there's no choice but to fight. Get the Shooter into position.
+291	We mustn't let the Grannvale army reach Agusty!
+292	King Chagall, how much longer must we wait?
+293	We must find Prince Levin as soon as possible.
+294	We're staying in this castle because you said you knew where the prince was.
+295	Ah, forgive me. But, I've finally found out.
+296	Prince Levin is being held captive by the Grannvale army. They're invading our country,
+297	and on top of that, it seems they're indiscriminately capturing and executing even unrelated people.
+298	The prince too has been captured at their base, Evans, and it's said he'll be executed soon. You must hurry to save him, or it'll be dangerous.
+299	W-what a thing... understood, I'll head to Evans at once and rescue the prince.
+300	Queen Lahna of Silesse told me to avoid conflict with other nations, but it can't be helped.
+301	I'll attack the Grannvale army the moment I find them.
+302	Oh, that's exactly what I hoped for. I leave it in your hands.
+303	Then, if you'll excuse me.
+304	Heh, she's gone, has she... foolish woman... all right, send out the knights from Agusty too! Let's settle this in one blow!!
+305	Eek, it's Lord Sigurd!!
+306	Huh? You're the dancer? This is a battlefield, it's dangerous—go back to the castle.
+307	Lord Sigurd, don't you know who I am? I'm Silviaaa. You can call me Silvy if you like.
+308	...I'm sorry, but I don't have time to deal with a child. Be a good girl and go home.
+309	Hmph... you think this sexy me is a child?
+310	Lord Sigurd might actually be a surprisingly boring man...
+311	Hey now, I can hear you.
+312	Oh well, fine. I'm a flower blooming on the battlefield—when it's time to fall, I'll fall in a blaze of glory.
+313	What am I going to do with this girl...
+314	[Only if both Alec and Silvia have no sweetheart]
+315	Oh, so you're Silvia. Hmm, nice, you're cute.
+316	Oh wow, I thought everyone here was a stiff, but there's a normal guy after all.
+317	That's right, I'm probably the only normal one. I really like girls like you.
+318	Thanks.
+319	When I've got some free time, I'd like to talk with you properly. Is that all right?
+320	Sure, I'll show you my dancing too.
+321	A special one I haven't shown anyone else—it's a little embarrassing, but I'll show it to you.
+322	I-is that so... I'll look forward to it...
+323	[Only if both Beowolf and Lachesis have no sweetheart]
+324	Huh, so you're the princess of Nodion.
+325	How rude. Who are you!
+326	Oh, sorry about that. I'm Beowolf, just a lowly mercenary.
+327	So, do you have some business with me?
+328	Yeah, there's just one thing I wanted to say—war isn't a game.
+329	Having a chick like you wandering around is a nuisance for the rest of us.
+330	If you're a princess, act like one and stay quietly in your castle.
+331	Well! I have no reason to be told that by you! That's none of your business!
+332	Heh heh, you really are Eldigan's sister—you've certainly got spirit, at least.
+333	Eh? ...You know my brother?
+334	Yeah, I've known that guy for a long time. He asked me to look out for you, that's why I'm meddling like this.
+335	Oh, is that so... I'm sorry.
+336	Well, it's fine. All right, let me teach you a bit about fighting. This is for Eldigan's sake too.
+337	Yes, please do!!
+338	[If fought against Levin]
+339	Prince Levin!? No, that can't be...
+340	[If fought against any other unit]
+341	Knight of Grannvale, return Prince Levin to us!!
+342	Ahh... Lady Lahna... please forgive me...
+343	Fury!? What are you doing in a place like this?
+344	Huh? You're... c-could it be... Prince Levin? What's happened, looking like that?!
+345	Ah, this outfit? I'm working as a traveling bard right now. What do you think, suits me, doesn't it?
+346	...But, why...
+347	...I heard the prince was being held captive in Evans and rushed here in a panic...
+348	Me, held captive in Evans? Who told you something like that?
+349	King Chagall of Agusty...
+350	Ah-hah, Fury, you've been deceived.
+351	Being honest is fine, but you can't live in the city that way.
+352	Though it'd also be a problem if you got weirdly worldly like Silvia...
+353	Prince Levin, who is Silvia...
+354	Oh, well... never mind that. Anyway, why are you here?
+355	Of course, to bring you back to Silesse, Prince.
+356	It's been nearly two years since you left the country without telling anyone, and Queen Lahna is very worried.
+357	Please come back with me.
+358	If I go back, I'll have to succeed to the throne according to the late king's will.
+359	But my uncles will never agree to it. If it goes badly, it could turn into a civil war like this country's.
+360	If that happens, the people will suffer the most. As for being king, whoever wants it badly enough can have it.
+361	I like my free life as it is now. Succeeding to the throne is the last thing I want.
+362	Something like that, I may as well just hand it over to my uncles.
+363	That won't do. The Silesse royal family is a noble house descended from the wind god Forseti,
+364	and you, Prince, are the only one who has inherited that power.
+365	There is no one else who can succeed to the Silesse throne besides you. All the people wish for it too.
+366	Prince Levin... Lady Lahna was in tears. Please... please come back.
+367	Fury... there's no need for you to cry too, is there.
+368	Give me a break—I'm weak against a woman's tears.
+369	All right, fine. But let me think about it a bit more. Once I've made up my mind, I'll return to my mother.
+370	Then, please let me stay by your side until you return, Prince.
+371	I'll have my subordinates relay that you're safe.
+372	Even if I say no, you won't listen, will you. Fine then,
+373	I'll travel with Lord Sigurd for a while. We somehow get along well, and besides, his army has a lot of beautiful women.
+374	You should make friends with them too, Fury. Maybe then you'll become a little more polished.
+375	Yes...
+376	Hey now, that was a joke. Don't take it seriously.
+377	Honestly, you're so earnest, Fury... you're cute enough that no one could beat you. You're more than fine the way you are.
+378	Y-yes... ah, I mean...
+379	Are you Lord Sigurd?
+380	Yes, I am. And you?
+381	I'm Fury, a knight of Silesse. In order to protect Prince Levin, I'll be accompanying you for a while.
+382	Prince Levin? What do you mean by that?
+383	Prince Levin is the rightful heir to the Silesse royal family,
+384	one who has inherited the power of the Wind Crusader, Lord Sety.
+385	What, that Levin!? I see... I thought there was something to him, but to think he was the prince of Silesse.
+386	But why would he become a bard, of all things...
+387	There are various circumstances, but it's not for me to say. Please leave him be for a while.
+388	Understood. I'll continue to treat him the same as before.
+389	Fury, it would be a great help if you, a Pegasus Knight, would cooperate with us. I'm counting on you.
+390	Yes, leave it to me!
+391	Damn it, you invaders!... Given how things stand, I myself will be your opponent!
+392	Guh... remember this...
+393	Good, Mackily is subdued. Next is finally the capital, Agusty.
+394	Yes, Lord Sigurd. But there's information that a large force still remains at Agusty.
+395	Please be careful.
+396	Indeed, that's true. As for Chagall, who knows what he's plotting...
+397	What, even Mackily has fallen!? Zane, this can't be helped—you lead the remaining full army and march out!
+398	Yes, but...
+399	No back-talk, hurry and go!!
+400	Chagall, you're being disgraceful. It's not as though you've already lost.
+401	You, Manfroy!
+402	Grgh... I did as you said and look where it's gotten me! What are you going to do about this!
+403	Fu fu fu, I only ever said to kill the king if he was in your way.
+404	Everything came from your own ambition, didn't it.
+405	Damn it, I never imagined Sigurd's army would be this strong...
+406	Manfroy, tell me, what on earth should I do?
+407	There's still a way.
+408	If it comes down to it, just make use of that brat—Eldigan, who's held in the dungeon.
+409	Even Sigurd won't be able to refuse if it comes from him.
+410	You'd best apologize to him while you still can.
+411	Y-yes, you're right. Eldigan would help us, surely. All right, I'll do that.
+412	Heh, what a fool...
+413	Archbishop Manfroy, I have confirmed the assassination of Prince Kurth.
+414	I see. Those fools move about so entertainingly for us.
+415	Of our ancient enemy, the line of Naga, only that old relic remains. It's only a matter of time before he too drops dead.
+416	After that, if we can just revive the dark god, the world will be ours...
+417	Has Lord Arvis agreed to the Archbishop's proposal?
+418	He can hardly refuse. The blood of Loptous flows in his body.
+419	If that were ever to leak out, he would be captured and burned at the stake as a member of the dark god's bloodline.
+420	Could a man as proud as him ever endure such a thing?
+421	Then, he'll betray the king and become emperor himself...
+422	Indeed... but that alone isn't enough.
+423	For the god Loptous to be reincarnated, Arvis and... one more person—that woman's daughter—is needed...
+424	Sortie! Take pride in being able to die for your homeland!
+425	Damn you, Grannvale... since it's come to this, a warrior's pride is at stake! I'll clean you all out at once!
+426	Guh... is this the end for Agustria too, then...
+427	[If fought against Fury]
+428	Heh heh heh, so it's you... seems you've finally realized it, you foolish woman!
+429	Chagall! How dare you deceive me! I won't forgive you, of all people—prepare yourself!!
+430	[If fought against Lachesis]
+431	Grgh, you're Eldigan's sister. What do you think you're doing, defying me?
+432	I don't consider you a king at all! Return my brother to me at once!!
+433	[If fought against any other unit]
+434	Tch... don't underestimate me. There's no way the likes of you could defeat me.
+435	Ugh... w-wait... just spare my life, at least...
+436	[Only if Deirdre has lost a battle even once]
+437	Deirdre!? Thank goodness, you're safe!
+438	Yes, I was captured by the enemy and brought to this castle... I believed you'd surely come to save me.
+439	[Only if Lachesis, Eve, Eva, and Alva are all alive]
+440	Lady Lachesis, we're returning to Nodion, but there's something we'd like to give you, Princess.
+441	This is called the Knight Ring—a magic bracelet that lets even non-knights move again.
+442	I'm sure it will be of use to you, Princess. Well then, please take care!
+443	Lord Sigurd, King Chagall is gravely wounded, but it seems he's still alive. It's said the palace priests are tending to him.
+444	I heard someone rescued King Chagall from the battlefield. I wonder who on earth it was.
+445	It was me, Sigurd... I rescued the king. He's the only member of the Agusty royal family left.
+446	No matter what kind of man he is, he's still my liege lord without question. I couldn't let him die.
+447	Ah, Eldigan!? You're safe!
+448	Thank goodness. I heard you'd been captured, so I was looking for you.
+449	Yes, somehow I'm all right. But Sigurd, what is the meaning of this?
+450	The capital Agusty has been subdued by your army,
+451	and from what I hear, officials have been dispatched from Grannvale to castles everywhere, treating this as if it were a subject nation.
+452	Has Agustria been occupied by Grannvale without my knowledge?
+453	Sigurd, depending on your answer, I won't go easy on you either, even you!
+454	I'm sorry, Eldigan. I'm not entirely satisfied with that matter myself either.
+455	But the king said that, aside from you, the fact remains that the lords of Agustria turned hostile against our nation,
+456	and for the sake of maintaining order, he ordered me to remain in this land for a while.
+457	Eldigan, please, just wait one year.
+458	With a year, peace should be restored and relations with Agustria mended too.
+459	Once that happens, we'll return to our country. The king promised me as much.
+460	I see... if you say so much, I have no choice but to trust you. All right... one year, then.
+461	Good. Until then, I'll guard King Chagall at Madino Castle to the north.
+462	My Cross Knights happen to be stationed at Silesse Fort too,
+463	and if it comes to it, I could crush the Grannvale army at any time.
+464	If you break your promise, then I'll fight you for real too! You understand that, don't you, Sigurd!
+465	Of course. I won't betray you. Trust me, Eldigan.
