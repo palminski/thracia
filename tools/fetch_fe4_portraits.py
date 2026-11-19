@@ -51,6 +51,9 @@ NAMES = {
     "イシュトー": "ishtore", "ライザ": "liza", "ブラムセル": "bramsel",
     "ジャバロー": "javarro", "リーン": "lene", "アレス": "ares",
     "トリスタン": "tristan", "ジャンヌ": "jeanne", "ティニー": "tine",
+    "ファバル": "febail", "コルータ": "coirpre", "セティ": "ced", "ホーク": "hawk",
+    "アリオーン": "arion", "アルテナ": "altena", "アミッド": "amid", "リンダ": "linda",
+    "オーヴォ": "ovo", "オーヴァ": "ovo",
 }
 
 

@@ -3064,3 +3064,222 @@
 離せる|はなせる|can release (potential of 離す)
 別れる|わかれる|to part, separate
 ほほ|ほほ|(chuckle)
+草原|そうげん|a grassy plain
+小王国|しょうおうこく|a small kingdom
+分立|ぶんりつ|standing apart, being divided
+山々|やまやま|mountains
+不毛|ふもう|barren, infertile
+蛮勇|ばんゆう|reckless bravery
+侵入|しんにゅう|invasion
+繰り返す|くりかえす|to repeat
+抵抗|ていこう|resistance
+壊滅|かいめつ|annihilation
+達成|たっせい|achievement
+以後|いご|from then on
+十数年|じゅうすうねん|a decade or so
+武力|ぶりょく|military force
+微妙|びみょう|delicate, subtle
+バランス|ばらんす|balance
+変化|へんか|change
+異名|いみょう|an epithet, alias
+前線司令官|ぜんせんしれいかん|a front-line commander
+不気味|ぶきみ|eerie, uncanny
+沈黙|ちんもく|silence
+幕|まく|a curtain, act
+逃げ帰る|にげかえる|to flee back home
+要請|ようせい|a request
+借りる|かりる|to borrow
+小倅|こせがれ|a brat, whelp
+老い耄れる|おいぼれる|to become senile
+放る|ほうる|to leave alone, neglect
+両者|りょうしゃ|both parties
+弱る|よわる|to weaken
+葬る|ほうむる|to bury
+腹立たしい|はらだたしい|infuriating
+察する|さっする|to guess, sense
+悲願|ひがん|a long-cherished wish
+貧しい|まずしい|poor
+蔑む|さげすむ|to scorn, despise
+雲行き|くもゆき|the look of things, how things are going
+怪しい|あやしい|suspicious
+拱く|こまねく|to fold (one's arms), stand idle
+軍事行動|ぐんじこうどう|a military operation
+遅れ|おくれ|a delay
+狆|ちん|lapdog (镇圧 mistagging guard - unused)
+断る|ことわる|to refuse
+意趣|いしゅ|a grudge (unused placeholder)
+あて|あて|reliance, something to count on
+漂う|ただよう|to drift, float
+亡き|なき|the late, deceased
+汁|つゆ|dew; broth (戦場のつゆと消える "to vanish like dew on the battlefield")
+追求|ついきゅう|pursuit
+守り育てる|もりそだてる|to protect and raise
+ひもじい|ひもじい|hungry
+明け暮れる|あけくれる|to spend one's days (doing something)
+生涯|しょうがい|one's whole life
+空|そら|the sky
+他人|たにん|another person, a stranger
+関心|かんしん|interest
+班|はん|a squad, team (unused placeholder)
+償い|つぐない|atonement
+へこたれる|へこたれる|to be discouraged, give up
+怖じける|おじける|to be frightened, lose one's nerve
+シューター|しゅーたー|a shooter (unit class)
+身動き|みうごき|moving, budging
+加護|かご|divine protection
+落ち込む|おちこむ|to feel down
+作る|つくる|to make
+移動力|いどうりょく|movement range
+潰える|ついえる|to collapse, come to nothing
+陥落|かんらく|a fall (of a castle/city)
+敗走|はいそう|a rout, fleeing in defeat
+実現|じつげん|realization
+一掃|いっそう|a sweeping away
+手始め|てはじめ|a first step
+手向かう|てむかう|to resist, defy
+説教|せっきょう|a lecture, sermon
+口答え|こたえ|back-talk
+気丈|きじょう|strong-minded
+争う|あらそう|to dispute, contest
+悪気|わるぎ|malice, ill will
+大目に見る|おおめにみる|to overlook, go easy on
+畏まる|かしこまる|understood (humble)
+表す|あらわす|to reveal, show
+食い止める|くいとめる|to hold off, stem
+目前|もくぜん|right before one's eyes
+降伏|こうふく|surrender
+突撃|とつげき|a charge, assault
+絶望|ぜつぼう|despair
+囚われ|とらわれ|being captured
+臆病者|おくびょうもの|a coward
+到着|とうちゃく|arrival
+一目|いちもく|a single glance
+偉い|えらい|great, impressive
+瞬く|またたく|to blink, twinkle
+想像|そうぞう|imagination
+いっそ|いっそ|rather, if anything
+放つ|はなつ|to release, let go
+引き付ける|ひきつける|to attract, draw in
+氷|こおり|ice
+予期|よき|anticipation
+病弱|びょうじゃく|sickly
+実家|じっか|one's parental home
+預ける|あずける|to entrust
+渡り歩く|わたりあるく|to travel from place to place
+当てる|あてる|to address (to someone)
+真|しん|true, genuine
+万歳|ばんざい|hooray
+恵まれる|めぐまれる|to be blessed
+作物|さくもつ|crops
+戦地|せんち|a battlefield
+指導者|しどうしゃ|a leader
+憎み合う|にくみあう|to hate each other
+魔王|まおう|the Demon King
+祖先|そせん|an ancestor
+付く|つく|to be attached, gained
+グングニル|ぐんぐにる|Gungnir
+道|みち|a path, way
+竜|りゅう|a dragon
+豊か|ゆたか|rich, abundant
+土地|とち|land
+険しい|けわしい|steep, harsh
+司令官|しれいかん|a commanding officer
+願い|がんい|a wish
+有る|ある|to be, exist
+飛ぶ|とぶ|to fly
+取れる|とれる|to be harvested
+除け|よけ|a charm (against something), ward
+有り難い|ありがたい|grateful, welcome
+死守|しし|holding to the death
+冷たい|つめたい|cold
+流す|ながす|to shed (tears)
+流れ着く|ながれつく|to drift ashore, end up
+返る|かえる|to return
+領|りょう|territory (suffix)
+気味|きみ|a feeling, sign
+持ち|もち|feeling (お気持ち)
+仕方|しかた|a way, method
+無い|ない|not to be, nonexistent
+襟|えり|a collar (unused placeholder)
+まあ|まあ|well, anyway
+後ろ|うしろ|behind
+表わす|あらわす|to reveal
+臆病|おくびょう|cowardice
+笑む|えむ|to smile (unused placeholder)
+座|ざ|a seat (ばんざい placeholder)
+殆ど|ほとんど|almost, nearly
+仲良く|なかよく|amicably, on good terms
+あけくれる|あけくれる|to spend one's time doing
+あてる|あてる|to address, direct (to)
+あと|あと|a little more, remaining
+あらわす|あらわす|to reveal
+いき|いき|an air, attitude (いい気になる "to get carried away")
+いそがしい|いそがしい|busy
+うでわ|うでわ|a bracelet
+えらい|えらい|great, impressive
+おいぼれる|おいぼれる|to become senile
+おくびょう|おくびょう|cowardice
+おくれ|おくれ|a delay
+おそう|おそう|to attack
+おもむく|おもむく|to head off to
+かしこまる|かしこまる|understood (humble)
+かりる|かりる|to borrow
+がる|がる|to feel, show signs of (suffix)
+くいとめる|くいとめる|to hold off, stem
+くい止める|くいとめる|to hold off, stem
+くらせる|くらせる|can live (potential of 暮らす)
+くりかえす|くりかえす|to repeat
+くり返す|くりかえす|to repeat
+けっして|けっして|never, by no means
+こまねく|こまねく|to fold one's arms, stand idle
+さげすむ|さげすむ|to scorn, despise
+シーフ|しーふ|thief (class)
+しかも|しかも|moreover
+したう|したう|to adore, look up to
+すてる|すてる|to abandon, give up
+そろう|そろう|to be gathered
+たすかる|たすかる|to be saved
+たすける|たすける|to help, save
+ただよう|ただよう|to drift, float
+たび|たび|each time
+たべる|たべる|to eat
+ついえる|ついえる|to collapse, come to nothing
+つぐない|つぐない|atonement
+つゆ|つゆ|dew
+ととのう|ととのう|to be ready, in order
+とりもどす|とりもどす|to take back
+とれる|とれる|to be harvested, obtained
+なさけない|なさけない|shameful, pitiful
+ねっ|ねっ|right? (casual tag question)
+ハッ|はっ|(gasp)
+ハハハ|はははは|(laugh)
+パワー|ぱわー|power
+ばんざい|ばんざい|hooray
+ひきつける|ひきつける|to attract
+ほうむる|ほうむる|to bury
+ほうる|ほうる|to leave alone, neglect
+ほおる|ほおる|to leave alone, neglect
+ほっほ|ほっほ|(chuckle)
+まずしい|まずしい|poor
+またたく|またたく|to blink, twinkle
+まちがい|まちがい|a mistake
+みなしご|みなしご|an orphan
+もとめる|もとめる|to seek, request
+やあ|やあ|hey, hi
+やとう|やとう|to employ, hire
+よめ|よめ|a bride
+わたり歩く|わたりあるく|to travel from place to place
+わたる|わたる|to cross
+争える|あらそえる|can dispute (potential of 争う, 血は争えない "blood doesn't lie")
+反省|はんせい|self-reflection, remorse
+司令|しれい|command
+大目|おおめ|leniency (大目に見る "to overlook")
+小|しょう|small (prefix)
+小せがれ|こせがれ|a brat, whelp
+指導|しどう|guidance, leadership
+数|すう|a number, several
+移動|いどう|movement
+解放軍|かいほうぐん|the Liberation Army
+軍事|ぐんじ|military affairs
+飛べる|とべる|can fly (potential of 飛ぶ)
+フフ|ふふ|(chuckle)

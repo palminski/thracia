@@ -1,0 +1,383 @@
+1	The Thracia Peninsula has two faces.
+2	The northern half is a land of rich grassy plains, divided among many small kingdoms,
+3	while the southern half, among its harsh mountains and barren earth, holds the kingdom of Thracia, known for its dragon knights.
+4	Thracia, known for its reckless valor,
+5	had repeatedly invaded in the past to seize the rich northern lands,
+6	but had failed again and again against the resistance of the Leonster royal family.
+7	It seemed that annihilating Leonster's army in the Yied Desert had finally achieved that long-held ambition,
+8	but then Prince Bloom of House Friege conquered this region with his great host,
+9	and ever since, it had remained under the Empire's control as the Kingdom of North Thracia.
+10	From then, for over a decade, even the ambitious King Travant
+11	found himself utterly unable to act against the Empire's military might,
+12	and a strange peace was maintained.
+13	But the Liberation Army's capture of the capital, Alster,
+14	upset the delicate balance of this region.
+15	Alster Castle and Leonster Castle were now held by Celice's Liberation Army,
+16	while at Conote Castle, King Bloom, having fled from Alster, gathered troops,
+17	and at Manster Castle, Princess Ishtar, known by the epithet Thunder God,
+18	stood firm in her defenses against Thracia,
+19	while in Thracian-held Miloah, King Travant,
+20	together with his front-line commander General Mycoff, kept an uncanny silence.
+21	The people's one and only wish was
+22	that this land would once again return to the rule of the Leonster royal family.
+23	And now, the curtain rose on a new battle.
+24	(Bloom): Damn those rebels... getting too pleased with themselves.
+25	(Bloom): Vampa, even you three have come running back — I didn't expect that of you.
+26	(Fetra): My deepest apologies. But there's no need to worry anymore.
+27	(Fetra): General Muhamado's forces are already on their way to Alster,
+28	(Fetra): and General Ovo's knights are advancing on Leonster — we too will set out right away.
+29	(Bloom): I see... I'm counting on you. By the way, that King Travant of Thracia — what's he doing? Is he still not coming to help?
+30	(Fetra): Yes, we've sent requests for reinforcements many times, but...
+31	(Bloom): Damn it... what is that fellow thinking...
+32	(Fetra): King Travant is an ambitious man — trusting him seems dangerous to me...
+33	(Bloom): You're right. Even without borrowing his strength, we can crush the rebels on our own.
+34	(Bloom): Vampa, Fetra, Elu, go. This time, bring me their heads for sure!
+35	(Fetra): Yes sir, without fail!
+36	(Villager (man)): Lady Sety, when on earth will Manster return to our own hands?
+37	(Villager (man)): We're suffering under King Bloom's rule — we're at our limit!
+38	(Sety): Don't give up hope. Lord Celice's Liberation Army is almost here.
+39	(Sety): Please tell everyone to hold on just a little longer.
+40	(Sety): Freedom will surely come. Please, trust me!
+41	(Arion): Father, King Bloom has asked for our aid.
+42	(Arion): It seems the Empire has lost Leonster Castle and Alster Castle to the rebels.
+43	(Travant): That brat they call Celice, Sigurd's little whelp...
+44	(Travant): For Bloom to struggle against a mere child like that, has he grown senile? Arion, just leave them be.
+45	(Travant): Let the Empire and the rebels wear each other down fighting, and our Thracian army will strike when both sides are weakened.
+46	(Arion): I thought as much... father, are you still thinking about that time...
+47	(Travant): How could I ever forget!
+48	(Travant): I buried the knights of Leonster in the desert, and thought I had finally achieved the conquest of the Thracia Peninsula,
+49	(Travant): and then that Bloom snatched it right out from under me. Even now, I haven't forgotten that fury.
+50	(Arion): We don't have the strength to face Grannvale head-on... father, I understand how you feel.
+51	(Travant): Unifying the Thracia Peninsula is our people's long-cherished dream. To save our people from poverty, we need that rich northern land.
+52	(Travant): We've been scorned as hyenas,
+53	(Travant): and even so, the only way we've managed to survive is by hiring ourselves out to fight for other nations.
+54	(Travant): Arion, I've endured this for a long time. But now is the time to rise up.
+55	(Travant): Thracia's fate will be decided in this one battle — remember that.
+56	(Arion): Yes sir...
+57	(Levin (Strategist)): Celice, something feels off — is Leonster's defense really secure?
+58	(Celice): I can't say it's fully sufficient. Should we send reinforcements?
+59	(Levin (Strategist)): Mm, I doubt King Bloom of Conote will just sit idle after this.
+60	(Levin (Strategist)): And besides, the people of Manster are asking for help too — the sooner we move, the better.
+61	(Celice): Understood. Let's set out at once.
+62	(Muhamado): Don't fear the rebels! Take back Alster Castle.
+63	(Muhamado): Anyone who disobeys orders will be beheaded, understand! Kill them all!
+64	(Ovo): Alright, preparations are complete. Let's race straight to Leonster — don't let General Muhamado's unit get ahead of us!
+65	(Fetra): At last, it's begun. Fetra, Elu, let's go. Don't mess it up again this time.
+66	(Fabal): King Bloom, you need something from me?
+67	(Bloom): Ah, Fabal, glad you came. I've been waiting.
+68	(Fabal): I'm a busy man. If you need something, out with it!
+69	(Bloom): Ugh... well... it's nothing much, but I'd like you to do a little job for me.
+70	(Fabal): A job...?
+71	(Bloom): Mm, I need your help suppressing the rebels.
+72	(Fabal): I refuse... I'm a mercenary, but I don't do dirty work.
+73	(Bloom): But you need money, don't you. I hear you're taking care of a great many orphans.
+74	(Bloom): And your sister needs money too, doesn't she — stealing for it, from what I hear. Are you content letting your sister be a thief?
+75	(Fabal): Patty is... pushing herself for the children's sake... money... I certainly do need it...
+76	(Bloom): Then there's nothing to hesitate about. Bring me Celice's head, and I'll give you as much gold as you like — your sister will be pleased too.
+77	(Fabal): ...understood. It's a foolish thing, but there's no helping it... this once, I'll lend you a hand.
+78	(Ishtar): Father, you called for me? What do you need?
+79	(Bloom): Ah, Ishtar, you've finally come. The Liberation Army is attacking — I need your strength. Protect me.
+80	(Ishtar): I can hardly believe you'd say such a thing, father. Mere rebels, and you're this flustered?
+81	(Bloom): But listen — your brother Ishtore has already been struck down, and we've lost Tinny too, on top of it.
+82	(Bloom): The three Vampa sisters can't be relied on either. All that's left is to borrow your strength.
+83	(Ishtar): Understood. In that case, give me the Thoron Hammer.
+84	(Ishtar): With that alone, I can wipe out the enemy single-handedly.
+85	(Bloom): Wh-, what? The Thoron Hammer...? Hmm, very well... take it. But make absolutely sure you succeed.
+86	(Ishtar): I understand. Leave it to me.
+87	— (only if Ishtar is still alive)
+88	(Julius): Ishtar, come back with me to Belhalla. You mustn't die in a place like this.
+89	(Ishtar): Ah, Lord Julius... but, why...
+90	(Julius): I need you. Lend me your strength.
+91	(Ishtar): Y-, yes! Gladly... Lord Julius.
+92	(Julia): Lord Celice...
+93	(Celice): Julia? What's wrong?
+94	(Julia): I feel something terrifying... I sense an evil presence drifting somewhere nearby.
+95	(Celice): Huh? What do you mean?
+96	(Julia): .........Celice, be careful... Ishtar is a terrifying enemy... you mustn't fight her...
+97	(Celice): Julia!? ...what's wrong!!
+98	(Julia): Huh... I... what did I just...
+99	(Celice): Julia... you...
+100	(Finn): Prince Leaf, we have a duty to protect this region.
+101	(Finn): It will be a hard fight, but please bear with it.
+102	(Leaf): I know that already. I've long dreamed of this very day coming.
+103	(Leaf): Saving the people from King Bloom's tyranny and restoring peace to the Thracia Peninsula — this is also my late father's will.
+104	(Leaf): Even if I vanish like the morning dew on some battlefield, I have no regrets.
+105	(Finn): Prince Leaf,
+106	(Finn): a man who will one day be king shouldn't speak so carelessly about such things!
+107	(Leaf): You're right, I'm sorry. You protected and raised me through the Empire's harsh pursuit when I was still small.
+108	(Leaf): Going without food yourself, you never once let me go hungry.
+109	(Leaf): Only now do I truly understand how difficult that must have been. Finn, I really am grateful to you.
+110	(Finn): Prince Leaf, unifying the Thracia Peninsula, torn by endless war, was your father's lifelong dream.
+111	(Finn): Please, carry on your father's will — you are the only one left who can.
+112	(Arthur): Fee, be careful. Just because you can fly doesn't mean you should go off alone.
+113	(Fee): Oh my, Arthur — are you worried about me?
+114	(Arthur): W-, well... I suppose...
+115	(Fee): Hmm...
+116	(Fee): I always thought you weren't interested in other people, Arthur... but it turns out you have a kind side too.
+117	(Fee): I've reconsidered my opinion of you, just a little.
+118	(Arthur): You're special, Fee...
+119	(Fee): Eh...?
+120	(Arthur): Anyway, don't do anything too dangerous! See you...
+121	(Fee): Arthur...
+122	(Vampa): Damn... these rebels...
+123	(Muhamado): To think we'd be defeated so easily... King Bloom, forgive me...
+124	(Ovo): Not bad at all... but it ends here!
+125	(Pamela): Th-, that can't be...
+126	(Fetra): Take this! Elfire!!
+127	(Fetra): Ahh, how regrettable... Fetra, Elu...
+128	(Vampa): Take this! Elwind!!
+129	(Vampa): Damn... these rebels...
+130	(Elu): Take this! Elthunder!!
+131	(Elu): Vampa, Fetra... this is the end...
+132	(Fabal): I'm sorry... this is for the money too...
+133	(Fabal): Patty... forgive your brother...
+134	(Patty): Big brother!? What are you doing in a place like this!
+135	(Patty): Don't tell me you've been hired by Bloom!
+136	(Fabal): Patty? Why are you with the rebels!?
+137	(Patty): To help everyone, of course. We're all joining our strength together to beat King Bloom.
+138	(Patty): Big brother, have you forgotten? The children's parents were killed by the imperial army.
+139	(Patty): And you're cooperating with that very same army — big brother, what on earth are you thinking!
+140	(Fabal): Patty... I'm sorry... you're right... I... I don't know what got into me.
+141	(Patty): Anyone can say they're sorry. If you really mean it, then lend your help too, big brother — let's bring back peace, all of us together!
+142	(Fabal): Alright, Patty. But you, you've changed quite a bit, haven't you...
+143	(Patty): Heh... well, maybe...
+144	(Fabal): Prince Celice, I'm sorry. Please forgive me.
+145	(Celice): You must be Fabal. I heard the story from Patty.
+146	(Celice): It sounds like there were various circumstances involved. I don't hold it against you.
+147	(Fabal): No, I was in the wrong. To let myself be hired by the Empire, what a foolish thing to do... I'm ashamed of myself.
+148	(Fabal): Prince Celice, let me make up for it.
+149	(Celice): Thank you, Fabal. I'll be counting on you.
+150	(Fee): Phew, we've come up quite high. I wonder where my brother could be. Mana, are you alright? Can you still fly?
+151	(Fee): You're named after that aunt of mine, the hero known throughout Silesse — this much shouldn't be enough to wear you down, right?
+152	(Fee): Once things are peaceful, let's go back to Silesse together.
+153	(Fee): Or else... heh, maybe I'll go off to marry some wonderful person.
+154	(Fee): Either way, I need to do my best a little longer!
+155	(Villager (man)): Oh, a person! We're saved!!
+156	(Linda): What's wrong?
+157	(Villager (man)): Ah, I set out on a journey hoping to join the Liberation Army, but I got lost on the way...
+158	(Villager (man)): How'd you end up in a place like this, in these mountains?
+159	(Linda): I'm fighting for peace, together with Lord Celice.
+160	(Villager (man)): So you really are with the Liberation Army! Hah, to think I'd meet someone from the Liberation Army in a place like this...
+161	(Villager (man)): I hate to admit it, but I'd lost my nerve and was just about to head back to the village.
+162	(Villager (man)): My sweetheart Anna must be worried too...
+163	(Linda): I see... I wish we could have fought together...
+164	(Villager (man)): Well, I'm just a shooter, so I can barely move around on the battlefield anyway.
+165	(Villager (man)): Even if you'd let me join, I'd probably have just held everyone back.
+166	(Villager (man)): That's right, could you tell me your name?
+167	(Linda): My name is Linda.
+168	(Villager (man)): Linda? That name sounds familiar somehow.........
+169	(Villager (man)): Well, never mind — here, I'll give you this ward charm. I don't need it anymore.
+170	(Linda): Thank you...
+171	(Villager (man)): Well then, good luck — may Naga's blessing be with you!
+172	(Villager (man)): Oh, a person! We're saved!!
+173	(Amid): What's wrong?
+174	(Villager (man)): It's a long story, but a lot has happened...
+175	(Villager (man)): I got lost on the way, and a girl from the Liberation Army named Linda helped me out,
+176	(Villager (man)): but I hate to admit it, here I am lost again.
+177	(Amid): I see. Linda is my little sister. I'm Amid — if there's anything I can do, let me help.
+178	(Villager (man)): Wait, so you're... Linda's big brother!
+179	(Villager (man)): Hah! To think I'd meet you of all people here... ...how embarrassing...
+180	(Amid): Don't be so down on yourself, it's alright now. Come along with me for a while — if an enemy appears, just hide behind me.
+181	(Villager (man)): ...you're a good person... and both you and your sister, too...
+182	(Amid): When we're in trouble, we help each other out, that's all.
+183	(Villager (man)): ...you're a good person, really a good person...
+184	(Villager (man)): Here, I'll give you a ward charm too — actually, I happened to have another one, just in case... heh heh.
+185	(Amid): Is that so? Then I'll gratefully accept it.
+186	(Villager (man)): Alright then, once I get back home, Anna and I will make kids just like you two!
+187	(Amid): Before that, we need to cross this mountain — come now, let's go.
+188	(Villager (man)): Wait just a moment! I don't have much movement range, you know!
+189	(Ishtar): I'm sorry... but you'll have to die! Thoron Hammer!!
+190	(Ishtar): Ahh... Lord Julius...
+191	(Julius): Ishtar, come back with me to Belhalla. You mustn't die in a place like this.
+192	(Ishtar): Ah, Lord Julius... but, why...
+193	(Julius): I need you. Lend me your strength.
+194	(Ishtar): Y-, yes! Gladly... Lord Julius.
+195	(Bloom): Damn it... what on earth is happening... you rebels... I'll never forgive you!
+196	(Bloom): Guh... how regrettable...
+197	(Levin (Strategist)): It seems the Empire's power here has finally run its course. The remaining soldiers, hearing of Conote's fall, seem to have fled.
+198	(Celice): Then Manster's liberation should be realized soon too.
+199	(Levin (Strategist)): I'd like to think so. The problem is Thracia...
+200	(Celice): But Thracia has maintained neutrality. I don't think they'd turn against us.
+201	(Levin (Strategist)): You can say that because you don't know King Travant. Prince Leaf had his parents and sister killed by Travant,
+202	(Levin (Strategist)): and in a way utterly unbecoming of a knight, too. Don't let your guard down — he's surely scheming something...
+203	(Travant): Hehehe... so Bloom is dead. That sweeps away the Empire's power here entirely.
+204	(Travant): Alright, now's our chance. First, we'll take Manster.
+205	(Travant): Altena, go with Corple and take Manster.
+206	(Travant): If anyone resists, show no mercy even to civilians — kill them all!
+207	(Altena): Please wait, father! If the enemy is the Empire, I'll fight gladly, but killing powerless civilians is meaningless.
+208	(Altena): We ought to be able to cooperate with the Liberation Army — why must we fight them!
+209	(Travant): Altena! Are you trying to lecture me? You should just do as I say. I won't tolerate any back-talk!
+210	(Altena): But...
+211	(Arion): Altena, do as father says. Father and I must return to the capital to prepare for the next battle.
+212	(Arion): You're the only one who can hold the front line.
+213	(Altena): Brother... understood...
+214	(Travant): Now that you understand, stop dawdling! Go!!
+215	(Travant): Altena finally set out, did she... what a strong-willed girl.
+216	(Travant): Her mother too was a woman of strong spirit. Blood doesn't lie, I suppose.
+217	(Arion): Father, Altena means no harm. Please, go easy on her.
+218	(Travant): I know that already! Arion, let's return to the Thracian capital.
+219	(Travant): We'll lead a great army and take the whole peninsula in one stroke.
+220	(Travant): Mycoff, I leave Miloah Castle to you. Hold it to the death, together with Altena, until we return!!
+221	(Mycoff): Yes sir, understood.
+222	(Villager (man)): Lady Sety, this is terrible! Thracia's dragon knight corps has set out from Miloah Castle, heading for this castle.
+223	(Sety): What? After we finally took the town back from the Empire's rule,
+224	(Sety): has King Travant finally revealed his true colors!
+225	(Villager (man)): The Liberation Army hasn't crossed the river yet. Whatever should we do?
+226	(Sety): All of you, please flee to Conote. For a while, at least, I'll hold off the enemy by myself.
+227	(Villager (woman)): Lady Sety, that's impossible. Holding them off alone, something like that... you'll die!
+228	(Sety): I was prepared for this from the start. But don't worry — I won't go down so easily.
+229	(Sety): Now, there's no time left. Please, go quickly!
+230	(Villager (woman)): Lady Sety...
+231	(Corple): Lady Altena, what's wrong? Manster Castle is right before us — let's begin the attack at once.
+232	(Altena): Wait, Corple... our opponents are just civilians. There's no need to kill them.
+233	(Altena): I'll talk to them, try to get them to surrender. Wait a little.
+234	(Corple): That won't do. I've been firmly instructed by the king.
+235	(Corple): No matter what you say, Lady Altena, we're not to loosen our attack.
+236	(Altena): I am the commander here. Are you saying you won't heed my orders!
+237	(Corple): This is my unit. If you don't like it, Lady Altena, you may stay here and watch.
+238	(Corple): We'll go on without you. All troops, charge! We'll kill every last one of them!
+239	(Altena): W-, wait! Corple!!
+240	(Celice): Brave Sety, thank you for helping the townspeople.
+241	(Sety): Lord Celice... I have been waiting. Waiting for this moment to come, all this time.
+242	(Sety): Lord Celice, please save the world. So many people are in the depths of despair.
+243	(Sety): Even here in Manster, many children have been captured and sent off to the Temple of Miletos.
+244	(Sety): I... I couldn't save the children. I'm no hero. I'm nothing but a coward...
+245	(Celice): Sety, that's not true. I can't do anything alone either.
+246	(Celice): It's only with everyone's strength that I've come this far.
+247	(Celice): Brave Sety, I want your strength. Please, lend me your power.
+248	(Sety): Yes, Lord Celice... I will go with you, wherever that may be!
+249	(Mycoff): The rebels have reached Manster Castle, you say? Damn it... what on earth is Lady Altena doing!
+250	(Mycoff): There's no helping it — all troops, strengthen our defenses! We'll hold this castle to the death, until Lord Travant returns!!
+251	(Sety): Ah, Lord Celice!? ...and who is the one at your side...?
+252	(Celice): Hey there, Sety. He's Levin, my strategist.
+253	(Sety): Levin... so it really was you, father...
+254	(Levin (Strategist)): Sety, so you've noticed, have you. It's been a long time — are you well?
+255	(Sety): Don't ask if I'm well!! I've been searching for you this whole time.
+256	(Sety): Do you have any idea how many years it's been since you left our country!
+257	(Levin (Strategist)): Come to think of it, how many years has it been? Is Fury doing well?
+258	(Sety): How can you... mother has passed away!
+259	(Sety): Before she died, she wished so badly to see you, even just once, that I set out on a journey to find you, father.
+260	(Levin (Strategist)): I see... so Fury... that's a terrible thing to have happened...
+261	(Sety): Father, you're a cold man. Even hearing of mother's death, you don't shed a single tear...
+262	(Levin (Strategist)): .........
+263	(Sety): Fee resented you too. She decided she wouldn't speak to you herself.
+264	(Sety): Surely you must know why, father — why don't you ever reach out to her?
+265	(Levin (Strategist)): Sety, I have neither wife nor child — that's the decision I made. You should think the same of yourself...
+266	(Sety): Father...!?
+267	(Fee): Sety... you're my brother Sety, aren't you!
+268	(Sety): You're... Fee!? What's wrong! Why are you here?
+269	(Fee): I came looking for you, brother. Because you left Silesse and never came back!
+270	(Sety): I'm sorry... while I was searching for father, I ended up drifting here to Manster,
+271	(Sety): and the people of this country were just too pitiable, so I couldn't bring myself to leave...
+272	(Fee): That's so like you, brother... it's alright, I love that about you.
+273	(Sety): Have you joined the Liberation Army?
+274	(Fee): Yes, I wanted to be of help to Lord Celice.
+275	(Sety): I see... you really are mother's child too, after all...
+276	(Sety): It seems you can't just stand by and watch when someone's in trouble.
+277	(Fee): You're just as much that way yourself, brother... but poor mother Fury — I can't forgive father!
+278	(Sety): Father, huh... that man really is a mystery. I wonder what he's thinking, deep down...
+279	(Femina): Brother... you're brother Hawk, aren't you!
+280	(Hawk): You're... Femina!? What's wrong! Why are you in a place like this?
+281	(Femina): I came looking for you, brother. Because you left Silesse and never came back!
+282	(Hawk): I'm sorry... while I was searching for the old man, I ended up drifting here to the kingdom of Manster,
+283	(Hawk): and the people of this country were just too pitiable, so I couldn't bring myself to leave...
+284	(Femina): That's so like you, brother... it's alright, I love that about you.
+285	(Hawk): Have you joined the Liberation Army?
+286	(Femina): Yes, I wanted to be of help to Lord Celice.
+287	(Hawk): I see... Femina, you've admired Lord Sigurd ever since you were small, haven't you.
+288	(Femina): Yeah, me, I always dreamed of becoming a pegasus knight like Lady Fury.
+289	(Femina): Watch me, brother — I'll do my best, okay!
+290	(Mana): Lord Celice...
+291	(Celice): Ah, Mana, what's wrong?
+292	(Mana): Lord Celice, I'm scared. When we left Isaac, I said such big, confident things,
+293	(Mana): but watching everyone fight like this, I keep thinking someone's going to end up dead...
+294	(Celice): Mana...
+295	(Mana): Lord Celice, did you see that female mage? She vanished in the blink of an eye.
+296	(Mana): I feel like some evil power beyond our imagination is at work.
+297	(Celice): ...Mana, to tell you the truth, I'm scared too. There are nights I'm too frightened to sleep...
+298	(Celice): If I could, I think I'd just want to run away from this whole world. But you know, Mana, I won't run.
+299	(Celice): You saw the people of Alster, and of Conote, didn't you.
+300	(Celice): When we liberated those towns, everyone wept with joy — that's how terrible the Empire's rule truly was.
+301	(Celice): I can't just leave the world as it is. We have a duty to save its people.
+302	(Mana): ...Lord Celice, I'm sorry for worrying you. I'll be alright now. I'll do my best too.
+303	(Mana): But please, don't push yourself too hard either — if you died, it would all be for nothing...
+304	(Celice): Thank you, Mana. I need you with me...
+305	(Mana): Lord Celice...
+306	(Celice): Tinny, do you know Princess Ishtar?
+307	(Tinny): Yes, Lady Ishtar always doted on me like a little sister.
+308	(Celice): I wonder who that boy was, the one who came to fetch her.
+309	(Tinny): Probably... Prince Julius.
+310	(Celice): What, Prince Julius!?
+311	(Tinny): Yes, the two of them love each other deeply. That's why he came for Lady Ishtar...
+312	(Celice): You know Prince Julius?
+313	(Tinny): I met him a few times in the capital, Belhalla. How should I put it...
+314	(Tinny): He has a strange power that draws people in, and... an icy coldness. A frightening man.
+315	(Tinny): He hardly seems human at all...
+316	(Nanna): Are you Ares?
+317	(Ares): Yeah, that's right. What do you want with me?
+318	(Nanna): I heard you're the son of King Eltshan — is that true?
+319	(Ares): That's right, but why do you ask?
+320	(Nanna): Ahh, so it really was true! I'm Nanna — the daughter of Lachesis, King Eltshan's younger sister!
+321	(Ares): Wh-, what did you say!? You're saying you're my aunt's daughter!
+322	(Nanna): Yes, mother has been worried about you this whole time.
+323	(Nanna): I believe part of the reason we came to Leonster was to search for you too.
+324	(Ares): My father, foreseeing that Agustria would fall into chaos,
+325	(Ares): entrusted my sickly mother and young me to our relatives in Leonster.
+326	(Ares): But then Leonster too was invaded by the Empire, and amid the flames of war, my mother died...
+327	(Nanna): And that's when Jabarro found you?
+328	(Ares): Yes, he took me in and raised me. I've traveled the world ever since, together with his mercenary company.
+329	(Nanna): So that's why we couldn't find you... Ares, there's something Mother Lachesis entrusted to me for you.
+330	(Ares): Hm? ...wh-, what is this? ...my father's...!?
+331	(Nanna): Yes, it's a letter addressed to you, from King Eltshan.
+332	(Ares): ! .........wh-, what is this...
+333	(Nanna): There, you see? King Eltshan trusted Lord Sigurd right up to the very end.
+334	(Nanna): I believe the two of them were truly close friends.
+335	(Ares): So that's how it was... I... I seem to have been mistaken...
+336	(Nanna): Ares, please protect Lord Celice. We need your strength!
+337	(Ares): ...understood, Nanna.
+338	(Ares): I'll teach you swordsmanship. Watch closely and see just what I can do.
+339	(Leaf): Hm? ...what's that I see over there — a Thracian lady dragon knight! ...but somehow, her eyes look so sad...
+340	(Villager (man)): Lord Celice's Liberation Army? You finally came!!
+341	(Villager (man)): Thank goodness, we're saved!
+342	(Villager (man)): Lord Celice, hooray!
+343	(Villager (woman)): Ahh, warrior... thank you so much!
+344	(Villager (woman)): Please, I beg you — help Lady Sety.
+345	(Villager (woman)): Thracia's dragon knights are attacking — please, be careful...
+346	(Corple): Hehehe... sorry, but you'll have to die.
+347	(Corple): Glory to Thracia! ...guh...
+348	(Mycoff): This land is ours. I won't let the likes of you take it from us.
+349	(Mycoff): Hooray for Thracia! ...guh...
+350	(Celice): Levin, the Thracian army is completely different from every enemy we've faced so far.
+351	(Celice): What are they fighting so desperately for, I wonder.
+352	(Levin (Strategist)): Thracia is an unblessed land.
+353	(Levin (Strategist)): Most of the country is harsh mountains, crops barely grow at all, and even making a living is far from easy.
+354	(Levin (Strategist)): That's why the men go off to war as mercenaries, and even the women must take on hard labor.
+355	(Levin (Strategist)): King Travant may be a dishonorable man, but he isn't fighting only for his own sake.
+356	(Levin (Strategist)): The soldiers of Thracia swear loyalty to their king because they believe he, and he alone, can save them.
+357	(Celice): I see... so that's why they fight so fiercely...
+358	(Levin (Strategist)): But even so, that doesn't make it right to invade other nations.
+359	(Levin (Strategist)): Travant's sense of justice belongs to Thracia alone,
+360	(Levin (Strategist)): and to the people of the peaceful northern peninsula, he's nothing but a hated invader.
+361	(Levin (Strategist)): Celice, I know it's painful, but we can't afford to loosen our grip here.
+362	(Levin (Strategist)): We will bring down the Thracian royal family, and build a peaceful nation where everyone in this region can help one another.
+363	(Levin (Strategist)): That is the mission given to us.
+364	(Altena): Even Miloah has fallen!? Was I... was I the one who was wrong... brother.........
+365	(Villager (man)): I hear the people of Manster Castle are planning an uprising too.
+366	(Villager (man)): Their leader is a young mage named Sety. He seems to be from Silesse, but the people adore him deeply.
+367	(Villager (man)): But Manster is also being targeted by Thracia — I wonder if it'll be alright.
+368	(Villager (woman)): Ahh, thank you so much.
+369	(Villager (woman)): Ever since I heard rumors of the Liberation Army, I've been waiting for this day to come — Lord Celice is the light of our hope!
+370	(Villager (woman)): As thanks, please accept this Power Ring. I hope you'll keep it with you.
+371	(Villager (woman)): Thracia and Leonster were once a single country, long ago.
+372	(Villager (woman)): But at some point, they came to hate each other... I wonder why they couldn't live together in peace.
+373	(Auntie): Thracia has coveted this region for a long, long time.
+374	(Auntie): Each time, the Leonster royal family took up the holy lance Gaebolg and protected us.
+375	(Auntie): But that Gaebolg, along with Lord Quan, Lady Ethlyn,
+376	(Auntie): and then Lady Altena's own life, vanished into the Yied Desert...
+377	(Elder): The kingdom of Thracia was founded by the dragon knight Deen.
+378	(Elder): He wielded the heavenly lance Gungnir, and fought against the Demon King.
+379	(Elder): They say the holy knight Nova, ancestor of the Leonster royal family, was Deen's younger sister...
+380	(Old woman): Ho ho, to think you'd come all the way out here — you must be quite the curious one yourself.
+381	(Old woman): Well, since you've come all this way, let me give you something good.
+382	(Old woman): This is called the Thief's Bracelet — a strange bracelet that grants the wearer a thief's skill.
+383	(Old woman): Ho ho ho, take good care of it.
