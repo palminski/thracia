@@ -1622,3 +1622,261 @@
 今のうちに|いまのうちに|while there's still time
 できる|できる|to be able to, can
 可愛がる|かわいがる|to dote on, treat affectionately
+あくび|あくび|yawn
+あなた|あなた|you
+あまい|あまい|soft, naive, too lenient
+いいかげんにする|いいかげんにする|to stop (doing something excessive)
+うずく|うずく|to throb, itch (with eagerness)
+えじき|えじき|prey
+おかげ|おかげ|thanks to
+おかしら|おかしら|boss, chief
+お前達|おまえたち|you all
+お姉様|おねえさま|(honorific) big sister
+お手|おてて|hand (honorific)
+お父様|おとうさま|(honorific) father
+お祈り|おいのり|prayer
+ガキ|がき|brat, kid
+かたはらいたい|かたはらいたい|laughable, ridiculous
+きみ|きみ|you
+くすり|くすり|medicine
+クスリ|くすり|medicine
+くらう|くらう|to eat, receive (a blow)
+クロスナイツ|くろすないつ|Cross Knights
+ケチ|けち|stingy, cheap
+ここ|ここ|here
+こそ泥|こそどろ|petty thief, sneak thief
+ごめん|ごめん|sorry
+ごめんなさい|ごめんなさい|I'm sorry
+こんなこと|こんなこと|a thing like this
+ご覧|ごらん|(honorific) look
+さらし者|さらしもの|someone publicly disgraced
+シルベール城制圧前|しるべーるじょうせいあつまえ|before Silesse Castle is subdued
+シルベール城制圧後|しるべーるじょうせいあつご|after Silesse Castle is subdued
+しわざ|しわざ|deed, doing
+スキ|すき|opening, chance
+そんな|そんな|that kind of
+つけあがる|つけあがる|to get cocky, become presumptuous
+とどろかせる|とどろかせる|to make resound, make famous
+な|な|(sentence-ending particle)
+なすりつける|なすりつける|to pin the blame on
+のうのうと|のうのうと|complacently, brazenly
+のし歩く|のしあるく|to swagger about
+ハイエナ|はいえな|hyena
+ばかな|ばかな|foolish
+はねる|はねる|to cut off, lop off
+びっくりする|びっくりする|to be surprised
+ひっとらえる|ひっとらえる|to seize, capture
+ひっ捕らえる|ひっとらえる|to seize, capture
+フネ|ふね|ship
+フリ|ふり|pretense
+まね|まね|imitation, mimicry, trick
+みなぎる|みなぎる|to be filled with, surge
+むだ|むだ|useless, wasted
+むね|むね|chest
+ヤツ|やつ|guy, fellow
+やられる|やられる|to be done in, be beaten
+一味|いちみ|a gang, accomplices
+一員|いちいん|a member
+一国|いっこく|one country
+一度|いちど|once
+一緒|いっしょ|together
+不本意|ふほんい|unwilling, against one's wishes
+不満|ふまん|dissatisfaction
+両|りょう|both
+乗じる|じょうじる|to take advantage of
+予感|よかん|premonition
+五才|ごさい|five years old
+交渉|こうしょう|negotiation
+今に|いまに|soon, before long
+仕業|しわざ|deed, act
+休める|やすめる|to rest (something)
+伝わる|つたわる|to be handed down, be transmitted
+信条|しんじょう|principle, creed
+元に戻す|もとにもどす|to restore to the original state
+全て|すべて|all, everything
+共謀する|きょうぼうする|to conspire
+兵を退く|へいをひく|to withdraw troops
+内通する|ないつうする|to collude secretly
+分かり次第|わかりしだい|as soon as it's known
+切り抜ける|きりぬける|to get through, overcome
+切れる|きれる|to snap, break
+別れ|わかれ|parting, farewell
+制約|せいやく|restriction, constraint
+剣をひく|けんをひく|to lower one's sword
+勝利|しょうり|victory
+北西|ほくせい|northwest
+半年|はんとし|half a year
+南|みなみ|south
+占める|しめる|to occupy, hold
+厚顔|こうがん|shameless, brazen
+友|とも|friend
+反逆者|はんぎゃくしゃ|traitor
+口実|こうじつ|pretext, excuse
+合流する|ごうりゅうする|to join forces, merge
+名剣|めいけん|famous sword
+吠え面をかかせてやる|ほえづらをかかせてやる|to make (someone) cry in defeat
+味方|みかた|ally
+回答|かいとう|reply, answer
+国土|こくど|national territory
+国家|こっか|nation, state
+塔|とう|tower
+変える|かえる|to change (something)
+変な|へんな|strange
+大地|だいち|earth, ground
+女頭目|おんなとうもく|female boss
+存亡|そんぼう|life or death, survival
+存分|ぞんぶん|to one's heart's content
+存在する|そんざいする|to exist
+安心する|あんしんする|to feel relieved
+家|いえ|house, family
+家臣|かしん|vassal, retainer
+密かに|ひそかに|secretly
+少しずつ|すこしずつ|little by little
+居座る|いすわる|to stay put, entrench oneself
+島|しま|island
+帰路|きろ|the way home
+引き時|ひきどき|time to withdraw
+強く|つよく|strongly
+形見|かたみ|keepsake
+征服|せいふく|conquest
+御心|みこころ|(honorific) will, heart
+心中する|しんじゅうする|to die together, commit joint suicide
+心痛|しんつう|anguish, distress
+心配する|しんぱいする|to worry
+必殺|ひっさつ|certain kill, deadly blow
+忙しい|いそがしい|busy
+忠義|ちゅうぎ|loyalty
+思いとどまる|おもいとどまる|to reconsider, hold off
+思い出す|おもいだす|to remember, recall
+思い違い|おもいちがい|misunderstanding
+思う存分|おもうぞんぶん|to one's heart's content
+急げ|いそげ|hurry!
+恐れ|おそれ|fear
+悪名高い|あくめいだかい|infamous
+意を通じる|いをつうじる|to be in cahoots, conspire
+意識|いしき|consciousness, awareness
+成功する|せいこうする|to succeed
+成敗する|せいばいする|to punish, defeat
+我が物顔|わがものがお|as if it were one's own
+戦#battle|いくさ|battle, war
+戦力|せんりょく|military strength
+手だて|てだて|means, way
+手はず通り|てはずどおり|as planned
+手も足も出ない|てもあしもでない|unable to do anything
+手当たりしだいに|てあたりしだいに|indiscriminately
+指をくわえて|ゆびをくわえて|(idiom) enviously watching, unable to act
+指図する|さしずする|to give orders, direct
+挑む|いどむ|to challenge
+控える|ひかえる|to be waiting, be in reserve
+整える|ととのえる|to prepare, arrange
+敵意|てきい|hostility
+新た|あらた|new
+早まる|はやまる|to be hasty, act rashly
+明らか|あきらか|clear, obvious
+果て|はて|the edge, end
+楽しませる|たのしませる|to entertain, amuse
+機|き|opportunity, moment
+歴史|れきし|history
+死んだ人|しんだひと|a dead person
+死肉|しにく|carrion, dead flesh
+殺される|ころされる|to be killed
+殺害する|さつがいする|to murder
+母さま|かあさま|(honorific) mother
+気が紛れる|きがまぎれる|to be distracted, feel better
+気を落とす|きをおとす|to be discouraged
+永久|えいきゅう|eternity, permanence
+海|うみ|sea
+消える|きえる|to disappear
+深刻|しんこく|serious, grave
+準備|じゅんび|preparation
+滅ぼす|ほろぼす|to destroy, bring down
+滅亡する|めつぼうする|to perish, be destroyed
+激しい|はげしい|intense, fierce
+無意味|むいみ|meaningless
+無愛想|ぶあいそう|unfriendly, curt
+無礼者|ぶれいもの|insolent person
+無視|むし|disregard, ignoring
+熱い|あつい|hot
+生き方|いきかた|way of life
+生き返る|いきかえる|to come back to life
+生まれ変わる|うまれかわる|to be reborn
+生命|せいめい|life
+生命力|せいめいりょく|life-force, vitality
+申し訳ありません|もうしわけありません|I'm terribly sorry
+盗賊魂|とうぞくだましい|a thief's spirit
+目の前|めのまえ|right in front of one's eyes
+直系|ちょっけい|direct lineage, direct descendant
+真実|しんじつ|truth
+矢先|やさき|the very moment
+祈り|いのり|prayer
+秘伝|ひでん|secret tradition
+移す|うつす|to move, transfer
+空を飛ぶもの|そらをとぶもの|something that flies
+竜騎士団|りゅうきしだん|order of dragon knights
+簡単|かんたん|simple, easy
+粘り強い|ねばりづよい|persistent, tenacious
+精鋭|せいえい|elite
+糸|いと|thread
+統治する|とうちする|to govern, rule
+続ける|つづける|to continue (something)
+罰が当たる|ばちがあたる|to be punished by heaven
+義理|ぎり|duty, obligation
+義賊|ぎぞく|a righteous thief, Robin-Hood-like bandit
+聖地|せいち|holy ground
+聖遺物|せいいぶつ|holy relic
+膨れ上がる|ふくれあがる|to swell up
+臨む|のぞむ|to face, be about to undertake
+興味|きょうみ|interest
+覚悟する|かくごする|to resign oneself, prepare mentally
+観念する|かんねんする|to resign oneself, give up
+言い伝え|いいつたえ|legend, oral tradition
+計画する|けいかくする|to plan
+記憶|きおく|memory
+説得する|せっとくする|to persuade
+責める|せめる|to blame, criticize
+赤ちゃん|あかちゃん|baby
+越える|こえる|to cross, go beyond
+近い|ちかい|near, close
+近寄る|ちかよる|to approach, get close
+返還|へんかん|return, restitution
+退く|しりぞく|to withdraw, retreat
+通じる|つうじる|to be connected, communicate with
+通す|とおす|to let through, show in
+連れて行く|つれていく|to take (someone) along
+遺志|いし|dying wish
+邪魔者|じゃまもの|a nuisance, obstacle
+配備|はいび|deployment
+酷い|ひどい|terrible, cruel
+重い|おもい|heavy
+間に|あいだに|while, during
+限る|かぎる|to limit
+陰謀|いんぼう|plot, conspiracy
+外|そと|outside
+動き出す|うごきだす|to start moving
+実|じつ|the truth, actually
+言いくるめる|いいくるめる|to talk (someone) into something, sweet-talk
+軽はずみ|かろはずみ|rash, thoughtless
+見通す|みとおす|to see through
+うごめく|うごめく|to squirm, stir
+無くなる|なくなる|to disappear, run out
+扱う|あつかう|to handle, deal with
+いっぱい|いっぱい|a lot, full
+ずいぶん|ずいぶん|quite, considerably
+そっくり|そっくり|exactly alike
+巡り会う|めぐりあう|to meet by chance, be reunited
+最も|もっとも|most
+疑う|うたがう|to suspect, doubt
+疑い|うたがい|suspicion
+敵う|かなう|to be granted, come true
+のらりくらり|のらりくらり|evasively, idly
+稼ぐ|かせぐ|to earn, buy (time)
+どうせ|どうせ|anyway, in the end
+もったいぶる|もったいぶる|to put on airs
+今ごろ|いまごろ|around this time, only now
+ほざく|ほざく|to talk nonsense (derogatory)
+汲む|くむ|to take into consideration, scoop
+いっちょまえ|いっちょまえ|acting all grown up
+まつわる|まつわる|to be related to, associated with
+急|きゅう|sudden
+申す|もうす|to say (humble)
+天馬|てんま|pegasus, winged horse

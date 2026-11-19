@@ -1,0 +1,379 @@
+1	Having lost Agusty, King Chagall moved his court to Madino Castle in the north.
+2	True to his promise with Eldigan, Sigurd did not pursue him.
+3	While resting his troops at Agusty Castle, in order to keep his promise with Eldigan,
+4	Sigurd persistently continued negotiations for the return of Agusty.
+5	But the reply from Belhalla always remained the same: stay in Agusty
+6	and govern the people there.
+7	As half a year passed, the officials sent from Grannvale
+8	came to swagger about Agustrian territory as if it were their own.
+9	The discontent of the people of Agustria swelled little by little.
+10	Eventually, the new war Sigurd had feared broke out.
+11	Chagall, having readied his troops at Madino, tried to retake the capital, Agusty,
+12	and challenged Sigurd to battle.
+13	To the north of Madino, the infamous pirates of Augerhill
+14	were beginning to stir, taking advantage of the war.
+15	The order from Belhalla declared that Agusty Castle must be defended to the last.
+16	Sigurd's heart was heavy as he set out to battle.
+17	To the southwest of Madino, at Silesse Castle, Eldigan's army stood waiting.
+18	This battle might turn him into a betrayer of a friend.
+19	At this time, Sigurd, at the northern edge of Agustria,
+20	was about to face a battle that would change the course of history itself.
+21	Has the army's deployment finished? Make sure they haven't noticed us. Good, then advance as planned.
+22	This is our last chance to take back Agusty.
+23	Those fools, settling into my country so brazenly...
+24	...just you wait. I'll make them eat their words.
+25	Jacobin! Is the swordsman Jacobin here!?
+26	You need me...?
+27	The time has come to see that skill of yours. Defend this castle for me.
+28	Understood... it's a boring job, but it's for the money. This Thunder Sword's terror... I'll show you plenty of it.
+29	That's reassuring. I'm counting on you, Jacobin.
+30	Now then, there's Eldigan at Silesse... that fool, how will he move...
+31	Lord Eldigan, it's terrible! Madino Castle has raised its army!
+32	What, Lord Chagall has!? Damn it... what a rash thing to do! Just when the day I could return to the capital was drawing near...
+33	Ugh... I cannot possibly fight Sigurd. What on earth should I do...
+34	Boss, looks like a war's starting down south. Heh, this is getting interesting.
+35	Let's take advantage of this chance and help ourselves to the village.
+36	Until now Agustria's army was around and we couldn't lift a finger, but now it'll be a cinch.
+37	Hold your tongue, Dovar! If you try pulling some petty thievery, I won't forgive you!
+38	I don't do cheap work like that. It's a matter of principle.
+39	We've made a name for ourselves as righteous bandits—don't disgrace the name of the Augerhill pirates!
+40	Damn it, are you telling us to just sit here twiddling our thumbs while treasure's right there for the taking! The boss is too soft!
+41	Now, now, calm down, Dovar. I have an idea.
+42	That woman isn't really the boss's own daughter, you know.
+43	She was picked up as a kid and raised by the boss on this island.
+44	She thinks she's inherited the position without even knowing that. Well, no need to worry about it.
+45	Let's just help ourselves to the treasure, the two of us.
+46	Lord Sigurd! It's terrible!! King Chagall's army is surrounding this castle!
+47	What! That's absurd... we're about to return home soon, why would we need to fight?
+48	Just what is Eldigan thinking...
+49	On top of that, taking advantage of the chaos, even the Augerhill pirates have started moving.
+50	I see... it can't be helped. Let's march out.
+51	My love... another battle, is it?
+52	Indeed, Deirdre, I'm sorry, but this time I can't take you with me.
+53	I can't leave Celice, who was just born, behind.
+54	Yes...
+55	Don't make such an anxious face. I'll be back soon, I promise.
+56	Right, Shanan, I'll ask this of you—protect Deirdre and Celice for me.
+57	Sure! Don't worry, I'll protect Deirdre, so Sigurd, go on ahead with peace of mind!
+58	Haha, Shanan's always so full of energy.
+59	Deirdre, this should ease your worries a little, at least.
+60	Don't worry. This isn't a permanent parting, you know.
+61	Lord Sigurd...
+62	[Only if neither Lex nor Ayra has a sweetheart, and the Horin-Ayra scene hasn't been seen]
+63	Hey, Ayra.
+64	Lex, is it... what do you want?
+65	Tch, as unfriendly as ever.
+66	I'm busy. If you have no business with me, go away.
+67	Wait up, I got something good and thought I'd give it to you.
+68	If it's a gift, give it to some other woman. I have no interest in things like that.
+69	Heh heh, even this?
+70	Hm? ...Ah! That's...
+71	That's right, it's a famous sword called the Hero's Blade. You must've at least heard the name.
+72	This is the Hero's Blade... what a beautiful sword...
+73	Seems you like it. Go on, take it, here.
+74	Ah, wait, Lex!
+75	Lex...
+76	[Only if neither Horin nor Ayra has a sweetheart, and the Lex-Ayra scene hasn't been seen]
+77	Ayra, take this sword.
+78	Isn't this the Hero's Blade? Why give it to me? You should use it yourself.
+79	I have a feeling this is going to be a tough battle. For a fighter with a style like yours, there's no such thing as too many swords.
+80	Use it to protect yourself. I can't always be there to help you, after all.
+81	Horin... thank you. I'll put it to good use.
+82	Oh, you've come to help us! Then this village's people will be saved too.
+83	It's not much of a thank-you, but please accept this magic staff.
+84	This is called the Restore Staff—it can undo conditions like Sleep or Silence.
+85	I'm sure it will come in handy.
+86	[Before Silesse Castle is subdued]
+87	The Cross Knights are the elite order of knights led by Lord Eldigan—said to be the finest in the whole continent.
+88	Actually, you know, my boyfriend is a member of the Cross Knights too. Heh heh, isn't that amazing?
+89	[After Silesse Castle is subdued]
+90	Ohhh, my boyfriend died in this war.
+91	This is all because of the Grannvale army... no, it's because of King Chagall!
+92	How could the Augerhill pirates do something this awful, of all things...
+93	We trusted that woman boss, Brigid!
+94	Ho ho, well, thank you for coming. As thanks, I'll give you this sword.
+95	This is called the Swallow Strike—a magic sword that deals a critical blow to anything that flies.
+96	If you can't use it, you could sell it.
+97	Oh, you've come a long way. It's not much of a thank-you, but please take this village's secret medicine.
+98	Here, drink up.
+99	There now, don't you feel strength surging through your body? This should let you work even harder.
+100	Watch out—there's a rumor that King Chagall has hired the Dragon Knights of Thracia.
+101	They say those fellows get hired by whichever side pays, whenever a war breaks out, and kill indiscriminately.
+102	Just like hyenas feeding on carrion...
+103	Hah, take this! Thunder Sword!
+104	Gah, how... unfortunate...
+105	Lord Sigurd, King Chagall is nowhere to be seen.
+106	I see... he's probably fled to Silesse. Eldigan is at that castle.
+107	His Cross Knights are Agustria's last remaining military strength.
+108	If only he'd sheathe his sword here and let it end...
+109	Lord Sigurd, Father Claude of Edda has come to visit.
+110	What!? Lord Claude has... bring him in at once.
+111	Lord Sigurd, it's been a while. I've come to speak with you—the truth is, something terrible has happened back home.
+112	Why, Father Claude, whatever could have happened?
+113	Prince Kurth was murdered by someone on his way back from the campaign.
+114	What!? No way... who on earth would kill Lord Kurth!
+115	Lord Byron was always at Prince Kurth's side...
+116	But he's been nowhere to be seen since the day the prince was murdered. This is hard to say, but...
+117	Suspicion for the prince's murder has fallen on Lord Byron... that is, on your own father...
+118	Wh-what did you say!? That's absurd!
+119	All sorts of baseless rumors are circulating back home.
+120	Some even say that you and Lord Byron conspired together to kill the prince...
+121	His Majesty has collapsed from the grief of it all.
+122	My father was the one the prince trusted most. What could he possibly gain from doing away with the prince?
+123	Shouldn't suspicion fall on the two dukes said to oppose the prince—Reptor and Langobalt?
+124	I think so too, but there's no proof.
+125	Right now the court is dominated by the Reptor faction.
+126	What does Lord Arvis, His Majesty's close aide, think about this?
+127	I don't really understand what that man thinks. I don't believe he's hostile to you, but whether he's an ally... that I don't know.
+128	I see... I'm worried about my father too.
+129	I want to return home right away, but His Majesty has ordered me to defend this land, so I can't.
+130	Father Claude, what should I do?
+131	I intend to go now to the Tower of Baldr on the northwestern island.
+132	If I, a descendant of the holy Baldr, pray at that sacred tower, the whole truth should come to light.
+133	I intend to tell His Majesty everything. Lord Sigurd, please rest easy.
+134	Father Claude, stop dawdling and let's go already, I'm bored.
+135	Oh? You're Tiltyu of House Freege. Why are you with Father Claude?
+136	Because the father's all alone and that's worrying, isn't it? I'm the one protecting him.
+137	But you're the daughter of Duke Reptor...
+138	I don't understand difficult things, but I love the father!
+139	Honestly... this child is a handful... in any case, once the truth is known, I'll join your forces.
+140	Let's go home together.
+141	Understood, Father Claude. I'm counting on you.
+142	Shanan, I hear Lord Sigurd has taken Madino Castle. I'm going to go see him once.
+143	No way, Deirdre, it's still dangerous outside! And what about Celice?
+144	That's why I want to ask you to look after Celice.
+145	No way, I don't wanna, taking care of a baby isn't a man's job!
+146	Please, I'll be right back, Shanan, please...
+147	Tch, fine, I get it. Go on then. But come back soon, okay?
+148	Thank you, Shanan. Celice, I'm sorry, I'll be back soon.
+149	...I've finally found you... daughter of Sigyun...
+150	Huh, who are you? ...How do you know my mother's name...
+151	Kukuku... you are about to be reborn...
+152	By my dark magic, you will lose all your memories and become some man's wife...
+153	That is your fate. Give up...
+154	Wh-what are you doing!? ...Stop it!! ...Ahh... Sigur... d...
+155	What have you been doing, Eldigan! While you dawdled, even Madino has been taken!
+156	So then, you, in league with the enemy, mean to destroy this country?
+157	Your Majesty... you would say such a thing to me!
+158	What, are you dissatisfied?
+159	Forgetting the debt you owe my father, dragging your feet to buy time—can a man like that really be called a knight!
+160	It seems nothing I say will do any good anymore. Understood, Lord Chagall. We will sortie.
+161	I too am a proud Holy Knight of Agustria. If I'm to fall either way, I'd rather fall fighting.
+162	Your Majesty, I leave the rest in your hands.
+163	The time to sortie has finally come. This may be the last time we all meet alive.
+164	I will never forget the loyalty you have all shown until now.
+165	This is a battle that wagers our homeland's very survival. Fight your fullest, as knights should. Cross Knights, sortie!
+166	That Eldigan, finally sortied, has he... taking his sweet time...
+167	Those who remain, firm up the castle's defenses! From now on, I will take command of you all myself.
+168	Eldigan, I beg you! Lower your sword! I don't want to fight you!
+169	I will fulfill my promise to return Agusty, even at the cost of my life. Just trust me a little longer!
+170	...Sigurd, I'm sorry, say no more.
+171	At this point, all that's left is to fight a battle we need not be ashamed of, as fellow knights.
+172	Now then, let's go, Sigurd! My magic sword Mystletainn—will it defeat you!?
+173	Brother! It's me, Lachesis! Please, stop this meaningless battle.
+174	Are you betraying Lord Sigurd!? Is betraying a friend a knight's pride!?
+175	Brother! Trust Lord Sigurd and hold off on this battle, even just a little longer.
+176	Lachesis... don't cry like that, there's no other way left.
+177	If I lose Lord Chagall, Agustria will be destroyed.
+178	No, brother, if only Lord Chagall would withdraw his army,
+179	Lord Sigurd has no intention of continuing this fight.
+180	Please, I beg you—Lord Chagall surely can't ignore the words of you, who leads the Cross Knights.
+181	......Understood, Lachesis. I'll try persuading His Majesty once more.
+182	If I'm to risk the same life either way, the knight's way of living is to fight for a friend, not an unwilling battle.
+183	Lachesis... I'll give this sword to you.
+184	This is... the Earth Sword!? ...Brother! No way!!
+185	If something happens to me, think of it as a keepsake. Lachesis, don't you dare die!
+186	Ahh, wait! Brother Elt!!
+187	Your Majesty, this battle is pointless beyond this point. Please withdraw the troops.
+188	Agusty will surely return to your hands someday.
+189	Eldigan, you! Coming back now and spouting such things! So you really were colluding with the enemy after all!
+190	Someone, seize that traitor! I'll have his head cut off and put on display!
+191	So it really was useless after all... too bad, but this is the end for Agustria too...
+192	Heh, you fool, so you've resigned yourself to it. Fine, I don't care, cut him down right here.
+193	Lachesis......!
+194	Ah, well, you've come a long way. Drink this magic medicine, it'll raise your defenses a bit.
+195	Do you wish to become prey to this magic sword, Mystletainn,
+196	Those who don't want to die, do not come near me......!
+197	Forgive me, people of Agustria......
+198	Why, why did I have to kill Eldigan... just what am I fighting for, after all...
+199	Lord Sigurd, please, don't blame yourself.
+200	For now, please carry on Lord Eldigan's dying wish and restore peace for Agustria's people as soon as possible.
+201	Travant, are the Dragon Knights ready?
+202	No need to worry. For the money I was paid, I'll work.
+203	Hmph, more useful than my spineless vassals, mercenaries who work for money, aren't they?
+204	I'm counting on you!
+205	Hurry, Agustria is right before us!
+206	This time the enemy is Grannvale. Fight to your heart's content and make the name of the Kingdom of Thracia ring out across the world!
+207	Fufufu, know the terror of the Dragon Knights, prepare yourself!
+208	Ugh......glory to Thracia......!
+209	Tch, Papillon's failed, has he. This is a good time to pull back. I have no obligation to go down with Agustria.
+210	Farewell, foolish King Chagall.
+211	Wh-what are you, you rabble! I am the King of Agustria! You insolent fools!
+212	Damn it... I'll strike you down myself!
+213	My... my Agustria......
+214	Eldigan...
+215	Lord Sigurd, please, don't let your spirits fall.
+216	Also, I'm sorry to bring this up at a time like this, but it seems Shanan has come from Agusty Castle.
+217	He says he has something he wants to tell you...
+218	Shanan is...?
+219	Sigurd, I'm sorry, I'm so sorry.
+220	What's wrong, I can't understand you if you just cry. What happened?
+221	Deirdre went out and hasn't come back. She said she was going to see Sigurd...
+222	I'm sorry, it was my promise to protect her.
+223	What! Deirdre's...!! Then what about Celice... what happened to my son?
+224	I kept Celice with me, look, he's right here. But Deirdre...
+225	...I see... understood, Shanan, it's not your fault. Don't worry about it anymore, I'll go search for Deirdre myself.
+226	But, if only I'd stopped her more firmly... I'm sorry, Sigurd.
+227	Deirdre... just where on earth are you...
+228	Boss! Agustria's lost!
+229	The Grannvale lot might come attack us too. What should we do?
+230	Dovar! In the first place, it's because you lot raided a village without telling me, isn't it!
+231	I won't forgive you! You lot!!
+232	Keh, quit it already!! Get complacent if we go easy on you for once!
+233	You're not really the former boss's true daughter, you know.
+234	The boss picked up a crying kid from a raided ship and raised her, that's all.
+235	And that brat has the nerve to order us around—how laughable.
+236	Wh-what are you saying... that's not...
+237	Anyway, we've got no more use for you. Time to die.
+238	Damn it, you think I'll just go down that easily!
+239	You lot, finish off that woman! Don't let her get away!
+240	Pisarr, I'm heading back to the castle. You lead the men and go pillage Agustria.
+241	Right, got it!
+242	Good, lower the bridge! Agustria is ours now!!
+243	Father Claude, hurry, hurry!! Isn't the prayer already over?
+244	If you dawdle in a place like that, the pirates will find us and we'll get killed!
+245	Yes yes, Tiltyu, I'm coming now. The prayer to the god Baldr revealed the whole truth.
+246	Just as I thought, it was exactly as I suspected.
+247	And what's more, I was able to find the lost holy relic, the Valkyrie Staff.
+248	Here, take a look.
+249	What's that dirty-looking staff?
+250	...Tiltyu, you'll be struck by divine punishment for saying such things.
+251	This staff can bring the dead back to life.
+252	Only I, a descendant of the saint Baldr, can use it.
+253	Huh, really? Then can that grandma I liked come back to life too?
+254	Unfortunately, it's not that simple. There are various restrictions, so it's not something that works for just anyone.
+255	Humans each have something called life-force, which they're born with...
+256	Ehh... Father's talk is too hard, it's making me yawn.
+257	Anyway, who cares about that, let's hurry and run.
+258	Yes, you're right, let's flee.
+259	Quan... there's something I need to apologize to you for...
+260	Huh? What's wrong, Ethlyn, making such a serious face?
+261	This...
+262	Hm...!? Th-this is the Gae Bolg lance, isn't it! How do you have this...
+263	I was entrusted with it by Father. If the fighting ever got intense, I was to hand it to you.
+264	I see, having this lance would be a great help. But why have you kept silent about it until now?
+265	Because I heard the legend of this lance from Father... I'm sorry...
+266	...A sad tale about Gae Bolg, is it... but I don't believe in it. That's just a legend, nothing more.
+267	But...
+268	Ethlyn, trust me. Victory is near. And then let's go home to Leonster together.
+269	I can't leave little Altena alone forever, after all.
+270	Yes... but Quan... no matter what happens, we'll stay together, won't we...
+271	Are you thinking about Deirdre... don't worry, she'll be found soon, I'm sure.
+272	Yeah... I want to believe that too, but... still...
+273	Ethlyn? Are you crying? Do you have a bad feeling about something?
+274	It feels like the two of them might never meet again...
+275	They loved each other so much, so why... Quan...
+276	Ethlyn...
+277	Are you all right, Brigid?
+278	Who are you? How do you know my name?
+279	I heard it from the villagers—they say the woman boss of the Augerhill pirates protected the powerless.
+280	That must be you.
+281	I see... so you're Sigurd of Grannvale... well then, there's nothing for it. If you're going to kill me, go ahead.
+282	Hahaha, seems you've got the wrong idea. I've come to invite you.
+283	What do you say, won't you come with us? I want to borrow your strength.
+284	You want to invite someone like me?
+285	That's right, I want you.
+286	Lord Sigurd... you're an odd one...
+287	[Only if neither Mideel nor Brigid has a sweetheart]
+288	Lady Edain...?
+289	Hm? Who are you? I don't know you at all.
+290	So you're not Lady Edain after all... but how could this be...
+291	What a strange one. What's he muttering about...
+292	What's your name...
+293	Brigid, that's my name...
+294	Brigid... what a beautiful person...
+295	Wh-what did you say! Are you mocking me!?
+296	To think there was someone more beautiful than her... unbelievable...
+297	I... I'm leaving now...
+298	You are... after all, Big Sister! Brigid, it's me, your little sister Edain!
+299	Please, try to remember.
+300	How do you know my name... and besides, your face looks just like mine.
+301	......Edain... I feel like I have heard that before...
+302	I am your twin sister. Big Sister, you were taken away by pirates at the age of five.
+303	I've been searching for you this whole time.
+304	But I can't believe it so suddenly. Do you have any proof?
+305	Then please, try drawing this bow.
+306	Hm? It's quite a fine bow, but what of it?
+307	I just draw it...? Wh-what is this... what's happening...
+308	! ...Some strange power is filling up inside me... my memories... are coming back...
+309	Ahh... my chest feels hot... Edain, you are Edain... my little sister...
+310	I'm so glad... you remember now. That bow has been passed down in our family—the god-bow Yewfelle.
+311	It's said that only a direct descendant can wield a divine weapon.
+312	In our family, that's only you, Big Sister Brigid. That's the best proof there could be.
+313	Edain... ahh... let me get a good look at your face... is Father well?
+314	What about my brother... Andrey...
+315	I have so much to tell you too, Big Sister...
+316	Lord Sigurd! I've finally met you!
+317	Father Claude! You're safe!! I was so worried when I heard the pirates had attacked you.
+318	Yes, thanks to Tiltyu, I somehow managed to get through it.
+319	More importantly, Lord Sigurd, the prayer at Baldr succeeded.
+320	You learned the truth!?
+321	Yes, it was indeed Lord Reptor's plot after all. He used Langobalt to kill Prince Kurth
+322	and pinned the crime on your father, Lord Byron.
+323	So it really was that, after all!
+324	Yes, and it was also Lord Reptor's doing that killed King Mannanan of Isaach.
+325	Fearing he'd lose his pretext for conquering Isaach, he secretly killed King Mannanan.
+326	So that's how it was... so everything was Reptor's doing after all...
+327	No, it's not just his ambition alone. Something truly terrifying seems to be lurking behind it.
+328	There exists some wicked consciousness so great that even the god Baldr cannot see through it...
+329	A wicked consciousness... could it be the Dark Church... Father Claude, then what about my father!?
+330	It seems he hasn't passed away, but the thread of his life could snap at any moment...
+331	Father... no, it can't be...
+332	I'll hurry back to the capital and report the truth to His Majesty.
+333	Lord Sigurd, please wait here. You mustn't act rashly.
+334	Yes, I understand.
+335	Father Claude, please, I beg you—please clear my father's disgraced name somehow.
+336	Yes, everything is as God wills it...
+337	Another war has started, how awful.
+338	Agustria and Grannvale mean nothing to the likes of us.
+339	If they're going to fight a war, I wish they'd do it somewhere else.
+340	Oh! So this is the Tower of Baldr. Heh heh, my thieving spirit is tingling. I wonder if there's anything good...
+341	Hmm, there's nothing here at all... what about over there...
+342	...No good, there's nothing... who are you...
+343	Eh...!? What business do you have at the Tower of Baldr...
+344	I'll pretend I didn't hear that... I will not forgive those who defile this holy ground. Leave......!
+345	Yikes!! Please forgive me!
+346	Whew, that scared me... huh? There's a sword lying around in a place like this.
+347	Hmm, let me take a quick look around... I'll just take this.
+348	What do I care if it's the Grannvale army! I'll have you enjoy the terror of the Augerhill pirates to the fullest!
+349	Damn it... there's no way the Augerhill pirates could lose...
+350	Damn it, every single one of you is useless!
+351	Dammit......
+352	The pirates' castle has been subdued.
+353	Oifey, tell the whole army to gather. I'm worried whether everyone's safe.
+354	Yes, Lord Sigurd.
+355	Now then, I declare to the whole army: seize the traitor Sigurd and his band!
+356	They conspired with Byron to kill Prince Kurth, and tried to make the kingdom their own.
+357	This is His Majesty's order! Show no mercy to those who defy the nation!!
+358	Kukuku, even Langobalt is being quite shameless...
+359	Even while hurting Byron, who resisted after killing the prince with his own hands,
+360	to think he can say such things... but that Arvis, taking advantage of His Majesty's deep trust in him,
+361	spun a fine story, didn't he. In the first place, if we're talking about who planned all this, it was him,
+362	and yet he's pinning the blame entirely on House Sylvail.
+363	Heh heh, well, it's fine. As long as we can each become king of a country as promised, that's good enough.
+364	Troublesome people must be made to disappear...
+365	What's this! I'm the traitor...?
+366	You mean to say a great army has come from Grannvale to capture me!?
+367	Lord Sigurd...... just as the fighting finally ended, right when we were about to go search for Lady Deirdre...
+368	Ugh... has His Majesty really believed Reptor and the others' words?
+369	Did he really believe that my father killed Prince Kurth?
+370	Ahh, if only I'd waited at least until Father Claude returned.
+371	Just what have I been fighting for, to the point of letting Eldigan die!
+372	Lord Sigurd......
+373	Lord Sigurd, I am a knight of Silesse, Mahnya.
+374	By order of Queen Lahna, I have come to escort you.
+375	Please, withdraw to Silesse for now. Please wait in Silesse until the time comes to restore your honor.
+376	...Silesse's Queen Lahna?
+377	Betrayed by my own homeland, and now Silesse would save me?
+378	Lord Sigurd, there's no time. Grannvale's pursuit will begin before long.
+379	The Pegasus Knights will cross the sea and escort you all the way to Silesse.
