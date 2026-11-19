@@ -202,7 +202,7 @@
 202	(Levin (Strategist)): and in a way utterly unbecoming of a knight, too. Don't let your guard down — he's surely scheming something...
 203	(Travant): Hehehe... so Bloom is dead. That sweeps away the Empire's power here entirely.
 204	(Travant): Alright, now's our chance. First, we'll take Manster.
-205	(Travant): Altena, go with Corple and take Manster.
+205	(Travant): Altena, go with Coulter and take Manster.
 206	(Travant): If anyone resists, show no mercy even to civilians — kill them all!
 207	(Altena): Please wait, father! If the enemy is the Empire, I'll fight gladly, but killing powerless civilians is meaningless.
 208	(Altena): We ought to be able to cooperate with the Liberation Army — why must we fight them!
@@ -228,15 +228,15 @@
 228	(Sety): I was prepared for this from the start. But don't worry — I won't go down so easily.
 229	(Sety): Now, there's no time left. Please, go quickly!
 230	(Villager (woman)): Lady Sety...
-231	(Corple): Lady Altena, what's wrong? Manster Castle is right before us — let's begin the attack at once.
-232	(Altena): Wait, Corple... our opponents are just civilians. There's no need to kill them.
+231	(Coulter): Lady Altena, what's wrong? Manster Castle is right before us — let's begin the attack at once.
+232	(Altena): Wait, Coulter... our opponents are just civilians. There's no need to kill them.
 233	(Altena): I'll talk to them, try to get them to surrender. Wait a little.
-234	(Corple): That won't do. I've been firmly instructed by the king.
-235	(Corple): No matter what you say, Lady Altena, we're not to loosen our attack.
+234	(Coulter): That won't do. I've been firmly instructed by the king.
+235	(Coulter): No matter what you say, Lady Altena, we're not to loosen our attack.
 236	(Altena): I am the commander here. Are you saying you won't heed my orders!
-237	(Corple): This is my unit. If you don't like it, Lady Altena, you may stay here and watch.
-238	(Corple): We'll go on without you. All troops, charge! We'll kill every last one of them!
-239	(Altena): W-, wait! Corple!!
+237	(Coulter): This is my unit. If you don't like it, Lady Altena, you may stay here and watch.
+238	(Coulter): We'll go on without you. All troops, charge! We'll kill every last one of them!
+239	(Altena): W-, wait! Coulter!!
 240	(Celice): Brave Sety, thank you for helping the townspeople.
 241	(Sety): Lord Celice... I have been waiting. Waiting for this moment to come, all this time.
 242	(Sety): Lord Celice, please save the world. So many people are in the depths of despair.
@@ -343,8 +343,8 @@
 343	(Villager (woman)): Ahh, warrior... thank you so much!
 344	(Villager (woman)): Please, I beg you — help Lady Sety.
 345	(Villager (woman)): Thracia's dragon knights are attacking — please, be careful...
-346	(Corple): Hehehe... sorry, but you'll have to die.
-347	(Corple): Glory to Thracia! ...guh...
+346	(Coulter): Hehehe... sorry, but you'll have to die.
+347	(Coulter): Glory to Thracia! ...guh...
 348	(Mycoff): This land is ours. I won't let the likes of you take it from us.
 349	(Mycoff): Hooray for Thracia! ...guh...
 350	(Celice): Levin, the Thracian army is completely different from every enemy we've faced so far.
