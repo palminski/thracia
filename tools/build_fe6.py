@@ -356,7 +356,10 @@ def main():
             '<span class="orig"><span lang="ja">ファイアーエムブレム　封印の剣</span></span></h1>'
             '<p class="lead">Every chapter\'s dialogue in the original Japanese. '
             'Hand-written study notes and English translations are in progress, chapter by chapter.</p>'
-            f'<ol class="chapters">{toc_rows}</ol>')
+            f'<ol class="chapters">{toc_rows}</ol>'
+            '<h2 class="idx">Support Conversations</h2>'
+            '<p class="lead">All 54 character support conversations '
+            '<span lang="ja">（支援会話）</span> — coming soon.</p>')
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL),
         encoding="utf-8")
