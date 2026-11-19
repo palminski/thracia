@@ -1880,3 +1880,300 @@
 急|きゅう|sudden
 申す|もうす|to say (humble)
 天馬|てんま|pegasus, winged horse
+アイテム|あいてむ|item
+あこがれる|あこがれる|to admire, long for
+あせる|あせる|to be impatient, panic
+いいかげん|いいかげん|(get) fed up, irresponsible
+いくらでも|いくらでも|as much as one likes
+いまわしい|いまわしい|detestable, taboo
+イヤになる|いやになる|to get sick of
+うそ|うそ|lie
+うらむ|うらむ|to resent, hold a grudge against
+おかしい|おかしい|strange, funny
+おじ上|おじうえ#2|(honorific address) uncle
+おそるるにたらず|おそるるにたらず|nothing to be afraid of
+おだやか|おだやか|calm, gentle
+おどろく|おどろく|to be surprised
+おもうつぼ|おもうつぼ|exactly as one hoped/planned
+おろかもの|おろかもの|fool
+おわびする|おわびする|to apologize
+お姉さま|おねえさま#2|(honorific) big sister
+お慕いする|おしたいする|to adore, long for (humble)
+お礼|おれい|thanks, gift of thanks
+カギ|かぎ|key
+かたき|かたき|revenge, enemy
+かならず|かならず|certainly, without fail
+かわいそう|かわいそう|pitiful
+がんばる|がんばる|to do one's best, persevere
+きざし|きざし|signs, omens
+きさま|きさま#2|you (derogatory)
+けちらす|けちらす|to scatter, rout
+こうなること|こうなること|this happening, this outcome
+こそ|こそ|(emphatic particle)
+こんどの仕事|こんどのしごと|this time's job
+こんな時間|こんなじかん|this time of day/night
+こんにちは|こんにちは|hello
+ご時世|ごじせい|the times, the age
+さからう|さからう|to defy, go against
+ザコ|ざこ|small fry
+させる|させる|to make/let (someone do)
+さみしい|さみしい|lonely
+したためる|したためる|to write, compose
+しるし|しるし|a mark, sign
+すばらしい|すばらしい|wonderful
+そんなバカな|そんなばかな|that's absurd
+ただちに|ただちに|immediately
+たっぷりと|たっぷりと|plenty, thoroughly
+たてこもる|たてこもる|to barricade oneself in, entrench
+たむろする|たむろする|to loiter, hang around
+ダンサー|だんさー|dancer
+とき|とき|time, moment
+ドキドキする|どきどきする|to pound, throb (heart)
+トップ|とっぷ|the top, number one
+とりあえず|とりあえず|for now, first of all
+トンボとり|とんぼとり|catching dragonflies
+なかなか|なかなか|quite, considerably
+なさる|なさる|to do (honorific)
+にわかに|にわかに|suddenly
+ねらう|ねらう|to target, aim at
+バカ|ばか|fool
+はずだ|はずだ|should be the case
+はね橋|はねばし|drawbridge
+はやく|はやく|quickly
+はらす|はらす|to clear (a name), dispel
+ひどい目|ひどいめ|a terrible experience
+ひと事|ひとごと|someone else's affair, not one's own concern
+ふざける|ふざける|to joke around, mess around
+ぶざま|ぶざま|unsightly, clumsy
+ふさわしい|ふさわしい|fitting, suitable
+べつに|べつに|not particularly
+ヘドが出る|へどがでる|to be disgusted, sickened
+まわり|まわり|surroundings, vicinity
+みごと|みごと|splendid, magnificent
+ムチ|むち|whip
+ムチャ|むちゃ|recklessness
+ローブ|ろーぶ|robe
+一年前|いちねんまえ|a year ago
+一目見る|いちもくみる|to take one glance
+上げる|あげる|to raise
+上品|じょうひん|elegant, refined
+下着|したぎ|underwear
+不服|ふふく|dissatisfaction, objection
+不自由|ふじゆう|inconvenience, hardship
+世継ぎ|よつぎ|heir
+世話になる|せわになる|to be taken care of
+世話をかける|せわをかける|to cause (someone) trouble
+中立|ちゅうりつ|neutrality
+人たち|ひとたち#2|people
+人質|ひとじち|hostage
+今まさに|いままさに|right now, at this very moment
+仕込む|しこむ|to train, teach
+代わり|かわり|in place of, instead
+仰せ|おおせ|a command, what is said (honorific)
+会いたい|あいたい|want to meet
+似合い|にあい|a good match, well-suited
+使える|つかえる#2|usable
+例外|れいがい|exception
+修行を積む|しゅぎょうをつむ|to accumulate training
+優劣|ゆうれつ|superiority and inferiority
+元気が出る|げんきがでる|to be cheered up
+元気で|げんきで|take care, stay well
+先手を打つ|せんてをうつ|to preempt, get a head start
+公|こう|duke, lord
+公女様|こうじょさま|(honorific) duke's daughter
+兵を進める|へいをすすめる|to advance troops
+分かる|わかる#2|to understand
+到着する|とうちゃくする|to arrive
+力ずく|りきずく|by force
+力になる|ちからになる|to be of help
+助かる|たすかる|to be saved, helped
+勇猛|ゆうもう|valiant, brave
+北辺|ほくへん|northern border region
+厚意|こうい|kindness, goodwill
+叩く|たたく|to strike, hit
+同族同士|どうぞくどうし|among the same clan/bloodline
+呼び戻す|よびもどす|to call back
+呼応する|こおうする|to respond in kind, echo
+器用|きよう|skillful, deft
+四天馬騎士|してんまきし|the Four Pegasus Knights
+圧政者|あっせいしゃ|tyrant, oppressor
+夜|よる|night
+大きなこと|おおきなこと|a big thing, boast
+大さわぎ|おおさわぎ|a big uproar
+大事なこと|だいじなこと|an important thing
+大人|おとな|adult
+天馬騎士|てんまきし|Pegasus Knight
+天馬騎士団|てんまきしだん|order of Pegasus Knights
+夫|おっと|husband
+失意|しつい|despair, disappointment
+失礼する|しつれいする|to be rude, excuse oneself
+好きに|すきに|as one likes
+姉様|ねえさま|(honorific address) big sister
+委ねる|ゆだねる|to entrust
+孤児|こじ|orphan
+守りにつく|もりにつく|to take up defensive position
+完全|かんぜん|complete, perfect
+密約|みつやく|secret pact
+寒い|さむい|cold
+対して|たいして|toward, in regard to
+対抗する|たいこうする|to oppose, rival
+対立|たいりつ|conflict, opposition
+導く|みちびく|to guide, lead
+小さいとき|ちいさいとき|when little, as a child
+小さな|ちいさな|small
+山賊|さんぞく|mountain bandit
+差し出す|さしだす|to hand over, offer
+市民達|しみんたち|citizens
+帰国する|きこくする|to return to one's country
+年下|としした|younger
+幼児期|ようじき|early childhood
+庶民|しょみん|common people
+建国以来|けんこくいらい|since the founding of the nation
+弓騎士団|きゅうきしだん|order of archer-knights
+引きつける|ひきつける|to draw in, attract
+強すぎる|つよすぎる|too strong
+当然|とうぜん|naturally, of course
+心から|こころから|from the heart
+心休まる|こころやすまる|to feel at ease
+心安らか|こころやすらか|peaceful heart
+心得る|こころえる|to understand, bear in mind
+忠誠を誓う|ちゅうせいをちかう|to swear loyalty
+思いもよらない|おもいもよらない|unexpected, unimaginable
+恋仲|こいなか|in a romantic relationship
+悔やまれる|くやまれる|to be regretted
+悪党|あくとう|scoundrel, villain
+想う|おもう#2|to think of, long for
+愛情|あいじょう|love, affection
+慣れる|なれる|to get used to
+憎しみ|にくしみ|hatred
+我|われ|I, oneself
+戦乱|せんらん|war, strife
+戦死する|せんしする|to die in battle
+戦火|せんか|the flames of war
+手みやげ|てみやげ|a small gift
+手勢|てぜい|one's own troops
+押さえる|おさえる|to hold down, suppress
+指示|しじ|instruction
+挙式|きょしき|wedding ceremony
+捨てゴマ|すてごま|a sacrificial pawn
+探し続ける|さがしつづける|to keep searching
+握りつぶす|にぎりつぶす|to crush, suppress (information)
+援護する|えんごする|to support, back up
+数年前|すうねんまえ|a few years ago
+整う|ととのう|to be ready, prepared
+斧戦士|おのせんし|axe fighter
+方向|ほうこう|direction
+日々|ひび|days
+暖かい|あたたかい|warm
+暖かさ|あたたかさ|warmth
+有利|ゆうり|advantageous
+未だに|いまだに#2|even now, still
+本性|ほんしょう|true nature
+楽しい|たのしい|fun, enjoyable
+楽しい事|たのしいこと|something fun
+楽しむ|たのしむ|to enjoy
+止まる|とまる|to stop
+歴戦|れきせん|battle-hardened, veteran
+殺人者|さつじんしゃ|murderer
+母|はは|mother
+毎日|まいにち|every day
+気を使う|きをつかう|to be considerate, be careful
+気品|きひん|elegance, grace
+決着をつける|けっちゃくをつける|to settle, bring to a conclusion
+河|かわ|river
+泣きむし|なきむし|crybaby
+流れ|ながれ|flow, current
+消えた|きえた|disappeared
+濃い|こい|thick, strong
+火神|かしん|fire god
+炎|ほのお|flame
+無事に|むじに|safely
+無実|むじつ|innocence
+無理する|むりする|to overdo, push oneself too hard
+独立国|どくりつこく|independent nation
+王座|おうざ|the throne
+王弟|おうてい|the king's younger brother
+王族達|おうぞくたち|members of the royal family
+現す|あらわす|to reveal, show
+現れる|あらわれる|to appear
+申し子|もうしご|a child of, chosen one
+留まる|とまる#2|to stay, remain
+発見する|はっけんする|to discover
+百年間|ひゃくねんかん|a hundred years
+皆殺し|みなごろし|massacre, killing everyone
+盛大|せいだい|grand, large-scale
+相手かまわず|あいてかまわず|regardless of who the opponent is
+着せる|きせる|to put clothes on, place (blame) on
+禁じる|きんじる|to forbid
+私としたこと|わたしとしたこと|of all the foolish things, for me (to do this)
+私とて|わたしとて|even I
+笑わせる|わらわせる|to make laugh
+管理する|かんりする|to manage, administer
+継承|けいしょう|succession, inheritance
+総力戦|そうりょくせん|all-out war
+聖神|せいしん|holy god
+育つ|そだつ|to grow up
+能力|のうりょく|ability
+腹ごなし|はらごなし|working off a meal, light exercise
+荷担する|かたんする|to side with, be complicit
+衣装|いしょう|costume, outfit
+見定める|みさだめる|to ascertain, see clearly
+親方|おやかた|master, boss
+言いにくい|いいにくい|hard to say
+計画通り|けいかくどおり|as planned
+討つ|うつ|to strike down, avenge
+討って出る|うってでる|to sortie, sally forth
+討伐する|とうばつする|to subjugate
+許す気になる|ゆるすきになる|to feel inclined to forgive
+話し込む|はなしこむ|to get deep into conversation
+認める|みとめる|to acknowledge, approve
+貴様ら|きさまら|you all (derogatory)
+跡目|あとめ|heir, successor
+跳ね橋|はねばし|drawbridge
+踊る|おどる|to dance
+踊るの|おどるの|dancing
+身代わり|みがわり|a substitute, scapegoat
+辛い|つらい#2|painful, hard
+近々|ちかぢか|soon, before long
+近づける|ちかづける|to let approach
+返事|へんじ|reply
+迫る|せまる|to draw near, close in on
+送り|おくり|sending
+逃げ出す|にげだす|to run away, flee
+逃亡兵|とうぼうへい|deserter
+逆賊|ぎゃくぞく|rebel, traitor
+通る|とおる|to pass through
+進撃|しんげき|advance (noun)
+遅れる|おくれる|to be late
+違い|ちがい|difference
+遠い|とおい|far
+遠く|とおく|far away
+遠征する|えんせいする|to go on a military campaign
+遠慮なし|えんりょなし|without hesitation
+間違いない|まちがいない|certain, without doubt
+陥れる|おとしいれる|to trap, frame
+隊|たい|unit, corps
+集まり|あつまり|a gathering
+集め出す|あつめだす|to start gathering
+集団|しゅうだん|group
+雷|かみなり|thunder, lightning
+雷神|らいじん|thunder god
+頼りない|たよりない|unreliable
+風|かぜ|wind
+風使い|かぜつかい|wind-user
+高い|たかい|high
+魔道書|まどうしょ|magic tome
+めぐる|めぐる|to concern, revolve around
+やむなく|やむなく|unavoidably, reluctantly
+めでたい事|めでたいこと|happy news, auspicious event
+ほしがる|ほしがる|to want, desire
+ゆるめる|ゆるめる|to loosen, relax
+ゆめ|ゆめ|dream
+まぶしい|まぶしい|dazzling
+ほんとに|ほんとに|really (colloquial)
+もしかして|もしかして|perhaps, by chance
+もう一回|もういっかい|one more time
+いいところ|いいところ|a good moment, good place
+ほめ言葉|ほめことば|a compliment
+敗残兵がり|はいざんへいがり|rounding up defeated/routed soldiers
+いずれも|いずれも|either, neither, any of them

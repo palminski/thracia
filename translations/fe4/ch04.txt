@@ -1,0 +1,419 @@
+1	Through an unforeseen turn of events, Sigurd, branded a traitor by the very homeland he loved,
+2	fled in despair to the independent northern nation of Silesse.
+3	The kingdom of Silesse, founded by the Wind Crusader Sety,
+4	had been protected by its valiant Pegasus Knights and wind mages, and for the hundred years since its founding,
+5	had never been invaded by another nation, maintaining complete neutrality.
+6	But when the king died a few years ago, conflict arose within the royal family over the succession,
+7	and even this once-peaceful nation now showed sudden signs of war.
+8	The late king had a son, Prince Levin, by Queen Lahna,
+9	but the ambitious younger brother, Duke Dakar, objecting to Levin's succession to the throne,
+10	entrenched himself in Saxony Castle, and as if in answer to that,
+11	the youngest brother, Duke Maios, also began gathering troops at Tove Castle.
+12	In the midst of this situation, Prince Levin had no choice but to leave the country,
+13	but the royal family's ambitions knew no bounds, and Silesse's beautiful land
+14	was now on the verge of being consumed by the flames of war.
+15	Lord Sigurd, Lady Lahna has come to see you.
+16	Lady Lahna has?
+17	Lord Sigurd, how is life at Seiren Castle? Have you grown used to it yet?
+18	Yes, thank you. I'm truly grateful for Lady Lahna's kindness.
+19	In such a small castle, you must be inconvenienced in various ways, but please bear with it a little longer.
+20	I've written letters many times, stating that you are innocent, and sent them off,
+21	but there's still no reply from King Azmur.
+22	That's... probably because Chancellor Reptor is intercepting them. The one who framed my father was likely him too...
+23	Lord Sigurd... I understand how you feel, but you mustn't be impatient.
+24	And you mustn't resent people either. Nothing good comes from hatred. I'll surely find a way.
+25	Please wait just a little longer.
+26	Thank you. I really don't know how to thank you enough, Lady Lahna...
+27	Please don't worry about that. Oh, and that reminds me, Lord Sigurd,
+28	I hear there was happy news in Grannvale.
+29	Happy news?
+30	Yes, it seems the late Prince Kurth had a daughter. The whole country's abuzz over her discovery.
+31	What!? Is that really true!?
+32	King Azmur met her himself, and apparently knew at a single glance.
+33	Of course, there's also the mark of Naga—there's no mistaking she's a direct descendant of the royal house of Belhalla.
+34	I see... that's wonderful. So the royal bloodline won't die out after all.
+35	And you know, apparently the princess is in love with Lord Arvis.
+36	The king has approved, and they're said to be holding a grand wedding ceremony soon.
+37	With Lord Arvis?
+38	From what those who've seen her say, she's a very beautiful princess, and she and Lord Arvis make a wonderful couple,
+39	and I hear both of them looked very happy.
+40	Heh heh, young people these days. Lord Sigurd, you too... oh... I'm sorry... your own wife...
+41	My wife... Deirdre is still missing...
+42	It's been over a year now, and Celice has grown up so much, but I still haven't been able to find her.
+43	Lord Sigurd, please don't lose heart. I'm sure she'll be found, so...
+44	Yes, I believe that too. I have this feeling that I'll surely be reunited with Deirdre someday.
+45	Lady Lahna, it'll be nightfall soon. We should be heading back.
+46	Oh, that's right, it's already this late. Lord Sigurd, just one last word.
+47	Please be careful of Duke Maios at Tove Castle. He's wanted this castle for a long time.
+48	So he might attack at any moment. If it comes to a battle, we really should support you, but...
+49	Silesse is being targeted by Duke Dakar of Saxony. You mustn't let your defenses down.
+50	Sending troops to help us is exactly what Duke Dakar would want.
+51	Please don't worry about us. I'll crush the Tove army with just my own men, you'll see.
+52	I see. You and your men are seasoned warriors, aren't you.
+53	Ah, I've been talking far too long. Well then, Lord Sigurd, please take care.
+54	Lady Lahna, it's you who should take care.
+55	Good, preparations are complete. As planned, attack Seiren Castle.
+56	Show those traitors the terror of us wind-users!
+57	What? Maios of Tove has finally moved his troops!
+58	Fufufu... this is getting interesting. Isn't it so, Pamela?
+59	Indeed. Lord Sigurd's army may be a gathering of deserters, but they possess formidable strength.
+60	If Duke Maios can draw them in, our conquest of Silesse should be easy.
+61	Mm, we already have a secret pact with Grannvale as well.
+62	Prince Andrei's reinforcements should arrive before long too.
+63	Fufufu... Pamela, the day I become King of Silesse isn't far off now.
+64	As you say...
+65	[Only if Edain and Azel are a couple]
+66	Azel, take care of yourself.
+67	Yeah, you too, Edain.
+68	But, somehow it's strange... I never imagined things would turn out like this with you.
+69	Is it because I'm younger than you?
+70	No, that's not it, but...
+71	Even I can't believe it myself.
+72	That Edain became my wife—it feels like I'm dreaming somehow.
+73	Huh, why? Is it strange, you and me?
+74	You were too dazzling for me...
+75	The first time I saw you, I was still a kid, but my heart pounded and wouldn't stop.
+76	From that day on, I kept thinking only of you...
+77	Heh heh, oh, Azel.
+78	I feel kind of embarrassed... oh, that's right, here, take this.
+79	This is called the Rescue Staff—it can call someone far away back to your side.
+80	I think you'd be able to use it.
+81	Azel, I'm happy. You're the kindest person, anyone, to me... you're my treasure...
+82	[Only if Edain and Mideel are a couple]
+83	Mideel, take this bow with you.
+84	Isn't this the Hero's Bow? Is it really all right for me to have it?
+85	Yes, I bought it for you. The Pegasus Knights of Silesse are a terrifying enemy.
+86	With this bow, I'm sure it'll protect you.
+87	Lady Edain, I feel as if I'm still dreaming.
+88	Because I've dreamed of this happening for so long.
+89	I've been dreaming the same dream too. To tell the truth I was lonely—I was waiting for you all this time...
+90	Mideel, come back safe no matter what, and then, call me Edain, I'm praying for you.
+91	[Only if Edain and Jamka are a couple]
+92	Jamka, please use this bow.
+93	This is the Hero's Bow, isn't it. Is it really all right for me to have it?
+94	I want you to have it with you.
+95	The Pegasus Knights of Silesse are a terrifying enemy, but this bow should protect you.
+96	Thank you, Edain. I'll treasure this bow, thinking of it as you. Once the fighting's over, let's meet slowly.
+97	Jamka...... I'm praying for your safety.
+98	Father Claude, I'm sorry, dragging even you into this.
+99	No, it is I who feel sorry for not being able to help you.
+100	I intended to return to Grannvale and tell His Majesty the truth,
+101	but Reptor and his men beat me to it. Now I too am one of the traitors.
+102	I can no longer bear Reptor and his men's way of doing things.
+103	At this point, I intend to go to Grannvale even by force, and clear my name.
+104	No, war is not a good thing. It's the powerless commoners who suffer. Lord Sigurd, you must be patient.
+105	But, Father Claude!
+106	I understand how you feel, but the door of destiny has already been opened.
+107	There's nothing more we can do about it with our own strength now.
+108	[Only if neither Tiltyu nor Azel has a sweetheart]
+109	Azel, wait up.
+110	Tiltyu, is it. What's wrong?
+111	There's something I'd like you to listen to.
+112	Huh? To me?
+113	Yeah, is that all right? We've known each other since we were little, after all.
+114	There's no one else I can talk about things like this with.
+115	Sounds kind of serious. All right, if it's something I can help with, tell me.
+116	Yeah... you see, I,
+117	I came along with Father Claude without thinking about anything, but I wonder if that was really the right thing to do...
+118	Why would you think something like that?
+119	Because everyone's being considerate toward me, that's why.
+120	In front of me, nobody talks about Father...
+121	I see... that's why you're lonely. But, you know, everyone likes you.
+122	It's just that they're troubled because they don't know how to treat you, I think.
+123	Well, you'll get used to it eventually. Don't worry.
+124	Yeah... you're right... thank you, Azel, I somehow feel cheered up.
+125	Hahaha, Tiltyu's energy is second to none.
+126	Whenever you're lonely, I'll always be there for you, so just say so without holding back.
+127	Yeah... thanks.
+128	[Only if Silvia, Fury, and Levin all have no sweetheart]
+129	Hey, Fury, could it be... do you like Levin?
+130	What!? ...I'm... that's not... it's just that Prince Levin is important to Silesse, so...
+131	Oh, I see, so it's fine for me and Levin to go out, then?
+132	Wh-why, I don't particularly mind...
+133	Really~? You're not forcing yourself, are you?
+134	I-I'm not forcing myself at all. Why would I have to force myself?
+135	Suuure~, well, if that's the case, I'll just take him for myself, Levin, I mean...
+136	Ah... but you know, someone who's to become the queen of Silesse should have Lady Lahna's kind of elegance...
+137	Are you saying I'm no good!? That's so rude!
+138	Eh... that's not...
+139	Hmph, fine! I won't lose, you know!
+140	...............
+141	Magic has its strengths and weaknesses too, same as weapons. Fire is strong against wind, wind against lightning, lightning against fire.
+142	But light and dark have the advantage over all of them. Think carefully as you fight.
+143	The blood of the gods carries all sorts of power.
+144	It lets you use higher-level items, and your abilities as a warrior improve faster too.
+145	Of course, only a limited few still carry on that bloodline, though.
+146	Only direct descendants can fully inherit the power of the gods.
+147	That's why only direct descendants can use the god-given items known as holy relics.
+148	But, if blood from the same bloodline were to mix, the blood would thicken, and one could even gain the power of the gods.
+149	But that, you see, is forbidden as a taboo thing...
+150	The power of the Silesse royal family is wind, bestowed by the wind god Forseti.
+151	The power of House Vertomer is fire, bestowed by the fire god Fala.
+152	The power of House Freege is lightning, bestowed by the thunder god Thor.
+153	The power of the dark god Loptous is darkness—the only thing that can oppose it is the holy power of the holy god Naga.
+154	And the only ones who carry on Naga's power are Grannvale's royal house of Heim.
+155	[If visited with Silvia]
+156	Oh! Lord Sigurd's army has come to help us! Hm? You're a dancer?
+157	If you don't mind, won't you dance for us, please,
+158	in times like these there's nothing fun to enjoy every day.
+159	Sure, I don't mind! If my dancing can cheer you all up, I'll dance as much as you like!
+160	...All right, here I go!!
+161	There!
+162	Hyah!
+163	Yah!
+164	Phew~, how was it? Did it cheer you up a little?
+165	Ohh! What a wonderful dance! Somehow I feel like giving it one more try now!
+166	Thank you. It's not much of a thank-you, but let me give you this magic sword. I'm sure it'll protect you.
+167	[If visited with any other unit]
+168	It's said that those of direct crusader descent develop a holy mark somewhere on their body during childhood.
+169	Prince Kurth's princess too, by a mark on her forehead,
+170	was confirmed to be a direct descendant of the saint Heim, they say.
+171	If Prince Kurth's princess has a child, that child will be the heir to the Grannvale royal house.
+172	Lord Arvis's power, as the one who'll become the princess's husband, will only grow greater.
+173	[If the drawbridge hasn't been raised yet]
+174	The bridge over the Tove river is a drawbridge managed by the lord, Lord Maios.
+175	If it's raised, you can't cross without the key.
+176	But, a skilled person, like a thief, might be able to pick the lock.
+177	[If the drawbridge has already been raised]
+178	The bridge over the Tove river is a drawbridge managed by the lord, Lord Maios.
+179	If it's raised, you can't cross without the key.
+180	But, a skilled person, like a thief, might be able to pick the lock.
+181	...What, the bridge is already down? How did you know that?
+182	Ugh... this shouldn't be happening...
+183	Dietvar, I leave the rest to you...
+184	[If fought against Fury]
+185	Fufufu, Fury, is it. What good timing to run into you here.
+186	I'll take that head of yours as a gift for Lord Maios.
+187	That won't happen, Dietvar. I'm not the Fury from back then anymore. I won't lose to you either!
+188	Heh, that crybaby Fury, talking big! Don't make me laugh!!
+189	[If fought against any other unit]
+190	I am Dietvar, one of the Four Pegasus Knights of Silesse.
+191	I feel for you, but you'll have to die!
+192	Ugh... of all people, me...
+193	What, the traitors from Seiren are closing in on Tove here!? Hey, go raise the drawbridge at the Tove river!
+194	Fufufu, without this key, they can't cross the bridge. I can just picture their shocked faces now.
+195	What, I've got this key... let's see... there.
+196	[If fought against Levin]
+197	Keh, I wondered who it was—Lahna's foolish son. You, you've come back, have you.
+198	Sorry, Uncle, but you'll have to die. It's also for the sake of protecting Silesse.
+199	[If fought against any other unit]
+200	Traitors! I'll hand that head of yours over to Grannvale!
+201	Ugh... that can't be...
+202	Lord Sigurd, the town's elder says he'd like to meet you.
+203	I see, I wanted to meet him too. Bring him in here.
+204	Lord Sigurd, thank you for bringing down Lord Maios.
+205	The townspeople are all pleased too.
+206	What? Why? I thought I was resented as an invader.
+207	Lord Maios was no lord at all—just a tyrant.
+208	Not a single one of us people of Silesse fails to adore Lady Lahna.
+209	I see, that's how it was... then, elder, I leave this town in your hands.
+210	I imagine Lady Lahna will give instructions eventually,
+211	but until then, please protect this town yourselves.
+212	Understood...
+213	Lord Sigurd, Lady Lahna is Silesse's treasure, one who loves peace. Please protect her with your strength.
+214	Yes, I understand well. With all my strength, I promise to protect Queen Lahna!
+215	So Tove has fallen... heh, my foolish brother. Not knowing he'd become my sacrificial pawn, what a pitiful fellow.
+216	Good, Pamela, now's our chance. Lead the Pegasus Knights and sortie.
+217	Capture Silesse Castle before Sigurd can rush over as reinforcements.
+218	Yes sir, leave it to me!
+219	Lady Lahna, Pamela's unit has left Saxony. They're headed for this castle!
+220	What!? Is that true!? Duke Dakar has finally shown his true colors, hasn't he.
+221	Please rest easy. My unit will hold off Pamela's unit.
+222	Mahnya, will you be all right? I hear Pamela is a fearsome Pegasus Knight.
+223	Yes, she certainly possesses formidable strength.
+224	But I too am one of the Four Pegasus Knights of Silesse. I will never fight a shameful battle.
+225	I'm sorry, Mahnya, knowing your feelings as I do... I...
+226	This is simply the only way of life I know how to live... Lady Lahna, please don't worry about it.
+227	Well then, I'll be off now. Mahnya's unit, sortie!
+228	Oh, it's Lord Andrei! You've finally come.
+229	Ho, truly magnificent as ever... as expected of Jungby's archer-knight corps.
+230	Fufufu... my House Jungby has lost its father too, and my sister has sided with the rebels.
+231	Now it is I who lead the archer-knight corps as head of House Jungby.
+232	As long as I have this Vaegrite, there's nothing to fear from Pegasus Knights. Well, just watch and be at ease.
+233	[If fought against Levin]
+234	Why, Prince Levin, it's been a while.
+235	I've already finished off Mahnya for you, ho ho ho...
+236	Damn you, Pamela!! You, of all people...
+237	Heh, this is all because of you, Lord Levin, isn't it...
+238	[If fought against Fury]
+239	Oh my, it's Fury. So you came back after all.
+240	Pamela!! How dare you hurt my big sister... I won't forgive you!
+241	Hmph, don't get cocky, you little chick!
+242	I'll send you off to join Mahnya too. Prepare yourself!!
+243	[If fought against any other unit]
+244	Heh, small fries, die!
+245	I-impossible...
+246	I'm sorry, you all have done nothing wrong, but...
+247	Ah, Fury...... Lord Levin...
+248	Guhahaha, they fall so entertainingly.
+249	Just like catching dragonflies, isn't it.
+250	Pamela, it's been a while. We trained together as knights once, you and I,
+251	but I never imagined it would come to this, that we'd fight each other.
+252	Mahnya, is it... you fool, forever swearing loyalty to a queen you know is doomed to fall.
+253	I'll be the one to defeat you and take the top spot among the Four Pegasus Knights of Silesse. Don't take it personally.
+254	It's you who's the fool. But, well, if this is fate, it can't be helped.
+255	Understood. Let's fight a battle we need not be ashamed of, as fellow knights of Silesse.
+256	Heh, soft as ever...
+257	What, Mahnya's died in battle!? Ahh, how could this be... Mahnya, I'm sorry, forgive me...
+258	Silesse has fallen, has it. That's the end of our duty then. Let's return home to Grannvale!
+259	Fufufu... Silesse Castle has finally fallen into my hands.
+260	Good, send the wind-users south of the Silesse river to firm up the defenses.
+261	And Donovan, you lead the axe fighters and occupy Silesse.
+262	But don't kill Queen Lahna. That woman's an important hostage.
+263	Right, leave it to me.
+264	Hurry, all of you, you must flee!
+265	But, what about Lady Lahna...
+266	Never mind about me! Now, hurry!!
+267	Everyone! Let's do as Lady Lahna says! Come on, run!
+268	What, the citizens of Silesse have run off!
+269	Damn it, those bastards, making fools of us—you lot, I don't care, go kill every last one of them.
+270	Don't let even one of them escape.
+271	Please wait! Those people are mere civilians.
+272	I don't care what happens to me, but please, spare them at least.
+273	That won't do. I'll teach you well what happens if you defy Lord Dakar.
+274	Ahh...
+275	Fufufu... that Donovan, he's doing quite well.
+276	What a hopeless scoundrel. Watching the way you people operate makes me sick.
+277	You're one to talk—a gang of murderers who'll kill anyone indiscriminately for money.
+278	They weren't wrong to call you Reimia of Hell.
+279	Ho ho ho, well, thanks for the compliment. By the way, what's the job this time?
+280	For now, just defend this castle. Sigurd's men might come attacking.
+281	What, that's all? Aah, how boring.
+282	Hey, everyone, this time it's a mop-up job on routed soldiers. Just hang around the castle as you like!
+283	What, the army from Seiren is headed for this castle? Damn it, those traitors!!
+284	You lot, quit dawdling and get to defending the castle! Don't let them get close!
+285	Hello, Father.
+286	Oh, and you are?
+287	It's me, Silvia!
+288	Miss Silvia? But what happened to you? Were you attacked by bandits or something?
+289	Why do you ask?
+290	Well, it's hard to say, but... you're only in your underwear...
+291	Huh, oh no, Father, don't tell me you've never seen a dancer before?
+292	This is my costume. It's like your robe, Father.
+293	I see, I see... but aren't you cold?
+294	Nope, if anything I'm hot. My heart's burning up.
+295	Is dancing really that much fun?
+296	Yeah! I love to dance!!
+297	I see... what about your parents?
+298	I'm an orphan. When I was little, a guild master picked me up and trained me in dance.
+299	But, that guy was a terrible man—he'd whip me if anything happened.
+300	I finally got sick of it and ran away a year ago.
+301	I see... that's an awful story.
+302	My own little sister, if she were alive, would be about your age, so I can't help but take it to heart.
+303	Father has a little sister?
+304	Yes, she was taken away when she was still a baby.
+305	I kept searching the whole time, but I still haven't found her...
+306	Hmm... if Father's little sister is a princess or something, I bet she's elegant and beautiful, not like me...
+307	No, you are a beautiful person. And you have elegance too. I can tell, you know.
+308	Huh... really... Father...
+309	Yes, I never tell lies.
+310	I'm happy... no one's ever told me something like that before... it feels strange somehow...
+311	Huh, I'm even crying... what's wrong with me...
+312	Oh, you saved me, thank you.
+313	Ahh, you're going to save me, aren't you. Thank you so much.
+314	Heh heh heh... die!
+315	Ugh... you lot, you're too strong...
+316	[If Dakar has not been defeated]
+317	Lady Lahna, are you safe!? I'm sorry the reinforcements were late.
+318	No, Lord Sigurd, thank you so much for coming.
+319	Because I'm so unreliable, so many lives were lost—it pains me endlessly.
+320	Mahnya especially, it's hard for me...
+321	Lady Lahna, please don't lose heart. I will avenge Lady Mahnya.
+322	As for myself, I cannot find it in me to forgive Duke Dakar either.
+323	Please allow me to march on Saxony.
+324	Duke Dakar subjected innocent civilians to such terrible treatment. He's nothing but a murderer.
+325	I think it's only right that he receive punishment.
+326	Understood. I'll head for the conquest of Saxony now. Please wait with a peaceful heart.
+327	It's you who should take care, Lord Sigurd. Don't push yourself too hard. Once the conquest of Saxony ends safely, let's meet again then.
+328	[If Dakar has already been defeated]
+329	Lady Lahna, are you safe!? I'm sorry the reinforcements were late.
+330	No, Lord Sigurd, thank you so much for coming.
+331	Because I'm so unreliable, so many lives were lost—it pains me endlessly.
+332	Mahnya especially, it's hard for me...
+333	Lady Lahna, please don't lose heart. I have avenged Lady Mahnya.
+334	I apologize for advancing troops on my own without your permission.
+335	Don't worry about that at all. I'm truly grateful to you, Lord Sigurd.
+336	I'll come to Saxony Castle later myself. Let's meet again then.
+337	[Only if Dakar has not been defeated]
+338	What, Silesse has been retaken by the traitors from Seiren!?
+339	Donovan, just what on earth was he doing...
+340	[Only if Reimia has not been defeated] Damn it, it can't be helped. Order Reimia to sortie. Don't let them get close to this castle!
+341	[Only if Pamela has not been defeated] Tell Pamela's unit to pursue Sigurd's army too. If it's come to this, there's nothing left but all-out war!
+342	[Only if neither Dakar nor Reimia has been defeated]
+343	That Dakar, what's he panicking about. Everyone, let's go, it's a perfect little warm-up job.
+344	Sigurd, sorry for the trouble.
+345	Levin, is it. Sorry about Mahnya.
+346	I never imagined Jungby's archer-knight corps would be here.
+347	No, I'm the one at fault... I was too soft.
+348	I should have helped my mother and protected the country, but instead I ran away,
+349	and Mahnya ended up dying as if taking my place...
+350	You'd better not blame yourself like that. To make sure Mahnya's death wasn't in vain, cherish Lady Lahna.
+351	Yeah, I know that much, at least.
+352	Then that's fine... oh, and Levin,
+353	you have gone to see Lady Lahna already, haven't you. Don't forget, it's important.
+354	[Only if neither Fury nor Levin has a sweetheart]
+355	Lord Levin...
+356	...Fury... I'm sorry, please forgive me...
+357	Lord Levin has feelings for Lady Mahnya...
+358	Ahh......
+359	Just as I thought... I'm sorry, I didn't know anything...
+360	Fury, that's not it. It's true that when I was young I admired Mahnya.
+361	But now it's different, now it's you...
+362	What!? ...
+363	I like you...
+364	Mother, are you safe? I heard Silesse had fallen and I was worried.
+365	Levin, thank you for coming. It seems you've finally become an adult who can keep a promise.
+366	I suppose that's thanks to Lord Sigurd too.
+367	Oh come on, Mother, that makes it sound like I'm a child.
+368	Lord Sigurd and I aren't even that far apart in age...
+369	The difference between you and Lord Sigurd is as great as that between an adult and a child.
+370	You too should hurry and become as fine as he is, and put my mind at ease.
+371	Mahnya's gone now too, after all...
+372	...Mahnya died as if in my place. This time, at least, I've learned my lesson.
+373	Mother, from now on, I will protect you in Mahnya's place.
+374	I will never again let myself be far from your side.
+375	Levin... to think you'd say something so kind...
+376	But, just hearing those words is enough. From now on, you should keep helping Lord Sigurd.
+377	He needs your strength.
+378	But then, Mother, what about you...
+379	It's all right, Levin.
+380	As a descendant of the Wind Crusader, you must watch over this world and guide it in the right direction.
+381	Now is the time, I think, to entrust you with the holy wind tome, Forseti.
+382	Now, Levin, receive it.
+383	This is... Forseti, passed down in our royal family... ahh, this power... this warmth...
+384	Levin, never forget—the Wind Crusader flows gently, like the wind,
+385	and guides the world toward warmth. Fighting is never one's mission.
+386	Yes, I understand. That's exactly the way of life I want most.
+387	That's right, surely you truly are a child of the wind.
+388	Levin... now go. Take care of yourself... don't be reckless...
+389	Mother...
+390	Hurry and go! ...Please, I beg you...
+391	Yes... well then, Mother, please take care too.
+392	Ahh...... Levin......
+393	Fufufu... you lot are such fools.
+394	I-impossible...
+395	[If fought against Levin]
+396	Ugh... Levin... you...
+397	Dakar! How dare you, Mahnya! I won't let even you off easy!
+398	What insolence! Die, Levin!
+399	[If fought against any other unit]
+400	The throne of Silesse suits only me! I won't let the likes of you get in my way!
+401	Ugh... even my ambition, it ends here...
+402	Lord Sigurd, Lady Lahna has come.
+403	Lord Sigurd, that was a fierce battle. Are you unhurt?
+404	Yes, somehow I'm safe.
+405	Lord Sigurd, if possible, could you stay garrisoned at this Saxony Castle as it is?
+406	Duke Langobalt of Grannvale has subdued Lubeck Castle to the east of Saxony with a great army.
+407	The people of Silesse are worried it might turn into a war with Grannvale.
+408	Lady Lahna, Langobalt's corps has come on campaign in order to subjugate us.
+409	I don't want to drag the people of Silesse, who have cared for me, into the flames of war.
+410	I intend to sortie from this castle at once and settle things with Langobalt.
+411	That's reckless. I can't imagine you winning.
+412	If we don't go to them, they'll just come attacking us. Lady Lahna, there's no more time.
+413	I see, how sad...
+414	Lady Lahna, this past year, you've felt to me like my own real mother, and they truly were peaceful days for my heart.
+415	I lost my mother when I was young, and grew up without knowing a mother's love,
+416	but here in Silesse, I feel like I've come to know that warmth for the first time.
+417	Lady Lahna, please take care, and I pray from my heart that we may meet again someday.
+418	That goes for me too, Lord Sigurd. Please stay safe, and don't push yourself too hard.
+419	I pray with all my heart that you may be reunited with Lady Deirdre.

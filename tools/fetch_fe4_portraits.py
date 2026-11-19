@@ -35,7 +35,8 @@ NAMES = {
     "レヴィン": "lewyn_01", "マンフロイ": "manfroy", "イーヴ": "eve",
     "クロード": "claud", "ティルテュ": "tailtiu", "トラバント": "travant_01",
     "パピヨン": "papilio", "ランゴバルト": "lombard", "ブリギッド": "brigid",
-    "レプトール": "reptor",
+    "レプトール": "reptor", "アンドレイ": "andrey", "ドノバン": "donovan",
+    "パメラ": "pamela", "ラーナ": "lahna", "マーニャ": "annand",
 }
 
 
