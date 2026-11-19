@@ -37,6 +37,8 @@ NAMES = {
     "パピヨン": "papilio", "ランゴバルト": "lombard", "ブリギッド": "brigid",
     "レプトール": "reptor", "アンドレイ": "andrey", "ドノバン": "donovan",
     "パメラ": "pamela", "ラーナ": "lahna", "マーニャ": "annand",
+    "アイーダ": "aida", "アズムール": "azmur", "バイロン": "byron",
+    "ヴァハ": "vaja", "ジャムカ": "jamke",
 }
 
 

@@ -1,0 +1,629 @@
+1	Grannvale's great army lay waiting for Sigurd, who had quelled the civil war in Silesse.
+2	After subduing Saxony Castle, Sigurd and his group, without even a moment's rest,
+3	found themselves facing the Grannvale army at Lubeck Castle.
+4	Leading that army was Lord Langobalt, one of the men who killed his father.
+5	The battle against Langobalt, who had framed his father Lord Byron,
+6	was also, for Sigurd, a memorial service for his father.
+7	In the desert town of Finora, Lord Arvis's capable retainer,
+8	the sword-mage Vaha, was stationed; and at Vertomer,
+9	General Ide, said to be Arvis's right hand, guarded the castle.
+10	And meanwhile, in the capital, Belhalla,
+11	Lord Arvis supported the aged, bedridden King Azmur,
+12	while Chancellor Reptor handled the nation's public order.
+13	The road to the capital, Belhalla, was long, and a clash with the pursuing army was unavoidable.
+14	They could no longer bear to drag Silesse, who had cared for them, further into this war.
+15	Sigurd and his group resolved on this final battle. In the early spring of the year 760 of the Grannvale calendar,
+16	the mountains and fields of Silesse were still covered in deep snow.
+17	Ugh... Sigurd... I cannot die yet...
+18	Not until I pass this holy sword, Tyrfing, to you...
+19	Lord Langobalt,
+20	we found Lord Byron, who was on the run, but he slipped away from us just as we were closing in.
+21	It seems he intends to flee into Silesse.
+22	What, you fool! Chase him at once!!
+23	We annihilated the holy knights of Sylvail, the Grutia Knights, with our surprise attack,
+24	but if Byron's still alive, it's all for nothing!
+25	Yes sir, but he's suffered considerable wounds, so he shouldn't last much longer...
+26	That's exactly why I say you're too soft.
+27	Byron is mustering his last strength to try to pass the holy sword Tyrfing to his son.
+28	If that sword falls into Sigurd's hands, it'll cause no end of trouble later—don't you see that!
+29	Sortie at once and kill Byron!!
+30	Yes sir, understood.
+31	Damn it, that Dagan still hasn't come with reinforcements.
+32	Leading the elite axe-knight corps, the Grau Ritter, yet unable to suppress even a single rebellion in Isaach...
+33	Both Lex and Dagan, useless sons, the lot of them.
+34	Lord Langobalt, there's no need to worry. As long as I have my Vaegrite, there's nothing to fear from traitors.
+35	I'm grateful, Lord Andrei. When the time comes, lend me your strength.
+36	Heh heh, leave it to me...
+37	Damn it, that insolent brat. He killed his own father and shows not the slightest guilt.
+38	Lord Reign is a pitiful man too...
+39	Lord Sigurd, it seems a lone knight is heading this way from the east.
+40	What? An enemy!?
+41	No, it looks like a pursuit force came out from Lubeck Castle, so I think it's probably an ally.
+42	I see, then we must help him... in any case, a battle with Langobalt's army can't be avoided.
+43	Right, our first battle, where we crush the enemy's front line in one stroke, will decide everything!
+44	Big Sister, is something wrong?
+45	Edain, you've heard about Andrei too, haven't you.
+46	Yes, that he laid hands on Father, and even Lady Mahnya of Silesse...
+47	Has Andrei been possessed by a demon, I wonder?
+48	I will kill Andrei. So that he commits no more sins than this, it must be done.
+49	Edain, you understand, don't you?
+50	Big Sister...
+51	It's painful, but please bear with it. His sin is our sin too.
+52	My hands will be stained with blood, but I want at least you, Edain, to understand.
+53	Yes... Big Sister Brigid...
+54	[Only if Claude and Edain are a couple]
+55	Edain, the final battle is finally here.
+56	Yes, Father Claude...
+57	I'll leave this with you. Use it to help the young soldiers.
+58	This is the Rescue Staff, isn't it. But why...
+59	This is something I haven't told anyone, but I'll tell you, my wife, at least.
+60	Listen carefully. This battle will end in our defeat. All the main figures will die.
+61	Wha...!?
+62	When I heard the god's voice at the Tower of Baldr, even I couldn't believe it.
+63	But this is fate. Of course, I will die too. That's why I'm entrusting this staff to you.
+64	No... that's a lie!! I can't believe something like that!!
+65	Please... please tell me it's a lie...
+66	Edain, there's no need to be sad. Our deaths don't mean everything ends.
+67	It's only natural that living things die and things with form are lost, but it doesn't mean becoming nothing.
+68	They change form into something more complete. You mustn't fear death. You mustn't fear loss.
+69	But, Father Claude...
+70	Even if I die, I will be born again.
+71	Look, already, inside you too, there's a new life... that might be me.
+72	That's why Edain must go on living.
+73	No... Father Claude, that's unfair. Are you telling me to live on alone!?
+74	Edain, I was happy to have met you. Please forgive me...
+75	Father Claude...
+76	Lord Arvis, is it true that Sigurd's men are marching toward Belhalla?
+77	Yes, but there's no need to worry.
+78	Lord Langobalt's corps has already deployed to Lubeck, and subduing the rebel army is only a matter of time now.
+79	But, you know, I still can't believe it.
+80	That Lord Byron assassinated Kurth, and that Sigurd raised a rebellion...
+81	Majesty, still saying such things... Lord Byron, in collusion with Lord Ring of Jungby,
+82	harmed Prince Kurth—both Dukes Reptor and Langobalt witnessed it.
+83	They sought to usurp the royal family, and when the prince learned of it, they even took his life...
+84	Of course, Lord Sigurd too is complicit in the rebellion.
+85	As proof of that, he is harboring the prince of the enemy nation, Isaach.
+86	This is clearly treason against the state.
+87	Prince Kurth is now, to me, also a father-in-law...
+88	For the sake of my beloved wife—Deirdre—too, I cannot forgive the rebel Sigurd.
+89	Should Lord Langobalt happen to be defeated,
+90	my House Vertomer's flame-knight corps, the Loh Ritter, will subdue that rebel army for you to see.
+91	I see... if you say so much, there's nothing for it, I suppose...
+92	Arvis, about Deirdre... *cough cough*...
+93	Grandfather! Are you all right? You mustn't push yourself. Please rest now.
+94	Ah, Deirdre... you are such a kind child.
+95	For an old man like me with little time left, you are my one and only hope.
+96	I don't know when Kurth came to have a daughter like you,
+97	but that you are a direct descendant of the royal house of Belhalla is clear from the mark on your forehead.
+98	Until now, where and how were you living...
+99	I'm sorry, Grandfather... I can't remember anything.
+100	I have no memory of anything at all...
+101	Ah, that was a terrible thing to ask... when it's you who suffers most from it.
+102	The princess... when she was found collapsed outside my castle, she had already lost her memory.
+103	She remembered nothing at all except her own name.
+104	At first I looked after her out of sympathy, but before long I came to love her deeply...
+105	I never imagined she was Prince Kurth's own daughter, and I've done something terribly presumptuous.
+106	When you brought the princess to the palace, saying there was a girl you wanted to marry, I doubted my own eyes.
+107	Call it an intuition only those of the same bloodline would know—and indeed, beneath her circlet was the mark of Naga.
+108	Lord Arvis, do you understand?
+109	Only those of my royal house, descendants of Heim, can take up Naga's holy book and unleash its power.
+110	And that power of Naga alone can oppose the dark god Loptous.
+111	Yes, I am well aware.
+112	You must not let the blood of the god Naga... of the saint Heim, die out. The two of you must have a child soon.
+113	And if a child is born who inherits the power of Naga,
+114	make that child the prince, and have him become King of Grannvale after I am gone.
+115	Until the prince comes of age, Lord Arvis, you shall become regent king and guide the prince rightly.
+116	Understood?... *cough, cough, cough*...
+117	They say Grannvale's great army has marched on Lubeck. Is this the end for Silesse too, I wonder...
+118	Our Silesse had always been a peaceful country.
+119	Just when did the world come to be like this, I wonder...
+120	A child's abilities are passed down from the parents.
+121	In many cases, they say a boy inherits more of his father's power, and a girl more of her mother's.
+122	Langobalt's soldiers have been plundering the villages at will.
+123	Even so, I've managed to hide away a little money.
+124	This is our feelings for you. Please, take it.
+125	They say King Eldigan of Nodion had a child with his late wife.
+126	I hear the name was something like Ares, and he's still three or four years old... how pitiful...
+127	Isaach was conquered by Grannvale, but I hear fighting still continues in the regions.
+128	It's said the people of Isaach are eagerly awaiting Prince Shanan's return.
+129	The Grannvale that loved peace is now completely lost.
+130	The Grannvale army has sent troops to each nation, destroying other countries.
+131	If Prince Kurth were still here, things like this would never have been allowed. Please,
+132	return home as soon as possible and take Grannvale back from those wicked men's hands.
+133	[Only if Ardan has a sweetheart]
+134	...Even someone like me got married and had a child. From now on I have to work hard for my family too—I can't afford to die for a while yet...
+135	Hm? What's this old book? I can't make heads or tails of what it's written...
+136	Hm... mmm...! Wh-what is this feeling! My senses are growing sharper...
+137	Ch... Father, isn't it! Thank goodness! So you're safe!
+138	Sigurd... you've grown so fine... *cough, cough*...
+139	Father! Please, hold on!!
+140	No, I'm already finished. Sigurd, listen well. Prince Kurth was killed by Langobalt.
+141	The one pulling the strings behind it is Reptor. Please tell His Majesty of this.
+142	I... don't mind dying, but I cannot die while branded with the shame of a traitor...
+143	So it really was like that... understood, Father! I will surely clear your disgraced name.
+144	Please, rest easy.
+145	I'm sorry... because I let my guard down, I'm causing you hardship too.
+146	Sigurd, take this. It's the holy sword, Tyrfing...
+147	Tyrfing... but Father, this is still...
+148	Sigurd, I'm counting on you. Avenge my regret, please...
+149	Ah, Father! Please, hold on!! Father...
+150	Lord Sigurd...
+151	What a thing to happen... damn it... Reptor, Langobalt! You two, at least, I will never forgive...
+152	Ugh, so this is the end, is it...
+153	Sigurd... I'm sorry...
+154	[If fought against Byron]
+155	Lord Byron, I'm sorry, but this too is my lord's command. You'll have to die here!
+156	[If fought against any other unit]
+157	What, why are you all here?
+158	Has the front line already been broken through!?
+159	Damn it, I slipped up...
+160	Go! Show them the terror of my Vaegrite in full!!
+161	Fufufu... you fools... die!!
+162	I-impossible... Skasaha... avenge our father for me...
+163	[If fought against Sigurd]
+164	Gahahaha... so you've come, brat. Good timing—I'll send you to join Byron too.
+165	He must be lonely all alone.
+166	Langobalt! You, at least, I will never forgive! Know the depth of my father's regret!
+167	[If fought against Lex]
+168	W-why, you're Lex, aren't you... you traitor! Defying your own father—know shame!!
+169	That's why I said I didn't want to... Old man, this too is fate, forgive me...
+170	[If fought against any other unit]
+171	Gahahaha... small fries, as long as I have this Swanchika axe,
+172	it makes no difference how many of you come—don't come near me if you don't want to die!
+173	I-impossible... that I, of all people, should be defeated... Dagan... I leave the rest to you.
+174	[Only if Byron is alive]
+175	What a thing... Sigurd!! Just one step away... has heaven forsaken me...!
+176	Lord Sigurd, that was a fierce battle.
+177	Indeed, a battle against Grannvale's regular army. From here on it'll get even harder.
+178	So, Oifey, I have a favor to ask of you.
+179	Yes, what is it?
+180	Head northeast from here, Lubeck, and you'll enter Isaach's territory.
+181	Isaach lost its war with Grannvale, and I hear Langobalt's eldest son, Dagan, is now stationed there,
+182	but his reach probably hasn't extended to the outlying regions yet. So...
+183	Please wait! Don't tell me you mean for me to flee to safety!? I don't want that!
+184	I will stay by Lord Sigurd's side to the very end!!
+185	Oifey, you might think I'm being selfish, but please understand.
+186	I don't want to lose Celice. This child isn't even two years old yet. I can't fight while bringing along such a young child...
+187	Oifey, please, I'm begging you, protect Celice.
+188	There's no one I can ask this of but you...
+189	Lord Sigurd... I see... understood.
+190	I will protect Lady Celice even at the cost of my life. But please, make me a promise.
+191	Promise that once this battle ends, you'll surely come for him. Without that promise, I cannot leave.
+192	Understood, I promise. I will surely come for him.
+193	Yes... I believe those words of yours.
+194	Wait! Protecting Celice is my job. I promised Deirdre.
+195	I won't hand him over to Oifey until Deirdre says it's okay!
+196	Shanan... it's all right now...
+197	It seems you're still grieving over Deirdre, but it's fine now, don't worry about it.
+198	No way! I'll protect Celice. The people of Isaach hate Grannvale,
+199	so even if Oifey and the others go, they won't protect him at all.
+200	I'm the prince of Isaach. I can protect Celice. It's... a promise with Deirdre...
+201	Lord Sigurd, I too feel reassured having Shanan with us.
+202	I think you're worried about dragging young Shanan into this,
+203	but he's already a fine warrior. For gaining the cooperation of the people of Isaach too, I think Shanan's strength is needed.
+204	I see...
+205	...I'm sorry, Shanan. I leave Celice to you... please protect him.
+206	Yeah! Leave it to me, I'll get even stronger and protect Celice.
+207	And then, about Deirdre... I'll get Celice to forgive me for it...
+208	Well then, Lord Sigurd, we'll be going. Please stay safe,
+209	and I pray the day of victory comes as soon as possible.
+210	Right, Oifey, take care too.
+211	Yes!
+212	Celice, forgive your father... please... grow up to be fine and strong...
+213	Everyone, just a little more patience, hang in there.
+214	I hear Sigurd's army is heading south through this Yied Desert.
+215	If we head north, we should be able to join up somewhere in the desert.
+216	Quan, I'm truly sorry.
+217	Even though Father is in poor health, he readily agreed to send troops to help my brother.
+218	But, making an enemy of the great nation of Grannvale—when I think of what will become of Leonster's future,
+219	I'm really worried...
+220	Ethlyn, Leonster, small nation though it is, is a house of heroes descended from the Crusader Noba.
+221	If this is a righteous battle, I have no regrets even if we're destroyed—Father told me to fight with an easy heart.
+222	Ethlyn, don't worry. I have this Gae Bolg lance. As long as I have this lance, I will not lose.
+223	I'll surely save Sigurd, you'll see.
+224	Yes, that's right... I'm sure you can...
+225	Ethlyn, it's about time you headed home now. This area is under enemy control, and the fighting could start anytime.
+226	Quan... I thought about it a lot, but, after all, I've decided to come too.
+227	I want to see my brother too, and besides... I don't want to leave your side.
+228	That won't do! You said you'd only see me off partway, so I allowed Altena to come along too.
+229	That's not what we agreed! Altena is only three, and even now she's just sleeping on your lap.
+230	What will you do if fighting breaks out!
+231	Altena won't leave my side even for a moment.
+232	I didn't intend to bring her on this expedition either,
+233	but I couldn't leave her behind crying and screaming.
+234	But you're quite right. Understood, I'll return home.
+235	Ethlyn, I'm sorry. I understand your feelings well, but back home there's also Leaf, who was just born.
+236	The children need their mother. Please wait for my return together with Finn, whom I left to guard the country.
+237	Yes, but just a little longer... just a little, please... let me stay by your side.
+238	Please, Quan...
+239	Ethlyn... understood. Just a little longer, then.
+240	Kukuku... that Quan, bringing a woman along without even knowing we've been tailing him—how carefree.
+241	Leonster's Lance Knights are finished too now.
+242	With their feet caught in the desert sand, they won't be able to fight properly either.
+243	Right, let's go! Thracia's dream is now within our grasp!
+244	What!? Thracia's Dragon Knights! Damn it, we've been tailed by Travant!
+245	Ethlyn!! Run! We cannot fight in the desert!
+246	B-but... dear...
+247	Ethlyn, those men are hyenas. They show no mercy, even to women and children.
+248	Thracia has had its eye on our nation for a long time now.
+249	The reason I entrusted half our forces to Finn and left them behind, even for this expedition, was in preparation for Thracia's movements.
+250	But I never imagined they'd come after us.
+251	This is... my own mistake.
+252	Quan, don't give up, it'll be all right. If we all fight together, we'll manage somehow. Let's hold on to the very end.
+253	Ethlyn... I'm sorry...
+254	Langobalt's dead, has he...
+255	W-what do we do now! Arvis!
+256	Wasn't it you who said Sigurd wasn't worth worrying about!
+257	That's why both Langobalt and I entrusted most of our forces to our sons and sent them to subdue the regions.
+258	This isn't what was promised!
+259	Lord Reptor, there's no need to panic so.
+260	I've already placed my House Vertomer's men on guard in the Yied Desert.
+261	Besides, Thracia's mercenary corps should be arriving soon too. Timing it for when the enemy is tired,
+262	if the duke's corps and mine attack together, we can easily crush Sigurd's rebel army.
+263	Arvis, keep your promise. I don't mind you becoming King of Grannvale after Azmur is gone.
+264	But we too, in turn...
+265	I understand. Once this battle ends, your House Freege will become the royal house of Agustria,
+266	and Lord Langobalt's House Dozel will become the royal house of Isaach. I will surely keep my promise, don't worry.
+267	I see... understood, then I too will fight with all my strength...
+268	Kukuku... Lord Arvis, the plan is proceeding steadily, isn't it.
+269	Manfroy, is it... I've told you many times, but you all must not come out into the open.
+270	Until I gain real power, the shadow of the Loptous Church must not be seen.
+271	Understood. No matter how greedy Reptor and Langobalt may be,
+272	they would never permit our existence alone, would they.
+273	It was the plan all along to use them up and then discard them—after that, we just use their sons instead...
+274	Mm... but Manfroy, I'll say this much at least.
+275	I have no intention whatsoever of rebuilding the Loptous Empire.
+276	I permit your Loptous Church's existence, but I will never entrust the world to the dark god. Don't forget that.
+277	Even if the blood of the Loptous clan flows within my own blood,
+278	that blood is the blood of the holy knight Maira, who fought for the sake of humanity.
+279	As one who inherits the blood of the flame crusader Fala and the holy knight Maira,
+280	I will change this world into one without discrimination, where anyone can live easily.
+281	I feel bad for Sigurd, but he will have to become the sacrifice for that cause.
+282	Ho ho ho... and that too, is for Lady Deirdre's sake, isn't it. Lord Arvis is afraid,
+283	afraid that the queen's memory might return...
+284	Don't say it! Manfroy!! We love each other. I will let no one interfere any longer!
+285	Kukuku... you'd best hurry and have a child.
+286	I'm sure he'll grow up to be a splendid king... kukuku...
+287	So the traitors have come, have they. Kukuku... if they approach, show no mercy—give them a taste of Meteor.
+288	I'll make this desert their graveyard.
+289	[While Ethlyn is alive]
+290	Die! You hyenas!! As long as I have this Gae Bolg, I will not lose to you.
+291	[After Ethlyn has died]
+292	Ugh... so this is the end, is it.
+293	Ethlyn... I'm sorry... Finn, I leave Leaf to you... [Only after Ethlyn has died]
+294	So Quan's dead, has he... good. Magawn, you lead your men and attack Sigurd's army.
+295	There's a high bounty on their heads. Don't let even one of them get away alive.
+296	Yes sir, by the way, what should we do about that child? He won't stop crying and screaming, and everyone's at their wit's end with him.
+297	Should we just kill him quickly and be done with it?
+298	No need for that, hand him over to me. I'll bring him back to Thracia along with the Gae Bolg lance.
+299	That's an unexpected thing to hear... what do you intend to do with him once you bring him back to Thracia?
+300	Fool! That's none of your business!! Don't go sticking your nose into things that don't concern you!!
+301	Yes sir, my apologies. Well then, I'll head out to pursue Sigurd's army.
+302	Mm, I'm counting on you!
+303	Altena, I alone will protect you!
+304	Ah, Altena... forgive me... Quan, I'm sorry... [While Quan is alive]
+305	What? The enemy woman had a child with her... Quan's daughter, is it... this is interesting.
+306	Tell him to throw away the Gae Bolg, or else I'll kill his daughter.
+307	...Heh heh heh, knowing that man, he won't be able to say no.
+308	What! Altena... I see... so Ethlyn is... understood... so this is the end, is it...
+309	I'll throw away the Gae Bolg. So tell them not to lay a hand on my daughter!
+310	[After Quan has died]
+311	What? The enemy woman had a small child with her... Quan's daughter, is it... this is interesting.
+312	Hand him over to me. I'll bring him back to Thracia along with the Gae Bolg lance.
+313	That's an unexpected thing to hear... what do you intend to do with him once you bring him back to Thracia?
+314	Fool! That's none of your business!! Don't go sticking your nose into things that don't concern you!!
+315	Yes sir, my apologies. Well then, I'll head out to pursue Sigurd's army.
+316	Mm, I'm counting on you!
+317	Azel, you don't seem well. What's wrong?
+318	Lex... are you really all right with it?
+319	Hm? ...Ah, about the old man, you mean...
+320	Yeah...
+321	Well... it'd be a lie to say it's nothing, but it can't be helped.
+322	Father killed a great many innocent people. I think it's just deserts.
+323	Lex, you're strong. I'm no good—whenever I think of my brother, my body trembles.
+324	Lord Arvis is a strange man. He was kind to us, and I can't think he's a wicked man at all, so why...
+325	Yeah... to me, he was more than a father.
+326	But sometimes, it was as though he became a different person, and it was frightening... that's why...
+327	That's why you ran away from Lord Arvis's side.
+328	That's fine. Azel, you have your own way of living. Don't worry about it so much.
+329	Yeah... you're right...
+330	Ayra!? Why are you here? I told you to go to Isaach with Shanan and the others.
+331	I'm grateful for the thought, but that wouldn't sit right with me. Sorry, but let me stay to the very end.
+332	Don't be absurd... what good is it if you don't go? You swore to protect Shanan, didn't you.
+333	Yes, because I promised my dead brother...
+334	But Shanan can live a fine life on his own now too. My duty is finished.
+335	But...
+336	I will return to Isaach. Only once this battle is over, though.
+337	And, Lord Sigurd... at that time, you will be with us too.
+338	Jamka...
+339	What, Dew, you're still here? You're done here already, you know. Hurry up and vanish somewhere.
+340	Even you, Jamka, saying something like that. Somehow everyone's acting strange.
+341	Victory should be close, but everyone's on edge. Why is that, I wonder.
+342	Ah, sorry... that's right, I am a bit irritable, come to think of it. I wonder why...
+343	...Jamka, you know, I like you.
+344	I teased you a lot and stuff, but, sorry about that.
+345	Hey now, why bring that up all of a sudden? You're being strange too, Dew.
+346	No, it's just, well... anyway, I'm off, see you around.
+347	Dew is sensing something too...
+348	This is our job too, after all... don't take it personally.
+349	Ugh... glory to Thracia!
+350	Take this, the wrath of heaven! Meteor!!
+351	Ugh... Lord Arvis, forgive me...
+352	We've finally made it to Finora. My homeland is close now.
+353	Oifey and the others... I wonder if Celice is doing well...
+354	Why, Lord Sigurd, welcome.
+355	Ah, you're this town's elder, aren't you. I'm sorry for dragging even such an oasis town into this war.
+356	Mm, it can't be helped... I hear there was a war even to the south of the desert until just a while ago.
+357	What a dangerous world it's become.
+358	A war to the south too... what on earth happened?
+359	From what I hear, Leonster's lance-knight corps was on its way north
+360	when it was attacked by Thracia's Dragon Knights and wiped out entirely.
+361	What!? Is that really true!!
+362	Mm, I hear there was a young lady with the Leonster army too, and everyone's saying what a pity it was.
+363	That's... Ethlyn... Quan, forgive me... forgive me...
+364	All right, now's our chance! Join forces with Vertomer's flame mages and crush the enemy in one stroke!
+365	Good, as planned, let's attack Reptor's corps.
+366	Kill them all. Don't let even one of them live.
+367	What, wh-what did you say! Vertomer has betrayed us!? Damn it... has Arvis plotted against me...
+368	[If fought against Sigurd]
+369	Sigurd!? ...You traitor! Do you intend to defile this sacred ground!
+370	Lord Reptor, it's you who's the traitor!
+371	You must remember framing my father and laying hands on Prince Kurth!
+372	Hmph, fool! Politics is power! Your father died simply because he had no power.
+373	Even you, if you're a knight, should understand that much.
+374	A knight is one who values justice and honor—there's no such thing as justice in your methods.
+375	I have returned to my homeland to restore Grannvale's honor!
+376	Commendable of you, but that's as far as it goes. You too will die as a traitor, same as Byron.
+377	Before my Thoron Hammer, your strength is useless.
+378	Sigurd, know your own powerlessness, wahahaha...
+379	[If fought against Tiltyu]
+380	T-Tiltyu... is it you...
+381	I heard you were with the rebel army, but I never imagined you'd appear before me...
+382	Father... I'm sorry...
+383	Ugh, that Claude! Leading my daughter astray...
+384	It can't be helped... Tiltyu, to protect House Freege's honor, you'll have to die.
+385	! ......Father...
+386	[If fought against Ide]
+387	Ide... you, how dare you betray me...
+388	Ho ho ho... Lord Reptor, you're a poor loser too. It's time to give up now.
+389	[If fought against any other unit] [While hostile to House Vertomer]
+390	Kukuku... know well the terror of the Thoron Hammer!
+391	[While neutral with House Vertomer]
+392	At this point, you're coming with me! Die!!
+393	[While hostile to House Vertomer]
+394	Ugh... impossible...... guh. [While neutral with House Vertomer]
+395	Ugh... that Arvis... just what is he...... guh.
+396	[Only if Ayra and Ardan are a couple]
+397	Ardan, are you all right?
+398	Phew, I'm exhausted. This armor's unbearably heavy.
+399	Heh heh, but it's manly, and I like that about you.
+400	Oh, you say such nice things to me. I like you too, Ayra—you're womanly.
+401	Me, womanly... don't say foolish things.
+402	I can tell, you know. There's no one as adorable as Ayra.
+403	What's wrong, Ardan, do you have a fever or something?
+404	Well, let me say it at least once, at the end. Ayra... I love you.
+405	Wh-what are you... you fool...
+406	[Only if Ayra and Lex are a couple]
+407	Lex, this is finally it, isn't it.
+408	Yeah... but you're a stubborn one too. Won't you go to Isaach no matter what?
+409	Why would I? Because I'm a woman? If that's the reason, I won't forgive even you, Lex. The responsibility for the children should be the same for both of us.
+410	That's true... I'm sorry. It's just, when I think of the children who fled to Isaach...
+411	That's why I'm saying let's go pick them up together. Of course, once this battle is over.
+412	Understood, Ayra, well then, let's go!
+413	Lex... I'm sorry. I only know how to live this one way...
+414	Hahaha, I know that. That's exactly why I love you, Ayra.
+415	I don't know how it'll turn out, but let's go as far as the two of us can together.
+416	Yes...
+417	[Only if Ayra and Horin are a couple]
+418	Horin, this is finally it.
+419	Mm...
+420	There's just one thing I want to ask at the end. Is that all right?
+421	Hm? What is it?
+422	Horin, why do you protect me? There must be some reason.
+423	I've known you since you were little. Protecting you is everything to me.
+424	Huh...!? Horin... don't tell me...
+425	I'm the son of the lord of Sophara, and a fool of a man whose heart was stolen by one beautiful girl...
+426	[Only if Lachesis and Noish are a couple]
+427	Noish, wait!
+428	Lachesis!? You're still here! I told you to go to Leonster.
+429	I sent the children on ahead, but I will fight to the very end.
+430	That's not what we agreed.
+431	The children need their mother. Besides, if something were to happen to you, what would become of Eldigan's child!
+432	Ares is... I don't even know where he is.
+433	Lord Sigurd worried about Prince Ares, who lost both his parents.
+434	To you too, Ares must be special.
+435	No... it's all right now... I am your wife, after all.
+436	Of course, I love you. Don't forget that, at least.
+437	Yes, my dear... I'm sorry.
+438	[Only if Lachesis and Dew are a couple]
+439	Dew, what are you doing in a place like this!
+440	That's not fair—I've gotten a lot stronger too, you know. Give me a little more credit.
+441	I understand. But this coming battle is different from anything so far.
+442	It's too much for you.
+443	Even you, Lachesis, saying something like that. I'm not a child anymore, you know.
+444	Heh heh, I don't think of you as a child. Because...
+445	Huh, Lachesis, you're turning red.
+446	Oh, stop it, Dew!
+447	Lachesis, I had fun. Thanks for being so kind to me.
+448	Dew, me too...
+449	[Only if Lachesis and Beowolf are a couple]
+450	Beowolf...
+451	Lachesis, if anything should happen to me, go to Leonster.
+452	There's Finn and Quan's children in Leonster. Help them in my place.
+453	Don't say such things! When it's time to go, you'll be with me too!
+454	Lachesis, I feel I owe you an apology.
+455	Huh? Why...
+456	I knew how you felt...
+457	! ......
+458	Lachesis, take care. It was a short while, but I had fun.
+459	Wait! Beowolf!!
+460	(This may be a conversation important to Thracia 776.)
+461	[Only if Silvia and Alec are a couple]
+462	Alec, I finally found you.
+463	Silvia? You're still here? No good, hurry back to the castle!
+464	But I'm worried about you, Alec.
+465	Stop talking like a child already. You're a mother now too.
+466	Don't talk about it like it's none of your business. It's your fault, you know.
+467	W-well, that's...
+468	Alec, come back to me. If you're not here, neither I nor Leen can go on living.
+469	Right, please.
+470	Silvia... I know. I'll surely come back...
+471	[Only if Silvia and Levin are a couple]
+472	Hey, Levin...
+473	Hm? What's wrong, Silvia?
+474	Levin, do you like me?
+475	What, all of a sudden!?
+476	Hey, which is it?
+477	I like you—that's why we got together, isn't it.
+478	I see... that's good.
+479	I love you too, Levin, you know... I'll never forget it, you know...
+480	Silvia... you...
+481	[Only if Silvia and Claude are a couple]
+482	Father Claude, are you all right?
+483	Yes, I'm fine. Silvia, you should go now too. You mustn't be with the army.
+484	But...
+485	You mustn't stay by my side any longer than this.
+486	I love you, Father Claude.
+487	That's the same for me too, but...
+488	I won't! I want to stay by your side forever!
+489	That I cannot allow... Silvia, please understand...
+490	[Only if Fury and Noish are a couple]
+491	Ahh, Noish, I finally found you!
+492	Fury, are you all right?
+493	Yes, I'm fine.
+494	I see... good. Fury, don't push yourself too hard. You're not alone anymore, you know.
+495	Yes, but I wonder how the children I left in Silesse are doing. I want to see them soon.
+496	For that very reason, let's hurry and end this war.
+497	Yes, but Noish, please don't push yourself either...
+498	[Only if Fury and Ardan are a couple]
+499	Ardan, are you all right?
+500	I've had it, the desert is the worst!
+501	Heh heh, it'd be nice if you could ride a Pegasus too.
+502	Ah, if only I were about a hundred pounds lighter.
+503	Ardan... please don't die.
+504	Of course not. I finally got a cute wife like you, Fury—there's no way I'd die!
+505	Once this battle's over, let's go to Silesse together. Let's open a little shop, just the two of us.
+506	Yes, it really would be nice if it turned out that way...
+507	[Only if Fury and Levin are a couple]
+508	Lord Levin, this is finally it, isn't it.
+509	Right, but Fury, keep your promise.
+510	Yes, I'll surely come back alive to Silesse—right?
+511	Yeah, I won't die—so you absolutely mustn't die either, Fury!
+512	Yes! I promise.
+513	My dream since I was little has finally come true—I don't want it to end in death in a war!
+514	I will not leave Lord Levin's side.
+515	Mother's waiting in Silesse. She's looking forward to your return even more than mine, Fury.
+516	Yes, Lady Lahna... no, I mean, Mother—I must make her happy...
+517	[Only if Brigid and Alec are a couple]
+518	Alec, Belhalla is close now.
+519	Yeah, I've finally made it back to my homeland.
+520	Can I really return to the country I was born in too... Jungby... I wonder what kind of place it is.
+521	It's a beautiful country, and there are a lot of beautiful women too.
+522	Alec, I won't forgive any cheating!
+523	Hahaha, I know. I don't want to die just yet, after all.
+524	That's right, you mustn't die. You've still got to live on and keep trying for a long time to come.
+525	For the children's sake too, I'll never let you die...
+526	I'll be fine, I'm lucky—I got to make a beauty like you my wife, after all.
+527	Oh, Alec...
+528	[Only if Brigid and Mideel are a couple]
+529	Mideel, are you all right?
+530	Yes, I'm fine. But what about you, Brigid?
+531	I'm fine as long as Mideel is here with me.
+532	I'm happy to have met you, Brigid. I'm grateful.
+533	Why would you say something like that? I don't like it, Mideel, it sounds like some kind of farewell.
+534	I'm sorry, but there's just this one thing I wanted to say...
+535	You liked Edain, didn't you, Mideel. Was it really all right, with me?
+536	I did like Lady Edain, but that wasn't love. The one I loved is only you!
+537	Mideel, thank you... please watch over me to the very end...
+538	[Only if Brigid and Jamka are a couple]
+539	Jamka, are you all right? Not tired?
+540	No, I'm fine. What about you?
+541	I'm fine... because you're here with me...
+542	Honestly, I don't want Brigid to fight. Is it still no good, after all?
+543	What are you saying, it's no good. Jamka, there's no turning back now.
+544	I see...
+545	Jamka... was it really all right, this way?
+546	Hm?
+547	Was it all right, with me? The truth is, you had feelings for Edain...
+548	Brigid! Don't talk nonsense!! I loved you—there's no falsehood in that feeling!!
+549	I-I'm sorry... but... I'm glad I asked...
+550	[Only if Tiltyu and Lex are a couple]
+551	Lex, must you really fight?
+552	Yeah, you should go to Silesse. I'm sure you can live peacefully in that country.
+553	How awful, telling me to go alone...
+554	House Freege will search desperately to bring you back.
+555	But I don't want to hand my child over to either Freege or Dozel. Tiltyu, please understand how I feel!
+556	But...
+557	We were both born under a trivial fate, but
+558	I was happy to meet you at the end, Tiltyu. It was a short while, but I had fun.
+559	Ah, Lex...
+560	[Only if Tiltyu and Azel are a couple]
+561	Azel, don't go!
+562	Tiltyu, it's a promise, right? You go to Silesse. I'll surely follow later too.
+563	But...
+564	You can't fight House Freege. Or do you really think you could kill your own father, Tiltyu!?
+565	That... I couldn't...
+566	That's exactly right. If you were someone who could calmly kill your own father, I couldn't love you.
+567	Tiltyu, I leave the children to you.
+568	Azel!!
+569	[Only if Tiltyu and Claude are a couple]
+570	Father Claude, what should I do...
+571	You can't fight House Freege. It's too much, fighting your own father.
+572	You should go to Silesse. Live peacefully in that country.
+573	But what about you, Father Claude?
+574	I must see this through to the end. That is my duty.
+575	That's so awful! Then what about the children...
+576	I'm sorry to burden you, but please, I'm begging you.
+577	Father Claude!!
+578	[While Reptor is alive]
+579	This is no time to be talking. Please come, Lord Sigurd, after defeating Reptor.
+580	[After Reptor has died]
+581	Why, Lord Sigurd, I'm so glad you're safe.
+582	Just what is the meaning of this? Why is Vertomer helping me?
+583	Lord Arvis knows that you are innocent, Lord Sigurd.
+584	Lord Arvis has said that everything was the scheming of the two dukes, Reptor and Langobalt.
+585	It's just that until now, both dukes' influence was too strong, so even Lord Arvis couldn't act.
+586	I see, that's how it was... that's a relief.
+587	So this means my father's disgraced name can finally be cleared.
+588	Yes, Lord Arvis, together with His Majesty, is waiting in Belhalla for you to come, Lord Sigurd.
+589	Please, come to the capital, Belhalla.
+590	I see, understood, let's go at once.
+591	Lord Arvis should be welcoming you with the entirety of Belhalla's army.
+592	It will surely be a celebration for the whole nation, as your triumphant return, Lord Sigurd.
+593	Thank you. With this, our hard-fought battle finally comes to an end.
+594	At last I can repay the men who fought alongside me too.
+595	Yes...
+596	Lord Sigurd, a triumphant return in broad daylight, how wonderful.
+597	Why, Lord Arvis, thank you for coming all this way to welcome me. By the way, where is His Majesty?
+598	His Majesty is gravely ill, and can no longer even rise from his bed.
+599	Therefore, I am now handling all affairs of state in his place.
+600	I see, that's unfortunate.
+601	Even concerning myself, I caused His Majesty a great deal of distress.
+602	I will go to the palace later and offer my apologies.
+603	There's no need for that.
+604	What?
+605	You will die here as a traitor. An audience with the king is not permitted.
+606	Wh-what... Lord Arvis, what is the meaning of this!
+607	Fufufu... to notice only now—you're too soft, you too.
+608	You conspired with your father, Lord Byron, to usurp the royal house—that fact remains unchanged.
+609	As the husband of Princess Deirdre, I must subdue you, Sigurd. Don't take it personally.
+610	Princess Deirdre!? ...... that's...
+611	I see, you still didn't know. As a parting gift, let me introduce you to my wife.
+612	Deirdre, come here.
+613	Deirdre, this man is Sigurd, the son of Lord Byron, who killed your father. Say a word of resentment to him, at least.
+614	This person is... Lord... Sigurd...
+615	Huh? Deirdre!? ...... don't tell me...
+616	...... why, like that... to me...
+617	Deirdre, that's right! It's you, isn't it!! Ahh...
+618	Do you... know me...
+619	You! You're...!
+620	That's enough now, Deirdre, step back.
+621	This man is dangerous. He must be punished as a traitor.
+622	But... this person is... please, just a little more time to talk...
+623	No. Someone, take the princess somewhere safe!
+624	Wait! Lord Arvis... just a little longer...
+625	Wait, wait!! Deirdre!! Arvis, please! That person is my...
+626	Enough, say no more! All right, I declare to the whole army: capture the traitor Sigurd and his party!
+627	There's no need to keep them alive. Execute them on the spot!!
+628	Arvis! ...You!!
+629	Thus, one era came to an end. The Grannvale upheaval, which began with the expedition to Isaach, led one young man to a strange and fateful destiny, and, along with many sorrowful tales, vanished as fleetingly as it came. Those who fell wounded in the course of the battle: Prince Quan of Leonster, his wife Ethlyn, and the young lord of Sylvail, Sigurd. [Only if there are survivors other than Sigurd, Quan, and Ethlyn] Also, those who stayed with Sigurd to the end but were defeated in the battle at Belhalla, and whose fate remains unknown: [Only if Noish is alive] Knight of Sylvail, Noish. [Only if Alec is alive] Knight of Sylvail, Alec. [Only if Ardan is alive] Great Knight of Sylvail, Ardan. [Only if Lex is alive] Young lord of Dozel, Lex. [Only if Azel is alive] Young lord of Vertomer, Azel. [Only if Ayra is alive] Princess of Isaach, Ayra. [Only if Edain is alive] Young lady of Jungby, Edain. [Only if Mideel is alive] Archer-knight of Jungby, Mideel. [Only if Jamka is alive] Prince of Verdane, Jamka. [Only if Lachesis is alive] Princess of Nodion, Lachesis. [Only if Beowolf is alive] Free Knight, Beowolf. [Only if Horin is alive] Gladiator, Horin. [Only if Dew is alive] Thief, Dew. [Only if Levin is alive] Prince of Silesse, Levin. [Only if Fury is alive] Pegasus Knight of Silesse, Fury. [Only if Silvia is alive] Traveling dancer, Silvia. [Only if Claude is alive] Priest of Edda, Claude. [Only if Tiltyu is alive] Young lady of Freege, Tiltyu. [Only if Brigid is alive] Young lady of Jungby, Brigid. The young ones fought in pursuit of their ideals. But without that dream ever coming true, they fell scattered on the battlefield. Just what, in the end, was their struggle for? And the light is.........
