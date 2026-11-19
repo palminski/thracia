@@ -27,6 +27,8 @@ NAMES = {
     "アレク": "alec", "アーダン": "arden", "ノイッシュ": "naoise",
     "オイフェ（少年）": "oifey_02", "キンボイス": "cimbaeth", "ゲラルド": "gerrard",
     "デマジオ": "dimaggio",
+    "アイラ": "ayra", "エスリン": "ethlyn", "エルトシャン": "eldigan",
+    "シャナン（少年）": "shannan_01", "デュー": "dew", "バトゥ": "batu",
 }
 
 

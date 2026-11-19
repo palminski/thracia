@@ -1,0 +1,409 @@
+1	Edain was nowhere to be found at Evans Castle.
+2	The princess had already been taken away into Verdane territory.
+3	Verdane is a nation covered in deep forest.
+4	The people of Grannvale call Verdane, which has repeatedly raided the border, barbarians.
+5	Under the current Verdane king, Batu, the fighting at the border had stopped.
+6	The even-tempered King Batu placated his sons, who burned with ambition,
+7	and kept the peace with Grannvale.
+8	But that peace was broken by none other than Batu himself.
+9	King Batu gave his three sons the order to invade Grannvale.
+10	His second son, Kinbois, at Genoa Castle;
+11	at Marfa Castle, his eldest son Gandolf, and his youngest son, Jamka.
+12	Barbarians lurking in the forest lie in wait for Sigurd.
+13	Where on earth is Edain, and why does King Batu seek war...
+14	What spreads out before him is Verdane's great forest, dark even at midday.
+15	Sigurd was about to set foot in the forest said to be home to spirits.
+16	Good work. I've left the border's defense to you.
+17	Yes sir, Lord Eldigan!
+18	Sigurd, it's been a while. Occupying Evans—what's the meaning of this?
+19	Are you perhaps thinking of pressing on into Verdane?
+20	Eldigan, thank you for coming. Princess Edain of Jungby has been taken away.
+21	If Verdane absolutely won't give her back, I have no choice but to fight.
+22	I see, so that's how it is. But if I leave Evans Castle empty now,
+23	the lords of Agustria might get some ill-advised ambitions... All right, I'll guard your back.
+24	Thank you, Eldigan. Let's meet again once this fight is over.
+25	Like the old days—I'd like to share a drink of wine with you again.
+26	I'll look forward to it, Sigurd. May fortune favor you in battle!
+27	Ayra, you understand, don't you? Guard this well while I'm away from the castle.
+28	If you try anything funny, that brat's life isn't guaranteed.
+29	Ayra, I'll be fine. So don't just go along with what these goons say!
+30	Shanan...
+31	Kinbois, I'll keep my promise. So don't you dare lay a hand on Shanan.
+32	But once this battle is over, you really will give this child back, won't you?
+33	Yeah, don't worry. Once we take back Evans Castle, I'll give him back.
+34	All right. But if you break your promise, I won't let it slide.
+35	I'll chase you to the depths of hell and knock your head clean off. Don't you forget it!
+36	Oh, scary! A woman with such a cute face saying such frightening things.
+37	Well, but your swordsmanship really is something. I've got no plans to make an enemy of you—relax.
+38	Shanan, wait for me. Just bear with it a little while longer.
+39	Ayra, no! Don't go!!
+40	Heh, all right, let's move out, men! We're taking back Evans!
+41	Edain, take that brat and run, quick.
+42	If we dawdle, Gandolf's gonna catch us.
+43	Prince Jamka, won't you come with us?
+44	I can't stand the dirty methods my brothers use, but I still can't betray the old man.
+45	I'm going back to Verdane Castle to try talking sense into him one more time.
+46	That's right, a conflict like this should end as soon as possible.
+47	Prince Jamka, you're the only one we can count on. Please, convince King Batu to stop this war.
+48	Edain, let's get going already.
+49	This is seriously bad. If I get caught again, Gandolf's gonna cut my tongue out.
+50	Dew, you only got caught because you went and stole something—that's just you reaping what you sowed.
+51	Edain insisted, so I let you escape together, but you'd better keep your promise.
+52	I know. I promised Edain too—this time I'm really done with thieving.
+53	I see, then I won't say anything more. Now go!
+54	Edain, I hope to see you again someday. When that time comes...
+55	What!? Jamka let Edain go and ran back to Verdane's main castle? Tch... what a useless little brother!
+56	You lot, go get that woman and that thieving brat back. If they resist, you can kill them, I don't care.
+57	Finn, this fight looks like it'll drag on. I'm sorry for the trouble I'm putting you through.
+58	What are you saying? I'm a knight of Leonster. If my lord commands it, I'll follow you anywhere.
+59	I see... thank you.
+60	Though I'm still a trainee knight, so I'm afraid I can't be of much use.
+61	I see... all right, since this is a good opportunity, let me teach you how to fight.
+62	Finn, take up a lance!
+63	Yes! Please do!!
+64	[Only if Edain has no sweetheart and the Azel-Edain scene has not been seen]
+65	Lady Edain, I'm so glad you're safe... ah... thank goodness...!
+66	I'm terribly sorry. If only I had more strength, none of this would have happened.
+67	Mideel, seeing your healthy face puts my mind at ease.
+68	It's all right now. It wasn't your fault. You fought so well for my sake.
+69	Mideel, please keep being a strength to Lord Sigurd from now on too.
+70	Yes, of course.
+71	I will never forget the kindness of having Jungby Castle and Lady Edain saved!
+72	Edain, you're safe... thank goodness!
+73	Lord Sigurd! You've come to rescue me!
+74	I'm sorry, for putting even the people of Chalphy in danger because of me...
+75	That's nothing to worry about. Everyone will be glad to know you're safe.
+76	There's nothing more to worry about now. You should go back home.
+77	No, I'll stay here. War wounds so many people.
+78	I want to help people as one who serves God.
+79	Edain... I heard you became a sister because you didn't want to become a knight.
+80	I think the reason so many people adore you lies in that kindness of yours—I feel I should learn from you myself.
+81	No, Lord Sigurd.
+82	The reason I became a sister was only to get back my lost sister. That's all it was...
+83	You mean Brigid... I heard she went missing when you were young.
+84	Are you praying for her sake, Edain...
+85	Yes, no matter what, I must meet my sister again and hand her this holy bow, Ichaival!
+86	[Only if Edain has no sweetheart and the Mideel-Edain scene has not been seen]
+87	Ah, Lady Edain! I'm so glad you're safe...
+88	My, Prince Azel! You even fought for Jungby's sake...
+89	When I heard you'd been taken by the enemy, I couldn't just sit still,
+90	so I rushed here.
+91	But isn't your older brother Lord Arvis of House Velthomer? Did you have his permission?
+92	No, I came without telling my brother... he's surely angry.
+93	Why would you do something so reckless? I thought you hated war...
+94	That's...
+95	Eh? ...What is it, Azel?
+96	No... it's nothing...
+97	Edain, are you all right? I was so worried when I heard you'd been taken by the enemy.
+98	Ethlyn, you even fought for me... thank you... I'm sorry.
+99	It's not much as thanks, but please take this staff.
+100	It should be more useful to you than to me.
+101	This is the Return staff!? Thank you, Edain. This will let me help everyone.
+102	From here on, leave it to us.
+103	The lady of Genoa, Lord Kinbois, is a frightening man.
+104	This village has been attacked so many times, we've had such a hard time.
+105	Back when King Batu ruled directly, it was peaceful and easy to live here...
+106	So all the villagers are glad you've come.
+107	At last... anyone who comes near me is to be pitied...
+108	This is for Shanan's sake. Prepare to die—feel my shooting star sword!
+109	Shanan... I'm sorry.
+110	You dare point a sword at me? What fools! I'll crack your skull open!
+111	Ugh, it hurts...
+112	[If Ayra is alive]
+113	Lord Sigurd, there's a young child locked up in the castle dungeon.
+114	.....
+115	What's wrong, why are you silent? I'd like you to tell me why you were imprisoned.
+116	...Aren't you one of Kinbois's men?
+117	We defeated Kinbois ourselves. There's nothing more to fear.
+118	Eh! Then Ayra doesn't have to fight anymore, right?
+119	Big sister Ayra was being forced to fight for my sake. Please! Help Ayra!!
+120	That woman swordfighter did seem to be fighting for some reason... so that was it after all...
+121	I see. I'll let her know you're safe. What's your name?
+122	Shanan... I'm Prince Shanan of the Kingdom of Isaach...
+123	A prince of Isaach... I see.
+124	I'm sure there's a lot going on, but for a while, why not act together with my army?
+125	For now, be patient. Someday, there'll be a day you can go home.
+126	But Lord Sigurd, our country is in the middle of a war with the Kingdom of Isaach right now.
+127	Shouldn't we report this to the king?
+128	Oifey, yes, we're at war with Isaach. But that has nothing to do with a child.
+129	For a while I'll look after him myself, and find an opportunity to send him home eventually.
+130	Yes, understood.
+131	Lord Sigurd really is a kind man...
+132	[If Ayra has died]
+133	Lord Sigurd, there's a young child locked up in the castle dungeon.
+134	Who are you? What's your name?
+135	Shanan... Prince Shanan of Isaach... aren't you one of Kinbois's men?
+136	Eh, a prince of Isaach!? ...Forgive my rudeness. I'm Sigurd, a holy knight of Grannvale.
+137	We defeated Kinbois ourselves. There's nothing more to worry about.
+138	Eh! Then Ayra doesn't have to fight anymore, right?
+139	Ayra was being forced to fight for my sake. Please! Help Ayra!!
+140	Ayra!? You mean that woman swordfighter... but she...
+141	No way... did she die? Did you all kill her!?
+142	I'm sorry, I didn't know there was a reason like that...
+143	Ah, big sister Ayra...
+144	Oifey, take care of this child until he calms down.
+145	But Lord Sigurd, our country is in the middle of a war with the Kingdom of Isaach right now.
+146	Shouldn't we report this to the king?
+147	Oifey, yes, we're at war with Isaach. But that has nothing to do with a child.
+148	For a while I'll look after him, and find an opportunity to send him home eventually.
+149	Yes, understood.
+150	Lord Sigurd really is a kind man...
+151	[If Ayra is alive]
+152	What!? Genoa Castle was taken by Grannvale? Damn... I have to go save Shanan...
+153	[If Ayra is alive]
+154	Shanan's not here!? Damn, Grannvale's lot must have taken him. I won't let them live!
+155	Heh, Grannvale—attacking Verdane with such a tiny army, what fools.
+156	All right, now's our chance. We'll take Evans and break through the border in one stroke!
+157	...That's... what! The Highland army!! I must tell Lord Eldigan!
+158	What? The Highland army has set out toward Evans!?
+159	Hmm... so Eliott's army has moved after all. Lachesis, I leave the castle to you.
+160	I have to go help Sigurd.
+161	Yes, Brother, I understand. Please go lend Lord Sigurd your strength.
+162	Right! Cross Knights, move out! The enemy is Eliott, prince of the Highland nation. It's a trifling fight, but don't be careless.
+163	Eliott... sneaking in while my back's turned is no way for a knight to behave.
+164	Pull your army back here quietly. You don't want to fight me either, do you?
+165	Have you gone mad, Eldigan! Are you siding with Grannvale!?
+166	Isn't it you who's defying your lord's orders?
+167	Our liege, King Augustria, has no wish for war with Grannvale.
+168	Fool. The only one who still takes that old man's drivel seriously is you.
+169	The Agustrian lords' alliance has already united against Grannvale.
+170	No, that's wrong! War with Grannvale would only cost both sides a great sacrifice.
+171	That's something we've learned from past wars, time and again. It's not we nobles who suffer.
+172	It's the powerless commoners who are left grieving. I can't accept that.
+173	Still saying such naive things, as always. Well, fine—you and I were always fated to end up like this.
+174	Today, I'll settle this once and for all. All forces, charge! The enemy is Nodion! Take Eldigan's head!!
+175	Tch... retreat! I'll let it go at this for today!
+176	Has Eliott fled... never mind, leave him be. We're pulling back to the castle!
+177	Wait, Ayra! Prince Shanan has been taken back by us. You don't have to fight anymore.
+178	What!? You saved Shanan? Is that really true!?
+179	Yes, I also heard from Prince Shanan that you're the sister of the King of Isaach.
+180	I understand why you'd hate Grannvale and oppose us.
+181	But you must protect that young prince, mustn't you?
+182	Is it worth losing your life in such a pointless battle?
+183	I resolved to die. I was entrusted with Shanan by my brother the king and fled all the way to this country.
+184	I certainly don't want to die for the likes of Verdane.
+185	Until Shanan grows up and becomes a proper king, I can't possibly die.
+186	Then sheathe your sword. I too am a descendant of Baldr, the warrior of light—I won't betray your trust.
+187	I understand... then I too will repay this debt. That is the code of an Isaachi warrior—for now, I'll offer this sword to you.
+188	But Grannvale is still a hated enemy, even now that hasn't changed.
+189	I want you to be prepared—someday, we may cross swords again.
+190	War is a cruel thing. Ayra, swordswoman of Isaach... I don't want to make you my enemy.
+191	[Only if Edain has no sweetheart]
+192	Hey there, Edain. I've got something good for you—look, I found this staff.
+193	No use to me carrying it around, after all.
+194	My, Dew, this is a Warp staff. Where did you find it?
+195	Eh... um, well... I just picked it up around there, you know!
+196	I bet the gods dropped it there just for you, Edain.
+197	Oh, Dew, honestly... but this will make everyone's fighting easier too. Thank you, I'll put it to good use.
+198	You're the Isaachi princess Ayra, aren't you? Sigurd told me about you. I'm Quan of Leonster.
+199	...Nice to meet you.
+200	There's one thing I'd like to ask you. Why did Isaach attack the city of Darna?
+201	You must have known that attacking that city would bring Grannvale's retaliation.
+202	I can't believe a man of King Manannan's caliber would do something so reckless...
+203	Lord Quan, do you know my father?
+204	No, I myself don't, but I'm told my father knew King Manannan and thought him a fine man.
+205	My father spoke many times about how Prince Maricle—your older brother—was also a very talented young man.
+206	I see... that's nice to hear.
+207	My father and brother are certainly fine warriors. They'd never allow an attack on a defenseless city.
+208	The Darna incident was something the Ribo chieftain did on his own...
+209	What!? Then why didn't you explain this to Grannvale?
+210	If King Manannan spoke the truth, surely Prince Kurth would understand.
+211	Father thought the same thing...
+212	When Father learned the truth, he killed the Ribo chieftain and took the head to apologize at Grannvale's camp.
+213	But...
+214	But...?
+215	Father never came back after that.
+216	The people of Isaach learned Father had been killed and flew into a rage,
+217	and my brother Maricle resolved on all-out war with Grannvale.
+218	I can't imagine Prince Kurth would refuse a plea for peace.
+219	Does Sigurd know this story?
+220	No, please don't tell Sigurd. I don't want to burden the prince any further than this... and besides, my brother is already...
+221	Prince Maricle had resolved to die...?
+222	My brother said that as long as Shanan lives, Isaach will rise again.
+223	My role is to watch over Shanan as he grows up, that's what he told me...
+224	I see... Princess Ayra, the truth will come out eventually. Until then, please bear with it.
+225	I'll do what I can to help, as much as possible.
+226	Lord Quan, thank you.
+227	The king of this country is a kind man, never one to start a war on his own.
+228	This whole situation is entirely the fault of that mage, Sandima.
+229	Ever since that man arrived, this country has only gotten harder to live in,
+230	and the princes too, except for the youngest, Prince Jamka, are all dancing to Sandima's tune.
+231	Please, I'm begging you, save this country.
+232	North of this village there's a deep forest called the Forest of Spirits.
+233	Long ago, I used to live in a hidden village deep in that forest.
+234	That village belonged to the clan of the dark god Loptous, yet
+235	it's said to be the place where the descendants of the saint Myrrh, who sided with humanity and was cast out, went into hiding.
+236	When I lived there, a beautiful girl named Shigune was the only one carrying the blood of the god Loptous,
+237	and she lived watched over by the villagers.
+238	But Shigune grew tired of life in that boring forest, broke the village's taboo, and left.
+239	Some years later, she came back to the village. Shigune was pregnant.
+240	And after giving birth to a baby girl, she died just like that.
+241	I heard the child was taken in by the village's old fortune-teller, but I wonder how she's doing now.
+242	If she's alive, she should be about seventeen or eighteen by now...
+243	[If fought against Mideel]
+244	What! You're that archer-knight from before!? Tch, I messed up—so you're still alive!
+245	Gandolf, prepare yourself! I won't forgive you, of all people!!
+246	[If fought against Azel]
+247	What are you? Some brat acting all high and mighty!
+248	So you're Gandolf, huh. How dare you do that to Edain...
+249	[If fought against any other unit]
+250	Damn it, the woman got away and the castle's under attack—
+251	what a miserable turn of luck I'm having!
+252	...wh-what is this... ...guh
+253	Please! Let go of me!
+254	Heheh, come on now, it wouldn't hurt to spend a little time with us, would it?
+255	I want to go home to my village soon. Please, just leave me alone.
+256	Shut it! Keep whining and we'll make it rough on you!
+257	Hey, you there, what are you doing? Let that girl go.
+258	What's this, you!? ...Gah, could it be... you're Grannvale's holy knight!?
+259	Good, now that you understand, get going quick. I hate scum like you more than anything.
+260	Apologize to that girl and get out of my sight, now!
+261	I-I get it... sorry about this, miss.
+262	We were just teasing her a little, forgive us.
+263	Are you all right? Are you hurt anywhere?
+264	I'm fine... thank you so much, Lord Sigurd...
+265	Eh, you know who I am?
+266	A little while ago, at this castle, I met a woman named Edain...
+267	Did Edain tell you about me?
+268	Yes, so I knew right away. You're exactly as I imagined...
+269	What's your name?
+270	...I'm sorry... I... I really must be going...
+271	Ah, wait! Just a little more to talk about—
+272	...I really am sorry. I was glad to meet you...
+273	Eh, what on earth is going on? Wait, please! Ah...
+274	Lord Sigurd, is something the matter?
+275	Ah... you're this town's elder! Who was that woman who just ran off?
+276	Ah, that girl is named Deirdre—she's a priestess of the Forest of Spirits.
+277	Deirdre... what a beautiful person...
+278	Ho ho, even a man like you isn't immune to a beauty, I see. Could this be what they call love at first sight?
+279	Elder, please don't tease me. But she really was a beautiful person. I'd like to meet her again if I could.
+280	That might be a bit difficult. To begin with, the people of the Spirit village have no dealings with the outside world,
+281	and on top of that, that girl bears a fate that forbids her from mingling with people.
+282	It's said that if she breaks it, a great calamity will befall this world, or so the villagers believe.
+283	I don't mean any harm, but it's best you don't get involved with that girl.
+284	No, I don't believe such superstitions. But if that's true, she's a pitiful one. Deirdre... I want to see her again.
+285	Father, even after all I've said, won't you still listen to me?
+286	My brothers have already been defeated, and it's only a matter of time before the enemy attacks this castle too.
+287	Grannvale's commander, Prince Sigurd, is by no means an evil man. Please, stop fighting any further.
+288	But it was Grannvale who was coming to attack us in the first place, so I allowed Gandolf to march out.
+289	I never wanted to fight in the first place.
+290	That's just what that mage Sandima told you, isn't it?
+291	You and my brothers all trust that man too much. Everyone's being deceived by him.
+292	Well, well, Prince Jamka—aren't your words going a bit too far?
+293	A prince has a duty to lead troops and go to war, you know,
+294	I'd rather you not dawdle around here.
+295	Sandima! You...!
+296	Enough, Jamka. Do as Sandima says and lead the troops out to battle.
+297	Father! ...I understand... ...if nothing I say will change your mind, then I'll make up my own mind too.
+298	But once I've won this fight and come back, Sandima—you, of all people, I won't let live!
+299	Sandima, everything you've told me so far has been the truth, hasn't it?
+300	You said Grannvale has ambitions against our country...
+301	Heh... what are you saying now. I thought Verdane might be a little useful, but you really are a backwater barbarian after all.
+302	Completely useless. Well, I have no more use for you either! From now on, I'll command the soldiers directly.
+303	Wha—what are you doing!? Guh, gwahh
+304	Heh, you old fool...
+305	Sandima, did you kill King Batu? And will that make Verdane's soldiers obey you?
+306	Ah, Archbishop Manfroy! You were there? There's nothing to worry about.
+307	I'll just tell the soldiers the king is ill.
+308	Hmm, I see. And how are things on your end? Is the plan progressing?
+309	I'm terribly sorry. The invasion of Grannvale
+310	is taking more trouble than expected, hindered by that brat called Sigurd.
+311	Hmm... then how about the matter of the Loptyr blood? Have you found Shigune's daughter?
+312	That's... still not yet...
+313	Fool. Then there's no way to use that boy I went to such trouble to find—
+314	the son of Shigune, who's in Belhalla.
+315	Shigune is the descendant of Prince Myrrh, who was the younger sibling of Emperor Loptous,
+316	meaning she's the only one who carries on the blood of the Loptyr clan.
+317	That woman broke Myrrh's prohibition and, for the first time, gave birth to two children. Do you understand what that means?
+318	Yes, if those two bloods were to mix, it's said the dark god Loptous would be revived...
+319	That's right. In order for us, the descendants of the Loptyr Empire, to come back into the world once more,
+320	the dark god must be awoken, no matter what. Sandima, you understand that too, don't you?
+321	We have lived hidden deep in the Yied Desert for these several hundred years,
+322	enduring hardship, dreaming of the day the empire would be rebuilt.
+323	And at last, that chance has come.
+324	Yes, I'll carry out my duty even at the cost of my life!
+325	I don't want to kill you. Leave this country at once!
+326	Father...
+327	Wait! Prince Jamka!!
+328	Edain, is that you?
+329	You went back to persuade King Batu, didn't you—so why are you fighting too? What on earth happened?
+330	Father's become a different person. He won't even listen to what I have to say anymore...
+331	...It's all because of that mage calling himself Sandima.
+332	Father and my brothers have all become his puppets.
+333	Even so, why must you fight too? Please, I beg you.
+334	Let's go to Verdane together, and talk to the king one more time. Let's stop this war.
+335	Prince Sigurd has no intention of invading this country.
+336	He only fought to help me, that's all. So please, Jamka.
+337	I understand... if you say so, then I'll bear the disgrace of being called a traitor.
+338	But I won't let a single finger touch my father. Keep that in mind.
+339	Understood, I promise that. Thank you, Jamka—you really are a good person.
+340	Edain...
+341	[If Sandima has not been defeated]
+342	Wait... Lord Sigurd...
+343	Eh? ...Deirdre? ...I see! So this is the Forest of Spirits where you live.
+344	I'm glad. I really thought I'd never see you again.
+345	Sandima, who is at Verdane Castle, is a frightening priest of darkness who uses dark magic. If you go any further, you'll surely be killed.
+346	Please, don't go...
+347	But I can't possibly put my men in any more danger than this. I have no choice but to go myself.
+348	...I understand... then I'll go with you too.
+349	Eh...?
+350	This is called the Silesse staff. If the user's magic power exceeds the opponent's magic defense,
+351	it can seal away magic.
+352	With this, I'll stop Sandima's dark magic.
+353	...! You had such power all along... but why... why would you help me?
+354	...I tried to forget. But I couldn't...
+355	...I don't know what to do anymore... I don't know at all...
+356	Deirdre, I don't understand what it is you're afraid of.
+357	But if our feelings are the same, there's nothing that should frighten us. I... love you...
+358	[If Sandima has been defeated]
+359	Wait... Lord Sigurd...
+360	Deirdre!? ...I see! So this is the Forest of Spirits where you live.
+361	I'm glad. I really thought I'd never see you again.
+362	I heard Sandima was defeated. I was afraid of being found by that man.
+363	Sandima is a priest of darkness, sent to Verdane by the underground dark cult to search for me.
+364	An underground dark cult... what on earth is that?
+365	I don't know the details myself, but my old nanny told me just before she died.
+366	Somewhere in this world there's a cult that worships the dark god Loptous,
+367	and they're scheming to revive the dark god who was supposed to have fallen.
+368	Ah, I've heard that rumor too. But why would that cult target you?
+369	The dark god sleeps within my blood... they want to use me to revive Loptous.
+370	...So I mustn't be found—that's what my nanny told me as her last words. I mustn't mingle with people...
+371	...I see... so that's what it was... that's why you always seemed to run from me, avoiding me.
+372	I was afraid to fall in love... I tried to forget, but I couldn't.
+373	...I don't want to lose you... I don't know what to do anymore...
+374	Deirdre... I understand how you feel, afraid of your own fate.
+375	But nothing is born from fear alone.
+376	I'll protect you. No matter what happens, I swear I'll protect you.
+377	Deirdre, if our feelings are the same, there's nothing we should fear.
+378	God, if our love is a sin, then let the punishment fall on me alone! I swear it!
+379	Even if this body is cut to pieces, I will never regret it.
+380	My beloved Deirdre—God, please, watch over her forever!!
+381	Ah, Lord Sigurd...
+382	Damn it! I dropped my iron axe!!
+383	Is the one you dropped this golden axe? Or perhaps this silver axe?
+384	No, what I dropped wasn't anything so fancy. Just a plain iron axe.
+385	You're an honest man. As a reward, let me give you this Hero's Axe.
+386	Well then, Lex—farewell...
+387	!?........
+388	[If fought against Deirdre]
+389	What? Are you a shaman?
+390	Could it be... you're Deirdre... the cursed girl?
+391	[If fought against Jamka]
+392	Hehehe, Jamka, it's too late. Your old man's already dead.
+393	Wh-what did you say!? Sandima! You...
+394	[If fought against any other unit]
+395	Hehehe... taste the full terror of my dark magic.
+396	Archbishop Manfroy... please... forgive me...
+397	Lord Sigurd, there's a report that someone who looks like King Batu has collapsed at the palace.
+398	He's badly wounded, and there's apparently nothing more that can be done for him.
+399	King Batu... what on earth happened to you! Please, stay calm.
+400	Ugh... Lord Sigurd, is it... I'm sorry, about all this... I was deceived by Sandima.
+401	That man drew in my sons and deceived me, trying to seize this country...
+402	King Batu, I understand. If you push yourself, it will take a toll on your body. Please, rest now.
+403	No, I'm already finished. But before I die, there's something I must tell you.
+404	The wicked events beginning to occur across this world are all the will of the dark cult.
+405	They seek to destroy the order of the world and hasten the revival of the dark god Loptous...
+406	Sandima incited us for that very purpose, to make us attack Grannvale.
+407	They are stirring throughout the whole world... Lord Sigurd... don't be deceived by them.
+408	Please, avenge my regret, and protect the people of this country... ...I beg you, Sigurd...
+409	Ah, King Batu... how pitiful. But... just what is this dark cult...

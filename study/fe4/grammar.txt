@@ -41,3 +41,4 @@ tekudasai|〜てください|Polite request, "please do ~".|
 kono-mama-dewa|このままでは|"If things stay as they are".|
 te-orenai|〜ておれません|Dialect/classical "cannot remain ~ing", = 〜ていられない.|
 kamoshirenai|〜かもしれない|"Might be, perhaps" - expresses a possibility.|
+kanenai|〜かねない|"Might well do ~, cannot rule out ~" - a negative possibility.|
