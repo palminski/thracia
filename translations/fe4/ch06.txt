@@ -1,0 +1,435 @@
+1	The fierce battle at the royal capital, Belhalla, claimed the lives of most of the powerful nobles,
+2	and Lord Arvis, exactly as he had planned, seized total control of the kingdom.
+3	He destroyed the two rival kingdoms of Silesse and Leonster, unifying the continent,
+4	and with the overwhelming support of the people
+5	he became the first emperor of the Grannvale Empire.
+6	Seventeen years passed since the battle of Belhalla.
+7	The people who once hailed Emperor Arvis with such enthusiasm
+8	now groaned and suffered under his tyranny,
+9	and in the outlying nations under the Empire's rule,
+10	people were forced to live like slaves.
+11	Here in Isaac too, the people's suffering had reached its limit.
+12	King Danan of Isaac, like his father Duke Langobalt,
+13	was a cruel man.
+14	He reduced the people of Isaac to slavery,
+15	and while he himself indulged in pleasure at the palace in Ribot,
+16	he placed his second son Johan at Isaac Castle, his third son Johalva at Sophara Castle,
+17	and at the remote Ganeishire Castle he placed his trusted General Harold,
+18	ruling the people with a heavy hand.
+19	But the people of Isaac still had hope.
+20	In the hidden village of Tirnanog to the north, Prince Shanan's Liberation Army had formed,
+21	and day by day it grew stronger.
+22	And among those young warriors was a boy the people of Isaac called the Prince of Light,
+23	and revered as the prince of Grannvale.
+24	The young leader of the Liberation Army; his name was Celice.
+25	(Danan): Harold, how goes the search for the rebels?
+26	(Danan): How much longer do you intend to let them run wild!
+27	(Danan): Prince Shanan's rebel army grows bigger every year, and gets in our way at every turn.
+28	(Danan): And on top of that, I hear they're even harboring the child of that traitor Sigurd.
+29	(Danan): This leaves me, as King of Isaac, with no standing at all.
+30	(Danan): What am I to say to His Majesty the Emperor to apologize for this!
+31	(Papillon): Hah, my deepest apologies, Lord Danan. But please be at ease.
+32	(Papillon): We've already located the rebels' hideout, and a punitive force has already been sent out.
+33	(Papillon): They're nothing more than rats in a sack now. We'll strike down every last one.
+34	(Danan): Hmph, is that so... But let me say this: do not grow careless.
+35	(Danan): The brats are fine, but the real problem is Oifey and Shanan.
+36	(Danan): Underestimate those two alone, and you'll pay dearly for it.
+37	(Papillon): Yes, I'm well aware. But as it happens, from what we've quietly looked into,
+38	(Papillon): neither Oifey nor Shanan is at the Tirnanog hideout. It seems they're both out.
+39	(Danan): What? Is that true! Then don't dawdle. Give the order to attack at once!
+40	(Danan): The people of Isaac call them the Liberation Army and treat them like heroes.
+41	(Danan): There's no need for mercy — this will serve as an example. Kill them! Kill them all!!
+42	(Danan): I'll be heading back to Ribot. I expect good news waiting for me.
+43	(Scathach): Lord Celice, this is terrible! It seems the enemy has found this hideout!
+44	(Scathach): Word has come that a punitive force has set out from Ganeishire!!
+45	(Lakche): Scathach, what are you panicking for? We always knew this hideout would be found eventually.
+46	(Lakche): If they're coming to us, that just saves us the trouble.
+47	(Lakche): Let's meet them head on, and while we're at it, push on to Ganeishire.
+48	(Scathach): Lakche, don't talk nonsense.
+49	(Scathach): Prince Shanan has gone off to the Temple of Yied, and Oifey and the others still aren't back either.
+50	(Scathach): How are we supposed to fight with just the two of us?
+51	(Lakche): Oh my, is Scathach scared? I'm not worried at all. Besides, isn't this a chance?
+52	(Lakche): The prince always treated us like children and wouldn't let us into real battle, but I've trained more than enough by now.
+53	(Scathach): But, Lakche...
+54	(Lakche): I... I don't want to keep running away anymore. They're beasts! So many of my friends have been killed.
+55	(Lakche): Imperial soldiers chasing down girls who try to flee, one after another...
+56	(Lakche): Back then, if Prince Shanan hadn't come to save me, I'd be dead too.
+57	(Lakche): ...I will never forget those girls' sorrow!
+58	(Scathach): Lakche... I know how frustrated you are... but still...
+59	(Celice): Scathach is worried about me.
+60	(Celice): He was probably told sternly by Shanan to hold back.
+61	(Celice): Otherwise he'd be the first one charging out there.
+62	(Celice): Scathach is dying to fight too.
+63	(Lakche): Ah, ...that's... true, I suppose... Indeed, we can't go dragging Lord Celice into this too...
+64	(Celice): What, Lakche, you too? I'm not a child anymore either. I can fight alongside all of you.
+65	(Celice): And besides, this Tirnanog is a precious home to me,
+66	(Celice): I can't just abandon the people who took care of me and run.
+67	(Scathach): But even so...
+68	(Celice): There's no time to waste — Lana, I'm counting on you to look after the townspeople. We'll go meet the enemy at the western hollow.
+69	(Nanna): Lord Celice, I'm coming too!
+70	(Celice): No, you're a sister, you're not suited for battle.
+71	(Nanna): Even a sister can fight! I feel the same way as Lakche,
+72	(Nanna): the Empire's soldiers grow crueler by the day,
+73	(Nanna): and women and children especially can't go on living like this. I don't want us to be destroyed like this.
+74	(Nanna): I have my own way of fighting!
+75	(Celice): I see... I'm sorry, Nanna. You're right. This is everyone's fight.
+76	(Celice): Alright, let's go together. I don't know how it'll turn out, but
+77	(Celice): let's do everything we can right now.
+78	(Nanna): Yes, Lord Celice! But... I'm sorry for speaking out of turn.
+79	(Celice): Hahaha... it's fine. Now then, Scathach, Lakche, Nanna, let's go!
+80	(Oifey): Damn it... I'm too late, the battle's already begun.
+81	(Lester): While we were going around checking on the other countries' conditions, it seems word of Tirnanog got out.
+82	(Lester): I hope everyone's alright.
+83	(Delmud): Lester, don't talk about it like it's none of your concern.
+84	(Delmud): Your sister Nanna might be caught up in the fighting too, you know.
+85	(Delmud): Lord Oifey, let's hurry — I'm worried about Lord Celice!
+86	(Oifey): You're right, Delmud, Lester — let's race to the battlefield at full speed!
+87	(Scathach): Lakche, are you alright?
+88	(Lakche): Yeah, somehow or other...
+89	(Scathach): Don't push yourself too hard. You're always so reckless.
+90	(Lakche): I know that already. I'm not a child anymore.
+91	(Scathach): Prince Shanan said your fiery temper is just like your mother's.
+92	(Lakche): You mean Mother Ayra... but I don't remember her at all. What about you, Scathach?
+93	(Scathach): I don't remember her either.
+94	(Scathach): After all, you and I are twins, and we hadn't even turned two yet.
+95	(Scathach): Oifey brought us to safety in Isaac, but Mother never came back.
+96	(Scathach): I suppose she must have died in the battle of Belhalla after all...
+97	(Lakche): Scathach! You promised never to say that! Mother is alive!!
+98	(Lakche): Don't ever say such a thing again!
+99	(Scathach): ...I'm sorry, Lakche... you're right... sorry.
+100	(Rodolvan): Radney, are you alright?
+101	(Radney): Yeah, somehow or other...
+102	(Rodolvan): Don't push yourself too hard. You're always so reckless.
+103	(Radney): I know that already. I'm not a child anymore.
+104	(Rodolvan): But it's strange, isn't it. I can't understand what Johan or Johalva are thinking.
+105	(Radney): I find it so troublesome. I hate men! It makes my skin crawl.
+106	(Rodolvan): Your hatred of men is because of those imperial soldiers, isn't it. But not all men are like that.
+107	(Radney): Yes, I know that. But I still can't accept it... just being near them makes me feel sick.
+108	(Rodolvan): Any man at all?
+109	(Radney): Of course Lord Celice and Rodolvan are different.
+110	(Rodolvan): Heh, and Lord Shanan too, I suppose.
+111	(Radney): Ro-, Rodolvan!!
+112	(Oifey): Lord Celice, I'm glad to see you safe!
+113	(Celice): Oifey, you've come back. How were things in the other countries?
+114	(Oifey): Yes, the situation is only getting worse. People all over the world are groaning under the Empire's tyranny, and uprisings are breaking out everywhere.
+115	(Celice): I thought as much... so it's not only Isaac suffering under the Empire's tyranny.
+116	(Celice): Oifey, isn't there any way we could save them?
+117	(Oifey): I'm afraid that right now we don't have anywhere near enough strength to fight the Empire.
+118	(Celice): But Isaac's war of liberation has already begun. There's no turning back now...
+119	(Oifey): Yes, now that Lord Celice's whereabouts are known, we can no longer stay hidden.
+120	(Oifey): It's a rather reckless fight, but it seems there's no helping it now...
+121	(Celice): I feel bad for starting this fight on my own.
+122	(Celice): But the people of Isaac can't endure Danan's tyranny any longer. Oifey, please understand...
+123	(Oifey): Yes, Lord Celice. In that case, we should press on to the capital, Ribot, as soon as possible.
+124	(Oifey): If we dawdle, the Empire's reinforcements might arrive!
+125	(Lester): Nanna!? You've joined the fighting too?
+126	(Nanna): Yes, brother Lester. Because I was worried about Lord Celice...
+127	(Lester): I see, I thought as much...
+128	(Lester): But please be careful. If anything happened to you, Mother would be heartbroken.
+129	(Nanna): Yes, but you know, brother, Mother Ethlyn told us
+130	(Nanna): that since we owe the people of Isaac so much, we should do whatever we can for them.
+131	(Lester): Yes, if this country's people hadn't helped us, we wouldn't have survived.
+132	(Lester): ...so, how is Mother?
+133	(Nanna): She's working at the convent in Tirnanog.
+134	(Lester): I see... Nanna, for Mother's sake, and for the sake of the father we've never met, let's do our best.
+135	(Lester): And someday, surely, we'll return to Mother's homeland, Jungby.
+136	(Nanna): Yes, brother Lester.
+137	(Dimna): Mana!? You've joined the fighting too?
+138	(Mana): That's right, brother Dimna. Because I'm worried about Lord Celice.
+139	(Dimna): Hmph, I thought as much...
+140	(Mana): Wh-, what do you mean...
+141	(Dimna): Well... fine, I suppose, but don't get in over your head.
+142	(Dimna): Lord Celice carries the noble blood of the Grannvale royal family.
+143	(Dimna): Commoners like us really shouldn't even be allowed near him — it'll be you who ends up crying over it.
+144	(Mana): That's not... brother, you've got it all wrong.
+145	(Mana): I just want to protect Lord Celice, that's all.
+146	(Dimna): Is that so... then that's fine. Sorry, Mana, I just worry about you, that's all...
+147	(Mana): Yeah, I know... thank you, brother Dimna...
+148	(Soldier): Lord Johalva really has strange tastes, doesn't he. What does he see in such a hot-tempered woman anyway.
+149	(Soldier): If it were me, I'd rather— Wha, what are you trying to make me say!? ......
+150	(Soldier): Hah, Lord Johan's a handful too. He's completely weak when it comes to women, but brutally strict with us.
+151	(Johan): Did you say something?
+152	(Soldier): N-, no! It was nothing at all, sir! Yessir!
+153	(Papillon): Damn it... mere rebels, of all things!
+154	(Papillon): Guh, ...why... ...how could I lose to such a ragtag band of soldiers...!?
+155	(Celice): So this is Ganeishire... it's been thoroughly ravaged...
+156	(Levin (Strategist)): Celice, it's been a while.
+157	(Celice): Huh? ...oh, ...Levin!! ...no, ...King Levin of Silesse...
+158	(Levin (Strategist)): Just call me Levin, like the old days. After the battle of Belhalla, Silesse was occupied by the Empire.
+159	(Levin (Strategist)): I'm still disgracing myself by living on like this, but
+160	(Levin (Strategist)): Silesse itself perished with its pride intact, together with my mother.
+161	(Levin (Strategist)): Now as before, I'm nothing but a foolish wandering minstrel. I don't know what Oifey might have told you, but whatever you do, don't call me a king.
+162	(Celice): Levin... I'm sorry...
+163	(Levin (Strategist)): Hahaha, that was just a joke, don't worry about it. More importantly, so it's finally begun. It was worth the long wait.
+164	(Levin (Strategist)): There's no country better suited for raising an army against the Empire than Isaac.
+165	(Celice): Yes, the people of this country have courage, and they hate the Empire with all their hearts.
+166	(Celice): Though honestly, things would be much easier if Prince Shanan were here.
+167	(Levin (Strategist)): Did Shanan go to the Temple of Yied?
+168	(Celice): Yes, there was information that the Isaac royal family's treasure, the holy sword Balmung, is at the Temple of Yied...
+169	(Celice): But apparently that place is ruled by a wicked dark priest, and everyone's worried about him.
+170	(Levin (Strategist)): Well, knowing him, there's no need to worry. More importantly, Celice, I have a favor to ask.
+171	(Celice): Oh? What is it? If it's something I can do, I'd be glad to help.
+172	(Levin (Strategist)): Julia, come here. This child — I rescued her as a small girl, collapsed in the capital of Belhalla,
+173	(Levin (Strategist)): and I've been keeping her hidden on the frontier of Silesse until now,
+174	(Levin (Strategist)): but even that place has finally become dangerous, so I had no choice but to bring her along.
+175	(Levin (Strategist)): But I have to go on to Leonster from here, and she'd be a bit of a burden.
+176	(Levin (Strategist)): Celice, I'm sorry to ask, but could you look after her for a while?
+177	(Levin (Strategist)): This girl has had a hard life. She seems to have suffered some terrible shock,
+178	(Levin (Strategist)): because when I rescued her, she didn't have a single memory left. Even now, she still doesn't...
+179	(Celice): ! ...I had no idea... understood, leave her to me.
+180	(Celice): But please come back for her as soon as you can. Julia must be feeling anxious too...
+181	(Levin (Strategist)): Ah, I know. By the time you've taken all of Isaac, I'll be back too.
+182	(Levin (Strategist)): Well then, good luck, Celice.
+183	(Celice): Take care too, Levin!
+184	(Celice): Julia, I know it must be unsettling, but there's nothing to worry about.
+185	(Celice): Until Levin comes back, I'll protect you... though, honestly,
+186	(Celice): I'm not really all that strong yet.
+187	(Celice): But I'll do my best to grow stronger, strong enough to protect everyone,
+188	(Celice): and to save everyone from the Empire's tyranny — I'll become strong, just like my father...
+189	(Julia): Lord Celice.........
+190	(Danan): Ganeishire has fallen into the rebels' hands, you say? Harold, you fool!
+191	(Danan): What are my sons doing! Tell them to crush the rebels at once!
+192	(Johalva): Father's giving an attack order, huh? Fight the army with Lakche in it? Damn it, what am I supposed to do...
+193	(Johan): Attack Ganeishire, is it? Good grief, father's orders...
+194	(Johan): But... I could never fight Lakche. Ahh, what on earth should I do...
+195	(Fee): Whew, sorry, Mana. Was I heavy?
+196	(Arthur): Hmm, so that pegasus is called Mana.
+197	(Fee): Arthur, would you quit it already! "Just a little further, just a little further" you kept saying, and we ended up all the way out here in Isaac!
+198	(Arthur): Sorry for the imposition, Fee. Just a bit further — well, never mind, I'll walk the rest of the way.
+199	(Fee): Where on earth are you even trying to go?
+200	(Arthur): Alster.
+201	(Fee): Al-, Alster!? Are you out of your mind.
+202	(Fee): Alster, if I remember right, is way to the south, across the sea,
+203	(Fee): do you have any idea how far that is from here... there's no way you can walk it!
+204	(Arthur): It's fine, it's not like I'm in any particular hurry.
+205	(Fee): So what's even in Alster?
+206	(Arthur): There's a little sister there, apparently, who I was separated from when we were small.
+207	(Arthur): When I was little, my mother and sister were taken from me, and I grew up all alone in some corner of Silesse,
+208	(Arthur): but hearing a story like that, well, I just... I want to see her...
+209	(Fee): Huh, is that so. I understand, that feeling. I want to see my brother too, you know.
+210	(Arthur): You were separated too?
+211	(Fee): No, we were together in Silesse the whole time. But my brother left on a journey, saying he was going to look for our father.
+212	(Arthur): Your father?
+213	(Fee): Our father, you see, has gone missing. Mother waited and waited, but he never came back.
+214	(Arthur): And what happened to your mother?
+215	(Fee): She died, of illness...
+216	(Arthur): I see... sorry, that was a strange thing to ask.
+217	(Fee): It's fine. I used to think you were a strange one, but you're not such a bad person after all.
+218	(Arthur): Hahaha, well, thank you very much. So you've reconsidered your opinion of me, have you.
+219	(Fee): I suppose so. So, what are you really going to do from here?
+220	(Arthur): Hmm, well, I don't know... but what about you?
+221	(Fee): I'm going to join Isaac's Liberation Army.
+222	(Fee): When I was little, my mother told me the story of the holy knight Sigurd and the brave warriors — I always admired it.
+223	(Fee): And now that very Sigurd's own son has risen up here in Isaac.
+224	(Fee): I figured I'd better do my part too, so I rushed out of Silesse in a hurry.
+225	(Arthur): Heh, sounds interesting. Alright, I'll lend a hand for a while too — I owe you for the ride, after all.
+226	(Fee): Okay, now you're talking! Let's do our best, partner!
+227	(Arthur): Hahaha, you're a lively one.
+228	(Danan): What are they doing! Those useless sons of mine, don't they even know how to fight!
+229	(Danan): Schmidt, you go — take back the castle the rebels stole from us!
+230	(Slayder): Yes, Lord Danan, leave it to me.
+231	(Nanna): Hello, Julia. You must be lonely without Lord Levin around.
+232	(Julia): You're Nanna, aren't you. No, I'm fine. I'm not lonely at all.
+233	(Nanna): Lord Celice has been very worried about you, you know.
+234	(Nanna): If anything's troubling you, just tell me.
+235	(Julia): Alright, thank you...
+236	(Nanna): And here, this is for you.
+237	(Julia): Is this a Revive staff?
+238	(Nanna): Yes, I'm sure you can use it, can't you?
+239	(Julia): You're giving this to me? ...thank you, Nanna.
+240	(Julia): Now I can be of use to everyone too.
+241	(Nanna): Julia, let's work hard together, and do our best!
+242	(Johan): Ah, Lakche... my beloved... the day of destiny has finally come...
+243	(Lakche): Johan? What are you talking about? Did you eat something bad?
+244	(Johan): Lakche... your words are a little bird's song, your eyes are the twinkling of the stars.
+245	(Johan): Ah, I can no longer live without you any longer...
+246	(Lakche): Stop it, it's disgusting! This is a battlefield, you know — you can't possibly be in your right mind.
+247	(Johan): I'll show you proof that my heart speaks no falsehood. Love can drive a man mad, at times.
+248	(Johan): Hear me, all my troops — from this moment, our army sides with the Liberation Army!
+249	(Johan): From today, we fight for love, for justice, and for Lakche!!
+250	(Johalva): Damn it, brother Johan! Sneaking off ahead of me and siding with Lakche.
+251	(Johalva): Fine then, I'll fight! All troops, to the attack!
+252	(Johalva): Well if it isn't Lakche! Did you come all this way just because you wanted to see me?
+253	(Lakche): Heh, Johalva... same as ever, I see. You may be rough around the edges, but you really aren't a bad person.
+254	(Lakche): At the very least, you never laid a hand on women or children.
+255	(Lakche): If I could help it, I wouldn't want to fight either, you know.
+256	(Johalva): I'm not cool and composed like my brothers, you know. I'm not the type to force things through with brute strength.
+257	(Johalva): And besides, I can't stand the Loptr cult's ways anymore.
+258	(Johalva): I hear they're sacrificing innocent children back home,
+259	(Johalva): and I'm sick and tired of my old man too, who can't even say a word against it.
+260	(Johalva): If Lakche wants it, I'll hand my whole unit over to you.
+261	(Lakche): Wha! ...are you serious? Johalva, you really are something...
+262	(Lakche): I'm sorry, it seems I've misjudged you a little, all this time.
+263	(Johalva): It's fine. I really have done some awful things, so call this making up for it, I'll do it.
+264	(Johalva): Alright then, from today we're the Liberation Army! You lot, fight for love and justice!!
+265	(Johan): Johalva has sided with the Liberation Army, you say? Damn... Johalva, sneaking ahead of me like that!
+266	(Johan): Fine then, all troops, begin the attack!
+267	(Arthur): Lord Celice, nice to meet you.
+268	(Celice): You are...?
+269	(Arthur): I'm Arthur. I've come from Silesse.
+270	(Celice): So you're Arthur!? I hear you helped everyone out — thank you.
+271	(Arthur): No, don't mention it.
+272	(Celice): So you can use magic? That's impressive.
+273	(Arthur): My mother was a mage knight, so... but I'm still nowhere near good enough.
+274	(Celice): That's the same for all of us.
+275	(Celice): But if we all join our strength together, we might be able to change the world. That's the thought that made us rise up.
+276	(Arthur): I see... for whatever little I can do, I'll lend my strength too. Lord Celice, I look forward to working with you.
+277	(Fee): Are you Lord Celice!
+278	(Celice): Yes, that's right, and you are?
+279	(Fee): I've come from Silesse. My name's Fee.
+280	(Celice): Silesse? Are you a pegasus knight?
+281	(Fee): No, not yet, but... my mother was a pegasus knight.
+282	(Fee): In the last war, she fought alongside Lord Sigurd.
+283	(Celice): I see... on my father's behalf, let me thank you. But why have you come?
+284	(Fee): The truth is I set out from home to look for my brother,
+285	(Fee): but when I heard Lord Celice had begun a fight to overthrow the Empire, I just couldn't stay away any longer...
+286	(Fee): Lord Celice, please let me join the Liberation Army too.
+287	(Celice): I don't mind that, but is it alright with your brother?
+288	(Fee): Yes, I think that if I stay with Lord Celice's army, I'll be able to meet my brother too. I just have that feeling...
+289	(Femina): Are you Lord Celice!
+290	(Celice): Yes, that's right, and you are?
+291	(Femina): I've come from Silesse. My name's Femina.
+292	(Celice): Silesse? Are you a pegasus knight?
+293	(Femina): Yes, though I'm still only in training...
+294	(Celice): I see... but why have you come to Isaac?
+295	(Femina): The truth is I set out from home to look for my brother,
+296	(Femina): but when I heard Lord Celice had begun a fight to overthrow the Empire, I just couldn't stay away any longer...
+297	(Femina): Lord Celice, please let me join the Liberation Army too.
+298	(Celice): I don't mind that, but is it alright with your brother?
+299	(Femina): Yes, I think that if I stay with Lord Celice's army, I'll be able to meet my brother too. I just have that feeling...
+300	(Lakche): Hey! Quit hovering around me! It's annoying!
+301	(Johan): Now now, don't be so cold. This is simply how I express my love.
+302	(Johan): Please don't forget that I'm always watching over you.
+303	(Lakche): .........
+304	(Lakche): Hey! Quit hovering around me! It's annoying!
+305	(Johalva): Ugh..., I just... thought I'd protect you...
+306	(Lakche): .........
+307	(Johan): Heheheh... there's no one who can beat me.
+308	(Johan): Rejoice, that you get to die at my hand.
+309	(Johan): Ahh, to lose to mere rebels... Lakche, my love is eternal...
+310	(Johalva): I'm not handing my castle over to you! You rebels, I'll beat you senseless!
+311	(Johalva): Ugh... Lakche... ...I'm sorry...
+312	(Elder): Lord Celice, thank you for liberating this town.
+313	(Celice): Elder, is everyone in the town safe?
+314	(Elder): Yes, we're all overjoyed.
+315	(Celice): Please bear with it just a little longer — I will defeat King Danan of Ribot without fail, and liberate all of Isaac.
+316	(Elder): What encouraging words. But please, do not push yourself too hard.
+317	(Elder): Lord Celice, you are now the only hope for the people of this world.
+318	(Elder): For it is you, and you alone, who can save this dark world...
+319	(Elder): Well, well, Lord Celice, I'm so glad you're safe.
+320	(Celice): Elder, is everyone in the town safe?
+321	(Elder): Yes, we're all overjoyed. Thanks to Lord Celice, Isaac will finally be liberated, we hear.
+322	(Celice): No, my own strength is nothing at all. It's all thanks to the strength of the people of Isaac.
+323	(Celice): It is I who have been helped, all this long time.
+324	(Elder): Come to think of it, what a strange turn of fate this is. Isaac's former king trusted Lord Sigurd's father,
+325	(Elder): Lord Sigurd helped Prince Shanan, and now Prince Shanan helps you in turn — truly, a trick of destiny.
+326	(Celice): Isaac is like a second homeland to me too. I hope to remain eternal friends with Prince Shanan.
+327	(Elder): That you are the rightful heir to the Grannvale royal family —
+328	(Elder): there is no longer a single person who doubts that.
+329	(Elder): Please, carry the banner of justice onward to Belhalla.
+330	(After capturing Sophara Castle)
+331	(Celice): Nanna, it's dangerous to be out in a place like this.
+332	(Nanna): Ah, yes, I'm fine.
+333	(Celice): But please be careful — you're an easy target, Nanna, so don't go to the front line.
+334	(Nanna): But...
+335	(Celice): Nanna... I'm worried about you.
+336	(Nanna): ...yes, Lord Celice...
+337	(After capturing Sophara Castle)
+338	(Celice): Julia, are you alright?
+339	(Julia): Oh, Lord Celice...
+340	(Celice): I'll give this to you, Julia. I found it in Sophara Castle.
+341	(Julia): What is this...?
+342	(Celice): It's a light tome called Aura, apparently. You should be able to use it, right?
+343	(Julia): Aura... somehow, this name feels nostalgic...
+344	(Julia): Lord Celice, thank you very much.
+345	(After capturing Isaac Castle)
+346	(Celice): Julia, are you alright?
+347	(Julia): Oh, Lord Celice...
+348	(Celice): I'll give this to you, Julia. I found it in Isaac Castle.
+349	(Julia): What is this...?
+350	(Celice): It's a light tome called Resire, apparently. You should be able to use it, right?
+351	(Julia): Yes, if it's a light tome, then...
+352	(Celice): Good. This should be able to protect you.
+353	(Julia): Lord Celice... thank you very much.
+354	(Villager (woman)): Huh? Aren't you Dimna? Yes, you're Dimna, aren't you!
+355	(Dimna): Eh? Karen? It's really you, Karen! It's been so long.
+356	(Villager (woman)): It really has been forever! How many years has it been since you and Mana left this town...
+357	(Villager (woman)): But I'm so glad, you look well.
+358	(Dimna): Yeah, Lord Celice rose up to liberate the world from the Empire's rule, and I joined up with him too.
+359	(Dimna): Though I'm still not much help yet.
+360	(Villager (woman)): Hehe, how dashing. When you were little you used to cry every day because of me...
+361	(Dimna): Hahaha, you promised never to bring that up. But you know, I keep thinking I need to grow even stronger.
+362	(Dimna): So that Karen and everyone in the world can live in peace.
+363	(Villager (woman)): I see... good luck, I'm rooting for you...
+364	(Dimna): What's wrong? Why are you looking down like that?
+365	(Villager (woman)): No, it's nothing... here, take this with you, I'm sure it'll come in handy.
+366	(Dimna): What's this?
+367	(Villager (woman)): It's my mother's keepsake necklace. Wearing it is supposed to give you strength.
+368	(Dimna): Wha, I can't accept something like that!
+369	(Villager (woman)): No, it's fine — if you have it, my mother would be happy too, that the time has come for this necklace's power to be used.
+370	(Villager (woman)): ...please, take it.
+371	(Dimna): ...thank you, I'll hold onto it. But once this war is over, I'll definitely come back to return it.
+372	(Villager (woman)): Heh, that's just like you, Dimna...
+373	(Dimna): Well then, everyone's waiting, so I'll be off now. Karen, take care!
+374	(Villager (woman)): You take care too, Dimna!
+375	(Villager (woman)): Dimna.........
+376	(Slayder): This is King Danan's order — I won't let you go any further than this!
+377	(Slayder): Lord Danan... forgive me!
+378	(Danan): You damned rebels! Don't you dare underestimate the Grannvale Empire!
+379	(Danan): Guh... ...Emperor Arvis...
+380	(Levin (Strategist)): Well done, Celice. The liberation of Isaac has ended safely.
+381	(Celice): Levin, you're back.
+382	(Levin (Strategist)): Yes... I only just returned. Celice, the world is in upheaval right now. Do you know why?
+383	(Celice): Huh? No... I still don't quite...
+384	(Levin (Strategist)): It's been fifteen years since the world was unified under Lord Arvis and the Grannvale Empire was born. At first it wasn't so bad.
+385	(Levin (Strategist)): Emperor Arvis ruled the world with absolute rule of law,
+386	(Levin (Strategist)): and though it was a bit stifling, a peaceful, calm span of time flowed by.
+387	(Levin (Strategist)): But over these past few years, the emperor's ways have changed completely — rule by force, oppression of the people,
+388	(Levin (Strategist)): and... the revival of the heretical faith. The Loptr cult's power now threatens to cover the whole world,
+389	(Levin (Strategist)): sacrificial rites have been revived too, and for the sake of the Loptr god's resurrection festival, children are being hunted down across the world.
+390	(Levin (Strategist)): Those who resist it are all captured and either enslaved or executed,
+391	(Levin (Strategist)): and truly, that detestable Loptr Empire is on the verge of being rebuilt.
+392	(Celice): That can't be...! I'd heard rumors, but... I never imagined it was really true...
+393	(Levin (Strategist)): Isaac still has it better than most. It seems Danan's two sons refused to go along with the child-hunting, at least.
+394	(Celice): .........
+395	(Levin (Strategist)): Right now, uprisings are breaking out all over the world, but none of them have any unity,
+396	(Levin (Strategist)): and they're being crushed before the Empire's overwhelming military might.
+397	(Levin (Strategist)): The world needs a savior right now. Do you understand, Celice? It is you who must save the world.
+398	(Levin (Strategist)): You're the only one who can do it.
+399	(Celice): Please wait. I don't have that kind of power...
+400	(Levin (Strategist)): You have the duty to do it. You are the eldest child of Princess Deirdre, which makes you the elder brother of Prince Julius.
+401	(Levin (Strategist)): As a direct descendant of the saint Heim, you have the duty to unite the holy warriors and save the world from darkness.
+402	(Celice): That's...
+403	(Levin (Strategist)): And besides, you have the power too. It hasn't awakened yet, but you are a descendant of the holy knight Baldur,
+404	(Levin (Strategist)): and if you take up the holy sword Tyrfing, that power should reach to the heavens.
+405	(Celice): But...
+406	(Levin (Strategist)): And finally, there is the will of the gods.
+407	(Levin (Strategist)): As the son of Sigurd, who met such an unjust death, you must carry on his will.
+408	(Levin (Strategist)): This is no longer the time for hesitation. Do you understand, Celice?
+409	(Celice): Yes... I understand... if that is my fate, then I will go. Following the will of the gods...
+410	(Levin (Strategist)): Fate is not just one thing. Nor does it belong only to you. In time, you'll come to understand that too.
+411	(Levin (Strategist)): Sigurd left you with a great many things — and the greatest of them is friendship. The fact that I stand with you now is one of those.
+412	(Levin (Strategist)): Be grateful that so many young people gather around you because of your father's kindness.
+413	(Celice): Yes, my father was loved and trusted by so many people. I hope to be the same way.
+414	(Levin (Strategist)): Then it's settled. Now then, our next destination is Leonster.
+415	(Levin (Strategist)): The son of Quan, Sigurd's close friend, has raised an army at Leonster, but they're struggling. We must go save them.
+416	(Levin (Strategist)): Let's leave Isaac's defense to the people of this country and set out at once.
+417	(Levin (Strategist)): We can rejoin Prince Shanan along the way.
+418	(Celice): Yes!
+419	(Elder): King Danan had three children — the eldest, Bryan, is in Grannvale, but the younger two remained in this country.
+420	(Elder): Johan is Isaac's lord, and Johalva is Sophara's lord,
+421	(Elder): and funnily enough, the two of them are both in love with Lakche of the Liberation Army, and they're forever at each other's throats over it.
+422	(Elder): Well, neither of them is a thoroughly bad person at heart, so maybe we could win them over as allies...
+423	(Villager (man)): We people of Isaac look up to Lord Celice.
+424	(Villager (man)): Your father, Lord Sigurd, once helped Prince Shanan — we will never forget that debt!
+425	(Villager (man)): Prince Shanan is our hope. If only the holy sword Balmung would return to the prince's hand,
+426	(Villager (man)): we'd have nothing to fear from the Empire's men — we'd drive them out of this country, every last one!
+427	(Villager (man)): Oh, so you're the Liberation Army!? You've finally risen up!
+428	(Villager (man)): We did it! Now we can finally drive the Empire's men out of this country!
+429	(Villager (woman)): Lord Celice of the Liberation Army is the rightful heir to Grannvale, isn't he?
+430	(Villager (woman)): Then surely you'll help us too!
+431	(Villager (woman)): As thanks, please accept this skill ring. I hope you'll do your best.
+432	(Villager (woman)): I hear that in other countries, children are being hunted down...
+433	(Villager (woman)): Thanks to all of you, Isaac has been liberated, but the world is still shrouded in darkness...
+434	(Villager (woman)): There are people suffering under the Empire's tyranny who are waiting for Lord Celice's help.
+435	(Villager (woman)): Please, return to Grannvale as soon as you possibly can!

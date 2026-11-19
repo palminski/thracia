@@ -2531,3 +2531,255 @@
 ときどき|ときどき|sometimes
 よろい|よろい|armor
 かける|かける|to cause, give (trouble)
+解放|かいほう|liberation, release
+圧政|あっせい|tyranny, oppressive rule
+支配|しはい|rule, control, domination
+アジト|あじと|hideout
+制圧|せいあつ|suppression, capture (of a castle/territory)
+参加|さんか|participation, joining
+的|てき|-like, -ish (adjective-forming suffix)
+奴隷|どれい|a slave
+ごと|ごと|every, each (suffix)
+向こう|むこう|the other side, over there
+神殿|しんでん|a shrine, temple
+始める|はじめる|to begin, start (something)
+付ける|つける|to attach; to pay (attention)
+久しい|ひさしい|a long time (has passed)
+ぶり|ぶり|manner of; (time) interval (suffix, e.g. 久しぶり)
+立ち上がる|たちあがる|to stand up, rise up
+魔道|まどう|sorcery, dark magic
+書|しょ|book (suffix)
+狩り|かり|hunting
+統一|とういつ|unification
+圧倒|あっとう|overwhelming
+十|じゅう|ten
+残虐|ざんぎゃく|cruel, brutal
+三男|さんなん|third son
+きびしい|きびしい|strict, severe
+弾圧|だんあつ|suppression, crackdown
+隠れる|かくれる|to hide (oneself)
+修行|しゅぎょう|training, discipline
+助け|たすけ|help, assistance
+ふるさと|ふるさと|hometown, home
+おぼえる|おぼえる|to remember
+結局|けっきょく|in the end, after all
+二度|にど|twice
+別|べつ|different, separate
+救える|すくえる|can save (potential of 救う)
+ゆく|ゆく|to go (literary form of 行く)
+挙げる|あげる|to raise (an army)
+神剣|しんけん|holy sword
+心細い|こころぼそい|uneasy, lonely, anxious
+全土|ぜんど|the whole land, the whole country
+やれやれ|やれやれ|good grief, oh dear
+どれ|どれ|which one
+小さい|ちいさい|small
+ちゃん|ちゃん|(affectionate suffix on names)
+へん|へん|strange, odd
+ひと|ひと|a person
+まかせる|まかせる|to entrust, leave to
+抜け駆け|ぬけがけ|sneaking ahead of others, stealing a march
+いけにえ|いけにえ|a sacrifice
+打倒|だとう|overthrow
+たまる|たまる|to be able to bear, endure (in たまらない)
+会える|あえる|can meet (potential of 会う)
+うろちょろ|うろちょろ|hovering around, puttering about
+うっとうしい|うっとうしい|annoying, gloomy
+永遠|えいえん|eternity
+まさに|まさに|truly, exactly
+第|だい|(ordinal prefix, e.g. 第二 "second")
+後継|こうけい|succession, successor
+オーラ|おーら|Aura (light tome)
+たつ|たつ|to pass (of time)
+ネックレス|ねっくれす|necklace
+行う|おこなう|to carry out, conduct
+有力|ゆうりょく|influential, powerful
+追い遣る|おいやる|to drive (someone) to (death etc.)
+全権|ぜんけん|full authority, total power
+滅亡|めつぼう|ruin, downfall
+支持|しじ|support (noun)
+初代|しょだい|the first (generation/emperor)
+七|しち|seven
+かつて|かつて|once, formerly
+熱狂|ねっきょう|enthusiasm, frenzy
+喘ぎ苦しむ|あえぎくるしむ|to groan and suffer
+生活|せいかつ|life, living
+強いる|しいる|to force, compel
+限界|げんかい|limit
+達する|たっする|to reach (a limit)
+身分|みぶん|social status
+みずから|みずから|oneself, personally
+快楽|かいらく|pleasure
+溺れる|おぼれる|to drown, to indulge (in pleasure)
+腹心|ふくしん|a trusted aide
+北方|ほっぽう|the north
+結成|けっせい|formation (of a group)
+敬う|うやまう|to revere, respect
+さく|さく|a search (archaic/dialect for 探索)
+野放し|のばなし|letting (something) run loose
+年々|ねんねん|year by year
+わび|わび|an apology
+突き止める|つきとめる|to track down, locate
+ふくろ|ふくろ|a bag, sack
+ネズミ|ねずみ|a mouse, rat
+討ち取る|うちとる|to strike down, slay
+ごらん|ごらん|(honorific) look, see
+侮る|あなどる|to underestimate, scorn
+手ひどい|てひどい|severe, harsh
+密か|ひそか|secret, covert
+羽織る|はおる|to be out, away (colloquial, lit. "put on over")
+外出|がいしゅつ|going out
+英雄|えいゆう|a hero
+見せしめ|みせしめ|an example (to deter others)
+加減|かげん|degree, moderation
+手間|てま|trouble, effort
+省く|はぶく|to omit, save (effort)
+迎え討つ|むかえうつ|to meet and strike (an enemy)
+ついで|ついで|while at it, incidentally
+恐い|こわい|scary, frightening
+実戦|じっせん|real combat
+加える|くわえる|to add, include
+積む|つむ|to accumulate, pile up
+逃げ惑う|にげまどう|to flee in confusion
+次々|つぎつぎ|one after another
+悲しみ|かなしみ|sorrow, grief
+もん|もん|thing (colloquial for もの)
+悔しい|くやしい|frustrating, vexing
+飛び出す|とびだす|to jump/rush out
+うずうず|うずうず|itching (to do something)
+迎え打つ|むかえうつ|to meet and strike (an enemy)
+向く|むく|to be suited to, face
+おう|おう|to follow, go along (archaic for 追う)
+諸国|しょこく|various countries
+一気|いっき|in one go, at once
+駆け抜ける|かけぬける|to dash through
+度|ど|time(s) (counter, e.g. 二度 "twice")
+虫|むし|a bug, insect (ムシズがはしる "to feel disgusted")
+走る|はしる|to run
+原因|げんいん|a cause, reason
+喘ぐ|あえぐ|to gasp, groan (under hardship)
+起きる|おきる|to occur, happen
+後戻り|あともどり|turning back
+所在|しょざい|whereabouts
+一刻|いっこく|a moment
+悲しむ|かなしむ|to grieve, be sad
+にい|にい|(affectionate, "big brother", short for 兄)
+修道院|しゅうどういん|a convent, monastery
+深入り|ふかいり|getting too involved
+高貴|こうき|noble, of high birth
+平民|へいみん|a commoner
+からきし|からきし|utterly, completely (with negative)
+めちゃくちゃ|めちゃくちゃ|extremely, terribly
+高|たか|amount, extent
+ぐわ|ぐわ|(groan of pain)
+寄せ集め|よせあつめ|a ragtag collection
+占領|せんりょう|occupation
+生き恥|いきはじ|living in disgrace
+晒す|さらす|to expose, bare
+滅ぶ|ほろぶ|to perish, be destroyed
+間抜け|まぬけ|a fool, idiot
+間違う|まちがう|to be mistaken
+洒落る|しゃれる|to joke
+甲斐|かい|worth, use (in effort)
+反帝国|はんていこく|anti-imperial
+都合|つごう|convenience, circumstances
+勇気|ゆうき|courage
+家宝|かほう|a family treasure, heirloom
+あそこ|あそこ|that place, over there
+都|みやこ|the capital
+保護|ほご|protection
+止むない|やむない|unavoidable, cannot be helped
+ショック|しょっく|a shock
+頑張れる|がんばれる|can do one's best (potential of 頑張る)
+守れる|もれる|can protect (potential of 守る)
+ふう|ふう|(sigh)
+重たい|おもたい|heavy
+更に|さらに|furthermore
+生き別れる|いきわかれる|to be separated (while both still alive)
+片田舎|かたいなか|a remote, out-of-the-way place
+独りぼっち|ひとりぼっち|all alone
+生き別れ|いきわかれ|being separated (while both alive)
+子息|しそく|(someone's) son
+旗揚げ|はたあげ|raising a banner, starting a venture
+手伝う|てつだう|to help, assist
+乗せる|のせる|to give a ride, let ride
+オッケー|おっけー|okay
+あいぼう|あいぼう|partner, buddy
+リライブ|りらいぶ|Revive (staff)
+食べる|たべる|to eat
+小鳥|ことり|a small bird
+囀り|さえずり|chirping, a bird's song
+瞳|ひとみ|the eyes, pupils
+星|ほし|a star
+瞬き|またたき|a twinkle, blink
+正気|しょうき|sanity, right mind
+我が|わが|my, our (possessive)
+移る|うつる|to move, shift (into action)
+荒くれ|あらくれ|rough, wild (person)
+ごり押し|ごりおし|forcing (something) through
+我慢|がまん|patience, endurance
+モンク|もんく|a complaint (monku)
+愛想|あいそ|affability, charm (愛想が尽きる "to be fed up with")
+尽きる|つきる|to run out, be exhausted
+罪滅ぼし|つみほろぼし|atonement
+しおる|しおる|(colloquial contemptuous suffix, "the nerve to...")
+攻撃開始|こうげきかいし|start of the attack
+初めまして|はじめまして|nice to meet you
+つれない|つれない|cold, unfeeling
+表現|ひょうげん|expression
+打ちのめす|うちのめす|to beat senseless
+微々たる|びびたる|negligible, insignificant
+巡り合わせ|めぐりあわせ|a turn of fate
+悪戯|いたずら|a trick, mischief
+旗|はた|a flag, banner
+押し進める|おしすすめる|to press forward, advance
+易い|やすい|easy to (do), prone to
+懐かしい|なつかしい|nostalgic
+ヒビキ|ひびき|a resonance, echo
+かっこいい|かっこいい|cool, dashing
+泣かす|なかす|to make (someone) cry
+俯く|うつむく|to look down
+沸く|わく|to well up, spring forth
+貰う|もらう|to receive
+発揮|はっき|exhibiting, displaying (one's abilities)
+返し|かえし|returning (something)
+揺れ動く|ゆれうごく|to be in upheaval
+十五年|じゅうごねん|fifteen years
+初め|はじめ|the beginning
+法治主義|ほうちしゅぎ|rule of law
+君臨|くんりん|to reign over
+窮屈|きゅうくつ|cramped, constrained
+数年|すうねん|several years
+一変|いっぺん|a complete change
+邪教|じゃきょう|a heretical religion
+儀式|ぎしき|a ritual, ceremony
+復活祭|ふっかつさい|a resurrection festival
+反抗|はんこう|resistance, defiance
+処刑|しょけい|execution
+纏まり|まとまり|unity, cohesion
+叩き潰す|たたきつぶす|to crush, smash
+救世主|きゅうせいしゅ|a savior
+皇女|こうじょ|a princess
+非業|ひごう|an unjust, tragic (death)
+遂げる|とげる|to accomplish, undergo (an end/death)
+迷う|まよう|to hesitate, be lost
+赴く|おもむく|to proceed, head toward
+最たる|さいたる|the foremost, greatest
+集う|つどう|to gather
+出発|しゅっぱつ|departure
+合流|ごうりゅう|joining up, merging
+長男|ちょうなん|the eldest son
+彫る|ほる|to carve; (ほれる) to fall for, be smitten
+啀み合う|いがみあう|to quarrel, be at odds
+根っから|ねっから|thoroughly, by nature
+押す|おす|to push, support (おしたいする "to revere")
+戻り|もどり|returning
+追い出す|おいだす|to drive out, expel
+スキル|すきる|skill
+調べる|しらべる|to investigate, check
+くぼ|くぼ|a hollow, depression (dialect)
+物|もの|a thing
+クール|くーる|cool, composed
+開始|かいし|a start, beginning
+許し|ゆるし|forgiveness, permission
+まとまり|まとまり|unity, cohesion

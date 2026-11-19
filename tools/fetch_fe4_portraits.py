@@ -39,6 +39,13 @@ NAMES = {
     "パメラ": "pamela", "ラーナ": "lahna", "マーニャ": "annand",
     "アイーダ": "aida", "アズムール": "azmur", "バイロン": "byron",
     "ヴァハ": "vaja", "ジャムカ": "jamke",
+    "ダナン": "danann", "スカサハ": "scáthach", "ラクチェ": "larcei",
+    "ロドルバン": "dalvin", "ラドネイ": "creidne", "オイフェ": "oifey_01",
+    "レスター": "lester", "デルムッド": "diarmuid", "ヨハン": "iuchar",
+    "ヨハルヴァ": "iucharba", "レヴィン（軍師）": "lewyn_02", "ユリア": "julia",
+    "ラナ": "nanna", "ディムナ": "deimne", "マナ": "muirne", "フィー": "fee",
+    "アーサー": "arthur", "フェミナ": "hermina", "スレイダー": "slayder schmidt",
+    "ハロルド": "harold",
 }
 
 
