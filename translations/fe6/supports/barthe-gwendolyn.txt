@@ -1,0 +1,41 @@
+1	Mr. Barth! Are you unhurt?
+2	Of course. Do you think I'd lose to an enemy this weak?
+3	Yes, that's exactly right.
+4	I won't ask if you're all right either.
+5	Because an Ostian Great Knight shouldn't be defeated.
+6	Yes.
+7	I appreciate you worrying about me, but worry about yourself before others.
+8	Otherwise, it'll cost you your life.
+9	Yes.
+10	What's wrong? You're out of breath.
+11	An Ostian Great Knight wouldn't lose their breath over a fight this small.
+12	I'm sorry.
+13	Remember your training, Wendy — the training where you marched through those mountains at full strength!
+14	Compared to that, this battle should be nothing.
+15	Yes, sir!
+16	Show the enemy the strength of an Ostian Great Knight!
+17	Yes! I won't lose!
+18	Wendy.
+19	Mr. Barth.
+20	Is there something lacking in me as a knight?
+21	No — you're already a fine Ostian Great Knight.
+22	There's nothing left for me to nag you about at this point.
+23	Oh — thank you very much!
+24	But, um... Mr. Barth.
+25	Could you say something... that kind of thing?
+26	Something? Like what?
+27	Well...
+28	There must still be things I'm lacking in, surely...
+29	No — from here on, you need to think for yourself, by yourself.
+30	But...
+31	...What's wrong? Why do you look so dissatisfied?
+32	I— I just... I wanted more of your guidance, Mr. Barth...
+33	?
+34	Please don't abandon me, Mr. Barth...
+35	? What are you talking about, that doesn't make any sense...
+36	Aren't we comrades who fight together from now on?
+37	I won't abandon you or anything like that.
+38	Really?!
+39	Of course.
+40	...Enough wasting time talking, let's go, Wendy!
+41	Yes!
