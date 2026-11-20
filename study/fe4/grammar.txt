@@ -51,3 +51,9 @@ neba|〜ねば|Classical conditional "if not ~", often implying "must ~" even wi
 teyaru|〜てやる|Do something for (or to) someone of lower status; also a threat or boast.|
 tekure|〜てくれ|Plain, masculine request: "do ~ for me".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
 temorau|〜てもらう|To have/get someone do something for you.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
+nishitagatte|〜に従って|"In accordance with, following ~".|
+teoru|〜ておる／〜ております|Same as 〜ている. ております is humble; plain ておる sounds old or lordly.|
+mai|〜まい|Negative volitional: "won't, shall not", or conjecture "probably won't".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%84
+nasaru|なさる|Honorific する.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%95%E3%82%8B
+okudasai|お + stem + ください|Honorific request — more polite than plain 〜てください: "please do" (said to/about a respected person).|
+kagiri|〜限り|"As long as, to the extent that": while (A) holds, (B) follows.|https://bunpro.jp/grammar_points/%E9%99%90%E3%82%8A
