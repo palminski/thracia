@@ -58,3 +58,80 @@ nasaru|なさる|Honorific する.|https://bunpro.jp/grammar_points/%E3%81%AA%E3
 okudasai|お + stem + ください|Honorific request — more polite than plain 〜てください: "please do" (said to/about a respected person).|
 kagiri|〜限り|"As long as, to the extent that": while (A) holds, (B) follows.|https://bunpro.jp/grammar_points/%E9%99%90%E3%82%8A
 chau|〜ちゃう／〜ちゃった|Casual contraction of 〜てしまう: e.g. ばれちゃった = ばれてしまった.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
+nu-neg|〜ぬ／〜ん (negative)|Old negative, = ない. もたぬ = もたない.|
+tarunaru|〜たる／〜なる|Classical attributive "which is, that is": attaches a noun in apposition, as in 将たるわし ("I, who am the commander") or 父なる天 ("Father, who is the sky"). (Not in Bunpro's catalog.)|
+tekuru|〜てくる|Go do something and come back, or a change that has been coming up to now.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8B
+to-conditional|〜と (conditional)|"When, if": a natural/automatic consequence follows.|https://bunpro.jp/grammar_points/%E3%81%A8-conditional
+noda|〜のだ／〜のです|Explanatory ending: states something as the explanation or as an emphatic fact.|https://bunpro.jp/grammar_points/-%E3%82%93%E3%81%A7%E3%81%99-%E3%81%AE%E3%81%A7%E3%81%99
+nda|〜んだ／〜んです|Spoken form of 〜のだ: explanatory or emphatic.|https://bunpro.jp/grammar_points/-%E3%82%93%E3%81%A7%E3%81%99-%E3%81%AE%E3%81%A7%E3%81%99
+zuni|〜ず／〜ずに|"Without doing" (= ないで).|https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%AB
+youtosuru|〜ようとする|"Try to …".|https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B
+oninaru|お + stem + になる|Honorific form: a respected person does something (= される, but more polite).|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%AB%E3%81%AA%E3%82%8B
+kashira|〜かしら|"I wonder" (feminine).|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%97%E3%82%89
+deshou|〜でしょう／〜だろう|Conjecture: "probably", or seeking agreement.|https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%97%E3%82%87%E3%81%86
+tewaikenai|〜てはいけない|"Must not, may not".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+souda-hearsay|〜そうだ (hearsay)|After a plain form: "I hear that …".|https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%A0
+tonokoto|〜とのことです|"I hear that...; I understand that...": reporting secondhand information.|
+toka|〜とか|Vague hearsay: "… or something, I hear".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8B
+potential|potential form|"Can do": 戦える, ゆける, 買えん. Negative = cannot.|https://bunpro.jp/grammar_points/Verb%5Bpotential%5D
+naito|〜ないと|"Have to …" (short for ないといけない).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A8
+ba|〜ば|Conditional "if".|https://bunpro.jp/grammar_points/%E3%81%B0
+beki|verb dictionary form + べき|"Should, ought to": moral or logical obligation.|https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8D
+nado|noun + など|"Such things as ~, etc." — listing examples, often with understatement or a dismissive nuance.|
+temiseru|〜てみせる|"I'll …, you'll see": strong resolve to accomplish it.|https://bunpro.jp/grammar_points/852
+doori|〜どおり|"According to ~, as ~": follows a plan, instructions, or expectation exactly.|https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%8A%E3%82%8A
+imperative|command form|Plain imperative: 待て, 帰れ, しろ／せよ, 知らせろ. Blunt; used by superiors and rough speakers.|https://bunpro.jp/grammar_points/%E5%91%BD%E4%BB%A4%E5%BD%A2
+darou|〜だろう|"Probably", or seeking agreement (= でしょう).|https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%97%E3%82%87%E3%81%86
+dake|〜だけ|"Only, just".|https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91
+nante|〜なんて|"Something like": surprise or belittling.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%93%E3%81%8B-%E3%81%AA%E3%82%93%E3%81%A6
+sugiru|stem + すぎる|"Too much".|https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8E%E3%82%8B
+kara|〜から|Reason: "because, so".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89-because
+kotogadekiru|〜ことができる|"To be able to do": a more formal/written equivalent of the potential form られる.|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B
+demo|〜でも|"Even (just), but; or something".|https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82
+tsumori|〜つもり|Intention: "mean to …".|https://bunpro.jp/grammar_points/%E3%81%A4%E3%82%82%E3%82%8A%E3%81%A0
+toomou|〜と思う|"I think that …".|
+sou-looks|stem + そうだ|"Looks like": よさそう = "looks good", ありそう = "seems there is".|https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86
+temiru|〜てみる|"To try doing", to do something and see how it goes.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BF%E3%82%8B
+naide|〜ないで|"Please don't …" (request, short for ないでください).|https://bunpro.jp/grammar_points/96
+janaika|〜じゃないか／〜じゃねえか|"Isn't it …!": surprise, pointing out, or mild conjecture.|https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B
+nakutehaikenai|〜なくてはいけない|"Must …" (= なければいけない).|
+tte-quote|〜って|Casual quoting particle (= と).|https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%A6
+ja-old|じゃ／じゃのぉ|Old speech: じゃ = だ, のぉ = ね.|
+nara|〜なら|"If it is the case that …; if you mean …".|https://bunpro.jp/grammar_points/123
+volitional|〜よう／〜おう|Volitional: "let's …" or "I shall …".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86-%E3%81%8A%E3%81%86
+hazu|〜はずだ|"Should be, is expected to be" (confident assumption).|https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%9A%E3%81%A0
+tame|〜ため(に)|Purpose "in order to", or "for the sake of".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%81-%E3%81%AB
+made|〜まで|"Until".|https://bunpro.jp/grammar_points/noun-%E3%81%BE%E3%81%A7
+sae|〜さえ|"even ~"; with a negative, "as long as ~ (doesn't happen)" — often paired with 〜なければ.|https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88
+nagara|〜ながら|"While doing": two actions at the same time. Attaches to the verb stem.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8C%E3%82%89
+kenjou|humble verbs|Humble speech for one's own actions: 申す (say), 参る (go/come), いたす (do).|
+oru-contempt|stem + おる／おって|Old-style way to speak scornfully of another's action (しくじりおって).|
+me|〜め|Insulting suffix on a name or noun (こぞうめ = "that brat").|
+naprohib|dictionary form + な|Prohibition: "don't …" (逃がすな).|https://bunpro.jp/grammar_points/%E3%81%AA
+mashou|〜ましょう|Polite "let's …" / "I shall …".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%97%E3%82%87%E3%81%86
+nee|〜ねえ (= ない)|Rough masculine ない／ai → ee: 近づかせねえ.|
+causative|〜せる／〜させる|Causative: make or let someone do.|https://bunpro.jp/grammar_points/causative
+itasu|〜いたす|Humble auxiliary for one's own action.|
+kotoninaru|〜ことになる|"It turns out that...; it has been decided that...".|
+mitai|〜みたい|Casual equivalent of ようだ: "looks like, seems like".|https://bunpro.jp/grammar_points/%E3%81%BF%E3%81%9F%E3%81%84
+noni|〜のに|"Even though" (with regret or complaint).|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AB-despite
+gotoki|〜ごとき|Classical/formal "like, similar to, as if, the likes of" (= 〜のような).|
+kessite|決して〜ない|"Never, by no means" (emphatic negative).|
+nakereba|〜なければ|"If not, unless" (short for なければならない without the "must" ending).|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0
+tai|stem + たい|"Want to".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%84
+dewanaika|〜ではないか|Rhetorical "isn't it?!": used to point out something striking or indignant.|https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B
+teitadakemasenka|〜ていただけませんか|Very polite request: "Could you possibly ~ for me?" (て-form + いただけませんか).|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
+yori|〜より|Comparison: "more than...".|https://bunpro.jp/grammar_points/%E3%82%88%E3%82%8A
+youda|〜ようだ／〜ようです|"It seems that …", judging from evidence.|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%A0
+youni|〜ように|"So that": take care that it does/doesn't happen.|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB
+temoii|〜てもいい|"It's okay/permissible to...".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+tara|〜たら|"When / if …" (once that has happened).|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%89
+houga-ii|〜たほうがいい|"It would be better to …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+kanoyouni|〜かのように|"As if, as though": likens something to a state that isn't actually the case.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB
+wo-megutte|〜をめぐって|"Revolving around, concerning ~ (often a dispute)".|https://bunpro.jp/grammar_points/690
+dasu|verb stem + 出す|"Suddenly start to ~" - often an action the subject didn't intend to begin, unlike はじめる's deliberate "begin".|https://bunpro.jp/grammar_points/だす
+mama|〜まま|"As is, remaining in that state": nothing changes from the stated condition.|https://bunpro.jp/grammar_points/まま
+tenaranai|〜てならない|"Can't help but ~, ~ unstoppably": a natural feeling so strong the speaker can't control it.|https://bunpro.jp/grammar_points/353
+youninaru|〜ようになる|"Come to (be able to) ~, reach the point where ~".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B
+yamuoenai|やむを得ん／やむを得ない|"It can't be helped, there's no other way" - classical/contracted cousin of ざるを得ない.|
+itadaku|〜ていただく|"To receive the favor of …; to have someone kindly do": humble benefactive.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F
