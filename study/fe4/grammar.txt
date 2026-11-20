@@ -148,3 +148,6 @@ teiku|〜ていく|Action moving away or continuing onward from now ("go on doin
 kotohanai|〜ことはない|"There's no need to"; after plain-past, can mean "(that) never happens."|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84
 wakedehanai|〜わけではない|"It's not that …; that doesn't mean …": a softened denial.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84
 temo|〜ても|"Even if / even though".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82
+aidani|〜間に|"While …": within that span of time.|
+tari|〜たり|"Do things like …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8A-%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B
+yue|〜ゆえ|Formal, old-fashioned "because, therefore" (= から).|
