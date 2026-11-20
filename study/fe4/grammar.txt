@@ -57,3 +57,4 @@ mai|〜まい|Negative volitional: "won't, shall not", or conjecture "probably w
 nasaru|なさる|Honorific する.|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%95%E3%82%8B
 okudasai|お + stem + ください|Honorific request — more polite than plain 〜てください: "please do" (said to/about a respected person).|
 kagiri|〜限り|"As long as, to the extent that": while (A) holds, (B) follows.|https://bunpro.jp/grammar_points/%E9%99%90%E3%82%8A
+chau|〜ちゃう／〜ちゃった|Casual contraction of 〜てしまう: e.g. ばれちゃった = ばれてしまった.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
