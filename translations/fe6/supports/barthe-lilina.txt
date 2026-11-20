@@ -1,0 +1,51 @@
+1	Barth, I still haven't thanked you properly.
+2	Thanked me? For what?
+3	You came to rescue me, didn't you.
+4	Ah, that.
+5	We were only doing our duty as knights.
+6	If anything, I'm sorry our arrival was delayed.
+7	Barth... I'm sorry.
+8	There's nothing I can do for you and the others.
+9	That's right, this necklace...
+10	Princess, there's no need.
+11	We didn't fight for a reward.
+12	But...
+13	Lady Lilina was unharmed.
+14	That's enough for us.
+15	Thank you, Barth...
+16	Say, Barth.
+17	Do you remember Deville and Legance... the two of them?
+18	...Only as the men who conspired with Bern to raise a rebellion.
+19	I never heard good things about them as people, either.
+20	They used their rank as generals to take bribes illegally, or so I heard.
+21	I see...
+22	It seems the Ostian rebellion was being planned even before Bern's army invaded.
+23	Lord Astore's covert investigation has also turned up facts that back that up.
+24	Yeah... I was a fool...
+25	They were all my father's... Ostia's knights, so...
+26	I wanted to trust everyone... I didn't want to doubt them...
+27	But because of that, it nearly cost you your own life...
+28	You're right... I'm truly... sorry.
+29	Lady Lilina, please, above all, take care of yourself.
+30	To us, your subjects, you are an irreplaceable person.
+31	Say, Barth...
+32	Now that Father has passed away... I wonder what will become of Ostia.
+33	After this battle, if no one rebuilds it, it will only fall further into ruin.
+34	And that duty falls to you, Lady Lilina.
+35	The people of Ostia are all waiting for you.
+36	But... I don't think someone like me... could manage it.
+37	As I am now... I'd only be a burden to everyone...
+38	You think so too, don't you, Barth?
+39	......
+40	What it truly means to stand above others...
+41	That, I don't know.
+42	But...
+43	That time, when Lady Lilina said she trusted her subjects—
+44	If you judge only by the result, that may have been a mistake.
+45	But as for the heart behind that decision of yours, Lady Lilina—
+46	I never think it was wrong.
+47	......
+48	There's only one thing I can say.
+49	No matter what path you choose to walk, Lady Lilina—
+50	We knights will follow after you.
+51	We will surely protect you.
