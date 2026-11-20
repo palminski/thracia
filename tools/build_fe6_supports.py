@@ -286,6 +286,7 @@ def main():
 
     # --- per-pair conversation pages ---
     pair_stats = []
+    pair_data = {}
     for key, (jp1, jp2, scene) in sorted(pairs.items(), key=lambda kv: tuple(sorted(slug_for(n) for n in kv[0]))):
         s1, s2 = sorted((slug_for(jp1), slug_for(jp2)))
         pslug = f"{s1}-{s2}"
@@ -295,11 +296,16 @@ def main():
         CURRENT_EN.clear()
         CURRENT_EN.update(english)
 
-        texts, k = {}, 0
+        texts, k, rank, windows = {}, 0, None, []
         for it in scene["items"]:
-            if it["t"] == "box":
+            if it["t"] == "rank":
+                rank = it["label"]
+            elif it["t"] == "box":
                 k += 1
-                texts[k] = "".join(v for line in it["lines"] for _, v in line)
+                text = "".join(v for line in it["lines"] for _, v in line)
+                texts[k] = text
+                windows.append({"n": k, "speaker": it["speaker"], "text": text, "rank": rank})
+        pair_data[pslug] = {"jp1": jp1, "jp2": jp2, "windows": windows}
         study = load_study(pslug, texts)
         has_study = study is not None
         boxes = sum(1 for it in scene["items"] if it["t"] == "box")
@@ -373,6 +379,9 @@ def main():
     (OUT / "index.html").write_text(
         PAGE.format(title="Support Conversations", rel="../", tools="", scripts="", body=body, source=SOURCE_URL),
         encoding="utf-8")
+
+    (ROOT / "data" / "fe6_supports.json").write_text(
+        json.dumps(pair_data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     rows = sorted(portraits.items(), key=lambda kv: (-kv[1], kv[0]))
     missing = [k for k, _ in rows if not (WEB / "img" / "portraits" / f"{k}.png").exists()]
