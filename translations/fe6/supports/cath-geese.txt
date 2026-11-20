@@ -1,0 +1,61 @@
+1	Hey, you're a pirate, right?
+2	Hm? Well... yeah.
+3	Guess I do look the part. I've really fallen far...
+4	?
+5	Back in the day, I ran a shipping business with merchant vessels.
+6	Huh, that's pretty impressive.
+7	So you must've made a ton of money. I'm jealous.
+8	Ugh, I guess us poor folk just have to work hard the slow, honest way...
+9	Hold on a second.
+10	Huh?
+11	Why's your hand in my bag?
+12	.......
+13	Oh, you're pretty sharp.
+14	...Thanks, I guess.
+15	Heheh, now I'm fired up!
+16	There's no treasure I can't steal!
+17	Next time we meet, it's the real showdown!
+18	Hey~, Geese~
+19	What is it?
+20	Haah... I think I'm a little drunk...
+21	.......
+22	Hey, Geese~, take care of me~
+23	Hey.
+24	Yeeees?
+25	Did an enemy berserker get to you or something?
+26	Huh?
+27	Whatever, but that doesn't move me one bit.
+28	Gah?!
+29	You actually resisted my charms...
+30	You're no ordinary man!
+31	...Thanks, I guess.
+32	But you, you're not cut out for this kind of thing.
+33	I-I know that! It was just a little test, a trial run.
+34	Next time we meet, it's the true showdown.
+35	I'll steal it before you even notice, just watch!
+36	Yeah, yeah.
+37	Geese!
+38	Hm? What is it?
+39	Heheh, look at this!
+40	Hey, that's my—
+41	(smirk)
+42	Well, in the end, you were no match for me either.
+43	There's no treasure I can't steal!
+44	Sheesh...
+45	Now then, let's see what's inside~
+46	.......
+47	Wh-what is this?! It's all junk!
+48	It's not junk — sea charts, stuff a ship actually needs.
+49	Where's the treasure?! Where is it?!
+50	Hah hah hah, there's no such thing!
+51	I may not look it, but I'm flat broke. In fact, I'm up to my ears in debt.
+52	Steal it if you can, is what I'm saying.
+53	Ngh...
+54	Ugh, you're broke and you're still acting so high and mighty!
+55	I've got a dream.
+56	A dream of getting back into shipping and hitting it big.
+57	Just watch, soon I'll have my ship buried in gold.
+58	Come steal from me again when that happens!
+59	.......
+60	Wh-why do I feel like the one who lost here...?
+61	Are you... a big shot? Or just an idiot?
