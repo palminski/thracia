@@ -172,3 +172,16 @@ sura|〜すら|Emphasis: "even" (often with a negative nuance); more formal than
 chigainai|〜に違いない|"Must be, surely is": strong conviction.|https://bunpro.jp/grammar_points/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84
 nitotte|〜にとって|"For, from the standpoint of".|https://bunpro.jp/grammar_points/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6
 gozaimasu|〜ございます|Very polite/formal copula or existence verb, the polite equivalent of です／あります.|
+hazuganai|〜はずがない|"There's no way that …": confident denial of a possibility (stronger than 〜わけがない).|https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84
+shidai|〜次第|"Depending on …".|
+naitoikenai|〜なければいけない|"Must, have to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+monoka|〜ものか|Rhetorical strong negation: "definitely not ~, as if ~!, do you really think ~?".|https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%8B
+tomade|〜とまで|"Even to the point of saying/thinking ~": emphasizes just how far a statement or feeling goes.|
+toki|〜とき|"When".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8D
+kadouka|〜かどうか|"Whether or not …".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B
+nakunaru|〜なくなる|"Comes to no longer, stops being able to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B
+kana|〜かな|"I wonder".|https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AA
+nomi|〜のみ|Formal "only" (= だけ).|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%BF
+naidemonai|〜ないでもない|Double negative hedge: "it's not that … isn't the case".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
+masuyouni|〜ますように|Wish/prayer, often with 祈る dropped: "may ~ happen, I hope that ~".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%84%E3%81%AE%E3%82%8B
+kuseni|〜くせに|"Even though, despite" - criticizes someone's behavior as inconsistent with a fact about them.|https://bunpro.jp/grammar_points/295
