@@ -1,0 +1,47 @@
+1	Oh, isn't that Barth! It's been a while.
+2	Indeed.
+3	From Lycia to Ostia... it seems you've gained quite a bit of experience.
+4	It was a tough fight.
+5	But I wasn't just sleeping here in Ostia either.
+6	I've been honing my combat skills at the arena, preparing for when the fighting would come.
+7	...That arena, huh.
+8	Forgive me for saying so, but... honestly, I don't approve of it.
+9	Making money off fighting... as a knight, that's...
+10	A weak Great Knight isn't needed by anyone.
+11	I keep training myself so I can win in battle.
+12	Heh, you haven't changed.
+13	Same goes for you.
+14	But... was it really all right, Barth?
+15	What do you mean?
+16	Didn't you want to go to the battlefield following Lord Hector?
+17	You always used to say that a knight is only a knight on the battlefield, didn't you?
+18	...It would be a lie to say I didn't feel that way.
+19	But I decided that protecting Lady Lilina here was also a kind of battle.
+20	I see...
+21	But I let Lady Lilina fall into enemy hands right before my eyes.
+22	There was a gap in my resolve.
+23	Somewhere in my heart, I believed Ostia was at peace...
+24	Don't blame yourself so much. That's your bad habit.
+25	You're right...
+26	But talking with you always makes me let my true feelings slip out.
+27	We've been close ever since we took our knight's oath, after all.
+28	No matter how much either of us puts on airs, we can see right through each other.
+29	Hahaha... true enough.
+30	Bors, there's something I've wanted to ask you for a while now...
+31	What is it?
+32	Why did you become a Great Knight?
+33	Because I wanted to protect them — the people important to me, with this armor.
+34	I see...
+35	What about you?
+36	I became a Great Knight because the Great Knight is the strongest.
+37	I believe no one can match a Great Knight in a one-on-one fight.
+38	That's exactly why letting Lady Lilina fall into enemy hands like that...
+39	That again, huh.
+40	That happened because I lacked the strength.
+41	If I alone had had the strength to put down the rebellion, I never would have let that happen.
+42	That's why I must become stronger.
+43	I see...
+44	Then you should become the strongest spear there is. I'll become the hardest shield there is.
+45	A spear and a shield, huh...
+46	And together, let's carve open the "path" that we live by.
+47	Right!
