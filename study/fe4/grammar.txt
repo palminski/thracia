@@ -190,3 +190,9 @@ wakeda|〜わけだ|Explanatory "so that means, that's why": draws a logical con
 kakeru|verb stem + かける|"To be on the verge of doing, to almost do": the action was begun or nearly happened but didn't complete (暗殺されかけた = "was nearly assassinated").|
 tsuideni|〜ついでに|"While doing X, also..."; incidentally, while at it.|
 tamae|stem + たまえ|Formal/literary softened command, "please do ~" - from 給う "to bestow". Mostly masculine, toward a subordinate; older uses survive in prayer and literature.|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BE%E3%81%88
+hoka-naranai|〜に他ならない|Formal "nothing other than ~, is precisely ~": stresses a reason or conclusion as the only one possible.|https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%BB%E3%81%8B%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+tatoe|たとえ〜でも|"Even if …": sets up a hypothetical with ても/でも later in the sentence.|
+maeni|〜前に|"Before doing …".|https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%88%E3%81%AB
+toshiyou|〜とするか／〜としよう|"Let's …, shall we": deciding to do something now.|https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B
+nakutemoii|〜なくてもいい|"Don't have to, it's fine not to".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+nitsuite|〜について|"About, regarding, concerning ~".|
