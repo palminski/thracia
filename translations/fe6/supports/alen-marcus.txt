@@ -1,0 +1,46 @@
+1	Now then, the next enemy is...
+2	Allen.
+3	Oh, Sir Marcus.
+4	You've been doing well lately.
+5	I'm flattered.
+6	But to me, it also looks like you're recklessly charging into the enemy.
+7	What is your duty? To protect Lord Roy, isn't it?
+8	But isn't defeating the enemy the same as protecting Lord Roy!
+9	Is it alright for Lord Roy to be put in danger for that?
+10	But, up until now nothing like that has...
+11	Just because it hasn't happened doesn't mean you can say it never will, can you?
+12	Then, what should I do...
+13	Learn to fight a little more carefully.
+14	Carefully, is it...
+15	Sir Marcus.
+16	Allen. What is it?
+17	There's one thing I'd like you to teach me...
+18	Teach you, what?
+19	Sir Marcus, earlier you told me to learn to fight more carefully.
+20	So, was my way of fighting wrong?
+21	That's not it.
+22	But you, giving in to hot blood, only fight in a single way.
+23	Only one way...
+24	Your temperament isn't a bad thing — rather, it's something to be praised as a knight.
+25	But you, giving in to it, might go out of control and leave Lord Roy behind.
+26	That's what worries me.
+27	Yes...
+28	What is it you must do right now? And what should you do for that?
+29	A true knight is one who changes his way of fighting accordingly.
+30	Blindly charging into the enemy isn't the only kind of "courage."
+31	Allen, your fighting lately has been splendid.
+32	Yes, sir...
+33	As you told me, Sir Marcus, I've been trying to fight in a variety of ways.
+34	Mm. At this rate, it seems I can safely leave what comes after me to you.
+35	After you?
+36	I'm already old.
+37	From here on, House Fere must be supported by Lord Roy and the young ones.
+38	I want you to succeed me and support Lord Roy.
+39	M-me...?
+40	Though, following after an old man like me might be unsatisfying.
+41	What are you saying! It's an honor!
+42	I will surely, surely help Lord Roy, and bring House Fere even greater prosperity than before...
+43	That's why I'm telling you not to get so worked up. That's exactly what worries me about you.
+44	Y-yes, sir...
+45	There's no need to rush. Lord Roy is still young.
+46	You can grow slowly together with Lord Roy — both as a knight, and as a person.
