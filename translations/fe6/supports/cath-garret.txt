@@ -1,0 +1,47 @@
+1	Hey, you.
+2	Hm?
+3	You're... a bandit, I hear.
+4	Huh? Yeah, I guess.
+5	And you... dressed like that, a thief?
+6	Hey, thieves are...
+7	Shut up, don't talk to me so familiarly!
+8	Wh-what?
+9	I really hate bandits, you know!
+10	Ugh, I hate them so much that just hearing the word makes me want to roll around on the ground.
+11	Ah, is that so.
+12	Not that I care one way or the other what you like or hate.
+13	Did you come all this way just to tell me that? You've got a lot of time on your hands.
+14	Hmph!
+15	...She's gone. What was that about?
+16	Hm?
+17	Ah.
+18	Tch, it's you.
+19	Ugh, I ran into a bandit. Not my lucky day.
+20	Hmph.
+21	You're doing the same damn thing, aren't you?
+22	Don't go talking all high and mighty after stealing other people's stuff.
+23	Hmph.
+24	I only steal from the rich, you know.
+25	Ha, playing the righteous thief, huh? So you think that makes it okay...
+26	Nope, that's not it.
+27	What I'm doing is stealing. I'm not making excuses for that.
+28	But... let me say this much!
+29	Hurting innocent people who've done nothing wrong, burning down villages...
+30	I would never do that.
+31	.......
+32	...Is that so. My bad, then.
+33	Hm?
+34	Ah.
+35	.......
+36	Tch, you again. Not my day.
+37	Hey, wait a second.
+38	What?!
+39	.......
+40	It's true, I'm a bandit. I've stolen from villagers, burned villages down.
+41	But... let me say just one thing.
+42	What is it?
+43	I... hate bandits too.
+44	Even though I've lived that kind of life.
+45	That's all I wanted to say. See ya.
+46	.......
+47	Hmm...
