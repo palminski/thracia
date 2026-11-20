@@ -1,0 +1,83 @@
+1	Sister! Wait a second! Stop, please, Sister!!
+2	...Huh, me?
+3	Yeah, sorry for stopping you so suddenly.
+4	But there's something I really need to ask.
+5	Sure, if it's something I'd know.
+6	See, if I'm not mistaken, this plant and this one over here—
+7	I thought one of them was supposed to be a wound medicine...
+8	This one's the medicinal herb. You really know your stuff.
+9	Heh, the headmaster taught me.
+10	Sounds like a good teacher.
+11	Yeah! I'm proud of him!!
+12	Ah, I gotta go — I need to get this medicinal herb over there quick.
+13	Is someone hurt?
+14	Huh? Oh, yeah, there's a traveler who got hit by a stray arrow.
+15	It's not a big wound, but the bleeding won't stop.
+16	Oh my, in that case my healing staff would treat it faster than the herb.
+17	Would it be all right if I came along to where they are?
+18	Really?! You'll heal them?
+19	Yes.
+20	Thank goodness! Then let's hurry!!
+21	Elen!
+22	Hello, Chad.
+23	Thanks a lot for the other day.
+24	That traveler got totally better, and he was super grateful to you.
+25	I just did what was natural.
+26	That's not true at all!
+27	I never dreamed there'd be a noble who'd use an expensive healing staff on a commoner.
+28	Huh?
+29	The only ones who heal commoners' wounds with a staff are the priests of the Elimine Church.
+30	And even then, only for really serious, life-threatening injuries.
+31	...Really?
+32	Yeah, at least that's how it was in the rural part of Lycia where I lived.
+33	But, like with the herb thing the other day—
+34	commoners have their own wisdom for surviving.
+35	...Until Bern started this war, we were all... living as best we could.
+36	...Oh no.
+37	Whoa! S-sorry!! I didn't mean to make you make a face like that...
+38	No, it's not that... it's not your fault, Chad. It's my... my own homeland that started the war...
+39	!? Elen, are you maybe...?
+40	I'm... from Bern.
+41	!!
+42	.......
+43	Ah! Wait, Chad!!
+44	...Chad.
+45	...Chad.
+46	!
+47	Wait! Don't run away!! Please... listen to me.
+48	......
+49	It's true, my country is the one who started this war.
+50	I think it's only natural for you to hate Bern... to hate me, a person of Bern...
+51	......
+52	But why?
+53	Why do your eyes right now waver with sorrow, not hatred?
+54	!
+55	Tell me about your sorrow. I want to ease your pain, even just a little.
+56	...The headmaster died.
+57	Bern's soldiers...
+58	...said the orphanage's field was in the way of the army passing through, and trampled it with their horses.
+59	It was already a field with nothing but roots left, nothing much to it, but...
+60	The headmaster... tried to protect the field, didn't he?
+61	Yeah, even just roots... it was our precious, last bit of food...
+62	Chad, it's okay to cry. When you're sad, you need to let the tears out properly.
+63	...I was the oldest at the orphanage, so I couldn't afford to cry.
+64	The little ones who were left, and my best friend Lugh... they saw the headmaster die.
+65	Protecting them while they're in shock, that's my job.
+66	I can't lose any more of my precious family. That's why I decided to fight...
+67	You're strong.
+68	...My hatred for Bern is what makes me strong.
+69	Avenging the headmaster, and protecting everyone...
+70	That was my whole purpose for living — I never had the slightest doubt about it!
+71	Are you having doubts?
+72	...To me, Bern was a country that only thinks about itself—
+73	a nation of cold-blooded villains with no feelings! Nothing but black-hearted people over there!!
+74	...Or so I thought, until I met you, Elen.
+75	Chad... I'm on your side.
+76	Bern... has nothing to do with it.
+77	I, as one person, just want to help you, Chad.
+78	Is that still not good enough?
+79	...I don't know.
+80	Then I'll stay close by, Chad.
+81	I can't replace the headmaster, but I can listen like this.
+82	...Do whatever you want!
+83	Thank you, Chad.
