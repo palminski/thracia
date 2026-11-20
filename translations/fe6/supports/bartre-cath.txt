@@ -1,0 +1,64 @@
+1	Hm? Who are you?
+2	Heeey, hi there~ I'm Cath.
+3	Hey, Bartre, got a minute to talk?
+4	Mm, I don't mind.
+5	Great.
+6	You know, Bartre, you kinda remind me of my dad.
+7	Me?
+8	Yeah, personality-wise you're the opposite — he was a total coward.
+9	Just a plain guy whose only good point was being serious.
+10	Is that so.
+11	So when I talk to you, it makes me think of my dad.
+12	Hey, Bartre.
+13	Like my dad used to do... will you give me a hug?
+14	Mm... like this?
+15	Thanks, Bartre.
+16	Mm.
+17	...I'm really an idiot, huh.
+18	Even the being-too-nice part, just like him.
+19	...Bartre.
+20	Here, this.
+21	Hm...?
+22	Isn't this my axe?
+23	And this, and this, and this too.
+24	I stole all of it recently.
+25	What...
+26	That's right, I'm a thief, after all.
+27	Tricking people and stealing their stuff is my job.
+28	So, go on, get mad.
+29	......
+30	Cath.
+31	Why tell me? I never would've known if you'd kept quiet.
+32	...Who knows.
+33	I don't get it either, why I did something like that.
+34	I'd decided I'd only steal from nobles and rich people, you know.
+35	Does this have something to do with your father?
+36	...Maybe.
+37	I... hated my dad.
+38	My coward of a dad... I'd hated him for a long time.
+39	...In the war, our village got burned down.
+40	A bunch of soldiers came and ordered us to set fire to the village.
+41	But none of the villagers moved. Of course not — it was their own village.
+42	And when the soldiers got angry and drew their swords...
+43	One of the villagers stepped forward and went around setting the village on fire with a torch.
+44	That coward... was my father.
+45	......
+46	The village burned, and the fields we'd worked so hard to cultivate were all ruined too...
+47	And even then, my dad just stood there watching silently, without saying a word.
+48	I was so furious — at my dad, who wouldn't even try to fight.
+49	I never, ever wanted to become someone like that, who just obeys authority.
+50	So, I...
+51	That's wrong, Cath.
+52	Huh?
+53	...Who would willingly burn their own fields, their own village?
+54	But your father... had something he had to protect.
+55	......
+56	Your father didn't have the strength to defeat those soldiers.
+57	But he was fighting. Gritting his teeth, your father was fighting.
+58	More than the village, more than the fields, the thing he truly had to protect...
+59	Was you, his daughter — to protect you.
+60	......
+61	Ha. No way that's true.
+62	My dad was just a coward. Nothing like you, Bartre.
+63	But... well...
+64	Thinking of it that way... might not be so bad, I guess...
