@@ -1,0 +1,46 @@
+1	Brother?
+2	Oh— oh, I wondered who it was, it's you, Wendy.
+3	Wh-what a coincidence, running into you in a place like this.
+4	Yes. I'm glad you're unharmed too, Brother. Did you need something?
+5	Ah, no... nothing in particular.
+6	I was just walking around for no reason and happened to end up near you, that's all. Yeah.
+7	I— I see.
+8	Are you hurt anywhere? Isn't your armor too heavy?
+9	No, I'm fine. Thank you for worrying about me.
+10	Well, I should probably get going now...
+11	A-already? You could rest a little longer and take it easy...
+12	I appreciate your concern. But I need to get back to the operation soon.
+13	R-right. Yeah... that makes sense.
+14	...Brother?
+15	Oh— oh, Wendy...
+16	Running into you by chance in a place like this.
+17	I can only call it sheer coincidence. Yeah...
+18	Did something... happen?
+19	Ah, no, no, it's nothing.
+20	But since we happened to meet like this, why don't we talk a bit?
+21	Are you hurt anywhere? Isn't your armor too heavy?
+22	No, I'm fine. Thank you for always worrying about me.
+23	Are you maintaining your lance? Are you polishing your helmet?
+24	Yes.
+25	Are you eating properly? Any worries lately?
+26	Yes.
+27	Have you made lots of friends? Any boyfriends......
+28	Brother...
+29	Whoa! W-Wendy...
+30	We really do keep running into each other, don't we. Yeah.
+31	Yes. Brother, did you need something?
+32	No, no, there's nothing I need, it's just...
+33	Brother...
+34	Hm?
+35	Brother, I'm always truly grateful for how much you worry about me...
+36	But I'm also a proud member of the Ostian knight order.
+37	I'm working hard, one step at a time, every day, with you as my goal.
+38	......
+39	So, I can't afford to lean on you right now, Brother.
+40	I'll be fine on my own. Please, don't worry about me...
+41	Well then, excuse me... Brother... I really am grateful.
+42	......
+43	...I see.
+44	Without my even noticing... you've become quite the fine knight, haven't you.
+45	Maybe I was the child all along...
+46	Do your best, Wendy.
