@@ -1,0 +1,48 @@
+1	Lance! How's it going!
+2	Allen. Not good, not bad.
+3	...Same as always, you're hard to get a rise out of.
+4	I fell behind you in that fight a while back, but this time I won't lose!
+5	Watch my fighting closely!
+6	Yeah, I'll watch closely.
+7	...Though I don't plan on losing to you this time either.
+8	Ha, you said it. I'm looking forward to after the battle. Well, I'm off first!
+9	Allen, the fighting's probably going to get even fiercer from here on.
+10	Yeah, that's right. Just what I want.
+11	Allen, there's something I want to discuss with you. It's about what happens if our army loses.
+12	If we lose?
+13	That's right... if defeat becomes certain, you retreat together with Lord Roy.
+14	Meanwhile, I'll hold off the enemy army and buy time.
+15	What? But then, you'd be...
+16	It's something someone has to do.
+17	In that case, since I've served House Fere the least amount of time, I'm the most suited for it...
+18	Don't be ridiculous!
+19	...Allen?
+20	If you're staying, I'm staying too. I won't let you face danger alone!
+21	But you're a knight who's served House Fere for generations, aren't you?
+22	So, together with Lord Roy...
+23	What does the number of years served have to do with it?!
+24	Then let me ask you — has your service and loyalty been inferior to anyone else's?
+25	......
+26	Can't say it yourself? Then I'll say it for you.
+27	You've worked as hard as anyone! You've given your utmost loyalty!!
+28	I know that better than anyone — I'm the one who's competed with you in feats of arms!
+29	Allen...
+30	Don't go getting strange ideas, Lance.
+31	You're someone we need — for Lord Roy, and for us.
+32	Allen, about that thing the other day...
+33	The talk about if we lose?
+34	You're not about to say something ridiculous again, like sacrificing yourself, are you?
+35	No, I've dropped that plan... Your words got to me.
+36	Maybe I was feeling some strange inferiority about not having served very long.
+37	Your service is second to none — well, except for mine, that is.
+38	I wonder how long that confidence of yours will last.
+39	Of course it'll last forever. There's no way I'd lose to you.
+40	Heh... Don't forget those words.
+41	Same goes for you.
+42	Well then, see you after the battle.
+43	Yeah.
+44	Lance!
+45	?
+46	Don't forget!
+47	Even if we lose, you won't be the only one fighting off the enemy's pursuit!
+48	Yeah! I won't forget!
