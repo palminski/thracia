@@ -153,3 +153,22 @@ tari|〜たり|"Do things like …".|https://bunpro.jp/grammar_points/%E3%81%9F%
 yue|〜ゆえ|Formal, old-fashioned "because, therefore" (= から).|
 tsutsuaru|〜つつある|"In the process of …-ing", a formal equivalent of 〜ている for a change under way.|
 nisuginai|〜にすぎない|"Merely, nothing more than": downplays something as just that and no more.|
+koto|〜こと|Turns a clause into a noun ("the fact that …").|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8
+no-nominal|〜のは|の turns the clause into a noun: "the fact that … is …".|https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AF
+osuru|お + stem + する|Humble form: the speaker does something for a respected person (lowers the speaker, not the action's grammatical subject).|https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
+zutomo|〜ずとも|Classical "even if not ~, don't have to ~" - ず (classical negative) + とも (even if). 言わずとも = "even without saying".|https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%A8%E3%82%82
+tamaruka|〜てたまるか|Defiant rhetorical: "as if I'd let that happen!, there's no way I'll ~!" (Not in Bunpro's catalog - distinct from the related てたまらない.)|
+tokoro|〜たところ(を)|"Right at the point/moment when ~" - catches the subject in the middle of a state or action.|
+karatoitte|〜からといって／〜からって|"Just because ~, that doesn't mean ~": pushes back on a simple cause-and-effect assumption. からって is the colloquial contraction.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6
+toha|〜とは|Surprise at the fact just stated: "to think that …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF
+cha|〜ちゃ／〜ては|Contraction of ては: "if (that happens, it's bad)".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF
+mono-assert|〜もの|Feminine assertive sentence-ending: states the speaker's conviction, "you know, I tell you".|
+shina|masu-stem + な|Casual rough imperative, softer than plain 命令形: e.g. 覚悟しな.|
+toiunoka|〜というのか|"Is it that...?": an accusing or incredulous rhetorical question.|
+uchini|〜うちに|"While (something is still the case); before it's too late".|https://bunpro.jp/grammar_points/%E3%81%86%E3%81%A1%E3%81%AB
+kedo|〜けど|Casual "but, although" (= が／けれども).|
+tekudasaru|〜てくださる|Honorific "do for me/us": someone of higher status does a favor.|
+sura|〜すら|Emphasis: "even" (often with a negative nuance); more formal than も／さえ.|https://bunpro.jp/grammar_points/%E3%81%99%E3%82%89
+chigainai|〜に違いない|"Must be, surely is": strong conviction.|https://bunpro.jp/grammar_points/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84
+nitotte|〜にとって|"For, from the standpoint of".|https://bunpro.jp/grammar_points/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6
+gozaimasu|〜ございます|Very polite/formal copula or existence verb, the polite equivalent of です／あります.|
