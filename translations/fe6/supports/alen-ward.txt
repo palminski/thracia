@@ -1,0 +1,61 @@
+1	You're...
+2	If I recall, Ward of the mercenary company.
+3	You...
+4	Who are you?
+5	I'm Allen, a knight of House Fere.
+6	Ah, a knight of our employer, huh.
+7	Hey, are you strong?
+8	That's sudden. In a fight, I'm confident, but...
+9	Then that's perfect. Wanna have a match with me?
+10	Now, here?
+11	Obviously.
+12	Understood.
+13	I'll warn you, I won't go easy on you.
+14	That's just what I want. Don't come crying to me if you get hurt.
+15	Alright, here I come!
+16	Y-you're not bad.
+17	Same to you. That was a good fight, both of us.
+18	But next time, I'm the one who wins. Don't forget it!
+19	Yeah, I'll keep that in mind!
+20	Oh, you!
+21	Ward! Long time no see.
+22	I was looking for you. Let's finish what we started.
+23	Last time's score still isn't settled, after all.
+24	Was it?
+25	I thought I won that time.
+26	No way, that last one was just a warm-up.
+27	The real me is nothing like that.
+28	Is that so. I'm looking forward to it.
+29	Then I'll go all out too!
+30	Come on then!
+31	Just as I thought... you're strong.
+32	This time it's an even match.
+33	Lance and I often used to have matches like this too.
+34	Being able to confirm each other's growth every time we fight is a good thing.
+35	I'll tell you now, I haven't lost yet.
+36	Next time, I'm really going all out for real. Be ready!
+37	Yeah, I'll take you on anytime!
+38	Woraaagh!
+39	Ngh!
+40	Not bad... you've gotten better, Ward!
+41	Y-you too!
+42	In the time we didn't fight, you got even stronger...
+43	I'm not done yet. I'll get even stronger.
+44	Heh, then I'll get even more than that!
+45	No matter how many enemies show up, I'll smash them all with this axe...
+46	Enemies, huh...
+47	Ward.
+48	Hm?
+49	This war... how do you see it?
+50	See it how?
+51	Whether we win or lose.
+52	Ha! No need to even think about it.
+53	We're obviously going to win.
+54	I mean, I'm in this army.
+55	However you think about it, there's no way we lose.
+56	Besides, you're here too, Allen.
+57	With the two of us around, there's no enemy we can't beat.
+58	Ha ha, yeah, that's right.
+59	There's no way our army can lose. That was a weakness unlike me.
+60	Alright, charge!
+61	Right, leave it to me!
