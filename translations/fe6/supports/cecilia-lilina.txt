@@ -1,0 +1,67 @@
+1	Lilina, how is it? Is your skill with magic improving?
+2	Yes.
+3	At least a little, since you taught me the basics.
+4	I see.
+5	Lilina, you have a natural talent for magic, given by heaven.
+6	If you work at it, I'm sure you'll become a mage no one can match.
+7	Me...?
+8	Yes.
+9	So don't neglect your training.
+10	Yes!
+11	Cecilia, why didn't you teach magic to Roy?
+12	What?
+13	Back when Roy was studying in Ostia,
+14	no matter how much he asked you to teach him the basics of magic,
+15	you absolutely refused, didn't you?
+16	That's right, that did happen.
+17	Why was that?
+18	Even though you taught me so carefully.
+19	...That's because you were there.
+20	Me?
+21	Yes.
+22	Roy is a single-minded child, so if he'd been taught magic,
+23	he'd have thrown himself desperately into mastering it, don't you think?
+24	I think that's true, but what does that have to do with—
+25	But with magic, effort alone isn't enough — it needs a natural talent given by heaven.
+26	And if someone blessed with that talent were right there beside him,
+27	how do you think he would have felt?
+28	Putting in the same effort — no, even more —
+29	while someone he could never match was right there next to him.
+30	Are you talking about me...?
+31	People have things they're suited for, and things they're not.
+32	Roy was clearly not suited for magic,
+33	so I thought, if he's going to fight, he should sharpen his swordsmanship instead.
+34	.......
+35	Lilina, you too will eventually stand above others in Ostia,
+36	so remember this: if a person mistakes what they're suited for,
+37	they end up never fully drawing out the strength they have.
+38	Treating everyone the same without thinking never leads to a good result.
+39	Yes...
+40	Cecilia, don't you think Roy has changed lately?
+41	In what way?
+42	I guess you could say he's become more composed.
+43	He's gotten more dignified when commanding people.
+44	That's natural when you become the general leading an army.
+45	Otherwise, the army itself wouldn't hold together.
+46	Cecilia, the other day you said
+47	that in the future I'd stand above others in Ostia, right?
+48	Yes.
+49	You're Marquess Hector of Ostia's one and only daughter, so of course that's natural, isn't it?
+50	Could I really become like Roy?
+51	...I couldn't even see through a single subordinate's betrayal.
+52	A person grows to fit the vessel they're given.
+53	I too was suddenly called back from Ostia to the capital, Aquleia,
+54	and when I was appointed Etruria's Sage General, I wondered what would become of me.
+55	But isn't it because you're you that you were able to manage it...?
+56	That's not true. Thanks to Sir Douglas, Sir Perceval...
+57	it's because I had help from those around me that I made it this far.
+58	Right now, don't you feel like you have to do everything alone?
+59	Ah...
+60	Roy isn't fighting alone either, you know.
+61	Trusting the people around him, borrowing their strength, moving forward together...
+62	That's one of the important qualities of someone who stands above others.
+63	So you should borrow strength from all kinds of people too.
+64	Your strength too, Cecilia?
+65	Of course.
+66	If anything comes up, feel free to come to me anytime.
+67	Yes!
