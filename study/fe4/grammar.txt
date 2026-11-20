@@ -46,3 +46,8 @@ tekureru|〜てくれる|Someone does something for the speaker's side.|https://
 ni-iku|stem + に行く／来る|Purpose of going or coming: 助けに行く = "go to help".|https://bunpro.jp/grammar_points/verb-%E3%81%AB%E3%81%84%E3%81%8F
 rareru-honorific|〜れる／〜られる (respect)|The passive form used as an honorific: される = "does" (respectful).|https://bunpro.jp/grammar_points/Verb%5Bpassive%5D
 tohaie|〜とはいえ|"Even though they are ~; that said".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF%E3%81%84%E3%81%88
+teageru|〜てあげる|Do something for someone else's benefit.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B
+neba|〜ねば|Classical conditional "if not ~", often implying "must ~" even without ならぬ following explicitly.|
+teyaru|〜てやる|Do something for (or to) someone of lower status; also a threat or boast.|
+tekure|〜てくれ|Plain, masculine request: "do ~ for me".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
+temorau|〜てもらう|To have/get someone do something for you.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
