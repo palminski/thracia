@@ -162,7 +162,7 @@ tokoro|〜たところ(を)|"Right at the point/moment when ~" - catches the sub
 karatoitte|〜からといって／〜からって|"Just because ~, that doesn't mean ~": pushes back on a simple cause-and-effect assumption. からって is the colloquial contraction.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6
 toha|〜とは|Surprise at the fact just stated: "to think that …".|https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF
 cha|〜ちゃ／〜ては|Contraction of ては: "if (that happens, it's bad)".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF
-mono-assert|〜もの|Feminine assertive sentence-ending: states the speaker's conviction, "you know, I tell you".|
+mono-assert|〜もの|Assertive sentence-ending (most often feminine, but also used generically): states the speaker's conviction, "you know, I tell you".|
 shina|masu-stem + な|Casual rough imperative, softer than plain 命令形: e.g. 覚悟しな.|
 toiunoka|〜というのか|"Is it that...?": an accusing or incredulous rhetorical question.|
 uchini|〜うちに|"While (something is still the case); before it's too late".|https://bunpro.jp/grammar_points/%E3%81%86%E3%81%A1%E3%81%AB
@@ -185,3 +185,8 @@ nomi|〜のみ|Formal "only" (= だけ).|https://bunpro.jp/grammar_points/%E3%81
 naidemonai|〜ないでもない|Double negative hedge: "it's not that … isn't the case".|https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84
 masuyouni|〜ますように|Wish/prayer, often with 祈る dropped: "may ~ happen, I hope that ~".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%84%E3%81%AE%E3%82%8B
 kuseni|〜くせに|"Even though, despite" - criticizes someone's behavior as inconsistent with a fact about them.|https://bunpro.jp/grammar_points/295
+toshika|〜としか〜ない|"Can only be described as..." (= としか言えない type construction).|
+wakeda|〜わけだ|Explanatory "so that means, that's why": draws a logical conclusion from what's known.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A0
+kakeru|verb stem + かける|"To be on the verge of doing, to almost do": the action was begun or nearly happened but didn't complete (暗殺されかけた = "was nearly assassinated").|
+tsuideni|〜ついでに|"While doing X, also..."; incidentally, while at it.|
+tamae|stem + たまえ|Formal/literary softened command, "please do ~" - from 給う "to bestow". Mostly masculine, toward a subordinate; older uses survive in prayer and literature.|https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BE%E3%81%88
