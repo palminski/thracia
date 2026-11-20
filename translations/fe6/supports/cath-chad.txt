@@ -1,0 +1,58 @@
+1	Hey, you.
+2	Whoa— wh-what do you want?!
+3	Not bad, you've got pretty good moves.
+4	So who the hell are you?
+5	...You don't know me? Are you some kind of amateur?
+6	I'm Cath, the master thief!
+7	...Never heard of you.
+8	Ugh, that's so annoying.
+9	I'm your senior here, you could show a little respect.
+10	Don't care.
+11	I sharpened my thieving skills on my own, and I'll keep doing it that way.
+12	No way, no way. On your own, that's as far as you'll get.
+13	Well, can't help it — I'll retrain you properly, under me.
+14	Hey, why would I do something like—
+15	So, that being the case—
+16	Starting today, you're my underling number one.
+17	From now on, work for me.
+18	Like hell!
+19	Hmm? Oh, are you sure you want to talk like that?
+20	This is your bag, isn't it?
+21	Ah!
+22	G-give it back!
+23	Hey!
+24	A-ah, you—
+25	That thing, give it back! Now!
+26	W-what... you don't have to get so mad, I'll give it back.
+27	.......
+28	What's this scribble? Who is it?
+29	The headmaster...
+30	Headmaster...?
+31	...You're an orphan?
+32	...I wasn't very good at studying, but—
+33	when we all drew pictures together, I got praised.
+34	"Chad, you're good with your hands, you could definitely become a painter"...
+35	That's what he told me.
+36	...I see...
+37	.......
+38	Argh, I'm bad at this kind of thing!
+39	I live my life looking forward, so you should too, underling number one!
+40	Who's "number one"?!
+41	Heh, you, of course! Underling number one!
+42	I told you I never agreed to that!
+43	Yo, underling number one, how's it going?
+44	...Who knows.
+45	I was watching — looks like you've gotten pretty good.
+46	Though not as good as me, of course.
+47	Keep telling yourself that.
+48	I don't remember ever becoming your underling, you know.
+49	Hey, wait a sec.
+50	If you don't like "underling," how about "partner"?
+51	...Partner?
+52	Yeah, you and me, teaming up.
+53	A duo of master thieves who help the poor!
+54	How about it?
+55	The two of us...
+56	...That's no good either.
+57	Wha—? Hey, you!
+58	I'm the one inviting you here! Hey, wait up, I said!
