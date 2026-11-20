@@ -1,0 +1,63 @@
+1	Hm... you're Gonzalez.
+2	I hear you piled up all sorts of misdeeds out west?
+3	Uuh...
+4	What business do you have with me?
+5	Me...
+6	Me, want fight. With everyone.
+7	But... me, useless.
+8	Want be stronger. More, more. Want everyone praise me.
+9	So, make me strong.
+10	I see...
+11	Very well. Then I'll train you.
+12	First, try hitting me with that fist of yours.
+13	Hit...?
+14	Me, can't.
+15	You get hurt...
+16	You...
+17	You fool!
+18	Guhah.
+19	W-why... you hit me?
+20	Did you think strength like yours could even shake me!
+21	Come at me without holding back — now, this instant!
+22	O-okay...
+23	OROOH!
+24	Guh!
+25	Hmph... not bad, I'll admit.
+26	Now it's my turn!
+27	Hm, Gonzalez.
+28	Have you been training hard?
+29	Look. Earlier, found this.
+30	Me, money, more now.
+31	Oh? And?
+32	Me, want be strong. So, buy.
+33	Armor. Wear. Even hit, no hurt.
+34	You...
+35	You fool!
+36	Guhah.
+37	Listen well!
+38	Battle means attack! That alone!
+39	Strike the enemy down in one blow, and there's no enemy attack to worry about at all!
+40	Relying on armor — know that's the thinking of the weak!
+41	Uuh... o-okay.
+42	Me, was wrong.
+43	Buy strong axe. Kill in one hit.
+44	You...
+45	You BIG fool!
+46	Gehah.
+47	Decorating yourself with weapons — and you think that makes you strong!
+48	A true warrior settles things with his own flesh!
+49	If you've got spare time to go buying weapons, use it to train your own arm strength instead!
+50	Until you can smash through a wall with one swing of an iron axe!
+51	O-okay...
+52	Oh, Gonzalez.
+53	M-me...
+54	No need to say it all. I can tell just by looking at your eyes.
+55	You've become splendid... you've grown so much.
+56	Me, me...
+57	Mm, I see. I understand exactly what you want to say.
+58	Indeed, just as you say. I'm glad, Gonzalez.
+59	Me...
+60	But this isn't the end, not by a long shot.
+61	The path to becoming a true warrior is endless, steep, and harsh.
+62	Now, let's go, Gonzalez — aiming for even greater strength!
+63	Me...
