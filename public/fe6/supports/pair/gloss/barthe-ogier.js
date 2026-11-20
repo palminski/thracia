@@ -1,0 +1,2 @@
+window.GLOSS={"83":["は","","topic marker"],"409":["です","","is, am, are (polite)"],"426":["ね","","right?, isn't it (seeking agreement)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"466":["お前","おまえ","you / before (a god, nobleman, etc.); in front of"],"471":["いえ","","no / you're welcome; not at all; don't mention it"],"491":["はい","","yes; that is correct / understood; I see; OK"],"993":["ん","","yes; yeah; uh huh / huh?; what?"],"1252":["もちろん","","of course; certainly; naturally"],"1333":["えっ","","huh?; what's up?"]};
+window.EN={};

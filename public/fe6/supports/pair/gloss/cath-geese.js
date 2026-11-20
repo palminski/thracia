@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"485":["なん","","what / how many"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"774":["やれ","","oh!; ah!; oh dear!"],"850":["ちょっと","","a little; a bit; slightly / just a minute; for a moment; briefly"],"907":["待つ","まつ","to wait / to await; to look forward to; to anticipate"],"993":["ん","","yes; yeah; uh huh / huh?; what?"]};
+window.EN={};

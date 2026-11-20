@@ -49,6 +49,7 @@ NAMES = {
     "ケル": "kel", "ニイメ": "niime", "ダヤン": "dayan",
 "マーテル": "martel", "シグーネ": "sigune", "ユーノ": "juno", "ティック": "tick",
 "ペレス": "peres", "オージェ": "ogier", "イドゥン": "idunn_01", "カレル": "karel",
+"マリナス": "marinus",
 }
 
 

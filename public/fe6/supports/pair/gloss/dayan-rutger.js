@@ -1,0 +1,2 @@
+window.GLOSS={"30":["が","","subject marker; but"],"59":["で","","at, in; by means of, with"],"83":["は","","topic marker"],"217":["ば","","if"],"272":["戦い","たたかい","battle; war; fight / fight (against time, poverty, etc.); struggle (for freedom, survival, etc.); war (e.g. on drugs)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"926":["終わる","おわる","to end; to come to an end; to finish / to finish; to complete; to conclude"]};
+window.EN={};

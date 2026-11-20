@@ -1,0 +1,2 @@
+window.GLOSS={"59":["で","","at, in; by means of, with"],"83":["は","","topic marker"],"263":["それ","","that; it / then; that point (in time); that time"],"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"741":["ええ","","yes; that is correct; right / um; errr; well"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"1252":["もちろん","","of course; certainly; naturally"]};
+window.EN={};

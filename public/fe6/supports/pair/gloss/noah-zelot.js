@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"471":["いえ","","no / you're welcome; not at all; don't mention it"],"491":["はい","","yes; that is correct / understood; I see; OK"],"492":["どう","","how; in what way; how about"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"993":["ん","","yes; yeah; uh huh / huh?; what?"],"1928":["ノア","","NOR (Boolean operator)"]};
+window.EN={};

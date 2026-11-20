@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"485":["なん","","what / how many"],"510":["お","","honorific/polite/humble prefix"],"524":["みんな","","everyone; everybody; all / everything; all"],"534":["よ","","emphasis (telling the listener)"],"730":["あ","","ah; oh / hey!"],"774":["やれ","","oh!; ah!; oh dear!"],"814":["あんた","","you"],"1867":["なあ","","hey; listen; look / don't"],"2597":["ゴンザレス","",""],"3219":["うう","","to plant; to grow"]};
+window.EN={};

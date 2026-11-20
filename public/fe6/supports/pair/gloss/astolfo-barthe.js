@@ -1,0 +1,2 @@
+window.GLOSS={"207":["その","","that; the / part (as in \"part two\")"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"615":["いや","","no"],"687":["ギネヴィア","",""],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"1076":["姫","ひめ","young lady of noble birth; princess (esp. in Western contexts, tales, etc.) / girl"]};
+window.EN={};

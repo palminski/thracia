@@ -1,0 +1,2 @@
+window.GLOSS={"468":["なさる","","to do"],"473":["ます","","polite verb ending"],"491":["はい","","yes; that is correct / understood; I see; OK"],"522":["うん","","yes; yeah; uh huh / hum; hmmm; well"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"635":["ありがとう","","thank you; thanks"],"636":["ござる","","to be / to come; to go; to be (somewhere)"],"881":["エレン","",""],"1101":["ごめん","","permission; leave; license / dismissal; discharge"]};
+window.EN={};

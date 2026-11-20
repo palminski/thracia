@@ -1,0 +1,2 @@
+window.GLOSS={"284":["へ","","to, toward"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"578":["おお","","large; big; great / older; senior"],"860":["はぁ","","yes; indeed; well / ha!"],"971":["将軍","しょうぐん","general / shogun"],"1339":["まあまあ","","so-so; passable; not (so) bad / now, now; there, there; there now"],"1687":["へぇ","","oh, yes?; really?"],"1927":["い","","greatness; excellence; magnificence"],"1971":["ゼロット","",""]};
+window.EN={};

@@ -94,6 +94,25 @@ ol.chapters .num { color: var(--gold); font-size: 0.75rem; letter-spacing: 0.12e
 ol.chapters .title { margin-top: 2px; }
 ol.chapters .gaiden a { border-style: dashed; }
 
+/* ---------- support character/pair grids ---------- */
+.char-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 10px; }
+.char-grid a, .char-grid li.todo { display: block; text-decoration: none; color: var(--text); }
+.char-card {
+  margin: 0; padding: 10px 6px 8px; text-align: center; background: var(--bg-2);
+  border: 1px solid var(--line); border-radius: 6px;
+}
+.char-grid a .char-card:hover, .char-grid a:focus-visible .char-card { border-color: var(--gold); }
+.char-grid li.todo .char-card { opacity: 0.45; }
+.char-card img { width: 72px; height: 96px; object-fit: contain; display: block; margin: 0 auto 6px; }
+.char-card .name { display: block; font-size: 0.82rem; }
+.char-card .status { display: block; margin-top: 3px; font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold); }
+.char-grid li.todo .char-card .status { color: var(--muted); }
+
+h3.rank {
+  margin: 36px 0 18px; padding-bottom: 4px; border-bottom: 1px dashed var(--line);
+  color: var(--gold); font-size: 0.85rem; letter-spacing: 0.15em; text-transform: uppercase; font-weight: 400;
+}
+
 /* ---------- chapter chrome ---------- */
 nav.pager { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: center; margin-block: 16px; font-size: 0.85rem; }
 nav.pager a { text-decoration: none; }

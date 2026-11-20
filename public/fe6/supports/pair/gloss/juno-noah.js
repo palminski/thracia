@@ -1,0 +1,2 @@
+window.GLOSS={"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"491":["はい","","yes; that is correct / understood; I see; OK"],"492":["どう","","how; in what way; how about"],"510":["お","","honorific/polite/humble prefix"],"817":["さん","","Mr; Mrs; Miss / politeness marker"],"1669":["ぶり","","way; manner; style / (for) the first time in (e.g. ten years); after ..."],"2247":["ひさしい","","long (time that has passed); old (story)"],"4288":["ユーノ","",""]};
+window.EN={};

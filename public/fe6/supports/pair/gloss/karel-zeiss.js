@@ -1,0 +1,2 @@
+window.GLOSS={"35":["た","","past tense / completed"],"198":["も","","also, too; even"],"230":["ず","","without, not"],"473":["ます","","polite verb ending"],"491":["はい","","yes; that is correct / understood; I see; OK"],"538":["わかる","","to understand; to comprehend; to grasp / to become clear; to be known; to be discovered"],"733":["すむ","","to finish; to end; to be completed / to have a result less severe than expected"],"862":["何","なん","what / how many"],"922":["ただ","","but; however; nevertheless / ordinary; common; usual"]};
+window.EN={};

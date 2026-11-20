@@ -1,0 +1,2 @@
+window.GLOSS={"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"426":["ね","","right?, isn't it (seeking agreement)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"468":["なさる","","to do"],"1101":["ごめん","","permission; leave; license / dismissal; discharge"],"1447":["いいえ","","no / you're welcome; not at all; don't mention it"],"1522":["ドロシー","",""],"1930":["はあ","","yes; indeed; well / ha!"]};
+window.EN={};

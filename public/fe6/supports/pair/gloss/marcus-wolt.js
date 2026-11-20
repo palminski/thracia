@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"30":["が","","subject marker; but"],"37":["する","","to do; to carry out; to perform / to cause to become; to make (into); to turn (into)"],"256":["しかし","","however; but"],"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"492":["どう","","how; in what way; how about"],"736":["ぼく","","I; me / you"]};
+window.EN={};

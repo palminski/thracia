@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"21":["に","","to, at, in, by (target / time / place)"],"30":["が","","subject marker; but"],"35":["た","","past tense / completed"],"263":["それ","","that; it / then; that point (in time); that time"],"485":["なん","","what / how many"],"538":["わかる","","to understand; to comprehend; to grasp / to become clear; to be known; to be discovered"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"774":["やれ","","oh!; ah!; oh dear!"],"1040":["い","","strengthens a question, assertion, etc."]};
+window.EN={};

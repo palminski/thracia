@@ -1,0 +1,2 @@
+window.GLOSS={"5":["の","","of, 's; (nominaliser / explanatory)"],"10":["だ","","is, am, are (copula)"],"35":["た","","past tense / completed"],"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"426":["ね","","right?, isn't it (seeking agreement)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"491":["はい","","yes; that is correct / understood; I see; OK"],"971":["将軍","しょうぐん","general / shogun"],"1971":["ゼロット","",""]};
+window.EN={};

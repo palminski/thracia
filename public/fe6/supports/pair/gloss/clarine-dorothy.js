@@ -1,0 +1,2 @@
+window.GLOSS={"35":["た","","past tense / completed"],"83":["は","","topic marker"],"473":["ます","","polite verb ending"],"491":["はい","","yes; that is correct / understood; I see; OK"],"538":["わかる","","to understand; to comprehend; to grasp / to become clear; to be known; to be discovered"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"738":["あなた","","you / dear; honey"],"3103":["うーん","","um; er; well / nuh-uh; no"]};
+window.EN={};

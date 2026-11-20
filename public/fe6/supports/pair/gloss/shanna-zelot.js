@@ -1,0 +1,2 @@
+window.GLOSS={"83":["は","","topic marker"],"263":["それ","","that; it / then; that point (in time); that time"],"522":["うん","","yes; yeah; uh huh / hum; hmmm; well"],"635":["ありがとう","","thank you; thanks"],"673":["そ","","ancestor; forefather; progenitor / originator; pioneer; inventor"],"774":["やれ","","oh!; ah!; oh dear!"],"3420":["えー","","yes; that is correct; right / um; errr; well"]};
+window.EN={};

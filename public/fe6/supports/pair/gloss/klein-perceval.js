@@ -1,0 +1,2 @@
+window.GLOSS={"83":["は","","topic marker"],"409":["です","","is, am, are (polite)"],"418":["か","","question marker; or"],"426":["ね","","right?, isn't it (seeking agreement)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"971":["将軍","しょうぐん","general / shogun"],"1260":["クレーン","","crane (machine)"],"2215":["パーシバル","",""]};
+window.EN={};

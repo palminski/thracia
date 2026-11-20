@@ -1,0 +1,2 @@
+window.GLOSS={"82":["ない","","not"],"83":["は","","topic marker"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"491":["はい","","yes; that is correct / understood; I see; OK"],"733":["すむ","","to finish; to end; to be completed / to have a result less severe than expected"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"860":["はぁ","","yes; indeed; well / ha!"],"1629":["なるほど","","really; truly; quite / certainly ... (although); sure ... (but); admittedly ... (however)"]};
+window.EN={};

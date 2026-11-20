@@ -1,0 +1,2 @@
+window.GLOSS={"37":["する","","to do; to carry out; to perform / to cause to become; to make (into); to turn (into)"],"59":["で","","at, in; by means of, with"],"83":["は","","topic marker"],"230":["ず","","without, not"],"246":["ある","","to be; to exist; to live / to have"],"473":["ます","","polite verb ending"],"525":["父上","ちちうえ","father"],"593":["うむ","","yes; yeah; uh huh / hum; hmmm; well"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"896":["失礼","しつれい","discourtesy; impoliteness / to leave"],"3544":["申し訳","もうしわけ","apology; excuse"]};
+window.EN={};

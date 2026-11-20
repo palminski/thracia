@@ -1,0 +1,2 @@
+window.GLOSS={"83":["は","","topic marker"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"460":["私","わたし","I; me"],"491":["はい","","yes; that is correct / understood; I see; OK"],"510":["お","","honorific/polite/humble prefix"],"730":["あ","","ah; oh / hey!"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"814":["あんた","","you"],"3748":["やおや","","greengrocer; fruit and vegetable shop / jack of all trades"]};
+window.EN={};

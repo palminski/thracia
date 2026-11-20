@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"418":["か","","question marker; or"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"485":["なん","","what / how many"],"533":["な","","emphasis; don't (prohibition)"],"593":["うむ","","yes; yeah; uh huh / hum; hmmm; well"],"1629":["なるほど","","really; truly; quite / certainly ... (although); sure ... (but); admittedly ... (however)"],"1735":["ハハハ","ははは","ha ha ha (laughter)"]};
+window.EN={};

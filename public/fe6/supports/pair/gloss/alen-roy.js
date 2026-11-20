@@ -1,0 +1,2 @@
+window.GLOSS={"7":["ロイ","","Roy (name)"],"455":["様","さま","Mr; Mrs; Miss / makes a word more polite (usu. in fixed expressions)"],"491":["はい","","yes; that is correct / understood; I see; OK"],"522":["うん","","yes; yeah; uh huh / hum; hmmm; well"],"635":["ありがとう","","thank you; thanks"],"850":["ちょっと","","a little; a bit; slightly / just a minute; for a moment; briefly"],"3103":["うーん","","um; er; well / nuh-uh; no"]};
+window.EN={};

@@ -1,0 +1,2 @@
+window.GLOSS={"10":["だ","","is, am, are (copula)"],"62":["や","","and (among other things)"],"418":["か","","question marker; or"],"427":["当たり前","あたりまえ","natural; reasonable; obvious / usual; common; ordinary"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"485":["なん","","what / how many"],"548":["いい","","good; excellent; fine / sufficient; enough; ready"],"993":["ん","","yes; yeah; uh huh / huh?; what?"]};
+window.EN={};

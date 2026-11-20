@@ -1,0 +1,2 @@
+window.GLOSS={"59":["で","","at, in; by means of, with"],"83":["は","","topic marker"],"198":["も","","also, too; even"],"256":["しかし","","however; but"],"263":["それ","","that; it / then; that point (in time); that time"],"426":["ね","","right?, isn't it (seeking agreement)"],"437":["そう","","in that way; thus; such / so; the same; that's the case"],"468":["なさる","","to do"],"922":["ただ","","but; however; nevertheless / ordinary; common; usual"],"1101":["ごめん","","permission; leave; license / dismissal; discharge"],"2105":["バース","","berth"]};
+window.EN={};

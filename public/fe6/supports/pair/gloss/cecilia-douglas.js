@@ -1,0 +1,2 @@
+window.GLOSS={"41":["て","","te-form connector (and, then; request)"],"192":["れる","","passive / can / honorific"],"230":["ず","","without, not"],"418":["か","","question marker; or"],"473":["ます","","polite verb ending"],"501":["おる","","to be (animate); to be; to exist / to be ...-ing"],"742":["ああ","","ah!; oh!; alas! / yes; indeed; that is correct"],"1447":["いいえ","","no / you're welcome; not at all; don't mention it"],"2230":["覚える","おぼえる","to memorize; to memorise; to commit to memory / to learn; to pick up; to acquire"]};
+window.EN={};

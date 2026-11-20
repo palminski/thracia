@@ -1,0 +1,2 @@
+window.GLOSS={"5":["の","","of, 's; (nominaliser / explanatory)"],"30":["が","","subject marker; but"],"35":["た","","past tense / completed"],"37":["する","","to do; to carry out; to perform / to cause to become; to make (into); to turn (into)"],"256":["しかし","","however; but"],"492":["どう","","how; in what way; how about"],"522":["うん","","yes; yeah; uh huh / hum; hmmm; well"],"537":["なに","","what / you-know-what; that thing"]};
+window.EN={};

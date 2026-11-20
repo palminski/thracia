@@ -1,0 +1,2 @@
+window.GLOSS={"510":["お","","honorific/polite/humble prefix"],"616":["え","","eh?; what?; oh? / yes; that's correct"],"741":["ええ","","yes; that is correct; right / um; errr; well"],"1259":["兄さま","あにさま","elder brother; older brother / another's elder brother"],"1344":["クラリー","",""],"1345":["ネ","ね","right?; isn't it?; doesn't it? / you know; you see; I must say"],"2164":["うれしい","","happy; glad; pleased / joyful; delightful; gratifying"]};
+window.EN={};
