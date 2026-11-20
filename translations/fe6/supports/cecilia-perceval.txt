@@ -1,0 +1,34 @@
+1	General Perceval.
+2	...Cecilia, is it.
+3	Has your wound healed already?
+4	Yes, somehow, I'm alive and well.
+5	I see... I'm sorry.
+6	Back then, even though I was right beside you, I couldn't help you.
+7	No, General Perceval, given your position, you only did what was natural.
+8	Please don't let it trouble you.
+9	It helps to hear you say that.
+10	I intend to make up for it with how I serve from here on.
+11	Yes, I look forward to it.
+12	.......
+13	What's the matter, General Perceval?
+14	That village we passed through earlier was quite devastated.
+15	...Yes, it was.
+16	I imagine most places across this continent are in a similar state.
+17	Because of this war.
+18	Yes...
+19	We have to end this war soon.
+20	For the sake of the people who have no way to resist.
+21	Yes.
+22	Cecilia, what's wrong? You look troubled.
+23	General Perceval...
+24	I was just thinking about what will become of Etruria from here on.
+25	I see, that's just like you... but isn't there only one answer?
+26	Huh?
+27	Etruria will be reborn.
+28	With the prosperity it had before — no, even greater than before.
+29	...Will it really turn out that way?
+30	It's not a matter of "will it." We will make it so, with our own hands.
+31	Ah...
+32	What good is it if you lose your nerve, Cecilia?
+33	We are the Generals who support Etruria.
+34	You're right. Exactly so, General Perceval.
