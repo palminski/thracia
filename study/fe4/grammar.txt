@@ -135,3 +135,16 @@ tenaranai|〜てならない|"Can't help but ~, ~ unstoppably": a natural feelin
 youninaru|〜ようになる|"Come to (be able to) ~, reach the point where ~".|https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B
 yamuoenai|やむを得ん／やむを得ない|"It can't be helped, there's no other way" - classical/contracted cousin of ざるを得ない.|
 itadaku|〜ていただく|"To receive the favor of …; to have someone kindly do": humble benefactive.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F
+teoku|〜ておく|Do in advance, or leave in that state.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8A%E3%81%8F
+tomo|〜とも|"Also, too; even" (formal/literary).|
+to-quote|〜と|Plain quotative と (= という/と言う), often trailing off as a question: "...is that what you're saying?"|
+kotonisuru|〜ことにする|"Decide to..." (a decision made by the speaker).|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB%E3%81%99%E3%82%8B
+tewa|〜ては|"If (that happens)": the uncontracted full form of 〜ちゃ, often implying a bad result.|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF
+gayoi|〜がよい|"Had better ~, should ~": archaic/formal suggestion or command (滅びるがよい).|
+tekara|〜てから|"After doing, since doing".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8B%E3%82%89
+kirenai|〜きれない／〜きれぬ|"Can't fully/completely do ~": potential negative of 〜切る ("to do all the way through").|
+bakari|〜ばかり|"Just, only, nothing but".|https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A
+teiku|〜ていく|Action moving away or continuing onward from now ("go on doing").|https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%8F
+kotohanai|〜ことはない|"There's no need to"; after plain-past, can mean "(that) never happens."|https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84
+wakedehanai|〜わけではない|"It's not that …; that doesn't mean …": a softened denial.|https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84
+temo|〜ても|"Even if / even though".|https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82
