@@ -5557,3 +5557,42 @@
 しつこい|しつこい|persistent, pushy
 人さま|ひとさま|other people (polite/casual, = 人様)
 うらやましい|うらやましい|enviable, I'm jealous
+存命|ぞんめい|being alive, surviving
+生き恥|いきはじ|the shame of staying alive (after a defeat/failure)
+さらす|さらす|to expose, to bare (shame, one's skin, etc.)
+勇ましい|いさましい|brave, valiant
+いつもの|いつもの|the usual
+否定|ひてい|denial
+不要|ふよう|unnecessary
+過ぎ去る|すぎさる|to pass by, to be over
+次代|じだい|the next generation/era
+押しつける|おしつける|to push (something) onto someone, to foist off
+楽をする|らくをする|to take it easy, to have an easy time of it
+でかい顔|でかいかお|a smug/full-of-oneself attitude (lit. "a big face")
+ご用|ごよう|business, something one needs (polite)
+似ている|にている|resembling, similar
+しらをきる|しらをきる|to play dumb, to feign ignorance
+右肩|みぎかた|right shoulder
+高位魔法|こういまほう|high-level magic
+傷あと|きずあと|a scar
+機嫌をなおす|きげんをなおす|to get over a bad mood, to cheer up
+悲しませる|かなしませる|to make (someone) sad
+呼ばれる|よばれる|to be called (a name)
+自然に|しぜんに|naturally
+いいかげんに|いいかげんに|already, enough (as in "いいかげんに〜してくれ", "please just already ~")
+あいかわらず|あいかわらず|as always, unchanged (= 相変わらず)
+上達|じょうたつ|improvement (of a skill)
+初歩|しょほ|the basics, the rudiments
+かなわない|かなわない|unable to match, no match for
+ていねいに|ていねいに|carefully, politely
+学びとる|まなびとる|to learn, to absorb (a lesson)
+出し切る|だしきる|to use up fully, to give it everything
+あつかう|あつかう|to treat, to handle
+良い結果|よいけっか|a good result
+堂々とする|どうどうとする|to carry oneself with dignity, to be composed
+一軍|いちぐん|an army
+成り立つ|なりたつ|to hold together, to be viable
+力をかりる|ちからをかりる|to borrow (someone's) strength, to rely on help
+進んでいく|すすんでいく|to move forward, to advance
+生む|うむ|to produce, to give rise to
+向き|むき|a direction, a suitability (for something)
