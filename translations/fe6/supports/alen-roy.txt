@@ -1,0 +1,53 @@
+1	Hmm...
+2	Lord Roy, what's the matter?
+3	......
+4	Lord Roy!
+5	Oh, Allen. Sorry, I was lost in thought.
+6	You've been doing that a lot lately — thinking things over.
+7	Yeah, well...
+8	What on earth are you worrying about so much?
+9	No, it's just a bit about how to move the army.
+10	How to move the army?
+11	Yeah...
+12	The enemy keeps getting stronger and stronger, so I can't easily come up with a good strategy.
+13	Like, how can I find a good breakthrough, that sort of thing.
+14	I was wondering what it was, and it's something like that...
+15	There's no need to trouble your mind over it, Lord Roy.
+16	If you just give me the order, I'll put in some work and show you a breakthrough!
+17	Thank you.
+18	But I don't want to use you and the others as a dangerous gamble.
+19	There must be some good way. I'll think about it a bit more.
+20	Lord Roy, I have one idea for finding a breakthrough...
+21	An idea?
+22	Yes.
+23	First, using forces other than the main force, we clash with the enemy and probe for their weaknesses.
+24	And please, by all means, entrust that role to my unit!
+25	But wouldn't that unit be in terrible danger...
+26	There may be some casualties, but we'll win the battle!
+27	Don't worry — I, Allen, won't easily be defeated by the enemy...
+28	...Allen, I'm sorry, but I can't go along with this idea.
+29	W-why not?
+30	I absolutely cannot approve a plan where casualties are a given.
+31	But Lord Roy, having casualties in battle can't be helped...
+32	I don't think... it can't be helped.
+33	I might be saying something naive in the middle of a war, but...
+34	I don't think a victory bought with someone's sacrifice is a real victory.
+35	A real victory... you mean to say victory can be real or false?
+36	I believe it can. That's why I keep thinking.
+37	That there must surely be a good way where everyone survives.
+38	That that's what must lead to a true victory.
+39	Hmm...
+40	You seem troubled, Lord Roy.
+41	Yeah, I just can't come up with a good strategy...
+42	Oh, but that plan from before is a no-go.
+43	Yes, I understand that.
+44	But if there's anything I can do, please tell me, anything at all!
+45	Yeah, I'll ask you when the time comes.
+46	...Lord Roy.
+47	?
+48	...Honestly speaking, I still don't know whether there's such a thing as a "true" victory.
+49	But if you can believe there is, please go forward on that path!
+50	As your vassal, I will support that path with all my strength!!
+51	Thank you, Allen. But I do believe it.
+52	That someday, a day will come when Allen understands too.
+53	I'm looking forward to the day that comes!
