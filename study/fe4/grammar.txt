@@ -151,3 +151,5 @@ temo|〜ても|"Even if / even though".|https://bunpro.jp/grammar_points/%E3%81%
 aidani|〜間に|"While …": within that span of time.|
 tari|〜たり|"Do things like …".|https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8A-%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B
 yue|〜ゆえ|Formal, old-fashioned "because, therefore" (= から).|
+tsutsuaru|〜つつある|"In the process of …-ing", a formal equivalent of 〜ている for a change under way.|
+nisuginai|〜にすぎない|"Merely, nothing more than": downplays something as just that and no more.|
