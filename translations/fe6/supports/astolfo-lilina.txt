@@ -1,0 +1,67 @@
+1	Hello, Mr. Astolfo.
+2	Oh, Lady Lilina. Well now, you're looking lovely today too.
+3	You're so lovely, the scales just fell right off my eyes.
+4	See, see, look how many.
+5	Honestly... you never change, Mr. Astolfo.
+6	My father used to say, if you weren't always joking around, you'd be excellent.
+7	Haha, that's a harsh one.
+8	...Say, where did you and my father first meet?
+9	I never heard anything about it from him...
+10	Ah...
+11	Well, that's... not exactly the kind of meeting I can easily tell people about.
+12	?
+13	...Back then, I was a petty thief, you see...
+14	I snuck into Ostia Castle meaning to make off with some treasure.
+15	Eh? Really?
+16	Yeah...
+17	And then? What happened after that?
+18	Well, you see...
+19	Oh, whoops.
+20	If I keep slacking off here, I'll get an earful later.
+21	Let's save the rest for next time, if you'll forgive me...
+22	Is that so...? That's a bit disappointing...
+23	...Getting to the castle's treasure was easy.
+24	I may not look it, but lock-picking is my specialty — a piece of cake.
+25	But the moment I got out of there, I ran smack into someone in the corridor.
+26	Who could it be, I thought — and lo and behold, that very person was...
+27	It was my father, wasn't it.
+28	The Marquess of Ostia just stared at me, unmoving.
+29	He didn't look the least bit shaken — you could tell at a glance he was someone important.
+30	As for me, I just froze with both arms full of treasure.
+31	Would he call the guards? Or just cut me down on the spot, no questions asked?
+32	That's what I was thinking, when...
+33	W-what happened?
+34	The Marquess of Ostia suddenly burst out laughing.
+35	"To think someone could slip through my castle's defenses so easily."
+36	"What's your name?" he asked.
+37	To me, stunned speechless... that man said this:
+38	"Won't you lend those skills of yours to this country?"
+39	Huh...
+40	I thought he must be out of his mind. But his face wasn't the face of someone joking.
+41	Anyway, when I tried to run off still clutching the treasure...
+42	When you tried?
+43	Well, at that moment, the Marquess of Ostia behind me...
+44	M-my father... what did he do?
+45	Well, that's...
+46	Oh, whoops.
+47	Well then, the rest of this story, next time...
+48	Again? I suppose it can't be helped...
+49	Faced with me trying to flee, treasure still in hand...
+50	The Marquess of Ostia... didn't move at all.
+51	I ran. The exit was right there. And yet, he still didn't move.
+52	Not understanding what was going on, I said, "I'm getting away, is that alright with you?"
+53	"If you want to flee, then flee," came the heavy reply.
+54	"If you want it, I'll even give you the treasure. But — will you be satisfied with that?"
+55	"Living out the rest of your life as a thief, worrying about others' eyes, hiding in the shadows..."
+56	"Is that what you want?" he said.
+57	I fled from the castle, as if running away from that man's voice.
+58	I don't even know where or how I walked. I wandered around there all night long...
+59	Dawn broke...
+60	And when I came to my senses, I had come back to that castle.
+61	The Marquess of Ostia was there.
+62	......
+63	And from then on... I've worked under that man.
+64	That man was the one who changed me.
+65	So that's what happened...
+66	Lady Lilina, I can say this any number of times, to anyone.
+67	Your father truly was a splendid man.
