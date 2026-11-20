@@ -1,0 +1,39 @@
+1	Mr. Bors! You are Mr. Bors, right?
+2	Oh... and you are?
+3	I'm Ogier of the Ostian Great Knight order.
+4	I've heard about you from Wendy.
+5	Ah, from my sister... I see.
+6	I see, so you're the new recruit from Ostia, then.
+7	Yes, pleased to meet you.
+8	But... looking at you, you don't seem to be a Great Knight?
+9	Right — I try to make up for whatever the group is lacking, for the squad's sake.
+10	I see... for the squad's sake, is that so.
+11	That's an admirable attitude. Not many can manage that.
+12	Thank you very much.
+13	By the way, I heard this from Mr. Barth —
+14	They say you've even beaten Mr. Barth before, Mr. Bors?
+15	Ah, yes.
+16	At a martial arts tournament held in Ostia — just the once, though.
+17	What kind of fight was it?
+18	Hm... actually, I don't remember it very well.
+19	Eh? Was the fight against Mr. Barth really that boring?
+20	That's not it. I just don't fight battles for the sake of fighting.
+21	I was forced into entering that time, and I had no interest in the details of the fight itself.
+22	So, I've forgotten what it was like.
+23	......
+24	Ogier, a fight should have a purpose behind it.
+25	There's no such thing as fighting just for the sake of fighting.
+26	Mr. Bors, the other day you said, "A fight should have a purpose behind it."
+27	Yes. And for the sake of that purpose, one should overcome any hardship.
+28	What about you?
+29	I... unfortunately, don't have one.
+30	I became a mercenary to feed my family back home.
+31	So, a purpose like that...
+32	Isn't that one, though?
+33	Eh...?
+34	Feeding your family is also a splendid purpose.
+35	Train yourself single-mindedly for that sake.
+36	Do that, and you'll surely become stronger.
+37	O— okay.
+38	Protecting a country, saving the world —
+39	a fight's purpose doesn't need to be some grand noble cause like that alone.
