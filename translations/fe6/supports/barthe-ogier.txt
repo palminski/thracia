@@ -1,0 +1,45 @@
+1	Ogier.
+2	Oh, Mr. Barth.
+3	...You haven't changed at all, have you.
+4	Are you keeping up with your self-training?
+5	Of course.
+6	...There's something I've wanted to ask you — why didn't you aim to become a Great Knight?
+7	Why on earth did you become a mercenary instead?
+8	I thought heavy armor just wasn't suited to me.
+9	That's because your training method is wrong.
+10	But, I was born this way...
+11	This is just the right opportunity.
+12	From now on, I'll train you every day.
+13	I'll have you do the same training I do every day.
+14	If you do that, you might become a Great Knight too.
+15	Is that really how it works...?
+16	Mr. Barth... this training... it's unreasonable.
+17	Keep it up, and eventually you'll manage it.
+18	I've kept this up every day.
+19	But things like basic body build...
+20	Did you say something?
+21	No...
+22	Right now, just move your body and keep quiet — trust me.
+23	Yes, sir...
+24	Hm?
+25	The sound of sword practice swings... is that?
+26	Phew...
+27	With this, maybe I've gotten a little closer... to being like Mr. Barth.
+28	Ogier.
+29	Whoa!?
+30	M-Mr. Barth, you startled me.
+31	That's good. That's exactly right.
+32	See, your body's learned to train now, hasn't it?
+33	I guess so. If I don't move my body, somehow I feel restless.
+34	And besides, I hate the idea of losing a comrade because I lack strength.
+35	All right, there's nothing more I need to say.
+36	Once you've made a habit of training, your body will always be ready to move.
+37	Do that, and it'll always be useful in real combat — mercenary or Great Knight, it doesn't matter.
+38	Eh? Mr. Barth, were you trying to make me into a Great Knight...?
+39	That was just an excuse — to get you into the habit of training.
+40	I knew perfectly well that heavy armor was impossible for your build.
+41	Is that how it was?
+42	Saying that made you train more naturally, didn't it?
+43	I wonder about that... it feels like there was something unreasonable about it.
+44	Did you say something?
+45	No...
