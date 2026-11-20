@@ -1,0 +1,53 @@
+1	Lady Lilina... is something wrong with you lately?
+2	Huh... nothing's wrong with me.
+3	Is that so...
+4	I was ordered by your father to protect you, Lady Lilina.
+5	And so?
+6	If something has happened to you, Lady Lilina, then as someone sworn to protect you...
+7	I said nothing's wrong!
+8	B-but, normally you wouldn't get this irritable...
+9	Irritable? I'm not being irritable at all!
+10	However...
+11	Ugh, you're so annoying, Bors!
+12	Wh-where are you going?
+13	Somewhere Bors won't nag me.
+14	Lady Lilina!
+15	Bors, um... got a minute? It's about the other day...
+16	The other day?
+17	You know, how I was being irritable or not... I wanted to apologize.
+18	Eh? To me?
+19	There's no excuse for acting that way toward you when you were just worried about me.
+20	I'm sorry.
+21	N-not at all, you shouldn't apologize.
+22	...Will you listen to me? The reason I've been irritable.
+23	If I'll do.
+24	...Actually, it's about Roy. What do you think of Roy lately?
+25	What do I think... well, he's gained all sorts of experience,
+26	and as someone who stands above others, he seems to have grown even more mature...
+27	The Roy I know used to misbutton his formal wear,
+28	couldn't even get a single dance step right, and was kind of a spacey boy.
+29	So I always thought I had to look after him...
+30	......
+31	But somehow, he's become more and more dignified,
+32	and before I knew it, I felt like Roy had gone somewhere far away from me...
+33	...Lord Roy hasn't changed as much as you think he has, Lady Lilina.
+34	You think so?
+35	A person grows according to the role they're given, but that doesn't mean their true self changes.
+36	Don't worry. Lord Roy's true self is still exactly the same Roy you know.
+37	I see... I'm sure you're right. Thank you for listening — I feel a bit lighter now.
+38	It's nothing.
+39	You seem to have cheered up a good deal, Princess.
+40	Yeah, I got it off my chest.
+41	That's wonderful to hear.
+42	It's not that Roy became distant with me or anything like that.
+43	And yet, I...
+44	Because Roy became so dignified, I thought he wasn't the Roy I knew anymore...
+45	......
+46	I just decided that on my own, and suffered over it on my own.
+47	Once I realized that, being irritable about it started to feel kind of silly...
+48	Hehe... I guess I'm still a child after all.
+49	Lady Lilina...
+50	Bors, stay by my side from now on too, okay? Stay by my side forever and ever.
+51	...I am a knight. And my loyalty belongs to you, Lady Lilina.
+52	As long as you need me, I will be by your side.
+53	Thank you, Bors...
