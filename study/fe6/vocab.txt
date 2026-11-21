@@ -6787,3 +6787,7 @@
 退く#2|しりぞく|to retreat, to withdraw (e.g. from a position or the front line)
 あわてる|あわてる|to panic, to fluster, to be flustered
 おりいって|おりいって|particularly, earnestly (prefacing a special request)
+まじる|まじる|to mix in, to be mixed among
+勘|かん|a hunch, intuition
+人並み|ひとなみ|ordinary, average, like everyone else
+趣味|しゅみ|a hobby

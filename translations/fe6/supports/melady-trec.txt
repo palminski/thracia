@@ -1,0 +1,58 @@
+1	You're from the Ilian mercenary knights, aren't you.
+2	Ahh... yeah. Name's Trec.
+3	I'm Melady. Pleased to meet you.
+4	You're, um...
+5	Yes... it's as you've noticed.
+6	Wyvern knights are something like a mark of being Bernese, after all...
+7	Ahh, I see.
+8	What do you... think about it?
+9	About me, a Bernese soldier, fighting mixed in with you all.
+10	Hmm...
+11	Eh, I don't think it's a problem, really.
+12	N-not a problem?
+13	It's not like Bernese people have seven ears or something.
+14	...I certainly don't have seven.
+15	Right?
+16	Then that makes us practically siblings, doesn't it.
+17	Is... that so?
+18	Yeah, yeah, that's just how it is.
+19	Ahh... I'm tired.
+20	Sir Trec, is something the matter?
+21	Hmm...?
+22	You're... um...
+23	I'm Melady.
+24	Is something wrong?
+25	Hmm... nah, I was just watching you fight, kind of blankly.
+26	My fighting?
+27	Yeah. Thanks to that, my neck's tired.
+28	I-I see...
+29	And watching, I kind of got to thinking.
+30	Maybe you had someone important, back in Bern.
+31	Like family, or a lover... something along those lines.
+32	...N-no, it's nothing like that.
+33	For me, Lady Guinivere is everything...
+34	Ahh, I see... figured as much.
+35	My hunches have never missed, even from way back.
+36	......
+37	Hah, so it was just my neck getting tired after all.
+38	Oh, you're, um...
+39	...I'm Melady.
+40	You really never remember people's names, do you.
+41	It's a hobby of mine.
+42	......
+43	You're an odd one, Sir Trec.
+44	You think so?
+45	I think I'm pretty normal, myself.
+46	Everyone says that for some reason, though.
+47	"You look like you don't have any worries, lucky you," they say...
+48	But I've got my fair share of worries too, you know.
+49	Like what, for instance?
+50	Oh, that — the other day, I had a dream where I turned into a horse.
+51	...a horse.
+52	I think that dream's got some deep meaning to it...
+53	It's been bugging me, so lately I only sleep at night.
+54	Heh...
+55	Thank you, Sir Trec.
+56	Huh?
+57	Thanks to you... I feel a little lighter.
+58	Huh? What for, exactly?
