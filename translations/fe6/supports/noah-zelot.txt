@@ -1,0 +1,63 @@
+1	Are you unharmed, General Zealot?
+2	Noah, is it.
+3	A battle of this scale is nothing to speak of.
+4	We are Ilian knights. When it comes to real combat experience, we won't lose to knights of any other nation.
+5	Yes, sir.
+6	Though... I'm still far from that myself.
+7	True enough.
+8	...Speaking of which, Noah — have you written that yet?
+9	?
+10	Ah, that letter, you mean.
+11	Right, you were taught that when you first joined the order, weren't you.
+12	Ilia has pegasus messengers who don't take part in battle.
+13	If one of us falls, they're the ones who deliver our letters.
+14	Yes, sir.
+15	Neither you nor I are likely to ever meet a peaceful death in bed.
+16	For those of us who live always in the midst of battle, it's something we can't go without.
+17	Noah — is there no one you'd want to send word to?
+18	Well... not really, for me.
+19	Now that you mention it, I think the knights who joined with me did write theirs.
+20	To their mothers back home, or... their lovers, that sort of thing.
+21	You should do the same.
+22	What do you say — why not find yourself a lover, at least?
+23	Well, I'll think about it.
+24	...General Zealot.
+25	The letter, is it.
+26	Did you change your mind after all?
+27	Yes.
+28	Even someone like me, it turns out, has someone I'd want to reach, if I died.
+29	If I die, I'd like you to be the one to read this, General.
+30	Me?
+31	Me, and Trec, and Grant, and Six...
+32	All of us who joined together, thanks to you, General, became proper knights.
+33	When I die, I'd like to die thanking you, General.
+34	...I see.
+35	Speaking of which, the others — where do you suppose they're fighting now?
+36	Who knows.
+37	But they're all, at least, former subordinates of mine. They won't die easily.
+38	I've heard plenty of them have been hired by Bern, too...
+39	Ah...
+40	But there's nothing to be done about it. We're the sort who pays in blood to earn our gold.
+41	...General, what do you think about that? About all this?
+42	Hm?
+43	The nobles of other nations say it — that Ilia makes its living by selling death.
+44	That we're no different from crows flocking to the smell of blood, picking at carrion...
+45	Let them say what they like.
+46	Without war, Ilia cannot survive. That's simply a fact.
+47	We spill our own blood too. In order to live, that is.
+48	Yes, sir.
+49	General Zealot?
+50	Is... something the matter?
+51	Noah, is it.
+52	No... it's nothing. Did I seem out of sorts somehow?
+53	No.
+54	It's just, I had a feeling something might have happened, somehow...
+55	I see...
+56	...A letter arrived today.
+57	Your comrade's — Grant's — last words.
+58	...I see.
+59	Will you read it?
+60	...No.
+61	I see.
+62	Well then, shall we go.
+63	Yes, sir.
