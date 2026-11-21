@@ -27,7 +27,7 @@
 27||
 28|ぼうず,態度|
 29||nara
-30|謝る|imperative,tte-quote,nara
+30|あやまれ>謝る|imperative,tte-quote,nara
 31||tekure
 32||
 33||
@@ -43,7 +43,7 @@
 43||
 44||
 45||tte-quote
-46|ひねくれて>ひねくれる,うやまう|nu-neg
+46|ひねとる>ひねくれる,うやまう|nu-neg
 47|真剣|youda
 48||tameni
 49||
