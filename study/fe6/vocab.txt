@@ -6850,3 +6850,7 @@
 落ちこむ|おちこむ|to fall into a slump, to feel down
 心の持ち方|こころのもちかた|one's mental outlook, how one holds one's heart
 さまたげ|さまたげ|a hindrance, an obstacle
+予知|よち|foresight, premonition, prediction
+万能|ばんのう|omnipotent, all-powerful, universal
+しょげる|しょげる|to be dejected, to be down in the dumps
+未然|みぜん|(before it happens) in advance, beforehand
