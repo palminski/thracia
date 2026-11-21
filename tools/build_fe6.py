@@ -367,11 +367,12 @@ def main():
                         sidebar=sidebar(f"{slug}.html", at_root=False)),
             encoding="utf-8")
 
-    toc_rows = "\n".join(
-        f'<li><a href="chapters/{slug}.html"><span class="num">{esc(label)}</span>'
-        f'<span class="title">{esc(title)}</span></a></li>'
-        for stem, slug, label, title in PAGES
-    )
+    def li(p):
+        stem, slug, label, title = p
+        return (f'<li><a href="chapters/{slug}.html"><span class="num">{esc(label)}</span>'
+                f'<span class="title">{esc(title)}</span></a></li>')
+    toc_rows = "\n".join(li(p) for p in PAGES if p[1] not in BONUS_SLUGS)
+    bonus_rows = "\n".join(li(p) for p in PAGES if p[1] in BONUS_SLUGS)
     owners, char_scenes, _pairs = parse_all()
     support_entries = character_entries(owners, char_scenes, href_prefix="supports/")
     support_grid = char_grid(support_entries, base_rel=0)
@@ -380,6 +381,8 @@ def main():
             '<p class="lead">Every chapter\'s dialogue in the original Japanese. '
             'Hand-written study notes and English translations are in progress, chapter by chapter.</p>'
             f'<ol class="chapters">{toc_rows}</ol>'
+            '<h2 class="idx">Bonus</h2>'
+            f'<ol class="chapters">{bonus_rows}</ol>'
             '<h2 class="idx">Support Conversations</h2>'
             '<p class="lead">All 54 characters\' support conversations '
             '<span lang="ja">（支援会話）</span>. Click a character to see their support partners.</p>'
