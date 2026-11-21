@@ -1,0 +1,53 @@
+1	Oh my, it's been a while.
+2	Yes, and you look well too.
+3	Hmph... you've turned into a proper old man, haven't you.
+4	Ah, well... how embarrassing.
+5	While you remain just as young as ever.
+6	...Is that sarcasm?
+7	Not at all.
+8	...But truly, it has been a long time. How many years has it been now?
+9	Oh, about... fifty years or so, I'd say. A good long while since then...
+10	Yes... it's been quite a while since then.
+11	...Now, I can understand a little of what you argued back then.
+12	Yes, I too...
+13	...I feel like I can understand how you felt back then, now.
+14	But the times were different.
+15	Either way, there's no going back to those days now.
+16	Your road and mine parted ways there.
+17	We can only keep walking our separate paths, as we have until now.
+18	......
+19	...Yoder...
+20	Are you listening, Yoder?!
+21	Niime...
+22	...Your sister had her life taken by those men.
+23	She died calling your name, crying.
+24	And yet, you... why do you do nothing?
+25	That's...
+26	"Forgive them," you say? What good does forgiving fools like that do?
+27	Let them live now, and they'll surely do the same thing again.
+28	People with no guilt at all will lose their lives because of them.
+29	Is that fine with you too, Yoder?!
+30	Niime, I...
+31	Yoder?
+32	This is... Lady Niime.
+33	What are you doing here?
+34	I'd figured you'd gone and kicked the bucket by now.
+35	No, I was just reminiscing about the old days.
+36	When I close my eyes like this... the past feels just like yesterday.
+37	Hmph... I hope that's not just your senility talking.
+38	Your sharp tongue hasn't changed since back then, either...
+39	This battle too... seems to be nearing its end.
+40	Seems so.
+41	What will you do, from here on?
+42	Who knows.
+43	I told you, didn't I? Your road and mine are different.
+44	We'll each just keep walking, toward our separate ways.
+45	......
+46	But, Lady Niime — both you and I have changed.
+47	Perhaps, someday, a day will come when we can walk together with the same heart again.
+48	That's what I hope for.
+49	......
+50	...Well, there's no telling what's ahead.
+51	A road that split into two along the way...
+52	might cross again somewhere, someday...
+53	No one can know that.
