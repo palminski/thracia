@@ -1,0 +1,44 @@
+1	Whoa!
+2	......
+3	What the hell, shooting at me like that! I'm on your side!
+4	...Ah, come to think of it, I suppose you are.
+5	Don't just say "I suppose you are"!
+6	Getting shot by an arrow is deadly serious for a wyvern rider!
+7	Watch where you're aiming!
+8	......
+9	......
+10	Is that the look you give an enemy...?
+11	I used to be a Bern soldier, after all,
+12	and considering what Bern did to Sacae, I guess it can't be helped, but...
+13	if we keep fighting like this, it's going to hurt the army's unity, you know...
+14	......Alright, guess I'll do something about it!
+15	Yo, Sin! How's it going?
+16	...As you can see.
+17	You're quite skilled! You're hitting almost everything.
+18	I'd like to do that too, but it's not so easy...!!
+19	Watch out!
+20	!
+21	...Missed by a little.
+22	The soldier I just took down... or thought I'd taken down, huh...
+23	Sorry about that, making you clean up my mistake.
+24	...It's just because I happened to see it. Nothing but reflex.
+25	That's fine. It doesn't change the fact that you helped me, does it?
+26	Teach me your secret to hitting targets sometime, will you?
+27	I refuse.
+28	......
+29	Well, guess I'll just be grateful for the help...
+30	Behind you! Sin!
+31	!
+32	You all right? Even you lose your edge when you're surrounded.
+33	You could've just left me be.
+34	I just happened to see it, and my hand moved on instinct. That's all.
+35	......
+36	Well, I'm going on ahead,
+37	so don't go accidentally shooting your bow at me again like last time.
+38	I don't make mistakes.
+39	Ha, you don't say!
+40	...Well, we're in the middle of battle, so it can't be helped if your aim slips by accident.
+41	I don't make the blunder of aiming at a comrade... I'd never aim at you.
+42	...Yeah, I guess so!
+43	I'll follow right behind. Leave any slip-ups to me.
+44	Yeah! Count on you!
