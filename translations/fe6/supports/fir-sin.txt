@@ -1,0 +1,61 @@
+1	Oh.
+2	......
+3	You're... Sin!
+4	......
+5	Did you join this army too, after all that? What a surprise.
+6	Yeah... I guess so.
+7	......Ah, that reminds me.
+8	Were you able to meet the woman you were looking for?
+9	......
+10	S-sorry, was that something I shouldn't have asked...?
+11	No...
+12	It's not that. I was able to meet her.
+13	Oh, I see, is that so.
+14	I'm glad.
+15	Yeah... I guess so.
+16	Ah, Sin! It's been a while.
+17	......
+18	Um, is something wrong?
+19	...Come to think of it, I never asked.
+20	Which tribe are you from?
+21	Eh?
+22	Since you drifted out to the west... Bulgar, maybe?
+23	Or are you one of the Djute, who betrayed us and sided with Bern?
+24	...Who knows?
+25	......Was that...?
+26	A joke?
+27	N-no, I didn't mean it that way.
+28	I've always lived with just my father and mother, the three of us...
+29	So I don't really know much about tribes and things like that.
+30	......Well, never mind.
+31	Ah, you're from the Kutolah tribe, aren't you, Sin?
+32	I heard that from you before.
+33	Yeah.
+34	Our chief is the strongest warrior in Sacae, the "Silver Wolf."
+35	No one surpasses him in mounted swordsmanship or archery.
+36	You really respect him, don't you.
+37	...You can tell?
+38	Yes, I can tell from your eyes.
+39	Always so brusque... I mean, your eyes, the quiet Sin's eyes—
+40	they looked so proud.
+41	...You're a strange one.
+42	A-am I?
+43	Women of Sacae rarely become fighters.
+44	Even if they do fight... they usually pick up a bow first.
+45	A woman who aspires to be a swordsman, like you, is rare.
+46	Huh...
+47	And besides... the people of Sacae live according to heaven and earth.
+48	They don't keep a tribal guardian god, nor do they offer prayers...
+49	I've never seen a person of Sacae like that before.
+50	S-sorry...
+51	No, I'm not blaming you.
+52	If anything, I... found it likable.
+53	That there's also a way of life that free.
+54	I feel like you've taught me that, even at this late stage.
+55	I-is that so... it's not anything that admirable...
+56	But hearing you say that makes me happy, Sin.
+57	Your eyes are very beautiful.
+58	Eh...?
+59	That's probably because you keep looking straight at your own dream.
+60	I pray that your dream of becoming an excellent swordsman comes true.
+61	Yes! Thank you very much!
