@@ -1,0 +1,51 @@
+1	Now then, the next enemy is...
+2	......
+3	? Did you need something, Miss Sue?
+4	You use a bow too, don't you.
+5	Huh, yeah, I do, but—
+6	Why don't you ride a horse?
+7	Why, huh...
+8	Because this is just how we've always fought.
+9	But isn't that harder to fight in?
+10	Not really.
+11	If anything, I'd think shooting a bow from a horse would be harder.
+12	I see...
+13	Ah, wait, Miss Sue! What a strange girl.
+14	Wolt.
+15	Oh, Miss Sue, what's up?
+16	I think being on a horse really is better after all.
+17	Huh? ...Do you mean about the bow?
+18	Yes.
+19	Getting closer to or farther from a target is more convenient on a horse.
+20	Well, I think it depends on the person, but...
+21	Wait, did you actually try it? Getting off your horse?
+22	Because you can't really know unless you actually try it.
+23	That's dangerous!
+24	Doing something you're not used to in real combat could cost you your life!
+25	It wasn't real combat.
+26	I just tried it against a tree when I had some time during the march.
+27	Oh, I see...
+28	Thank you.
+29	?
+30	You were worried about me, weren't you?
+31	Yeah, well... we're comrades in the same army, after all.
+32	Wolt? What's wrong, you're out of breath.
+33	...A horse's stride really does cover a lot of ground, Miss Sue.
+34	It was quite a struggle catching up. *huff* *huff* *huff*
+35	Well, you said a horse was more convenient for fighting, right?
+36	Getting closer to or farther from targets, you said, so...
+37	You tried it out?
+38	"You can't know unless you actually try it," right?
+39	So, how was it?
+40	Yeah, on this point, I really can't match a horse.
+41	But there's stability and such too, so going without a horse entirely is...
+42	Wasn't it "dangerous to test it out in real combat"?
+43	Ah—
+44	...well, it was just a little movement, so this much should be fine.
+45	If you want to cover more ground, you can just ride behind me.
+46	Are you sure that's okay?
+47	Though using a bow while riding behind me would probably be impossible.
+48	Forget using a bow!
+49	Just not getting thrown off is going to take everything I've got.
+50	Yeah, I think using a bow with my feet planted on the ground suits me better.
+51	Hehe... maybe you're right.
