@@ -1,0 +1,37 @@
+1	Oh, h-hey — you're Lugh, right?
+2	That, uh, sorry about mixing you up with your little brother the other day.
+3	Hi there, Mr. Hugh. It's fine, really.
+4	Raigh and I are twin brothers, and almost nobody can tell us apart.
+5	Hearing you say that actually helps a lot.
+6	I lost my temper and grabbed a kid — that's about as low as it gets.
+7	...but if we're talking about how it started, Raigh ran off with your important tome, right?
+8	So the fault was with us too — I should apologize as well.
+9	Nah, just forget about it. I was careless about it myself.
+10	It's not like... well, I guess it's fine now.
+11	Whatever started it, I got to know you because of it, Mr. Hugh.
+12	Yeah! We're both mages — let's help each other out.
+13	Sure, I'd love it if you taught me all kinds of things.
+14	Mr. Hugh! Are you okay?
+15	Huh? Okay — what do you mean?
+16	I mean, you're bleeding from your elbow! Whoa, we need to stop the bleeding, fast!
+17	Ah, that's just from the fight earlier. It's fine, it's fine, don't make a big deal of it.
+18	No way! Leaving something like this alone... if you die, there's nothing anyone can do about it.
+19	Lugh? You're the one whose face has gone pale...
+20	I... ever since I lost someone important to me,
+21	I hate regretting things... so, let me treat it.
+22	...fine. Go ahead.
+23	Lugh, about what happened the other day...
+24	I'm sorry! I-I did that even though you said you were fine,
+25	and just went ahead on my own... it must've been annoying, a kid butting in like that, right?
+26	Are you stupid or something? Why are you apologizing for doing something good?
+27	But, Mr. Hugh, you seemed to be avoiding me ever since then,
+28	...so I figured you must be angry, that's what I thought.
+29	...it's obviously because I was embarrassed!
+30	Huh? Why's that?
+31	I mean, nobody's ever worried about me that genuinely, like family would,
+32	...it's the first time.
+33	The old hag who raised me was, well, a total demon of a grandmother,
+34	Even if I got hurt way worse than that, she wouldn't even dab on a drop of medicine for me.
+35	So you worrying about me for real like that... kind of made me really happy.
+36	Thanks, Lugh. You and me, we're one-of-a-kind buddies for life.
+37	Yeah, Mr. Hugh! Let's be friends forever!!
