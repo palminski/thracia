@@ -1,0 +1,63 @@
+1	Sister!
+2	I brought cloth and medicine from the supply corps.
+3	Thank you. Could you put it there?
+4	Yes!
+5	Well then, I'll be on my way.
+6	Oh, wait!
+7	? What is it?
+8	Are you helping out with the army's supply corps?
+9	Nope, I'm fighting too.
+10	What? No, surely not...
+11	A child like you...?
+12	Aw, that's harsh.
+13	Sure, I'm still a kid, but—
+14	If I use a tome, I can fight just fine!
+15	That's not the point. Children shouldn't be on a battlefield.
+16	I'm only about two years younger than Lord Roy, you know?
+17	Lord Roy... can't be helped. But you're different, aren't you?
+18	I'm not different. I have a real reason to fight too.
+19	But...!
+20	Thanks for worrying about me! But I'll be fine.
+21	I'm in the middle of an errand, so I have to hurry. See you, Sister.
+22	Ah...
+23	Do you have a moment?
+24	Oh, the Sister from before!
+25	I'm Elen.
+26	I'm Lugh.
+27	So you really are fighting as a soldier...
+28	How are you? Not hurt anywhere?
+29	I'm fine.
+30	I may not look it, but I'm confident in how quick I am.
+31	Lugh... I really am worried.
+32	A small child like you, out fighting on a battlefield...
+33	Do I really look that small?
+34	From where I'm standing, a woman like you, Elen—
+35	—being on a battlefield is the more dangerous thing, isn't it?
+36	Well...
+37	That may be true, but—
+38	That's right!
+39	If you're ever in danger, I'll protect you!
+40	You can always rely on me, okay?
+41	Alright, I understand.
+42	But Lugh, please don't do anything too dangerous either.
+43	Elen!
+44	Oh, Lugh, what's wrong? You seem so flustered...
+45	...J-just now—
+46	I thought I saw an enemy near you, so...
+47	*pant* *pant*...
+48	But it seems it was just my imagination. Phew!
+49	You were worried about me. Thank you.
+50	Yeah.
+51	I promised I'd protect you, after all.
+52	You're so kind, Lugh.
+53	I'm sure God will bless you for it.
+54	When you smile like that, Elen, you look just like a goddess!
+55	A goddess? Me?
+56	You know, Elen...
+57	you always look a little sad,
+58	and that worried me too.
+59	It might not be helped, since we're at war right now, but...
+60	still,
+61	if you smiled more, it'd give me more energy too!
+62	Lugh.
+63	Seeing your smile gives me energy too.
