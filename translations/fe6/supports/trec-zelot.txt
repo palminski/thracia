@@ -1,0 +1,56 @@
+1	Trec.
+2	......
+3	Trec?
+4	...zzz...
+5	......
+6	Ow, hey!?
+7	Huh...? Why's that? My head really hurts for some reason.
+8	Because I hit you.
+9	Huh? General Zelot?
+10	Trec, seems you were sleeping again.
+11	Ah... sorry, I just...
+12	Yyawn~
+13	Honestly, you... You'll try to sleep any chance you get.
+14	And what's worse, you sleep with your eyes open, so it's even harder to tell.
+15	Ah... right, my bad.
+16	You've always been like this, but you really have no sense of urgency.
+17	I'll keep coming to check on you from time to time, so be warned.
+18	Yes, sir...
+19	Yyawn...
+20	...zzz...
+21	Trec...
+22	...zzz...
+23	.......
+24	Ow, hey!?
+25	Huh...? General Zelot?
+26	Yyawn... good morning.
+27	Honestly, you... Word's gotten around about you even within the army.
+28	That the Ilian Knights' Trec can swing his sword even while asleep.
+29	Even I'm not quite that good...
+30	Though that does sound nice. Seems easy.
+31	......
+32	You've got the skill... so why won't you take this more seriously?
+33	Ah...
+34	We're members of the proud Ilian mercenary knights.
+35	This battle will decide the fate of the world... and for us, it's more than just that.
+36	How we fight from here on will decide the worth of the Ilian Knights as mercenaries.
+37	And in turn, that will shape Ilia's future...
+38	...zzz...
+39	Trec, are you awake?
+40	Yessir.
+41	Oh, you're properly awake. Impressive.
+42	Well, well, even I get it done when it counts.
+43	I see.
+44	Trec... you've fought well, all the way to here.
+45	Huh?
+46	Without you, we never would have made it this far in this fight.
+47	It's all thanks to you, Trec.
+48	From now on, sleep as much as you like. I don't mind.
+49	Haha... thanks.
+50	Trec!
+51	Trec! You, of all people. Were you asleep again!?
+52	Huh?
+53	Huh...? General Zelot?
+54	Honestly... how many times do I have to tell you?
+55	Really, you...
+56	Yyawn... good morning.
