@@ -28,7 +28,7 @@
 28||seika,nano
 29||
 30||
-31|もらす|houga-ii
+31|もらさない>もらす|houga-ii
 32||sugiru
 33|一変|dake,chimau,kara
 34||
@@ -36,7 +36,7 @@
 36|つかまって>つかまる|teiru,souda-hearsay
 37||kamoshirenai,darou
 38||
-39|怖い|
+39|こわい>怖い|
 40||
 41|安心|
 42|利用|tari
