@@ -1,4 +1,4 @@
-1|久しい|
+1|ひさしぶり>久しぶり|
 2||sou-looks
 3||chimau,janaika
 4||
@@ -13,7 +13,7 @@
 13|理解|kotogadekiru
 14||
 15||potential
-16|分かれてた>分かれる|teiru,nda
+16|別れてた>別れる|teiru,nda
 17||shika
 18||
 19||
