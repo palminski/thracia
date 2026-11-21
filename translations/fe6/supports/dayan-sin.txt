@@ -1,0 +1,48 @@
+1	Chieftain.
+2	Sin...
+3	Forgive me. I placed an impossible task on your shoulders.
+4	I thank you for finding my granddaughter.
+5	No, it was nothing like that...
+6	It can't have been an easy road. What did you do after we parted?
+7	Yes. After that defeat...
+8	I wandered from place to place, searching for Lady Sue's whereabouts.
+9	I passed through Lycia, crossed the sea, to the islands in the west.
+10	It was there that I found Lady Sue... that was several months after I received your order.
+11	I see...
+12	So that much time has already passed since our defeat.
+13	...Chieftain.
+14	We lost so many people... lives still young, too...
+15	But you are still alive, Chieftain.
+16	Even if we end up scattered apart,
+17	as long as the chieftain lives, the tribe will surely gather beneath him again.
+18	The countries to the west, like Lycia and Etruria...
+19	They were far too different from us Sacaens.
+20	In battle, there were soldiers clad in armor so hard an arrow couldn't pierce it...
+21	I'd imagine so.
+22	Our battlefield is the vast plains. Without horses, we cannot fight.
+23	But on narrow land, I suppose soldiers like that are the ones who hold the key points.
+24	Yes.
+25	If the way of war differs so greatly, it's only natural our way of fighting wouldn't apply there.
+26	......
+27	Betrayal, ambush — over there, those are probably just another tactic of war.
+28	Only we think it cowardly. In the end, I suppose there's nothing to be done once you've lost.
+29	...But—
+30	I cannot accept it. Fighting so filthy...
+31	Then there's nothing for it but to learn — the ways other countries fight, the ways other countries think.
+32	Even if we don't let ourselves be tainted by it.
+33	Sin.
+34	Yes...?
+35	Heaven does not bring only misfortune.
+36	Our tribe's defeat... it wasn't all bad.
+37	For you, it might have been a good thing.
+38	What do you mean by that...?
+39	The stars and the earth are no longer as they once were.
+40	Sacae, too — this isn't an age where we can go on thinking only within our own tribes.
+41	But, Chieftain...
+42	You traveled the continent and seem to have learned a great deal.
+43	I am an old man now. I can't change how I live, not at this point.
+44	But you — you're still young.
+45	Leading Sacae down a better path is your task now.
+46	Hear this as your chieftain's command, Sin.
+47	From now on, it's for you to decide — what Sacae ought to become.
+48	Yes, sir...

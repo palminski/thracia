@@ -5854,3 +5854,20 @@
 強情|ごうじょう|stubborn
 平原|へいげん|a plain, plains
 とどめる|とどめる|to keep, retain (心にとどめる = "keep in one's heart")
+無理難題|むりなんだい|an unreasonable demand, an impossible task
+道行き|みちゆき|a journey, the road traveled
+敗戦|はいせん|a lost battle, defeat
+幾月|いくつき|several months, how many months
+離れ離れ|はなればなれ|scattered apart, separated
+集い|つどい|a gathering
+かたい|かたい|hard, stiff (here written in kana, = 硬い/固い)
+だまし討ち|だましうち|a sneak attack, treacherous ambush
+一手|いって|a single move, a tactic
+ひきょう|ひきょう|cowardly, cowardice (卑怯)
+不運|ふうん|bad luck, misfortune
+そまる|そまる|to be dyed, to be tainted (染まる)
+ありよう|ありよう|the way something is, how things ought to be
+たつ|たつ|to pass, to elapse (time; 経つ)
+場|ば|a place, a field, a setting
+悪いこと|わるいこと|a bad thing
+よいこと|よいこと|a good thing
