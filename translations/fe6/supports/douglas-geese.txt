@@ -1,0 +1,57 @@
+1	Geese.
+2	Oh, it's you, boss. Been a while.
+3	First, more than anything, I want to thank you.
+4	As promised, the pri—
+5	You took Lord Elffin to the west, I hear.
+6	Yeah, well, I did what I said I'd do.
+7	That minstrel was a pretty decent guy.
+8	Though I heard his companion was seasick and laid up the whole trip.
+9	I see... I'm sorry, Geese.
+10	I misjudged what kind of man you are.
+11	Hm?
+12	With assassins watching our every move...
+13	I couldn't ask any respectable ship for help.
+14	That said, deep down, I couldn't help but wonder — could pirates really be trusted?
+15	But you kept your word.
+16	Hey, hey, come on now.
+17	You could have informed the coup faction and made a fortune.
+18	Why did you take on a job that barely paid anything?
+19	...Because helping people feels good.
+20	A lot better than pirate work, anyway.
+21	Oh, it's you, boss.
+22	Geese, I must repay you properly.
+23	Repay me?
+24	For what you did in service of our nation.
+25	Name anything you like — I'll fulfill it on my family's honor.
+26	What are you talking about, I already got the payment we agreed on.
+27	No, that alone doesn't settle my conscience.
+28	If things were different, you'd be a hero of Etruria.
+29	Why's that? That guy's just a minstrel, isn't he?
+30	Well, I was surprised he'd somehow become the savior of the west, though.
+31	Geese, actually...
+32	......Hmm...
+33	?
+34	Sorry. I can't say it right now.
+35	What's with you, honestly...
+36	Anyway...
+37	I hear you lent your strength to the islanders in the west, too.
+38	Saving those people was also the wish of our king and prince.
+39	Sheesh...
+40	Sorry, but a nation doesn't mean much to me.
+41	I just wanted to do something for the village that took care of me, that's all.
+42	Boss... you're persistent, you know that?
+43	Of course I am. I owe you a debt.
+44	If I left it unpaid, it would disgrace my family's name.
+45	You warrior types are way too stubborn, I swear.
+46	You're definitely the type who'd report a single gold coin found on the road to the guards.
+47	Geese.
+48	Sheesh... fine, I get it.
+49	Alright, then...
+50	You and that king of yours — do your best to make it a good country.
+51	Make it a country that never starts stupid wars or fighting again.
+52	Make it a country where people can travel and do business in peace.
+53	If you don't, my business goes under too, you know.
+54	......
+55	...Geese.
+56	You truly are... too good a man to waste as a pirate.
+57	I'll promise you this — even at the cost of my life!
