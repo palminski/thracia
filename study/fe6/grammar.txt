@@ -251,6 +251,7 @@ monoda|〜ものだ|"That's just how it is; supposed to be ...": states somethin
 kuseni|〜くせに|"Even though ..., and yet ...": criticizes someone for acting against what the preceding clause would lead you to expect.|https://bunpro.jp/grammar_points/295
 kaneru|verb stem + 兼ねる|"Cannot, be hard to, hesitant to ...": formal, often a polite refusal — the speaker would like to but external circumstances don't allow it.|https://bunpro.jp/grammar_points/542
 narisoon|dictionary form + なり|"As soon as ..., the moment ...": (B) follows right on the heels of (A), usually about someone else and often an unexpected or strong-willed action. Distinct from the "nari" entry's なり〜なり "either...or".|https://bunpro.jp/grammar_points/なり
+tamaruka|〜てたまるか|"As if I'd let that happen!; there's no way I'd...!": a defiant rhetorical denial, same family as もの/ものか. (Checked; Bunpro covers the related てたまらない at grammar_points/411, but not this たまるか rhetorical-question form as its own point.)|
 monaku|〜もなく〜も〜ない|"Neither ... nor ...": lists two qualities side by side and denies both (良くもなく悪くもない = "neither good nor bad"). (Checked; not in Bunpro's catalog as its own point — nearby but distinct: までもなく, なくもない.)|
 kotoyara|〜ことやら|"I wonder ...": a musing, slightly uncertain question about how something will turn out. (Checked; not in Bunpro's catalog — nearest relatives are ことか and やら〜やら, neither a match.)|
 kimatteiru|〜に決まっている|"Of course, it's bound to be ...": states the speaker's confident subjective judgment as if it were settled fact.|https://bunpro.jp/grammar_points/524
