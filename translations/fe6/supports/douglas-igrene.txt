@@ -1,0 +1,48 @@
+1	Please wait.
+2	You are... General Douglas of Etruria, aren't you?
+3	Indeed.
+4	Then you're the one they call the "Grand General" of Etruria?
+5	Now I am nothing more than a single soldier.
+6	I see...
+7	I am Igrene, guardian of the village of Nabata.
+8	Of Nabata...
+9	Yes.
+10	Fighting invaders amid Nabata's burning sands is my duty.
+11	I see...
+12	And so, is there something you wish to say to me?
+13	I would like you to promise me — that you, General, will never target Nabata.
+14	I cannot make that promise...
+15	Why not?!
+16	We are knights... If it's our lord's command, we cannot refuse to obey.
+17	Even if it's wrong?
+18	Because that is what it means to be a knight.
+19	......
+20	General Douglas, to continue what we were discussing before —
+21	Can your nation not promise not to target our village?
+22	......
+23	Why not, when you're the richest country on the continent?
+24	...Because there are times when things happen even when the king doesn't wish it, even when I don't wish it.
+25	What do you mean by that...?
+26	Etruria is a great nation.
+27	It's held up by many nobles — and among them, there are plenty whose hearts are not good.
+28	If such men come to hold sway, there is nothing even the king or I can do.
+29	But what kind of wealth could there possibly be in a desert like that?
+30	Even without wealth... they want someone to show off their power against.
+31	Without the weak to trample underfoot, their own hearts go unsatisfied.
+32	I hear the west, too, was tormented by such poor-hearted men.
+33	......
+34	Igrene.
+35	Yes, General Douglas?
+36	......
+37	As I said before,
+38	I am a vassal of the king, and a general of Etruria.
+39	And so... I cannot make you that promise.
+40	......
+41	But I will make the effort.
+42	The heroes who defeated the coup faction and saved the king...
+43	That among them was someone from the village of Nabata —
+44	and that their peace must never be threatened from now on —
+45	I will convey this, and I will be sure to persuade the nobles.
+46	......I have heard those words, and heard them clearly.
+47	For now, I will content myself with those words.
+48	I'm sorry.
