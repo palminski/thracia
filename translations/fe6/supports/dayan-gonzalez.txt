@@ -1,0 +1,52 @@
+1	Hey, hey.
+2	What's that?
+3	Are eastern bows unusual to you?
+4	This one's for training, not suited for actual combat, but...
+5	L— let me try it.
+6	Hmm, very well. First, try drawing it here.
+7	L— like this?
+8	Ho, what tremendous strength.
+9	An ordinary man couldn't even draw it back.
+10	I— I'm amazing.
+11	Indeed. Now, try nocking an arrow like that.
+12	?
+13	You place the arrow here.
+14	Place the arrow here...
+15	And then, release it.
+16	And then, relea—
+17	Guh!
+18	N— no good!
+19	Stay with me, Gonzalez!
+20	I— it's stuck in me...
+21	Now then, let me see your head.
+22	Hm... Looks like it's healed.
+23	Ughh...
+24	I'm done with bows.
+25	Hey, what's with that horse? Its fur's weird.
+26	Its coat color is different from the horses in your land, isn't it.
+27	Sacae exists because of these horses.
+28	They're in no way inferior to the knights' warhorses.
+29	R— ride it, I wanna ride it...
+30	Gyaah!
+31	Go— Gonzalez!
+32	Horses are sensitive to anyone standing behind them.
+33	You mustn't carelessly go around behind one.
+34	...Ow.
+35	Sorry about this, Gonzalez.
+36	Seems like I keep injuring you.
+37	It's fine. I'm not particularly bothered.
+38	As a token of apology, take this.
+39	What's this?
+40	This is a feather ornament of our Kutolah clan.
+41	It should suit a fine, sturdy man like you well.
+42	...Thanks.
+43	And then, I'll give you this too.
+44	It's called kumis — a delicious liquor drunk at celebrations.
+45	I'm happy.
+46	I'll drink it.
+47	Wait, wait, if you drink that much...
+48	Hm?
+49	Ohhh......
+50	Gonzalez! Stay with me! Can you stand?
+51	That's exactly why I told you — this drink isn't something an ordinary man's tolerance can handle...
+52	Ohhh......
