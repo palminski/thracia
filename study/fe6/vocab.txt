@@ -6347,3 +6347,6 @@
 花|はな|flower
 群生|ぐんせい|growing in a cluster, colony (of plants)
 摘む|つむ|to pick, to pluck
+楽器|がっき|musical instrument
+気に召す|きにめす|to be pleased with, to like (polite)
+大歓迎|だいかんげい|a warm welcome

@@ -1,0 +1,48 @@
+1	...Staaare.
+2	? ...Do you need something from me?
+3	! Um... that!
+4	That plink-plonk sound, it's so pretty, what is it?
+5	This is an instrument called a harp. Do you like it?
+6	Yeah! Fae really, really likes it!
+7	And also, um, um... what's your name?
+8	Mine?
+9	I'm called Elffin, little lady.
+10	Erufi...huh?
+11	Elffin.
+12	Erufin!
+13	That's right.
+14	Um, Fae likes Elffin too! Your hair goes all fluffy in the wind, and then
+15	when the sun hits it, it sparkles!! Fae thinks it's pretty, really really likes it!
+16	Heh heh, that's quite an honor. Thank you.
+17	Can I come again?
+18	Yes, you're always welcome.
+19	Elffin!
+20	Ah, the little lady from the other day. Hello.
+21	...Fae's name isn't "little lady."
+22	My apologies. May I call you Miss Fae, then?
+23	Not "Miss Fae." Just Fae.
+24	Heh heh... Understood. Then, Fae—
+25	...It's a curiously-sounding name. Is it your true name?
+26	Um, well, actually it's a much lo~nger name.
+27	But apparently it has sounds humans can't hear, so I just took the part you can hear, and that's Fae.
+28	I see...
+29	But maybe Elffin could hear it.
+30	'Cause you make soo many really pretty sounds.
+31	Well then, perhaps I'll try it sometime.
+32	Okay!
+33	Hey, hey, Elffin.
+34	Yes, Fae? What is it?
+35	Fae's had something she's wanted to ask Elffin for a loong time.
+36	What is it? I hope it's something I can answer.
+37	Um, is Elffin... a big sister? Or a big brother?
+38	...Which do you think?
+39	Um, well, at first Fae thought big sister.
+40	Because you're so pretty and smell nice. But then, the other day, Roy's big brother
+41	said Elffin's a man, so it's big brother. Is that true?
+42	That's right, I suppose I am a "big brother"... Are you disappointed?
+43	Nuh-uh. I see, so you're a big brother... hehe.
+44	? What's the matter?
+45	Um, well! Fae's gonna be, like, just as pretty as Elffin someday,
+46	really pretty! So wait until I'm all grown up!! It's a promise!
+47	Ah, Fae! Please wait... by the time Fae grows up,
+48	I don't think I'll be in this world anymore. Heh. Well, never mind that for now.
