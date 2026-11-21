@@ -5,7 +5,7 @@
 5||to-quote,toomou,teiru
 6|牙,むきます>むく|
 7|調教|
-8|生来,望む|no-nominal,kamoshirenai
+8|生来,望まない>望む|no-nominal,kamoshirenai
 9||
 10|幼い|tekuru
 11|栄えある,ささげる|tameni
