@@ -1,0 +1,40 @@
+1	Oh, Noah.
+2	It's been a while, Miss Juno.
+3	Is your body doing alright?
+4	Well, that's rare of you.
+5	To think you'd actually worry about me.
+6	...even I'm not that much of a people-hater...
+7	Heh, just a joke.
+8	You're blunt, but deep down you're actually a kind person, aren't you.
+9	What about you — no injuries?
+10	You've been fighting battle after battle to get here, haven't you?
+11	No, General Zealot protected me, so...
+12	It's more that I managed to get this far thanks to the general.
+13	I see...
+14	That man always pushes himself too hard whenever it comes to a fight...
+15	Sigune has... joined Bern, I hear.
+16	Yes.
+17	Leading a pegasus knight unit, lying in ambush amid a blizzard.
+18	I see...
+19	She and I, you know, used to be rivals, long ago.
+20	We were always competing against each other's skill.
+21	Thinking back on it now, it's all somehow... nostalgic.
+22	......
+23	Sigune acted tough, but she was someone who looked out for others well.
+24	If only it weren't for times like these.
+25	War really is a harsh thing, isn't it.
+26	...yes, it is.
+27	But, that's what war is.
+28	Hey, Noah.
+29	What is it?
+30	The reason you avoid making close connections with people—
+31	is it because losing them is too painful?
+32	...I wonder.
+33	It's true that it's easier... when you've resigned yourself to it.
+34	The deeper the bond, if handled carelessly, the greater the pain when it's severed.
+35	I imagine you understand that well too, Miss Juno.
+36	That's true...
+37	Certainly, that might be the better way to live, here in Ilia.
+38	But, you'll realize it eventually too.
+39	That entrusting your heart to someone else isn't such a bad thing.
+40	For instance, when you come to fall for someone.
