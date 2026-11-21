@@ -17,7 +17,7 @@
 17||kamoshirenai,kedo
 18||sugiru,nda,janaika
 19||nda,kara,darou,kedo
-20|理屈,ムツカシイ>難しい|teiru,bahodo,koto
+20|リクツ>理屈,ムツカシイ>難しい|teiru,bahodo,koto
 21||
 22|修行|tte-quote,teiru
 23||
