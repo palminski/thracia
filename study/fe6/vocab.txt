@@ -6324,3 +6324,5 @@
 祝福|しゅくふく|blessing
 危なっかしい|あぶなっかしい|precarious, risky-looking
 輸送隊|ゆそうたい|supply corps, transport corps
+助け合う|たすけあう|to help each other
+胸|むね|chest, heart

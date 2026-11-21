@@ -1,0 +1,55 @@
+1	Melady, are you not hurt anywhere?
+2	Yeah, I'm fine.
+3	Oh, if you're going to the front lines, please take this wound medicine...
+4	Elen, what's wrong?
+5	Wh-what do you mean?
+6	Aren't you being overly considerate toward me?
+7	That's not...
+8	If there's something on your mind about me,
+9	don't hold back, just say it.
+10	......
+11	Well, I don't mean to force you, but
+12	since we're both comrades serving Lady Guinivere,
+13	I'd be glad if you'd tell me.
+14	I-I'm sorry.
+15	Hmm, well, whenever you feel like it is fine.
+16	See you.
+17	I'm sorry, Melady...
+18	Melady, about what happened before,
+19	What happened before?
+20	Yes.
+21	The thing about me being overly considerate toward you...
+22	Ah, that thing. You've decided to tell me, then?
+23	Yes. Um...
+24	I feel terrible toward you, Melady.
+25	Why?
+26	When I went to the Lycia Alliance with Lady Guinivere,
+27	I didn't consult you even once about it.
+28	......
+29	I know just how much loyalty you've devoted to Lady Guinivere,
+30	and yet I did something that felt like deceiving you,
+31	and I really am sorry...
+32	You only did that because Lady Guinivere ordered you to, right?
+33	If that's so, there's no reason for you to feel sorry about it.
+34	But...
+35	Cornering yourself like that is one of your bad habits, Elen.
+36	If you keep dragging around the past, you won't be able to move forward.
+37	Yes...
+38	Elen, you seem to have gotten a lot more energetic.
+39	Yes, after you listened to me the other day, Melady,
+40	the weight on my chest lifted.
+41	I'm glad to hear that.
+42	But I'm no good, really — as the Sister, it should be me
+43	who takes on your suffering, Melady, and yet...
+44	See, there you go again, trying to corner yourself.
+45	I told you before that's your bad habit, didn't I?
+46	Yes...
+47	Even that thing where you went with Lady Guinivere without telling me—
+48	I'm actually grateful to you for it, Elen.
+49	Grateful...?
+50	Of course.
+51	While I wasn't there, you protected Lady Guinivere in my place.
+52	Melady...
+53	Let's keep helping each other from now on, and look after Lady Guinivere together.
+54	So there's no need to worry over small things, all right?
+55	Yes.
