@@ -31,36 +31,37 @@
 31	Of course the reason we're fighting is to win this war.
 32	But if we're too focused on picking the safe methods, and sacrifice more people than
 33	we need to in the process — can we really call that winning, a true victory?
-34	Ah, sorry, that was presumptuous of me...
-35	Cecilia... are you angry?
-36	Not at all. I'm happy.
-37	Roy's right. I'd been thinking too much about just the outcome of "winning."
-38	Roy, you're a grown man now too.
-39	That's not...
-40	But still, I'm happy to hear you say that, Cecilia.
-41	Really? I'm honored. Heheh...
-42	Once this war is over, Cecilia, what will you do?
-43	Huh?
-44	Heheh... aren't you getting ahead of yourself? Already assuming we've won?
-45	No, that's not what I meant.
-46	Well...
-47	In any case, rebuilding Etruria comes first.
-48	I imagine I'll give that my all. Why do you ask?
-49	No... once the fighting's over,
-50	I was thinking I'd like you to teach me all sorts of things again.
-51	Like back in Ostia?
-52	Yes!
-53	I see... like back then...
-54	But there's no need for that anymore.
-55	Roy, you're a fine general leading an army. There's nothing left for me to teach you.
-56	That's not...
-57	Have confidence in yourself.
-58	No subordinate entrusts their life to a general who has no confidence in himself.
-59	Don't you think so?
-60	...Yes.
-61	I wonder if this is the last thing I can teach you.
-62	From now on, you and I won't be teacher and student, but comrades.
-63	Even after the fighting's over, if there's ever anything I can help with, I will.
-64	Really?
-65	Of course.
-66	Just remember this: I'll always be on your side, Roy.
+34	......
+35	Ah, sorry, that was presumptuous of me...
+36	Cecilia... are you angry?
+37	Not at all. I'm happy.
+38	Roy's right. I'd been thinking too much about just the outcome of "winning."
+39	Roy, you're a grown man now too.
+40	That's not...
+41	But still, I'm happy to hear you say that, Cecilia.
+42	Really? I'm honored. Heheh...
+43	Once this war is over, Cecilia, what will you do?
+44	Huh?
+45	Heheh... aren't you getting ahead of yourself? Already assuming we've won?
+46	No, that's not what I meant.
+47	Well...
+48	In any case, rebuilding Etruria comes first.
+49	I imagine I'll give that my all. Why do you ask?
+50	No... once the fighting's over,
+51	I was thinking I'd like you to teach me all sorts of things again.
+52	Like back in Ostia?
+53	Yes!
+54	I see... like back then...
+55	But there's no need for that anymore.
+56	Roy, you're a fine general leading an army. There's nothing left for me to teach you.
+57	That's not...
+58	Have confidence in yourself.
+59	No subordinate entrusts their life to a general who has no confidence in himself.
+60	Don't you think so?
+61	...Yes.
+62	I wonder if this is the last thing I can teach you.
+63	From now on, you and I won't be teacher and student, but comrades.
+64	Even after the fighting's over, if there's ever anything I can help with, I will.
+65	Really?
+66	Of course.
+67	Just remember this: I'll always be on your side, Roy.
