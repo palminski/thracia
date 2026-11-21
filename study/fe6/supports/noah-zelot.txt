@@ -10,7 +10,7 @@
 10||
 11|入団|toki,darou
 12|天馬,伝令|
-13|命を落とす,届ける|toki,tekureru
+13|命を落とした>命を落とす,届けて>届ける|toki,tekureru
 14||
 15|安らか|koto,mai
 16||nakutehaikenai,monoda
@@ -37,7 +37,7 @@
 37||
 38||passive,to-quote,teiru
 39||
-40|仕方,血を払う|mai
+40|仕方,血を払って>血を払う|mai
 41||
 42||
 43|貴族|teiru,to-quote
