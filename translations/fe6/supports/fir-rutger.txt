@@ -1,0 +1,58 @@
+1	...Um.
+2	Um, Rutger, could I have a moment?
+3	...What do you need?
+4	Yes. Actually, I was hoping you'd spar with me.
+5	If there's ever a chance, please!
+6	...
+7	I may not look it, but I'm a swordswoman who's trained hard, you know.
+8	I've even won my way through a few arenas.
+9	You don't have to go easy on me, either!
+10	...I refuse.
+11	Why? Is it because I'm a woman?
+12	...My sword exists only to cut people down.
+13	I have no interest in a sword used for play.
+14	! Play, you say!
+15	Ah, wait a moment...!
+16	...Being thought of as someone who swings a sword half in jest is really hurtful.
+17	The way you swing your blade when you fight, Rutger—
+18	it's so sharp and free of hesitation, that's exactly why I wanted to learn from it...
+19	Rutger! Come on, fight me!
+20	...Get out of the way.
+21	No.
+22	I won't step aside, because I want you to understand I'm serious.
+23	Please draw your sword!
+24	I've been thinking about it since then.
+25	I've been walking the way of the sword seriously too.
+26	I don't want to be misunderstood as just playing around.
+27	I want to become stronger. Please let me learn your technique.
+28	...I told you, my sword is a thing meant for cutting people down.
+29	Yes, I heard that, but...
+30	If I draw my sword here, it means I'll cut you.
+31	Is that what you want?
+32	!...
+33	And conversely, you have no intention of cutting me down either, do you?
+34	That's... that's not...
+35	That's exactly why I call it a game.
+36	......
+37	......
+38	...I just...
+39	...But maybe I did something selfish.
+40	If I see him again, I'll apologize.
+41	Rutger.
+42	Ah, please don't glare at me like that.
+43	As I've apologized many times, I won't challenge you to a duel again.
+44	......
+45	But still — the way you handled your blade in that battle just now was magnificent.
+46	As a swordsman, I do admire you a little.
+47	I hope I can become like that too, someday soon.
+48	...You are you.
+49	Eh?
+50	My sword is drenched in blood. There's no need to see a path in something like that.
+51	......
+52	I was taught this by someone once:
+53	"The way of the sword leads to only one destination."
+54	I still don't know if that's really true, but...
+55	I just think—
+56	I think your sword really is still on that same path, Rutger.
+57	There's so much I should learn from you.
+58	...Think whatever you like.
