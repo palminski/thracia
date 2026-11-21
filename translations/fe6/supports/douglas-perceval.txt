@@ -1,0 +1,48 @@
+1	Sir Douglas!
+2	Perceval, is it...
+3	Swallowing my shame, I've come to be allowed to fight alongside you all.
+4	What are you saying, Sir Douglas —
+5	you're simply fulfilling your path as a soldier of Etruria, aren't you?
+6	There's no need for you to think of that as a "shame."
+7	......
+8	We're glad to be able to stand shoulder to shoulder with you again, Sir Douglas, lance to lance.
+9	I'm sure every other Etrurian soldier feels the same.
+10	I'm grateful.
+11	It helps, hearing you say that.
+12	From now on, let's fight together, for Etruria and for the continent!
+13	Perceval, how have you been lately?
+14	So-so, I suppose you could say.
+15	How about you, Sir Douglas?
+16	...I like to think I'm pulling my weight well enough,
+17	but somehow I feel I can't bring out the strength I used to have.
+18	Have I gotten old too, I wonder.
+19	Not at all.
+20	You're moving just as one would expect of Etruria's "Grand General."
+21	It's much too early for you to be getting old.
+22	I hope that's true.
+23	Is there something on your mind?
+24	It's not quite that, but...
+25	Perceval, this might be a bit premature to bring up, but...
+26	What is it?
+27	After this battle is over,
+28	I'm thinking of stepping down from the rank of "Grand General."
+29	Wh-what, so suddenly!
+30	Then the highest post in the Etrurian royal army would be left vacant, wouldn't it!
+31	After that, Perceval, you should take the post.
+32	I'm still young — such a great responsibility is...
+33	If you're young, then what about Lord Roy, the commander of this army?
+34	He's leading us all while even younger, isn't he?
+35	That's true, but...
+36	If an old soldier clings to his position forever, young talent can't grow.
+37	Perceval, you lack nothing in either skill or judgment.
+38	Besides, once Prince Mildain returns, His Majesty the King will surely abdicate too.
+39	Sir Douglas! For a vassal to speak of the succession to the throne...
+40	It's alright.
+41	I have served His Majesty for several decades now.
+42	I understand his heart better than anyone.
+43	Once he learns Prince Mildain is alive, he'll abdicate immediately, I'm sure.
+44	......
+45	With the prince — no, with the new king — we will build a new Etruria.
+46	The aged nation of Etruria will be reborn once more, through the strength of youth.
+47	I'm counting on you, Perceval.
+48	...I will stake my life on it.
