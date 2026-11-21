@@ -21,14 +21,14 @@ main { width: min(640px, 100% - 32px); margin-inline: auto; padding: 48px 0 64px
 h1 { margin: 0 0 6px; font-size: 1.5rem; font-weight: 700; color: var(--paper); }
 h1 span { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); margin-bottom: 8px; }
 p.lead { margin: 0 0 32px; color: var(--muted); font-size: 0.95rem; max-width: 46ch; }
-ol { list-style: none; margin: 0; padding: 0; counter-reset: fe; }
-li { counter-increment: fe; position: relative; }
+ol { list-style: none; margin: 0; padding: 0; }
+li { position: relative; }
 li + li { margin-top: 2px; }
 .row {
   display: flex; align-items: baseline; gap: 14px; padding: 14px 16px 14px 0;
   border-bottom: 1px solid var(--line);
 }
-.row::before { content: counter(fe, decimal-leading-zero); flex: none; width: 2.2em; color: var(--muted); font-size: 0.85rem; letter-spacing: 0.05em; }
+.row::before { content: attr(data-n); flex: none; width: 2.2em; color: var(--muted); font-size: 0.85rem; letter-spacing: 0.05em; }
 .title { flex: 1; min-width: 0; }
 .en { display: block; font-size: 1.05rem; color: var(--paper); }
 .meta { display: block; margin-top: 2px; font-size: 0.8rem; color: var(--muted); }
@@ -63,10 +63,10 @@ footer p { margin: 4px 0; }
 <span lang="ja">外伝</span> → <em>Echoes</em>). Three entries here have a script project underway;
 the rest are just listed for now.</p>
 <ol>
-<li><a class="row fe4" href="fe4/index.html"><span class="title"><span class="en">Genealogy of the Holy War</span><span class="meta"><span lang="ja" class="orig">聖戦の系譜</span>1996 · Super Famicom</span></span><span class="status">Script →</span></a></li>
-<li><a class="row" href="thracia/index.html"><span class="title"><span class="en">Thracia 776</span><span class="meta"><span lang="ja" class="orig">トラキア776</span>1999 · Super Famicom</span></span><span class="status">Script →</span></a></li>
-<li><a class="row fe6" href="fe6/index.html"><span class="title"><span class="en">Binding Blade</span><span class="meta"><span lang="ja" class="orig">封印の剣</span>2002 · Game Boy Advance</span></span><span class="status">Script →</span></a></li>
-<li class="todo"><span class="row"><span class="title"><span class="en">New Mystery of the Emblem</span><span class="meta"><span lang="ja" class="orig">新・紋章の謎</span>2010 · Nintendo DS</span></span><span class="status">—</span></span></li>
+<li><a class="row fe4" data-n="04" href="fe4/index.html"><span class="title"><span class="en">Genealogy of the Holy War</span><span class="meta"><span lang="ja" class="orig">聖戦の系譜</span>1996 · Super Famicom</span></span><span class="status">Script →</span></a></li>
+<li><a class="row" data-n="05" href="thracia/index.html"><span class="title"><span class="en">Thracia 776</span><span class="meta"><span lang="ja" class="orig">トラキア776</span>1999 · Super Famicom</span></span><span class="status">Script →</span></a></li>
+<li><a class="row fe6" data-n="06" href="fe6/index.html"><span class="title"><span class="en">Binding Blade</span><span class="meta"><span lang="ja" class="orig">封印の剣</span>2002 · Game Boy Advance</span></span><span class="status">Script →</span></a></li>
+<li class="todo"><span class="row" data-n="12"><span class="title"><span class="en">New Mystery of the Emblem</span><span class="meta"><span lang="ja" class="orig">新・紋章の謎</span>2010 · Nintendo DS</span></span><span class="status">—</span></span></li>
 </ol>
 <footer>
 <p>English titles above are the fan-community's usual names for these games, not official
