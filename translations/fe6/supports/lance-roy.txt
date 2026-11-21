@@ -1,0 +1,52 @@
+1	Ah, Lord Roy, you're safe...
+2	Lance, what's wrong? You look pale.
+3	No, it's just that I couldn't see you, so...
+4	Oh, is that all?
+5	Lord Roy, this is no "is that all" matter.
+6	This is a battlefield, and you, Lord Roy, are the commander of an entire army.
+7	You need to be far more careful with your own safety.
+8	You're right. Sorry, I'll be careful.
+9	I mean it.
+10	Yeah, I promise.
+11	.......
+12	Lord Roy, there's something I'd like to suggest, if I may.
+13	What is it?
+14	What if you held back from going to the front lines?
+15	Huh?
+16	And devoted yourself to commanding the army from somewhere safe instead.
+17	Just me, doing something like that...
+18	I understand how you feel, but please think about it calmly.
+19	A battle is only possible because there's a commander.
+20	If the commander falls, that's the end of it, right there.
+21	That's true... but still.
+22	In that case...
+23	But if I were giving orders high and mighty from somewhere safe,
+24	I don't think anyone would want to follow someone like me.
+25	T-that's not...
+26	I'm not particularly clever.
+27	And I don't have the kind of power to draw people to me, either.
+28	So at the very least, I need to get hurt and suffer the same as everyone else...
+29	Lord Roy...
+30	Maybe I'm not the kind of person who should stand above others.
+31	But this is the only way I know how to do things.
+32	Lance, I've thought it over a lot since then.
+33	And after all, I've decided I'll keep fighting alongside everyone.
+34	I know you said that out of concern for me, but...
+35	No, I may have been too stuck on my own way of thinking.
+36	If you believe in your own way and move forward with it, then that must be the best way.
+37	Thank you.
+38	Hearing you say that gives me confidence.
+39	Still, about what you said the other day — there's one thing you got wrong.
+40	Huh?
+41	"I'm not particularly clever,
+42	and I don't have the power to draw people to me, either."
+43	That's what you said, wasn't it?
+44	Yeah, I said that.
+45	It's exactly that side of you, Lord Roy, that draws people in.
+46	No one would entrust their life to someone who had no power to draw others to them.
+47	...Is that so?
+48	Knowing this is impertinent of me, just let me say one thing.
+49	Please keep that humble heart of yours.
+50	As long as you hold onto that heart, everyone will follow you, Lord Roy.
+51	...I'll try to keep that in mind. Thank you, Lance.
+52	I'm glad if I could be of help.
