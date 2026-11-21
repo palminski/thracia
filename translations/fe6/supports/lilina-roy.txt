@@ -1,0 +1,53 @@
+1	Lilina, are you okay? Is there anything you need?
+2	Nothing in particular right now.
+3	Any injuries or anything?
+4	No, I'm fine.
+5	I see, good. Then is there anything else...
+6	Roy, it's fine.
+7	Huh?
+8	Thank you, Roy, for worrying about me.
+9	But there's no need to worry. I'm okay.
+10	Well, if you say so.
+11	If anything comes up, tell me. No need to hold back.
+12	Okay, I will.
+13	Lilina, Lilina, hey!
+14	Ah, Roy?
+15	What's wrong? You're zoning out, that's not like you.
+16	This is a battlefield. It's dangerous if you let your guard down.
+17	Yeah, sorry.
+18	What's going on with you?
+19	...I was just thinking about how far we've come.
+20	Far?
+21	Oh, I don't mean distance in terms of land.
+22	Maybe "circumstances" is the word... everything around me, I mean.
+23	...Roy, do you remember when you came to study in Ostia?
+24	Yeah, of course. Two years... no, I guess it's been three years now.
+25	Back then, both your father and mine were alive and well,
+26	and there wasn't even a hint of a great war breaking out across Lycia...
+27	It's strange. It feels like it was more than ten years ago.
+28	Lilina...
+29	Hehe... I must sound silly.
+30	No matter how much I remember it, I can't go back to those days...
+31	Roy, I'm sorry about the other day.
+32	The other day?
+33	There was that time I got lost in sentimental memories of the past, remember?
+34	It became a war, so of course things around us would change...
+35	But some things haven't changed either.
+36	Something that hasn't changed?
+37	That I'm by Lilina's side. That Lilina's by my side.
+38	Eh...
+39	We can't go back to the past, but we can build a new future.
+40	So let's walk forward, looking ahead.
+41	To build a future just like the old days — no, even better than that.
+42	...Heh.
+43	?
+44	Hehehehe... Roy, you're trying way too hard to look cool.
+45	R-really? I knew it.
+46	Honestly, even as I was saying it, I thought it didn't really suit me. Haha...
+47	But...
+48	Huh?
+49	But... I was happy. What you said, Roy.
+50	Lilina...
+51	Roy, we'll always be together, right?
+52	From now on too, always...
+53	...Of course we will.
