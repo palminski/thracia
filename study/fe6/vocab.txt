@@ -6797,3 +6797,6 @@
 生まれ育つ|うまれそだつ|to be born and raised
 仕官|しかん|taking service (as a retainer/soldier)
 うとむ|うとむ|to shun, to treat coldly
+横|よこ|the side, sideways
+子供扱い|こどもあつかい|treating (someone) like a child
+弟離れ|おとうとばなれ|letting go of (no longer clinging to) a younger brother
