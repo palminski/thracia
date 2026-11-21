@@ -1,0 +1,66 @@
+1	Hey!
+2	Ah.
+3	Finally found you! So you were in this army too, huh.
+4	I went looking all over the place because I wanted to see you!!
+5	...I personally didn't particularly want to see you.
+6	Taking advantage of someone's kindness... this is exactly why I hate brats.
+7	I'm getting my "Resire" tome back.
+8	Ah, that thing.
+9	...don't tell me you're gonna say you already used it all up?
+10	......
+11	Hey!?
+12	...no, I still have it, properly.
+13	I was only borrowing it for a little while. I always meant to give it back eventually.
+14	Y-you little brat... don't mess with me.
+15	You asked to borrow it for a bit, so I lent it to you!
+16	I never agreed to you just stealing it and running off with it!!
+17	I've told you how many times now? It's not stealing, I'm borrowing it.
+18	Then when? When are you giving it back?
+19	Let's see...
+20	Maybe I'll give it back to you after using it about 20 more times.
+21	You'd better mean that!?
+22	Of course.
+23	...geez, you're hopeless...
+24	Wait, hey!? If you use it 20 more times it'll run out!
+25	Hey.
+26	...hmph, you again.
+27	Running into you here is your last chance — I'm not letting you get away this time!
+28	Give me my Resire back, right now!!
+29	...sorry, but that's not really an option.
+30	What?
+31	I mean, you're a mage, right?
+32	There's no point at all in you having the Resire.
+33	Ngh... th-that's a different issue from...
+34	If anything, it means a tome that's extremely useful in battle
+35	would just sit there asleep inside you, doing nothing for our fighting strength at all.
+36	And if we end up losing this battle because of that, whose fault would that even be, I wonder?
+37	Grr...
+38	F-fine, I'll let it slide for now.
+39	But in exchange, you're paying me back with interest!
+40	...heh, still as simple as ever, aren't you.
+41	How can you be convinced by an excuse like that?
+42	...that level of stupidity is honestly beyond my comprehension.
+43	...hey.
+44	...uh-oh.
+45	You brat! Give it back right now after all!
+46	Hm? What's this?
+47	That jewel is yours.
+48	You... where were you hiding something like this?
+49	Doesn't matter where, does it.
+50	This settles the debt for the "Resire," then.
+51	No way! I can't accept this!!
+52	Why not?
+53	With this jewel, you could even buy a "Resire," couldn't you?
+54	Money's got nothing to do with it. This is a matter of my pride.
+55	...that's right, just say one word of apology to me.
+56	If you do that, I'll give you that "Resire" for free.
+57	Heh...
+58	You're the one getting hung up on something pointless, you know.
+59	Same goes for you!
+60	All it takes is one "I'm sorry" and this whole thing's settled.
+61	No, I won't apologize. I already paid the debt with that jewel.
+62	Absolutely not. I'm not taking it! The debt doesn't go away until you apologize!
+63	......
+64	......
+65	...hmph, this is why adults are the way they are.
+66	...geez, what an unlovable brat.
