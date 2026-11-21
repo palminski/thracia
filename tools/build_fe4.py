@@ -333,7 +333,7 @@ def main():
             f'<ol class="chapters">{toc_rows}</ol>')
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
-                    sidebar=sidebar(None, at_root=True)),
+                    sidebar=""),  # the index already lists every chapter, no need for the sidebar too
         encoding="utf-8")
 
     (ROOT / "data" / "fe4_script.json").write_text(

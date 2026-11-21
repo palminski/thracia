@@ -678,7 +678,7 @@ def main():
         '<h2 class="idx">Ending &amp; extras</h2>\n<ol class="chapters">\n' + "\n".join(li(p) for p in PAGES[split:]) + "\n</ol>")
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
-                    sidebar=sidebar(None, at_root=True)), encoding="utf-8")
+                    sidebar=""), encoding="utf-8")  # the index already lists every chapter, no need for the sidebar too
 
     # machine-readable copy of the script (handy for the translation feature later)
     (ROOT / "data").mkdir(exist_ok=True)

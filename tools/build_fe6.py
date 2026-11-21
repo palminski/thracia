@@ -386,7 +386,7 @@ def main():
             f'{support_grid}')
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
-                    sidebar=sidebar(None, at_root=True)),
+                    sidebar=""),  # the index already lists every chapter + the support grid, no need for the sidebar too
         encoding="utf-8")
 
     (ROOT / "data" / "fe6_script.json").write_text(
