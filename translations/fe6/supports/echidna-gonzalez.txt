@@ -1,0 +1,64 @@
+1	Oh.
+2	Uh?
+3	Hey, you. What's your name?
+4	Me... Gonzalez.
+5	Gonzalez, huh... You're huge.
+6	And with that build, you could probably rip a tree right out of the ground.
+7	Me...?
+8	Mm-hm, that's really something. Just perfect.
+9	Well, now I can't let you get away, no matter what...
+10	Uh... what?
+11	......Me... run away.
+12	Ah, hey, wait a second!
+13	Ah.
+14	Uh...
+15	Hey, wait up, I said! I've got a favor to ask you.
+16	...Me?
+17	That's right. It's something only you can do.
+18	See, actually... there's talk of building a new village out west.
+19	Village...
+20	There are people whose villages got burned in this war, who lost their homes.
+21	Even in the resistance I was part of, quite a few of us have no home to go back to.
+22	Go back... home...
+23	So, we're all going to pool our strength and build a place to live.
+24	That's why I need hands to help — especially strong hands like yours.
+25	So, what do you say? Right now there's three meals a day thrown in, you know.
+26	...But.
+27	But... me ugly.
+28	Can't be with everyone. Me... get hated...
+29	Ha, you're a fool. That's not going to happen.
+30	Your strength is going to be a huge help to everyone.
+31	Just try carrying a thick log with that monstrous strength of yours.
+32	Everyone will be thrilled.
+33	Me...?
+34	...For everyone...
+35	Me do it.
+36	Hey.
+37	Ah...
+38	Me... don't know your name.
+39	Ah, come to think of it, that's true. I'm...
+40	It's fine... me, head bad.
+41	Can't remember a lot of things.
+42	...And besides, me ugly.
+43	Everyone... looks at me.
+44	Me ugly. Head bad...
+45	...Sheesh.
+46	Gonzalez, you should have more confidence in yourself.
+47	Sure, your face is scary, your head's worse than other people's...
+48	So what? What of it?
+49	Uh...?
+50	Listen, Gonzalez, I don't like pretty talk.
+51	I'm not going to say something like "even if you're ugly, as long as your heart is beautiful..."
+52	You're ugly. You've probably been bullied for it since way back, haven't you.
+53	Ugh...
+54	But that's no reason to give up.
+55	So, you should take a good, careful look at yourself...
+56	and find something that nobody else has.
+57	Something that's yours and yours alone.
+58	Mine...?
+59	That's right, yours. Do that, and nobody will ever make a fool of you.
+60	You don't have to live hunched over. You can walk tall.
+61	Mine...?
+62	......Me... think about it...
+63	Head hurts.
+64	Ahaha, well, you can take your time thinking about it.
