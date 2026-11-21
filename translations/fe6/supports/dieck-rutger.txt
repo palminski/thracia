@@ -1,0 +1,52 @@
+1	!
+2	...Seems your swordsmanship hasn't dulled any.
+3	...Rutger, would you quit
+4	suddenly slashing at me from behind?! I've told you to knock it off! Damn it, I don't care how many lives I've got, it still isn't enough.
+5	Heh. I've decided that I'm the one who gets to put the first scar on your back.
+6	I've run into you on the battlefield a few times now. When you're the enemy, sure, that's one thing, but
+7	what's the idea behind attacking me even when we're allies, huh?
+8	...If I'm going to take someone on anyway, it's boring unless they're about as skilled as you.
+9	Having my life threatened over and over just because it's "boring" otherwise doesn't sit well with me.
+10	Easy for you to say, when you've never once taken a single stroke of my blade.
+11	Of course I haven't! You think I'd just let myself get hit that easily?!
+12	...Be ready, next time.
+13	Tch. You're an impossible guy.
+14	......
+15	Hey! Enough already! You don't let up, do you?!
+16	......
+17	What? You seem even more sour than usual. Something happen?
+18	...
+19	Hmph... Let me guess, did you spot the face of your enemy among the Bern soldiers?
+20	!
+21	Bullseye, huh. So why take it out on me? That doesn't make any sense.
+22	......There was a man who commanded the invasion of Bulgar, my homeland.
+23	But... by the time I'd finally gotten close to him, he'd already been taken down...
+24	That swordstroke... was yours, Dieck.
+25	...My bad. If I'd known, I'd have let him go to you.
+26	......It can't be helped. This is a battlefield. No enemy belongs to anyone in particular.
+27	Rutger, can't you ease up a little and just live?
+28	......
+29	Don't go rushing toward death.
+30	Hey, Rutger, you all right? You look pale.
+31	...I can't sleep well.
+32	Is it that Bulgar invasion commander again?
+33	...No. Well... maybe so.
+34	Even seeing his dead face didn't end the nightmares...
+35	During that invasion, I was the only one who survived — they didn't deliver the finishing blow, to me alone.
+36	The reason was... my appearance... I didn't look Sacaean.
+37	Same skin color, harder to kill, that kind of thing? But you've got Sacaean blood too, don't you?
+38	Yeah. My father's mother and my mother's father were both Sacaean.
+39	Bulgar, in the Sacae region, sits on the border with Bern, so the rate of mixed blood there is high.
+40	But among children of mixed blood, Sacaean blood tends to show strongly — nearly everyone there looked like Sacaeans.
+41	On me alone... the Bernese side of my looks came through strongly. That's why I survived.
+42	They were kind people, who treated even me — the only one who looked different — without any distinction...
+43	And they were... killed like that... so mercilessly!
+44	I will destroy Bern. That one man's blood alone could never atone for it... never.
+45	...I figured you were carrying something heavy, but... I see. So that's it.
+46	Well, can't help it. Guess I'll keep you company.
+47	I don't need your pity!
+48	Don't say that. Even you'll admit my skill's worth something, right?
+49	If you're serious about taking down Bern, you won't find a better helping hand than me. Hm?
+50	...Do as you like.
+51	Yeah, I will. Well then — shall we go, partner!
+52	...Dieck...... thank you.
