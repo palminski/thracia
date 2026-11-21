@@ -1,0 +1,59 @@
+1	You're Lot of the mercenary company, aren't you? An axe-user known for his great physical strength.
+2	You're... Lance, right?
+3	You looked like you were making a difficult face about something?
+4	Ah... no, I was just thinking something over.
+5	Actually, good timing — there's something I wanted to ask you.
+6	If it's something I'd know...
+7	Axes are weak against swords.
+8	That's passed down as common knowledge on the battlefield, but...
+9	why that is — the mechanism behind it — I've never quite understood it.
+10	So I've been thinking it over, one way and another.
+11	I see.
+12	Before... I had exactly the same question as you.
+13	I went digging through various treatises on tactics, and found out that...
+14	So... it's about the center of balance?
+15	Exactly.
+16	Since every weapon is designed with the assumption that a human being will wield it,
+17	it's really more inevitable than not that some kind of opening would arise somewhere in that design.
+18	So... you're saying no weapon can ever become absolutely the strongest.
+19	Right. Amid all the various weapons made and discarded throughout history...
+20	that's precisely why swords, axes, and lances — which hold that three-way relationship — are the ones that survived.
+21	I see.
+22	But then, take something like the Sword Buster, for instance.
+23	Ah, that one's a bit different to begin with...
+24	I see, then...
+25	Knight to F6.
+26	...Armor to E3.
+27	Pegasus to D1.
+28	Hm...
+29	Left archer to B1.
+30	Swordmaster to F1.
+31	Check.
+32	.......
+33	...I lose, huh.
+34	Looks that way.
+35	...Was it that shooter six moves back that was the problem?
+36	I think so.
+37	Where did you learn this? I learned it as part of a knight's proper education.
+38	There was an old man back in my village, a former soldier... he taught me.
+39	In my mercenary days, I didn't have anyone to play against, so I guess I still can't hold my own against you...
+40	No, if you can play by calling moves out loud like this, that's quite an accomplishment.
+41	When I played against Allen before, it ended in two moves.
+42	What do you make of this war... how do you see it?
+43	Meaning?
+44	Our odds of winning. How good do you think they are?
+45	.......
+46	I can only say I don't know.
+47	In terms of numbers, the enemy has an overwhelming advantage.
+48	Compared to their forces, which keep coming no matter how many we defeat...
+49	honestly, on our side, I don't want to lose even a single soldier.
+50	True... the conditions were too unequal from the start.
+51	But Lord Roy sometimes takes strategies that go beyond what someone like me could ever think of.
+52	Even in the battles we've fought so far, he's shown us that kind of miracle, time and again.
+53	As long as that man is the one giving the orders, somehow, I just can't bring myself to feel like we'll lose.
+54	As long as Lord Roy is with us, we will win.
+55	I see.
+56	...You're not the type to play favorites just because it's your own lord.
+57	If someone like you says that, it must be true.
+58	Then I'll believe it too.
+59	Your odds of winning, and our leader.
