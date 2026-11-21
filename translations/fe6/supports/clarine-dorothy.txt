@@ -1,0 +1,78 @@
+1	Oh? You there...
+2	Eh, what is it?
+3	Why on earth are you dressed like that, like some gentleman?
+4	Is it... weird?
+5	Of course it is!
+6	What a lady wears is settled — it ought to be a beautiful dress.
+7	A proper lady fights in proper attire, just like me.
+8	I-is that so... No, I'm sure it is.
+9	I don't really understand that sort of thing at all, so...
+10	Hmm... Is that so.
+11	Well, I suppose it can't be helped.
+12	I shall teach you all sorts of things myself!
+13	Eh?? N-no way, that's too much!
+14	I'm not cut out for that kind of thing anyway...
+15	My! That simply won't do!!
+16	A lady must always strive to be beautiful!
+17	At that rate, no gentleman will ever give you a second glance!
+18	I-is that so...
+19	Hmm... well, you're going out of your way to tell me this for my own good...
+20	Alright, please teach me, Miss Clarine!
+21	So then... Dorothy, what do you usually do?
+22	Me?
+23	I'm pretty busy while we're on the march — cooking meals for everyone, and such...
+24	My! A thing like that—
+25	shouldn't you just leave it to that petty clerk Marinus or whatever his name is?
+26	P-petty clerk? Lord Marinus?
+27	And your hair care? How do you go about that?
+28	I just wash it with water.
+29	My, something like that!? I can't believe it...!!
+30	Use this. I'll share some of mine with you.
+31	Three times a day without fail, understand?
+32	Th— three times... hmm...
+33	Um, something that looks this expensive...
+34	I appreciate it, but it'd be a waste for someone like me to use it.
+35	Honestly! What are you even saying!
+36	I'm telling you it's fine. Now, take it.
+37	Ah, yes, thank you very much.
+38	And then... you really ought to change the way you speak, too.
+39	Can't you speak in a refined and graceful manner, like me?
+40	Umm...
+41	Should I say "ohoho" or something?
+42	......This looks like it'll be tough.
+43	For now, there's hair care, how to choose a dress...
+44	dance etiquette, how to step correctly, how to decline a gentleman's invitation...
+45	Th— that much!?
+46	There's plenty more besides.
+47	What are you flinching for over something this small?
+48	The road to becoming a proper lady is nothing but long and arduous!
+49	Hmm...
+50	Um... Miss Clarine.
+51	What is it?
+52	I've tried hard at all sorts of things to become a lady, but...
+53	...I feel like I haven't really changed much.
+54	So maybe it'd be better to just give up...
+55	Nobody in the army's noticed at all, either.
+56	That's...
+57	I'm sorry! You thought so hard about all this for me, and yet—
+58	But it's not your fault, Miss Clarine. It's just, well, I'm made of this kind of material to begin with, so...
+59	Dorothy!
+60	That's it! That's exactly the problem!
+61	Eh?
+62	Listen carefully, alright?
+63	A proper lady has confidence in herself.
+64	No matter how finely you dress yourself up, if your spirit doesn't follow along,
+65	it means nothing at all.
+66	That's just you lowering your own worth with your own hands, you know?
+67	Understand?
+68	Y— yes.
+69	Have confidence, Dorothy. I'm the one who taught you, after all.
+70	You'll surely become a splendid lady!
+71	...Yes. Thank you, Miss Clarine.
+72	...And also... well... you and I are friends now, aren't we?
+73	Eh...
+74	How much longer do you plan on calling me with that "Miss"?
+75	Just "Clarine" is fine, isn't it?
+76	Ah, you're right. Yeah, thank you, Clarine!
+77	...N— now then! Today's lesson is tea party etiquette.
+78	Okay, I'll do my best!
