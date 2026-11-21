@@ -292,16 +292,17 @@ body.modal-open { overflow: hidden; }
 @media (min-width: 1300px) {
   .gloss-who { display: none; }      /* the portrait is already visible beside the bubble */
   .gloss {
-    left: calc(50% + 406px + 28px); top: 68px; transform: none;   /* 28px clear of the column's border */
-    width: min(340px, calc(50vw - 406px - 52px)); max-height: calc(100vh - 92px);
+    left: calc(50% + 406px + 28px); top: 92px; transform: none;   /* clear of the two-row header */
+    width: min(340px, calc(50vw - 406px - 52px)); max-height: calc(100vh - 116px);
     box-shadow: none; border-radius: 8px;
   }
   .gloss-backdrop { display: none; }
   body.modal-open { overflow: auto; }
 
+  /* absolute (not fixed): scrolls away with the page instead of staying
+     pinned, so a tall chapter list never needs its own scrollbar */
   .side-nav {
-    position: fixed; left: calc(50% - 405px - 28px - 200px); top: 80px; width: 200px;
-    max-height: calc(100vh - 100px); overflow-y: auto; margin-bottom: 0;
+    position: absolute; left: 24px; top: 92px; width: 200px; margin-bottom: 0;
   }
 }
 
