@@ -1,0 +1,74 @@
+1	Hey, you.
+2	Hm?
+3	You can sail a ship, right? I've got a favor to ask.
+4	Me?
+5	There's a plan to build a village in the west, coming up soon.
+6	And I want you to carry everyone who'll be living in the village.
+7	Of course, I'll pay you properly.
+8	...A ship, huh.
+9	Something wrong? You can use one, can't you?
+10	...Yeah, of course I can.
+11	I don't look it, but I used to be the captain of a merchant ship.
+12	I sailed all around the world. There's no sea I haven't been to.
+13	...So how'd you end up falling to pirate scum, then?
+14	With this war going on, there was barely any trade to be done.
+15	So I had no choice — I gathered my crew and talked them into it: that we'd become pirates.
+16	I see, I see.
+17	But we're all sailors at heart, so none of us really liked fighting or stealing.
+18	We got everything ready, and right when it came time to set sail...
+19	every single one of them started saying their stomach hurt, or they were seasick, or whatever.
+20	In the end, we put it off to the next day.
+21	Unbelievable. I'm amazed you managed to pull off being pirates at all with that.
+22	That's why I'm telling you, it's not like I was doing it because I wanted to...
+23	Pirates or not, we were all amateurs.
+24	...At first I figured we should go for something that looked easy.
+25	We set our sights on a small merchant ship.
+26	We pulled right up alongside it...
+27	and took it over without barely any fighting at all. That part went well, but...
+28	What happened?
+29	There was hardly any treasure worth the name inside.
+30	Turns out that guy was in the same boat as me, so to speak,
+31	business was bad, and if things kept going like that he'd have no choice but to quit shipping and become a pirate himself...
+32	And?
+33	I let him go. Hearing a story like that, I couldn't bring myself to touch him.
+34	A soft-hearted pirate, huh. You can't make a living like that.
+35	...Yeah, I had that feeling too.
+36	Anyway, this time we decided to go after a bigger ship.
+37	Figured it'd be fine to rob it off a rich guy like that.
+38	A few days out at sea... and conveniently, there was a big merchant ship cruising around.
+39	Oh?
+40	No need to hold back this time, we thought, and bravely closed in on it...
+41	and suddenly the covers came off and there was a whole row of ballistae and archers lined up.
+42	It was a Bern patrol ship.
+43	Oh my, oh my.
+44	We got shot at with arrows over and over and chased around for three days and three nights.
+45	We barely managed to escape... but the ship was wrecked, and we didn't get a single gold coin.
+46	My crew started crying, there was no money — I felt like crying myself at that point...
+47	Pathetic.
+48	That's why I'm telling you, it's not like I was doing it because I wanted to...
+49	Oh?
+50	What's that map? Looks pretty old.
+51	This?
+52	The one and only spoils I ever got out of being a pirate.
+53	When we clashed with another pirate ship, they had it on them.
+54	Oh?
+55	See here... there's a skull mark.
+56	There's a legendary hidden treasure at this spot.
+57	Oh? So, did you find it?
+58	That's... what I'm about to find out.
+59	Once this battle's over, I'll be a merchant ship captain again.
+60	I can go back to that golden sea again...
+61	If this thing's the real deal, that is.
+62	......
+63	I don't have any money left. I even took out loans to feed my crew.
+64	If this treasure map turns out to be fake... I'll have to give up the ship.
+65	Thinking about that, I just can't bring myself to make up my mind...
+66	...I see.
+67	But you know, right?
+68	No matter how much you worry, or pray, the treasure isn't going to appear because of it.
+69	If you don't move yourself, you'll never get your hands on any treasure at all, right?
+70	...Yeah. That's right, exactly that.
+71	Even if that one turns out to be fake, there'll be other treasures out there.
+72	You're going to carry everyone to our village, aren't you?
+73	I'm counting on you. Let me see that ship of yours.
+74	Yeah. Leave it to me.
