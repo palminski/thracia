@@ -16,6 +16,17 @@ function setupToggle(selector, cls, storageKey) {
 setupToggle(".furi-toggle", "furi", "furigana");
 setupToggle(".en-toggle", "eng", "english");
 
+// Accordion: opening a <details data-acc="group"> closes other open details
+// sharing its group (e.g. a pair's Support Rank C/B/A sections).
+document.querySelectorAll("details[data-acc]").forEach(function (d) {
+  d.addEventListener("toggle", function () {
+    if (!d.open) return;
+    document.querySelectorAll('details[data-acc="' + d.dataset.acc + '"]').forEach(function (o) {
+      if (o !== d) o.open = false;
+    });
+  });
+});
+
 // Click a speech bubble: it is highlighted and the panel shows its English translation and
 // a vocabulary list. window.EN maps window number -> translation; words are
 // <span class="w" data-g="id"> and window.GLOSS maps id -> [dictionary form, reading, English].

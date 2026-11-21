@@ -160,14 +160,39 @@ def load_study(slug, texts):
 
 
 def render_items(items, portraits):
+    """Group items by rank (C/B/A) and wrap each rank's dialogue in a
+    collapsible <details> so a long pair page doesn't show all three ranks
+    at once. All three share data-acc="rank" (see site.js), so opening one
+    closes the others. The first rank starts open."""
+    groups, current = [], None
+    for it in items:
+        if it["t"] == "rank":
+            current = (it["label"], [])
+            groups.append(current)
+            continue
+        if current is None:
+            current = (None, [])
+            groups.append(current)
+        current[1].append(it)
+
+    out = []
+    for idx, (label, group_items) in enumerate(groups):
+        inner = render_group(group_items, portraits)
+        if label is None:
+            out.append(inner)
+            continue
+        open_attr = " open" if idx == 0 else ""
+        out.append(
+            f'<details class="rank-acc" data-acc="rank" id="rank-{esc(label)}"{open_attr}>'
+            f'<summary>Support Rank {esc(label)}</summary>{inner}</details>')
+    return "\n".join(out)
+
+
+def render_group(items, portraits):
     out, i = [], 0
     sides, last_side = {}, "r"
     while i < len(items):
         it = items[i]
-        if it["t"] == "rank":
-            out.append(f'<h3 class="rank" id="rank-{it["label"]}">Support Rank {it["label"]}</h3>')
-            i += 1
-            continue
         if it["t"] == "note":
             fn = {"cond": en.cond}.get(it["kind"], en.direction)
             out.append(f'<p class="note note-{it["kind"]}">{esc(tr(fn, it["text"]))}</p>')
