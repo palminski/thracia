@@ -1,0 +1,92 @@
+1	Hey, wait a sec! Are you the one called Hugh?
+2	Huh? What is it, you glaring brat?
+3	You need something from me?
+4	...Is it true that if I ask you, you'll lend me money?
+5	What if it is?
+6	Then lend me 3000G. Right now.
+7	Ahh, too bad. The only people I lend money to are adults,
+8	or an exceptionally cute girl. That's the rule I've set for myself.
+9	...I see. Forget it, then.
+10	I'll try someone else.
+11	H-hey, hey, hey, hold on a second.
+12	What, you're an impatient brat, giving up that fast?
+13	You only deal with adults or cute girls, right?
+14	If you're saying "no matter what!!", I guess I could lend it to you.
+15	Though the interest is double.
+16	Figured it'd be something like that... but fine.
+17	Then lend it to me. I'll pay you back next time we get paid.
+18	One, two, three— there, that's 3000G.
+19	Thanks, you're a lifesaver. See ya.
+20	Hey! With interest that's 4000G! Don't forget it!!
+21	...Can't say no to a face like that. This is why I'm no good with kids.
+22	Yo. Here, I came to pay you back.
+23	One, two, three, four— yep, 4000G, confirmed.
+24	Huh, I hadn't seen you around lately, figured you'd skipped out on me.
+25	Keeping a promise is just basic decency for a person.
+26	It's because that "basic decency" is so hard that the world doesn't run smoothly.
+27	Awfully honorable for a kid. Didn't you pick the wrong line of work?
+28	Stop calling me "you, you." I have a name, it's Chad.
+29	Yeah, yeah. So then, Chad, why'd you become a bandit?
+30	...To survive. I'm an orphan, see.
+31	You've been living on your own this whole time?
+32	No, I grew up with a few other kids at an orphanage on the border between Lycia and Bern.
+33	We actually had it pretty good — me, the headmaster, and a handful of other orphans.
+34	...If Bern hadn't started that war, I'd probably still be there taking it easy.
+35	......
+36	To begin with, it was a place the big-hearted headmaster managed to keep running with the villagers' help.
+37	But with the war, food and clothes got harder and harder to come by...
+38	I was the oldest of the orphans, so I wanted to do something about it, but there wasn't any work to be had.
+39	The quickest way to feed everyone was to turn to banditry — there wasn't another option.
+40	So the 3000G was going to be sent back to the orphanage...
+41	No... the orphanage isn't there anymore.
+42	!?
+43	Bernese soldiers got the headmaster, and they burned the orphanage down too...
+44	Th— the kids? What happened to the other kids?
+45	Thanks to the headmaster risking his life, everyone survived.
+46	Right now they're with the Church of Elimine, waiting for me to come back.
+47	......
+48	What I used the 3000G I borrowed from you for was buying a sword that could actually do some damage even for someone like me.
+49	With this, I'll end the war even a day sooner,
+50	and go pick up those little brats!
+51	So those kids are the important family you've got to protect.
+52	That's right. I don't have anything more important than that.
+53	Got a problem with it?
+54	No... sorry for teasing you.
+55	You're plenty grown-up, Chad. Way more than I am, even.
+56	Oh! Isn't that Chad!! How's it going, you doing okay?
+57	Yeah, I'm fine. Not as "fine" as you, though.
+58	What, that's a pretty flat greeting. How about something like "Hey, Mr. Hugh! Good afternoon!!"
+59	Can't you manage a nice smile and a cheerful greeting or something?
+60	...Creepy.
+61	Hey, hey~ there's no need to call it creepy!
+62	Ever since I heard your story the other day, I've been thinking I want to help you out somehow,
+63	I'm positively overflowing with protective instincts over here, and this is the thanks I get.
+64	...Old man, are you really a mage? Aren't you actually some kind of clown?
+65	O— old man~!? By "old man," do you possibly mean
+66	this young and handsome me!?
+67	Yeah. From where I'm standing, you're a proper old man, right?
+68	Ugh!! That really stabbed right into my heart!
+69	...Please, cut it out with the "old man." "Old man" is no good!!
+70	Call me anything else you like, just give me a break on "old man"!
+71	I might not look it, but my heart's fragile and fleeting, you know!
+72	Pfft.
+73	Hahahahahahaha! Hee, hee, hah, my stomach hurts.
+74	!!
+75	Ahh, that's funny. You really are a weird one. Fine, I'll call you Hugh, then.
+76	No complaints there, right? Since it's not "old man."
+77	Hey, so you can laugh after all!
+78	Huh?
+79	Your eyes always look kind of mean, don't they? And your forehead's all scrunched up like this, too.
+80	And your mouth's foul, your attitude's huge, and far from friendly, you don't even crack a smile.
+81	Wh— what's with that all of a sudden!?
+82	Ever since this war kicked off, I've seen plenty of kids who forgot how to laugh.
+83	Adults have their own circumstances and all, but a kid's still gotta laugh, right?
+84	Though the idiots out there fighting this war seem blind to something that basic.
+85	...
+86	Well, anyway, I'm glad. Really glad.
+87	If there's a kid out there who can still laugh properly, maybe the world's not so hopeless after all.
+88	You too — I know things are rough, but hold onto enough room to laugh, okay?
+89	Whoa, quit smacking my head!
+90	Hahahaha, sorry, sorry!
+91	Well then, see ya. Don't go rushing into mistakes.
+92	Yeah, really — the world might not be hopeless after all, if there are adults like you in it.
