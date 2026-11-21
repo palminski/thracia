@@ -1,0 +1,77 @@
+1	You must be Father Saul...
+2	I'm Elen, a Sister of the Church of Elimine, from Bern.
+3	It's a pleasure to meet you.
+4	Oh, God...
+5	Um, Father Saul?
+6	To think I'd meet someone as beautiful as you...
+7	And a fellow believer of the Church of Elimine, no less! This must truly be fate.
+8	Let's be sure to have a long talk about the love of God together one night, sometime.
+9	Yes, I'd be delighted.
+10	When would be good for you?
+11	Any time works for me, but...
+12	...Really?
+13	You're going to tell me about the love of God, aren't you, Father Saul?
+14	Why would I even think of refusing that?
+15	But if you agree that easily, it kind of takes the challenge out of it...
+16	"The challenge"?
+17	No, no, never mind, that was just me.
+18	But really, Elen, are you sure about this?
+19	I'm actually a rather licentious priest — I might behave inappropriately toward you...
+20	No, that could never happen.
+21	Someone who serves God like you would never do such a thing.
+22	......Hmm.
+23	...Let's save it for another time after all, I suppose.
+24	I see. What a shame...
+25	Ah, Elen, isn't it?
+26	Father Saul, I'm glad to see you're safe.
+27	...You really are too serious, you know.
+28	That won't do, being like that.
+29	Is... that so?
+30	Yes. Those who serve God need to be more easygoing.
+31	It's important to embrace life's joys, the way I do.
+32	Um... but...
+33	Long ago, I knew a woman who looked a lot like you, you know.
+34	Well, she turned me down in the end, though...
+35	If you truly intend to serve people for God's sake...
+36	you're bound to see all sorts of things, whether you like it or not.
+37	Really, all sorts of things...
+38	Yes...
+39	And so, in life, experience is what matters most, in everything.
+40	So this time, let's really take a whole night to talk about the love of God...
+41	Yes, please, by all means.
+42	Well, then...
+43	In that case, I'll go call everyone else.
+44	Huh?
+45	...Everyone else?
+46	Yes — it would be such a waste for you to give such a talk, Father Saul,
+47	just for me alone to hear. More people really ought to listen in.
+48	Lord Roy, and Marinus, and of course Lady Guinivere too...
+49	Everyone was really looking forward to it.
+50	I'll go ask about everyone's schedule for tonight, then.
+51	......
+52	Now then... what should I do?
+53	Father Saul.
+54	After that... why did you disappear?
+55	Everyone was so looking forward to your talk, Father Saul...
+56	Ah... my throat wasn't feeling quite right, you see.
+57	Well, let's save that for another time.
+58	Yes... but Father Saul, you really are a wonderful person.
+59	...Huh? Wonderful?
+60	Yes.
+61	Normally, Father Saul, you seem flippant, lazy, and immoral,
+62	and it never seemed like the figure of someone who serves God.
+63	......
+64	But I always thought there must be some deep reason behind it.
+65	And now I finally understand your heart.
+66	You were deliberately acting that way... to show people the freedom of the Church of Elimine, weren't you?
+67	Haa...
+68	...I see.
+69	Of course people would misunderstand you, if you keep up behavior like that...
+70	even though everyone just thinks you're a lazy womanizer...
+71	......
+72	and yet you dare to walk that path anyway.
+73	I... could never imitate that.
+74	I respect you from the bottom of my heart, Father Saul.
+75	Well... anyway,
+76	don't be too serious either, Elen.
+77	Yes, Father Saul.
