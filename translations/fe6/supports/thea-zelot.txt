@@ -1,0 +1,49 @@
+1	General Zealot.
+2	I believe you already know, but my mission has concluded.
+3	However, I would like to continue fighting with this army.
+4	Ah, understood.
+5	Still, fate really is an unpredictable thing...
+6	Our employer was the Lycian League; you pegasus knights served Etruria.
+7	I never thought our paths would cross...
+8	Yes.
+9	Etruria didn't seem to think too highly of us, but...
+10	General Klein treated us very well.
+11	I see...
+12	Juno worried about you two quite a lot, you know.
+13	Well, you're level-headed, so I imagine you're fine, but...
+14	She's just a worrier by nature.
+15	That's true.
+16	My sister always had a tendency to be too soft on us...
+17	Before Shanna or I would go out, it'd be the packed lunch, a change of clothes... it was a whole ordeal.
+18	Haha, that sounds just like Juno.
+19	Come to think of it...
+20	What were Juno's... your parents like?
+21	Haven't you heard from my sister?
+22	No.
+23	I've heard they were soldiers of the Ilian knight corps, but that's all...
+24	Yes, our mother was an Ilian pegasus knight.
+25	When we were young, our parents both fell in the same battle...
+26	......
+27	We sisters had no one else to turn to...
+28	From when she was still barely a teenager, my sister became like a mother to Shanna and me.
+29	So that's how it was.
+30	During the time when an ordinary girl should have been falling in love...
+31	my sister had to be our mother instead.
+32	But sister Juno never once complained about it...
+33	She looked after us with a smile the whole time.
+34	That's why I always wished, with all my heart, that she would find happiness.
+35	...You two really helped us out a lot at the wedding.
+36	Preparing for the ceremony, making the food...
+37	The gift you and Shanna sent us,
+38	Juno was overjoyed by it.
+39	Was she...?
+40	I was against it, but once Shanna had an idea in her head, there was no stopping her.
+41	Haha... well, it was nice all the same.
+42	Still, I do feel sorry to Juno about that ceremony.
+43	If I... if our country had been more prosperous, we could have given her a grander wedding.
+44	No, I don't think my sister ever wanted something like that.
+45	I'm deeply grateful to you, General Zealot.
+46	At your wedding with my sister...
+47	that was the first time I'd ever seen her look so happy.
+48	I want to thank you myself, too.
+49	For making my sister happy... thank you, truly, from the bottom of my heart.
