@@ -249,3 +249,4 @@ kimatteiru|〜に決まっている|"Of course, it's bound to be ...": states th
 karatoitte|〜からといって|"Just because ... (doesn't mean)": the reason given doesn't guarantee the expected conclusion.|https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6
 kanenai|〜かねない|"Might (undesirably) do ..., run the risk of ...": a worrying possibility. Classical variant: 〜かねぬ.|
 nishitagatte|〜にしたがって|"In accordance with ..., as ... (changes)": one thing tracks the change in another.|
+madomonai|〜までもない|"There's no need to go so far as to ...": downplays doing something as unnecessary.|https://bunpro.jp/grammar_points/758
