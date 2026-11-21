@@ -1,0 +1,52 @@
+1	Huh?
+2	Hmm...?
+3	Who's there? I was just zoning out, and you had to go and bother me...
+4	Me?
+5	Me... Gonzalez.
+6	Gonzalez, huh. Nice name...
+7	Y-y-yeah?
+8	I'm Trec. Nice to meet you.
+9	T... T...
+10	Trec.
+11	Trec Trec Trec Trec...
+12	Haha, don't repeat it that much, you'll wear it out.
+13	Don't talk to me. I'll forget.
+14	...ec Trec Trec Trec...
+15	Okay. I got it.
+16	Haha. You're a strange one, aren't you...
+17	...um
+18	Sorry, what was your name again?
+19	Huh?
+20	You... you...
+21	Hm...?
+22	Who are you? I feel like I've seen you before.
+23	Huh, really? Guess I'm famous.
+24	I'm called Trec.
+25	T... T... T...?
+26	-rec.
+27	-rec.
+28	Ah...
+29	What's your name?
+30	Me... Gonzalez.
+31	Gonzalez, huh. Nice name...
+32	Y-y-yeah?
+33	Ahh... but it's peaceful out here.
+34	Peaceful...
+35	What does "peaceful" mean...?
+36	Hm?
+37	...nah, I don't really know either.
+38	Well, doesn't matter.
+39	It's a tiny thing next to how big this world is.
+40	Haah...
+41	Huh?
+42	Feels kind of peaceful, doesn't it.
+43	You know, you and I might make a surprisingly good team.
+44	Hey, don't you think so? Um...
+45	Me... Gonzalez.
+46	Gonzalez, huh. Nice name...
+47	Ah, let me tell you something good — my name is...
+48	You're... -rec.
+49	Huh? Was it?
+50	...now that you put it that way, maybe it was.
+51	Well, either way works. Guess I'll head out now.
+52	Mm.
