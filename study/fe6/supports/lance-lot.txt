@@ -1,6 +1,6 @@
-1|傭兵団,体力,優れた>優れる,斧使い|
+1|傭兵団,体力,すぐれた>優れる,斧使い|
 2||
-3|難しい|teiru,youda
+3|むずかしい>難しい|teiru,youda
 4|考え事|teiru
 5||temiru,tai
 6||
@@ -14,7 +14,7 @@
 14|重心|
 15||
 16|想定,武器|koto,passive,ijouha
-17|隙,必然|no-nominal,potential,darou
+17|スキ>隙,必然|no-nominal,potential,darou
 18|武器|to-quote
 19|古今,さまざまな>さまざま,消えていく>消える|passive,teiku
 20|それゆえ,三すくみ,関係,生き残った>生き残る|darou
