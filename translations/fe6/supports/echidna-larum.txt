@@ -1,0 +1,78 @@
+1	Miss Echidna!
+2	Oh, Larum. What's up?
+3	Hey, hey, how'd that thing turn out?
+4	That thing?
+5	The one about building a village for everyone.
+6	Ah, right now I'm in the middle of gathering people for it.
+7	Will you help out too, Larum?
+8	Of course!
+9	But what should I do?
+10	You, Larum, obviously — that dance of yours.
+11	It gives people energy, makes them feel like putting in one more push.
+12	Really? I guess that's true, huh?
+13	Oh, but you know, I can cook too.
+14	You know, right, Miss Echidna, my special stamina—
+15	Stop right there.
+16	Wh-why'd you answer so fast?!
+17	Ever since the resistance days, Larum's...
+18	...It's unpleasant even to say out loud. Anyway, that thing doesn't count as cooking.
+19	That's so mean! I do it properly too—
+20	Proper cooking doesn't end with the house catching fire, you know.
+21	Oh, come on, even with that it's still really delicious...
+22	The whole resistance's groaning, seven days and seven nights...
+23	It still rings in my ears even now.
+24	Has Elffin ever eaten that thing too?
+25	Yeah, but he didn't say anything about it.
+26	......
+27	That's because everyone's taste buds are off.
+28	My cooking's just too refined for them.
+29	Someone who really understands flavor — like Lord Roy — it'd definitely suit him.
+30	That's it! Sorry, Miss Echidna!
+31	I have to get Lord Roy to try my home cooking!
+32	...Poor guy.
+33	Ah, Miss Echidna.
+34	Larum.
+35	Come to think of it... you said you were going to make that thing the other day, didn't you.
+36	I hope not, but... did you actually go and do it?
+37	What's with that tone?! Lord Roy properly praised it, you know.
+38	He said it was really delici—
+39	...He said it looked delicious. Just the look of it.
+40	So, did he eat it? ...I'll have to go visit him later.
+41	Hmph. He was just feeling a little off, that's all.
+42	My papa always tells me it's delicious too, you know.
+43	Well, it's fine even if you can't cook — your dancing is the best in the world.
+44	I've got to do my best too, so everyone can live in peace...
+45	...Hmm, Miss Echidna, you're really admirable.
+46	Wh-what's with that all of a sudden?
+47	Miss Echidna's always thinking about everyone.
+48	Even this time, building a village for everyone's sake.
+49	It's nothing special, I just—
+50	You're just like a hero out of some saga a wandering minstrel would sing about.
+51	Appearing like the wind, helping people, and before you know it, gone...
+52	You never talk about yourself at all, Miss Echidna.
+53	...I suppose that's true.
+54	But I won't ask. Even though I'm really curious, honestly.
+55	Because I'm sure you have your reasons for not talking about it, Miss Echidna.
+56	Hey, Miss Echidna!
+57	What is it?
+58	I thought of a great idea! A really great idea.
+59	So, what is it?
+60	You want to hear it?
+61	Yeah, I want to hear it.
+62	You really do?
+63	Listen... just go ahead and say it already.
+64	Okay, listen! Once the village is finished, let's put up a stone statue there!
+65	A statue?
+66	A statue of you, Miss Echidna! With all of our feelings put into it.
+67	Something like, "Here lies the great hero," you know...
+68	Hey, hey, I'm not dead yet, you know.
+69	Anyway, it's your village, Miss Echidna, so of course there should be a statue of you.
+70	You should think up a heroic pose for it, okay?
+71	...You're an odd one. Though that's nothing new.
+72	And also!
+73	Wh-what now?
+74	I don't want you to just disappear on us one day without us noticing!
+75	Both me and everyone else really like you, Miss Echidna.
+76	So don't you ever go disappearing on us, got it!
+77	......
+78	Ah... alright, Larum.
