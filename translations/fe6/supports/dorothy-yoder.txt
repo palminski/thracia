@@ -1,0 +1,75 @@
+1	Um, Lord Yoder...
+2	Oh, Dorothy.
+3	You look troubled. Did something happen?
+4	Um, why is it that I can't use God's miracles?
+5	...Hmm. Miracles... I see.
+6	I want to heal injured people too, like Father Saul and you do, Lord Yoder.
+7	I pray properly every day. I don't think I've done anything bad, either.
+8	That's true. You're a very admirable believer.
+9	But even when there's someone injured, there's nothing I can do for them...
+10	...It makes me so sad. I want to be able to help them.
+11	So why don't I have that power?
+12	Can I... never become a servant of God?
+13	No, that's not it at all.
+14	Do you know the story of the Owl and the Eagle, Dorothy?
+15	No... I don't know it.
+16	Please tell it to me, Lord Yoder.
+17	...This is a story from long ago, when the Saint Elimine still walked the earth.
+18	One day, as Saint Elimine continued on her travels...
+19	a single owl approached her from the forest.
+20	Mm-hm...
+21	The owl said:
+22	"I wish to go to the kingdom of God. Would you teach me the way?"
+23	Saint Elimine thought for a moment, and spoke thus:
+24	"The kingdom of God lies in a very high place."
+25	"With wings like yours, I'm afraid you would surely tire out before you got there."
+26	The owl, disheartened, returned to the forest.
+27	That's so sad...
+28	Yes, it is.
+29	Let's save the rest of the story for... another time.
+30	Eh? Why?
+31	You know Saint Elimine's teachings, don't you, Dorothy?
+32	It's not good to rush to understand things.
+33	What matters is thinking slowly, with your own mind, and forming your own thoughts.
+34	Ah... that's right.
+35	Please tell me the rest again sometime, Lord Yoder.
+36	Yes, Dorothy. I promise.
+37	...After parting from the owl, Saint Elimine continued further on her travels.
+38	And then... the very next day,
+39	a single golden eagle swooped down from the mountains.
+40	Mm-hm...
+41	The eagle said:
+42	"I wish to go to the kingdom of God. Would you teach me the way?"
+43	Saint Elimine thought for a moment, and spoke thus:
+44	"The kingdom of God lies beyond the night."
+45	"With eyes like yours, I'm afraid you would surely lose your way."
+46	The eagle, disheartened, returned to the mountains.
+47	......
+48	But the merciful Saint Elimine did not abandon the two of them.
+49	In the midst of her hurried travels, Saint Elimine turned back along the road she'd come...
+50	And bringing the owl and the eagle together, she spoke these words:
+51	"The two of you, go together to the kingdom of God."
+52	Together...
+53	That's right. The two of them set out together for the kingdom of God.
+54	The eagle carried the owl on its back and beat its wings high into the sky...
+55	and the owl, with its keen eyes, showed the eagle the way.
+56	And so, the two of them arrived safely at the kingdom of God.
+57	And that's the end of the story. Do you understand it, Dorothy?
+58	...Um...
+59	S-sort of.
+60	Lord Yoder—
+61	Dorothy?
+62	Um... about that story...
+63	Yes?
+64	Well, I thought about it a lot, but...
+65	I'm sorry, since I'm kind of dumb... I don't really get it.
+66	I do sort of have a feeling for what it might mean, but...
+67	That's all right, Dorothy.
+68	A story is just a story. There's no fixed answer to it.
+69	You just need to find your own answer from it.
+70	Oh, is that so? What a relief.
+71	Lord Yoder, I feel like I've gotten a little bit of my spirits back.
+72	Is that so? That's a very good thing.
+73	Oh, what happened to the Saint after that? Is there more to the story?
+74	Yes. Saint Elimine's journey is a very, very long tale.
+75	The next day, as Saint Elimine continued on her travels...
