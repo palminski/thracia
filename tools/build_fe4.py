@@ -223,7 +223,7 @@ PAGE = """<!DOCTYPE HTML>
 <header class="site">
 <div class="bar">
 <a class="all-games" href="{rel}../index.html">← All games</a>
-<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem</a><span class="title-sep">-</span><a class="game-name" href="{rel}index.html">Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a></span>
+<a class="title-group" href="{rel}index.html"><span class="site-title">Fire Emblem</span><span class="title-sep">-</span>Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a>
 <nav class="tools">{tools}</nav>
 </div>
 </header>

@@ -63,18 +63,19 @@ header.site .bar {
 }
 header.site a { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; color: var(--muted); text-decoration: none; }
 header.site a:hover, header.site a:focus-visible { color: var(--gold); }
-header.site span { color: var(--gold); }
 .all-games { justify-self: start; }
+/* One link for the whole "Fire Emblem - <game title>" - it goes to this
+   game's own index (All games, to the left, already covers the hub), and
+   everything in it shares one inherited color so hover/focus recolors it
+   as a unit instead of needing a rule per child span. */
 .title-group {
-  grid-column: 2; justify-self: center; display: flex; align-items: baseline; gap: 12px;
-  min-width: 0; max-width: 100%; font-size: 1.3rem;
+  grid-column: 2; justify-self: center; display: inline-block;
+  max-width: 100%; overflow: visible; white-space: nowrap; text-overflow: clip; font-size: 1.3rem;
 }
-.title-group a { overflow: visible; white-space: nowrap; text-overflow: clip; }
+.site-title { font-weight: 700; letter-spacing: 0.08em; }
+.title-sep { margin: 0 10px; }
+.title-group .orig { display: inline; margin-left: 8px; font-size: 0.8em; font-weight: 400; letter-spacing: 0.04em; }
 nav.tools { justify-self: end; }
-.site-title { flex: none; font-weight: 700; letter-spacing: 0.08em; }
-.title-sep { flex: none; color: var(--muted); }
-.game-name { color: var(--text); text-decoration: none; }
-.game-name .orig { margin-left: 8px; color: var(--muted); font-size: 0.8em; }
 
 /* ---------- furigana / English toggle switches ---------- */
 .furi-toggle, .en-toggle {
