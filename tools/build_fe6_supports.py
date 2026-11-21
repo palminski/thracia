@@ -274,17 +274,13 @@ def char_grid(entries, base_rel):
     return f'<ul class="char-grid">{"".join(cells)}</ul>'
 
 
-def main():
-    (OUT / "char").mkdir(parents=True, exist_ok=True)
-    (OUT / "pair").mkdir(parents=True, exist_ok=True)
-    (OUT / "pair" / "gloss").mkdir(parents=True, exist_ok=True)
-    SUPPORT_STUDY.mkdir(parents=True, exist_ok=True)
-    SUPPORT_TR.mkdir(parents=True, exist_ok=True)
-
+def parse_all():
+    """Parse all 54 support source pages once. Returns (owners, char_scenes, pairs),
+    shared by main() here and by build_fe6.py (for the character grid on its own
+    index page)."""
     owners = {}          # n -> jp name
-    char_scenes = {}      # jp name -> list of (partner_jp, scene)
+    char_scenes = {}      # jp name -> list of partner jp names
     pairs = {}             # frozenset({jp1,jp2}) -> (jp1, jp2, scene)  first-seen wins
-    portraits = {}
 
     for n in range(1, 55):
         path = SRC / f"st_support{n}.html"
@@ -308,6 +304,32 @@ def main():
             key = frozenset((jp1, jp2))
             if key not in pairs:
                 pairs[key] = (jp1, jp2, sc)
+    return owners, char_scenes, pairs
+
+
+def character_entries(owners, char_scenes, href_prefix=""):
+    """entries for the top-level character grid - reused by build_fe6.py's own
+    index page (href_prefix="supports/") and by this module's own supports
+    index (href_prefix="")."""
+    entries = []
+    for n in sorted(owners):
+        jp_name = owners[n]
+        if not char_scenes.get(jp_name):
+            continue  # e.g. マリナス (Merlinus), who genuinely has no supports at all
+        slug = slug_for(jp_name)
+        entries.append((jp_name, slug, f"{href_prefix}char/{slug}.html", None))
+    return entries
+
+
+def main():
+    (OUT / "char").mkdir(parents=True, exist_ok=True)
+    (OUT / "pair").mkdir(parents=True, exist_ok=True)
+    (OUT / "pair" / "gloss").mkdir(parents=True, exist_ok=True)
+    SUPPORT_STUDY.mkdir(parents=True, exist_ok=True)
+    SUPPORT_TR.mkdir(parents=True, exist_ok=True)
+
+    owners, char_scenes, pairs = parse_all()
+    portraits = {}
 
     # --- per-pair conversation pages ---
     pair_stats = []
@@ -363,8 +385,6 @@ def main():
             PAGE.format(title=title, rel="../../", tools=TOGGLES, scripts=scripts, body=body, source=SOURCE_URL),
             encoding="utf-8")
 
-    pair_status = {pslug: has_study for pslug, _, has_study in pair_stats}
-
     # --- per-character partner-index pages ---
     for n in sorted(owners):
         jp_name = owners[n]
@@ -374,8 +394,7 @@ def main():
         for partner in partners:
             s1, s2 = sorted((slug, slug_for(partner)))
             pslug = f"{s1}-{s2}"
-            done = pair_status.get(pslug, False)
-            entries.append((partner, slug_for(partner), f"../pair/{pslug}.html", "Translated" if done else "Coming soon"))
+            entries.append((partner, slug_for(partner), f"../pair/{pslug}.html", None))
         grid = char_grid(entries, base_rel=2) if entries else '<p class="lead">No support conversations.</p>'
         body = (f'<nav class="pager"><a class="up" href="../index.html">All Supports</a></nav>'
                 f'<h1><span class="num">Support Partners</span><span lang="ja">{esc(jp_name)}</span></h1>'
@@ -385,13 +404,7 @@ def main():
             encoding="utf-8")
 
     # --- top-level support index ---
-    entries = []
-    for n in sorted(owners):
-        jp_name = owners[n]
-        slug = slug_for(jp_name)
-        has_any = bool(char_scenes.get(jp_name))
-        href = f"char/{slug}.html" if has_any else None
-        entries.append((jp_name, slug, href, None if has_any else "No supports"))
+    entries = character_entries(owners, char_scenes)
     grid = char_grid(entries, base_rel=1)
     translated_pairs = sum(1 for _, _, done in pair_stats if done)
     body = (f'<nav class="pager"><a class="up" href="../index.html">Contents</a></nav>'

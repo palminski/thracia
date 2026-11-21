@@ -21,6 +21,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import en  # noqa: E402  (shared editorial-label translator; falls back to Japanese)
 from fe6_parser import Fe6Parser  # noqa: E402
+from build_fe6_supports import char_grid, character_entries, parse_all  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source" / "fe6"
@@ -352,6 +353,9 @@ def main():
         f'<span class="title">{esc(title)}</span></a></li>'
         for stem, slug, label, title in PAGES
     )
+    owners, char_scenes, _pairs = parse_all()
+    support_entries = character_entries(owners, char_scenes, href_prefix="supports/")
+    support_grid = char_grid(support_entries, base_rel=0)
     body = ('<h1><span class="num">Fire Emblem</span>Binding Blade Japanese Script'
             '<span class="orig"><span lang="ja">ファイアーエムブレム　封印の剣</span></span></h1>'
             '<p class="lead">Every chapter\'s dialogue in the original Japanese. '
@@ -359,8 +363,8 @@ def main():
             f'<ol class="chapters">{toc_rows}</ol>'
             '<h2 class="idx">Support Conversations</h2>'
             '<p class="lead">All 54 characters\' support conversations '
-            '<span lang="ja">（支援会話）</span> — translation in progress. '
-            '<a href="supports/index.html">Browse supports →</a></p>')
+            '<span lang="ja">（支援会話）</span>. Click a character to see their support partners.</p>'
+            f'{support_grid}')
     (WEB / "index.html").write_text(
         PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL),
         encoding="utf-8")
