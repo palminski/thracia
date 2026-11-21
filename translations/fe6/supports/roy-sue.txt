@@ -1,0 +1,65 @@
+1	Alright, that takes care of troop placement. Whew. Now, let's see...
+2	Lord Roy.
+3	Huh!? Sue...
+4	What's wrong? You look puzzled.
+5	No, it's just rare for you to come talk to me first.
+6	Is that so?
+7	Yeah.
+8	I don't see you talking much with others, either.
+9	Don't you like talking with people?
+10	It's not really that...
+11	Then why?
+12	Maybe it's just that talking with other things is more fun?
+13	"Other things"?
+14	The wind blowing through, branches and leaves swaying, the clear blue sky, a flowing stream...
+15	All kinds of things speak to us, don't they?
+16	Is that how it is?
+17	Those things — if you lend them your ear, you can hear them.
+18	If you can't hear them, it's because you're not trying to listen.
+19	That's all I wanted to say. Well then...
+20	Huh? Sue, didn't you say you had something to talk about...?
+21	I just did.
+22	What?
+23	Every now and then, lend your ear to the sky and the earth — you'll hear all kinds of voices.
+24	If you do, I'm sure you'll feel renewed.
+25	If you stay too tense, you won't hear anything at all.
+26	Ah, Sue...
+27	Were you just looking out for me because I seemed tired?
+28	Thank you, Sue.
+29	Sue.
+30	Lord Roy, what's wrong?
+31	Thanks for the other day, for cheering me up.
+32	...It's become a good feeling.
+33	Huh?
+34	Your "feeling," Lord Roy.
+35	My "feeling"? In what way?
+36	It's softened.
+37	Is that so? I can't really tell myself.
+38	Hehe... things like this...
+39	people who till the earth probably wouldn't understand.
+40	Huh...
+41	What?
+42	That's the first time I've seen you smile, Sue.
+43	Is that so?
+44	Yeah. It's a good "feeling" too — your smile.
+45	I see... thank you.
+46	Sue, what will you do once this war is over?
+47	I'll go home.
+48	But the Kutolah tribe you came from, going up against Bern...
+49	We can just gather everyone together again.
+50	The Kutolah tribe might not exist anymore,
+51	but it's not like everyone who belonged to it is dead.
+52	That's... yeah, I suppose that's true, but...
+53	Why do you ask?
+54	Well, I just thought if you had nowhere to go,
+55	you might come to Pherae.
+56	Pherae... your home, Lord Roy.
+57	Yeah.
+58	It's not a big city, but it's a peaceful, good place.
+59	I see... but still, I want to live on the plains.
+60	I see. Then that's fine — I don't mean to force it on you.
+61	But if you ever feel like it, call on me anytime.
+62	Lord Roy.
+63	Yes?
+64	Thank you, for being so considerate.
+65	You're welcome.
