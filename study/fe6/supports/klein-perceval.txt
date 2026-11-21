@@ -37,7 +37,7 @@
 37|滅ぼす|kotoninaru,volitional,tomo
 38|生真面目|sugiru
 39||
-40|肩,抜く|kudasai
+40|肩,抜いて>抜く|kudasai
 41|選ばなくても>選ぶ|temo,potential
 42|軍務,控えてきました>控える|to-quote,toomou,tekuru,kedo
 43||nagara
