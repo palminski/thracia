@@ -1,0 +1,45 @@
+1	.......
+2	Um, Lord Lance.
+3	...I see.
+4	Lord Lance?
+5	...Oh, Wolt.
+6	Sorry, I was thinking something over a bit.
+7	Was I interrupting?
+8	No, I'd already reached my conclusion. There's no problem.
+9	Ah...
+10	So, do you need something from me, Wolt?
+11	Yes.
+12	Please let me learn from your side, Lord Lance.
+13	I want to fight as skillfully as you do, Lord Lance.
+14	I want to get stronger, so I can help Lord Roy.
+15	Lord Lance, what are you doing?
+16	Ah... I was keeping a record of this battle.
+17	A record?
+18	Yes. There's a famous strategist's saying in a book I'm fond of reading.
+19	"In war, the single most important thing is information."
+20	Where, who, and how they fought...
+21	I gather as much of that as I can, whether it's about ally or enemy.
+22	If I do that, it might prove useful for something later on.
+23	I see.
+24	In the battles ahead, a single mistake could cost us our lives.
+25	Under Lord Roy's command, we have to pay attention to our every last movement.
+26	Y-yes!
+27	...It's about time.
+28	I should get going soon.
+29	What an amazing person...
+30	All right, I can't let myself fall behind either.
+31	Ah, Lord Lance.
+32	Wolt... are you all right?
+33	Your eyes look quite red...
+34	Yes! I'm fine.
+35	I was reading that book on tactics you lent me.
+36	That's admirable — studying through the night, were you?
+37	Yes!
+38	Then you should read this next. It's a good guide for learning his tactics.
+39	It covers twenty-four volumes in all, laying out his thinking in detail.
+40	.......
+41	If you read just this much, you should at least grasp the basics.
+42	The real substance comes after that, bit by bit...
+43	...Wolt?
+44	.......
+45	Y-yes! I'll do my best...
