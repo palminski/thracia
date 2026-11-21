@@ -1,0 +1,52 @@
+1	Oh? You are...
+2	You are Princess Clarine of House Reglay, are you not?
+3	I am Lance of Ferae.
+4	It is an honor to welcome someone of such noble standing as yourself into our army.
+5	Please forgive any discourtesy from our army — it is, after all, wartime.
+6	Oh, my...
+7	W— well, for now, I shall overlook that and forgive you, for your sake.
+8	Understand? This is extremely special, you know.
+9	Yes, I am most grateful for this honor.
+10	Then, Princess, your hand, if you please...
+11	My...
+12	F— for a country knight, you certainly know your etiquette toward a lady.
+13	I am honored.
+14	Still, you've a long way to go compared to the knights of my House Reglay.
+15	Yes, I humbly apologize.
+16	Lance.
+17	Lady Clarine, did you need something from me?
+18	As princess of House Reglay, I command you.
+19	From now on, you shall protect me.
+20	What do you mean by that...
+21	You are somewhat lacking as a knight to protect me, but...
+22	given the circumstances as they are, I shall make do with you for now.
+23	From now on you shall always be at my side. Understood?
+24	If it is by Lord Roy's command.
+25	That's not...
+26	I myself am the one commanding you!
+27	With respect,
+28	even a command from Lady Clarine is not one I can simply obey.
+29	A knight is one who swears loyalty to his own liege.
+30	One who forgets that is no longer a knight.
+31	Wh—
+32	I know that perfectly well!
+33	That just now was a test of your loyalty as a knight!
+34	Ah, forgive my misspeaking.
+35	W— well, I shall mark you as having passed. Be honored!
+36	Lance!
+37	Yes, what is it, Lady Clarine?
+38	Even though you are not truly my knight...
+39	we are still in a princess-and-knight sort of relationship, are we not?
+40	That is correct.
+41	T— then... as princess,
+42	I grant you permission to kiss my hand.
+43	Yes, I am most grateful for this honor.
+44	...L— Lance, understand this.
+45	The reason I'm allowing you to kiss my hand like this
+46	is only to make the difference in our stations perfectly clear.
+47	There's absolutely no other meaning behind it, understand!
+48	Yes, of course, I am well aware.
+49	I— I see.
+50	......You could at least look a little disappointed, you know...
+51	Did you say something?
+52	N— no! It's nothing at all.
