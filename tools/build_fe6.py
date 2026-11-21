@@ -269,7 +269,7 @@ PAGE = """<!DOCTYPE HTML>
 <header class="site">
 <div class="bar">
 <a class="all-games" href="{rel}../index.html">← All games</a>
-<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a></span>
+<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem</a><span class="title-sep">-</span><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a></span>
 <nav class="tools">{tools}</nav>
 </div>
 </header>

@@ -55,23 +55,26 @@ ol.chapters, .char-grid, .layout {
 header.site {
   position: sticky; top: 0; z-index: 10;
   background: var(--header-bg); backdrop-filter: blur(6px);
-  border-bottom: 1px solid var(--line); font-size: 0.9rem; letter-spacing: 0.08em;
+  border-bottom: 1px solid var(--line); font-size: 0.95rem; letter-spacing: 0.08em;
 }
 header.site .bar {
-  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px;
-  width: 100%; padding-inline: 24px; min-height: 48px;
+  display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 16px;
+  width: 100%; padding-inline: 24px; min-height: 58px;
 }
 header.site a { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; color: var(--muted); text-decoration: none; }
 header.site a:hover, header.site a:focus-visible { color: var(--gold); }
 header.site span { color: var(--gold); }
 .all-games { justify-self: start; }
-.title-group { grid-column: 2; justify-self: center; display: flex; align-items: baseline; gap: 14px; min-width: 0; }
+.title-group {
+  grid-column: 2; justify-self: center; display: flex; align-items: baseline; gap: 12px;
+  min-width: 0; max-width: 100%; font-size: 1.3rem;
+}
+.title-group a { overflow: visible; white-space: nowrap; text-overflow: clip; }
 nav.tools { justify-self: end; }
-.site-title { flex: none; font-weight: 700; letter-spacing: 0.1em; }
-.site-title span { margin-left: 8px; font-weight: 400; font-size: 0.85em; letter-spacing: 0.08em; }
+.site-title { flex: none; font-weight: 700; letter-spacing: 0.08em; }
+.title-sep { flex: none; color: var(--muted); }
 .game-name { color: var(--text); text-decoration: none; }
-.game-name[href]:hover, .game-name[href]:focus-visible { color: var(--gold); }
-.game-name .orig { margin-left: 8px; color: var(--muted); font-size: 0.9em; }
+.game-name .orig { margin-left: 8px; color: var(--muted); font-size: 0.8em; }
 
 /* ---------- furigana / English toggle switches ---------- */
 .furi-toggle, .en-toggle {
