@@ -6471,3 +6471,8 @@
 広さ|ひろさ|size, extent, area
 ちっぽけ|ちっぽけ|tiny, insignificant
 名コンビ|めいコンビ|great duo, perfect pair
+代える|かえる|to exchange, to substitute
+重さ|おもさ|weight
+証|しょう|proof, evidence
+配備する|はいびする|to deploy, to station
+君主|くんしゅ|lord, monarch

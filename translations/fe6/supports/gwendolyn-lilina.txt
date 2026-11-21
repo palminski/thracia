@@ -1,0 +1,52 @@
+1	Ah, Gwendolyn, it's been a while.
+2	Lady Lilina... please, stay close by my side.
+3	I will protect your life with my own, even at the cost of it.
+4	Oh, thank you...
+5	I always think this, but... really... you're amazing.
+6	...isn't it heavy?
+7	No, if anything, it's a point of pride.
+8	The weight of a cavalier's armor is proof of loyalty.
+9	But please, don't push yourself too hard.
+10	Such kind words... I don't deserve them.
+11	...say, Gwendolyn, why did you join the heavy cavalry?
+12	Was it because you wanted to be like Bors?
+13	Yes... my brother is my goal.
+14	I want to protect Lady Lilina the way he does, too.
+15	Hey, Gwendolyn.
+16	What is it, Lady Lilina?
+17	Let's talk about something — tell me about yourself.
+18	Yes.
+19	I was assigned to one unit of the Ostia heavy cavalry...
+20	No... that's not what I meant...
+21	For example, is there a man you like, Gwendolyn?
+22	S-someone I... like?
+23	Mhm.
+24	That's... I'm not really sure...
+25	Huh?
+26	I've only ever thought about becoming strong, like my brother.
+27	So liking a man, or anything like that... that's a bit...
+28	I see...
+29	In that case, let's talk about something else.
+30	As a woman from the same hometown, in the same army — I want to get to know you better, Gwendolyn.
+31	You're a strange person, Lady Lilina...
+32	Huh? Why's that?
+33	You're of a different standing than the rest of us, and yet...
+34	You come down to our level with that smile of yours.
+35	You really are... a strange person.
+36	You think so...? I just want to be your friend, that's all.
+37	F-friends? Th-that's impossible.
+38	I'm Lady Lilina's vassal...
+39	That has nothing to do with it.
+40	You're the woman closest to my own age who's always by my side.
+41	Let's stop talking about lord and vassal and all that.
+42	Lady Lilina!
+43	Lady Lilina, you carry Ostia's future on your shoulders.
+44	Things can't be the same for us as they are for you.
+45	Surely you understand that?
+46	...so we really can't be friends.
+47	I'm sorry.
+48	But... I'm grateful for your kindness.
+49	Though it's true we can't exactly be "friends"...
+50	Would it be alright if I kept being someone you could talk to, about all sorts of things?
+51	Of course! Of course!
+52	...thank you, Gwendolyn.
