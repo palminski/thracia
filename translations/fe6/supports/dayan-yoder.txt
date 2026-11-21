@@ -1,0 +1,46 @@
+1	Are you the "Grey Wolf," Lord Dayan?
+2	That someone who isn't of the Sacaean tribes would know that name...
+3	Where did you hear my name, Father?
+4	Long ago... I once had the chance to heal the wounds of a man from Sacae.
+5	That's when I heard it — the epithet of the hero without equal among the Sacaeans.
+6	Forgive me, but I'd imagined someone with white hair, like myself...
+7	The name "Grey Wolf" comes from our tribe's old legends.
+8	There's a tale that the ancestors of the Sacaean tribes were wolves.
+9	I see, so that's...
+10	By the way, Father, what brings you to me?
+11	If this is an invitation from your god, we've already—
+12	No, I haven't come to spread the faith.
+13	...Is that all right?
+14	Surely you must serve your god.
+15	Of course.
+16	My calling is to follow my god's guidance, to dispel people's doubts, and heal their suffering.
+17	You Sacaeans already have the earth and the stars to believe in, in your hearts.
+18	I doubt my god wishes for our teachings to be forced upon you.
+19	...I see.
+20	The people of Sacae offer their prayers to the earth and the sky.
+21	Sunlight and moonshadow — the principle by which this earth comes into being...
+22	And from that are born wind, thunder, flame, ice...
+23	Every person is born carrying the blessing of one of those.
+24	According to our tribe's divination...
+25	I was born into this world under the protection of the blessing of Reason.
+26	I see... that is... fascinating.
+27	Fascinating, you say?
+28	The teachings of Elimine hold something similar.
+29	Long ago, when the Creator made humankind...
+30	it's said He granted them the seven natures that are the source of all things...
+31	But those natures—
+32	...Hold no power at all by themselves, alone.
+33	Yes, exactly.
+34	...There really are strange things in this world.
+35	Yes, truly.
+36	Perhaps this is...
+37	a truth that touches on how this world itself came to be.
+38	The seven blessings brought by the earth and the stars...
+39	They're something that surfaces through one's bonds with others.
+40	Given only to those who have truly connected their hearts with another's...
+41	Yes.
+42	The Saint Elimine, too, taught that the bonds between people should be cherished.
+43	Hmm...
+44	I wonder, then — have the two of us managed to truly connect our hearts?
+45	Yes, I'm sure we have.
+46	What blessing might come of it, I can't say...
