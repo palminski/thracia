@@ -1,0 +1,98 @@
+1	(sneak, sneak, sneak...)
+2	Oh my,
+3	there's a fool trying to slip right past me without even a greeting.
+4	You're young, yet you must be awfully eager to die early.
+5	Ah— wha? Uh, uh, what a coincidence...
+6	Didn't notice you there at all, Granny!
+7	Don't play dumb with me! The second you saw my face you started sneaking around.
+8	Hugh, that small-heartedness of yours hasn't improved one bit, has it.
+9	And Granny Niime, your face is as rosy and healthy-looking as ever—
+10	not looking anywhere close to dying, perfectly spry and in good health...
+11	Hmph! Sorry to disappoint, but I'm not dying anytime soon.
+12	Especially with a good-for-nothing grandson like you around.
+13	So? It's been more than three years since I sent you off to train in ancient magic...
+14	and yet, why is it that you're
+15	reeking of anima magic? I'd love to hear an explanation.
+16	Can't be helped. I became a mage.
+17	...maybe my ears have gone bad in my old age.
+18	It sounded like you just said "mage."
+19	'Cause I'm saying I became a wielder of anima magic!
+20	You... foolish grandson! What face do you think you have, coming back here like that!?
+21	This handsome face, that's what!
+22	What an idiot...
+23	Ah, where are you going, Granny!
+24	Talking to you is going to drive me out of my mind.
+25	Don't show that idiot face of yours in front of me for a good while.
+26	...I really thought she was going to blast me into next week.
+27	Maybe Granny's gotten old.
+28	Or maybe she was just dazzled seeing her handsome grandson again after so long...
+29	Well, whatever the reason, I got lucky — I'm on a roll~
+30	Hugh.
+31	Granny! There she is!
+32	...what do you think you're doing.
+33	Huh? Getting ready to dodge in case you hit me with a spell out of nowhere.
+34	...you really are an idiot.
+35	What, "idiot"? I'm your actual flesh-and-blood grandson, you know?
+36	It would've been nice if it had been some kind of mistake...
+37	But no use regretting that now. I have business with you today.
+38	Huh, that's rare.
+39	The "Resire" tome I gave you before you left for training—
+40	you don't need it anymore, do you? Hand it back to me, quick.
+41	(gulp)
+42	Don't tell me you don't even have it anymore... that's not it, is it?
+43	(gulp, gulp)
+44	That's a rare, hard-to-find, precious tome, you know!?
+45	If you're going to tell me you sold it because you were short on money...
+46	Waaah! No! No!! I didn't sell it, I gave it to someone!!
+47	What!? You'd better come up with a better excuse than that.
+48	I'm not lying!
+49	I met this kid who was practicing ancient magic, and traveled with him for a while.
+50	And that kid was an orphan, so I felt sorry for him and looked after him for a bit,
+51	and then one morning he was just gone — and the Resire went missing along with him!
+52	In other words, it's not that you "gave it to someone" — you were kind to a child, and he "stole" it from you.
+53	Guess you could put it that way too.
+54	There's no other way to put it!
+55	...hey, Granny.
+56	If your head hurts, want me to go stand over there for a bit?
+57	...that's right. If I let my anger get the better of me and beat you to a pulp,
+58	your late father and mother would be sad about it, wouldn't they.
+59	!!
+60	W-well then, see ya.
+61	Pretending to be tough, yet soft enough for a child to take advantage of you — you're just like your father.
+62	...though I wish you'd inherited at least a little of his gift for ancient magic, too.
+63	Granny!
+64	What is it.
+65	I don't really remember much, but... was my old man good at ancient magic?
+66	...what's brought this on, all of a sudden?
+67	Nah, see, I actually trained properly in ancient magic at first.
+68	But I never got anywhere with it at all — meanwhile that kid I mentioned got good enough on his own, no training needed.
+69	So I started thinking maybe I just don't have any talent, and switched over to anima magic pretty quick.
+70	But then I thought about it — there's no way I don't have talent, carrying your blood, Granny.
+71	So, I wanted to ask how my old man was.
+72	Your father had a gift for ancient magic far beyond anything you could compare to.
+73	Figured as much. Then why am I the failure of the family?
+74	Ha! Unless... no, it's got to be that, I'm sure of it!!
+75	What is it. Does something come to mind?
+76	You and I actually aren't related by blood, are we!?
+77	Ow, ow!! What was that for, hitting me out of nowhere with your staff!!!
+78	I'm just appalled at how stupid you are.
+79	Plain and simple, you are my grandson.
+80	This old hag here is even the one who delivered you into this world.
+81	Whaat, no way. With these looks of mine
+82	and your wrinkled old self, we don't look even the slightest bit alike!
+83	Several decades ago, I was a peerless beauty, you know.
+84	Men of your caliber, I'd just let them shower me with gifts and then toss them aside.
+85	Harsh...
+86	Your decent heart, you got from your father. Your talent for anima magic, from your mother.
+87	Your stupidity... was probably from your grandfather.
+88	Huh? Wasn't my mom a shaman?
+89	At first, that's what I'd decided my son's wife would be, yes.
+90	But your mother was a beautiful, overflowing-with-talent mage, so...
+91	when my son brought that girl home, I told him he'd done well.
+92	...the two of them were both something I was proud of, you know...
+93	Dying before me like that — what unfilial children, honestly.
+94	Guess it's disappointing, being left with nothing but a sorry grandson, huh, Granny.
+95	...well, that's... not quite true, actually.
+96	A day without seeing your face, without having something to scold you over — it's unbearably long.
+97	Maybe it's true that the foolish child is the dearest one. You're the only one I want to live a long life.
+98	...Granny.
