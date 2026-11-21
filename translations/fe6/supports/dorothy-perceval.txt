@@ -1,0 +1,61 @@
+1	Ah! Watch out!
+2	!
+3	S-s-sorry!
+4	I was aiming for the enemy, but my arrow flew this way...!
+5	Oh, what have I done...! What do I do! Are you hurt anywhere?
+6	I'm fine. It didn't even graze me.
+7	I'm— I'm truly sorry!
+8	There's no need to apologize.
+9	Things like this happen often enough on a battlefield.
+10	But still!
+11	Even supposing I'd been wounded by that arrow just now,
+12	that would also be my own fault, for neglecting to watch my surroundings.
+13	That's not...
+14	"Never let your guard down on the battlefield" — it's simply common sense.
+15	So there's no need to trouble yourself over it so much.
+16	Understand?
+17	...Yes, I understand.
+18	If I just keep moping around about this, it'd only end up being more trouble for you, wouldn't it.
+19	I'll pull myself together and do my best!
+20	Phew...
+21	It was good that one hit the enemy earlier, but I don't like how it felt so much like luck.
+22	I need to practice more...
+23	Hmm, maybe a bit more like this... or, well, like this, maybe...
+24	Oh! Lord Perceval!
+25	Practicing? You're diligent.
+26	Y-yes! Thank you!
+27	Since I sometimes make mistakes like the other day,
+28	I don't want to end up being a burden on everyone.
+29	I see...
+30	There's something that's been on my mind a little,
+31	you should try shooting your bow with a bit less tension in you.
+32	Eh...
+33	W-were you watching me fight!?
+34	I always make a point of watching our own army's movements on the battlefield.
+35	I'd been meaning to have this talk with you, once the right moment came.
+36	There's a sense of anxiety visible in how you fight.
+37	Is that so...
+38	That's... true. When it comes to actual combat, I get a little scared.
+39	I just end up tensing up no matter what, and I can't move the way I want to.
+40	...An archer doesn't need to go out right in front of the enemy.
+41	Your role is to support from behind the vanguard.
+42	Just correct your stance, and tell yourself—
+43	there's nothing to fear. We'll defend the front line.
+44	!...Yes! I'll try!
+45	...There! Got it!
+46	Yes, yes, that one went really well!
+47	You've improved a great deal, Dorothy.
+48	Ah, Lord Perceval!
+49	I've been doing it just as you taught me, calming my mind first.
+50	Even I can tell it's gotten better somehow.
+51	You've put in real effort, and you had good fundamentals to begin with.
+52	Since it was mostly a matter of mindset, your skill should only keep improving from here.
+53	When I think about how you and everyone else are protecting the front for me,
+54	I find myself able to calm down naturally...
+55	So there really can be moments of reassurance, even on the battlefield.
+56	That's just as true for those of us at the vanguard.
+57	It's hard to advance forward without someone guarding the rear.
+58	...Am I of at least some help to you, Lord Perceval?
+59	You help me plenty.
+60	I'm counting on your support from behind.
+61	Yes!
