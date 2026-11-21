@@ -16,6 +16,23 @@ function setupToggle(selector, cls, storageKey) {
 setupToggle(".furi-toggle", "furi", "furigana");
 setupToggle(".en-toggle", "eng", "english");
 
+// Keep --header-h in sync with the real header height, so the sidebar and
+// translation panel (which both start right below it) never have to guess
+// a pixel number that breaks if the header's content/height changes.
+(function () {
+  var header = document.querySelector("header.site");
+  if (!header) return;
+  function sync() {
+    document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
+  }
+  if (window.ResizeObserver) {
+    new ResizeObserver(sync).observe(header);
+  } else {
+    sync();
+    window.addEventListener("resize", sync);
+  }
+})();
+
 // Accordion: opening a <details data-acc="group"> closes other open details
 // sharing its group (e.g. a pair's Support Rank C/B/A sections).
 document.querySelectorAll("details[data-acc]").forEach(function (d) {

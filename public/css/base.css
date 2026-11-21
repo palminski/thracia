@@ -12,6 +12,13 @@
    notes -> dialogue bubbles -> mobile tweaks -> translation/vocab panel ->
    reference pages (grammar.html/vocab.html). */
 
+/* Actual measured height of header.site, kept in sync by js/site.js (it
+   resizes with content/viewport, e.g. the header wrapping on a narrow
+   width) - anything that needs to clear the header should read this
+   instead of hardcoding a pixel guess. This default is just a fallback
+   for the instant before that JS runs. */
+:root { --header-h: 92px; }
+
 * { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }
@@ -158,7 +165,7 @@ details.toc summary { cursor: pointer; color: var(--muted); }
 details.toc ol { margin: 8px 0 4px; padding-left: 1.8em; columns: 2; column-gap: 24px; }
 details.toc a { text-decoration: none; }
 
-section.scene { margin-top: 44px; scroll-margin-top: 64px; }
+section.scene { margin-top: 44px; scroll-margin-top: calc(var(--header-h) + 10px); }
 section.scene > h2 {
   margin: 0 0 18px; padding-bottom: 6px; border-bottom: 1px solid var(--line);
   font-size: 1.05rem; font-weight: 700; letter-spacing: 0.05em;
@@ -292,8 +299,8 @@ body.modal-open { overflow: hidden; }
 @media (min-width: 1300px) {
   .gloss-who { display: none; }      /* the portrait is already visible beside the bubble */
   .gloss {
-    left: calc(50% + 406px + 28px); top: 92px; transform: none;   /* clear of the two-row header */
-    width: min(340px, calc(50vw - 406px - 52px)); max-height: calc(100vh - 116px);
+    left: calc(50% + 406px + 28px); top: calc(var(--header-h) + 20px); transform: none;
+    width: min(340px, calc(50vw - 406px - 52px)); max-height: calc(100vh - var(--header-h) - 44px);
     box-shadow: none; border-radius: 8px;
   }
   .gloss-backdrop { display: none; }
@@ -302,7 +309,7 @@ body.modal-open { overflow: hidden; }
   /* absolute (not fixed): scrolls away with the page instead of staying
      pinned, so a tall chapter list never needs its own scrollbar */
   .side-nav {
-    position: absolute; left: 24px; top: 92px; width: 200px; margin-bottom: 0;
+    position: absolute; left: 24px; top: calc(var(--header-h) + 20px); width: 200px; margin-bottom: 0;
   }
 }
 
@@ -312,7 +319,7 @@ nav.tools a { color: var(--muted); }
 nav.tools a:hover { color: var(--gold); }
 a.bunpro { font-size: 0.72rem; color: var(--muted); text-decoration: none; border: 1px solid var(--line); border-radius: 3px; padding: 1px 5px; }
 a.bunpro:hover { color: var(--gold); border-color: var(--gold); }
-section.ref { margin: 0; padding: 14px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 64px; }
+section.ref { margin: 0; padding: 14px 0; border-bottom: 1px solid var(--line); scroll-margin-top: calc(var(--header-h) + 10px); }
 section.ref:target { background: rgba(var(--gold-rgb), 0.08); box-shadow: -12px 0 0 rgba(var(--gold-rgb), 0.08), 12px 0 0 rgba(var(--gold-rgb), 0.08); }
 section.ref h2 { margin: 0 0 4px; font-size: 1.05rem; color: var(--gold); font-weight: 700; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 section.ref p { margin: 0; color: var(--ref-text); font-size: 0.92rem; }
