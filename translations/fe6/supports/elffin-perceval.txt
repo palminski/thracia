@@ -1,0 +1,42 @@
+1	Sir Perceval, a word with you...
+2	! My prince, "Sir"? To me...?
+3	Shh! Enemy ears could be anywhere. Here, I'm just a bard.
+4	Understood.
+5	Well then...
+6	...What is it you wanted to talk about, Sir Elffin?
+7	A year ago, Prince Mildain passed away in Etruria, did he not?
+8	...I'd like you to tell me about the state of Etruria since then.
+9	Later, when I travel from place to place, I want to sing of it...
+10	...Very well.
+11	Ever since Prince Mildain disappeared......
+12	Mil— no, Sir Elffin.
+13	What is it, Sir Perceval?
+14	I've heard you have a father.
+15	Have you seen him recently?
+16	No, I haven't seen him in several years now.
+17	Do you not plan to see him from here on, either?
+18	At least not until this war is over.
+19	Why?
+20	Your father believes you're dead,
+21	and must be heartbroken over it, no?
+22	If my father learns of me, others would learn of it too.
+23	If that happened, even if it made my father happy for a moment,
+24	it would mean making him taste the fear of losing me all over again.
+25	......
+26	For that reason, I must first eliminate the very source of "the fear of losing me."
+27	Seeing my father is a matter for after that.
+28	Sir Elffin.
+29	You said before you'd sing in various places...
+30	About the state of Etruria after Prince Mildain's passing?
+31	That's right.
+32	After this war ends... you'll tell the tale to everyone, I suppose?
+33	That's what I'm thinking.
+34	I too need to travel to many places and learn all sorts of things.
+35	...Won't you stop by the Etrurian royal palace?
+36	Of course I will.
+37	I'm sure my stay there will be the longest of all.
+38	And after the Etrurian royal palace?
+39	Nowhere in particular...
+40	I intend to keep singing songs for the Kingdom of Etruria for the rest of my life.
+41	...Then your subjects may believe in that, may they not?
+42	...I swear it on my honor.
