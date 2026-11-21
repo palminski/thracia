@@ -1,0 +1,54 @@
+1	Gramps.
+2	Sue? What's wrong?
+3	There's something I need to apologize for.
+4	Is this about not being able to get everyone in the tribe to safety?
+5	......
+6	There was a traitor among us. It couldn't be helped.
+7	"It couldn't be helped" isn't good enough. I'm the granddaughter of the Kutolah chieftain.
+8	Even if we were betrayed, I should have led everyone through it properly.
+9	And yet...
+10	I was the one who gave you that duty. So if anyone's to blame, it's me.
+11	But...
+12	Or did you abandon the tribe and run off on your own?
+13	That's not what happened!
+14	When the enemy appeared, I dove into their ranks alone, to let everyone else escape.
+15	But that was a decoy — the enemy's main force was waiting right where everyone fled...
+16	Then that's all there is to it. You did everything you could.
+17	I know you can't just forget it, but you need to shift how you're feeling.
+18	All right. I'll try...
+19	Sue, how is it? Has your mood shifted at all?
+20	......
+21	Still carrying it around, are you? Well, given what happened, that can't be helped, I suppose.
+22	It's not something that ends with "can't be helped." I let everyone in the tribe down...
+23	...Once this battle's over, why don't you take a bit of a trip?
+24	A trip? At a time like this?
+25	It's precisely because it's a time like this.
+26	Fighting with unresolved feelings weighing on your heart puts your life at risk.
+27	You understand?
+28	Yes, but...
+29	Listen more closely to the voices of heaven and earth.
+30	Next to the vastness of heaven and earth, we people are such small things.
+31	I've always told you that, haven't I?
+32	I am listening.
+33	No. Right now you're only listening to the voice of your own heart.
+34	Once this battle's over, you're taking that trip. Understood?
+35	...I'll do as you say, Gramps.
+36	Good. That's how it should be.
+37	You seem to have gotten over it quite well, Sue.
+38	Yeah.
+39	I still haven't forgotten not being able to save everyone in the tribe, but—
+40	now, instead of looking back, I've decided to run facing forward.
+41	Mm.
+42	I take it that trip helped you, even a little?
+43	It felt like, for the first time in a while, I heard all sorts of "voices."
+44	Is that so. Then that's good.
+45	Seeing you look like you're in pain is more than I can bear, after all.
+46	I wasn't making a face like that. No one's ever told me that, either.
+47	Other people probably couldn't tell. But I can.
+48	After all, I'm your "Gramps."
+49	I've been watching over you ever since you were born.
+50	I see... Gramps.
+51	What is it?
+52	Thank you.
+53	I just did what's natural for a "Gramps" to do.
+54	Heh heh...
