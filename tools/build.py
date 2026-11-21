@@ -500,6 +500,7 @@ PAGE = """<!DOCTYPE html>
 </head>
 <body>
 <header class="site"><div class="bar">
+<a href="{rel}../index.html">← All games</a>
 <a href="{rel}index.html">Fire Emblem: Thracia 776 <span>Japanese Script</span></a>
 <nav class="tools"><a href="{rel}grammar.html">Grammar</a><a href="{rel}vocab.html">Vocabulary</a>{tools}</nav>
 </div></header>
