@@ -1,0 +1,58 @@
+1	Hey.
+2	You're a sailor, I hear.
+3	Hm? Yeah, more or less.
+4	Hey, does being a sailor pay well?
+5	......
+6	Used to pay well, back in the day. Back in the day.
+7	But these days... I don't really wanna talk about it.
+8	In the end I sank all the way down to being a pirate...
+9	I see... sorry to bother you, then.
+10	What? Wasn't there something you wanted?
+11	I was thinking of asking you to hire me on your ship.
+12	Quitting banditry just to become a pirate's a dumb story, though.
+13	I'm sick to death of living by stealing...
+14	Hey, hold on.
+15	I'm done with piracy too. It never suited me anyway.
+16	Once this war's over, I'm going back to being a merchant sailor.
+17	If it's menial work, I could hire you on, I guess.
+18	Hey, Garret.
+19	Spin around in place a few times for me.
+20	Huh? What kind of joke is this?
+21	Just do it, think of it as a sailor's test.
+22	Tch... fine, whatever.
+23	...... ...... ...... There, I did it.
+24	Now walk straight over here.
+25	......
+26	Whoa!
+27	You get seasick, don't you.
+28	If you wanna be a sailor you gotta cure that — it's rough going otherwise.
+29	No way. A grown man like me, getting...
+30	Doesn't matter.
+31	Even a grown man pukes his guts out before he gets used to it.
+32	On top of that, the open sea's brutal.
+33	You'll run into storms that nearly flip the ship.
+34	Well, get rocked around on a ship for about a month and you'll get used to it.
+35	A whole month? A whole month of being drunk the entire time?
+36	Obviously. The sea's a big place, you know.
+37	Sometimes you don't set foot on land for a whole year.
+38	Come on now...
+39	Yeah, maybe I'll pass after all.
+40	Still... there's really no such thing as easy money, is there.
+41	The more I hear about it, the tougher being a sailor sounds, too...
+42	You think so? The sea's a good thing, though.
+43	But you're out at sea the whole time, right?
+44	Just staring at an endless, unchanging blue...
+45	Nah, the sea isn't only blue.
+46	Sometimes it turns to gold.
+47	Huh?
+48	I'm serious.
+49	When the sun comes up from the eastern sea... when it sinks down into the western sea...
+50	that whole vast ocean fills up with gold, from end to end...
+51	......
+52	The morning sun's nice too, but I like the sea at sunset best.
+53	When I steer the ship chasing after the setting sun, I feel...
+54	But a sunset doesn't make you any money, does it.
+55	...You just don't get romance, do you.
+56	Alright, I'll take you on my ship sometime, show you what the sea's really like.
+57	If you can't see what's good about that, you can't call yourself a real sailor.
+58	Yeah, this still doesn't sound like it pays...

@@ -6411,3 +6411,16 @@
 戦い手|たたかいて|a fighter, a combatant
 守り神|まもりがみ|a guardian deity
 好ましい|このましい|likable, desirable, favorable
+邪魔する|じゃまする|to get in the way, to intrude
+まぬけ|まぬけ|a fool, a dimwit
+うんざり|うんざり|fed up, sick and tired
+下働き|しもばたらき|menial labor, an unskilled worker
+ぐるぐる|ぐるぐる|round and round, spinning
+荒い|あらい|rough, violent, wild
+ひっくり返る|ひっくりかえる|to flip over, to capsize
+陸|りく|land (as opposed to sea)
+かわりばえ|かわりばえ|a change for the better (usu. negated: "no change")
+大海原|おおうなばら|the vast ocean
+朝日|あさひ|the morning sun
+夕日|ゆうひ|the evening sun, sunset
+ロマン|ロマン|romance, a romantic ideal
