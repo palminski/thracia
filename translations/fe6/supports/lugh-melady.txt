@@ -1,0 +1,64 @@
+1	...Phew. Sorry for pushing you too hard, Triffiny. Good girl.
+2	Ahh! A dragon!! Wow, it's huge!
+3	Is this dragon yours, miss? Would she get mad if I touched her?
+4	Heheh, no, it's fine. She's very gentle.
+5	Then is it okay if I just... whoa, her scales are so hard!
+6	Her fangs are amazing too! Hmm!! That's so cool. Miss, are you maybe a Wyvern Rider?
+7	Yes, I am.
+8	Eh! Really!? Amazing! That's super cool!!
+9	I thought Wyvern Riders only existed in Bern!!!
+10	!
+11	I'd heard Bern's Wyvern Riders are invincible, so I was a little worried, but...
+12	But this army has a real Wyvern Rider too. That's great!
+13	I'm trying hard too, thinking "Down with Bern!!"
+14	But my magic... I'm still really bad at it, and I'm not useful at all.
+15	......
+16	Ah— oh, I should get going!
+17	See you, miss! Thanks for letting me pet the dragon.
+18	Yes, see you...
+19	Hello, Wyvern Rider miss. Can I give this to the dragon?
+20	...Hello. What is that?
+21	Well, I got some baked sweets, and I wanted to give some to the dragon too.
+22	Oh, but, does a dragon even eat stuff like this?
+23	She loves it, doesn't she? Triffiny. Thank you very much.
+24	Her name is Triffiny? Can I call her that too?
+25	Yes, of course.
+26	Here, eat up, Triffiny. Tasty, right?
+27	...What's your name?
+28	Me? I'm Lugh. I came from Lycia.
+29	What's your name, miss? Where did you come from?
+30	...I'm Melady. I... came from Bern.
+31	!!! ...That's a joke, right?
+32	...I'm sorry. I couldn't bring myself to say it sooner.
+33	......
+34	Ah, wait! Lugh!!
+35	...It can't be helped, but it still hurts, doesn't it...
+36	I'm sorry, Triffiny.
+37	You'd only just made such a cute friend...
+38	Hello, Miss Melady.
+39	Lugh!
+40	...I'm sorry about the other day. I kind of ran off suddenly, like I was fleeing.
+41	It's fine, I'm not bothered by it. More than that, I'm happy you spoke to me again.
+42	Yeah, I didn't want to just leave things the way they were.
+43	...Will you listen to something about me?
+44	Of course.
+45	When I was four, my parents died, and I've been at an orphanage in Lycia ever since.
+46	Though when I say "orphanage," it's a small place — just one headmaster and seven kids.
+47	The slightly older kids — me, my twin brother Raigh, and a boy named Chad —
+48	we looked after the little ones. Even though we were poor, we got by reasonably happily.
+49	But once Bern started the war, our lives changed right before our eyes.
+50	We couldn't get food anymore... We ended up doing things like begging,
+51	and Chad... was stealing in secret, without telling the headmaster...
+52	Raigh hated that kind of life and left on his own without saying a word.
+53	...I hate Bern, for driving us all into a situation like that.
+54	A Bern that put the headmaster through something like that... I wish it would just disappear.
+55	......
+56	...I made myself believe that, because hatred, more than sadness,
+57	was what I needed to survive... I wanted to protect everyone who was left.
+58	......Phew. So, in order to become strong,
+59	right now... I have to keep hating Bern until this war is over.
+60	...But, Miss Melady, you're already an ally now, aren't you?
+61	So then, I don't have to hate you... right?
+62	If you could do that, I don't know how saved I'd feel.
+63	If I can, I'd like to be a close friend... and help you, Lugh.
+64	Thank you, Miss Melady.
