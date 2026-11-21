@@ -22,7 +22,7 @@
 22||
 23|自由|teiru
 24||
-25|伺えれば>伺う|node,ba,to-quote,toomou
+25|うかがえれば>伺う|node,ba,to-quote,toomou
 26|自由,必要|nda,tte-quote
 27||toomou
 28||
