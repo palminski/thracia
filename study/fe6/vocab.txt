@@ -6344,3 +6344,6 @@
 尊敬|そんけい|respect, esteem
 ほどほど|ほどほど|moderation, in moderation
 喜び|よろこび|joy, pleasure
+花|はな|flower
+群生|ぐんせい|growing in a cluster, colony (of plants)
+摘む|つむ|to pick, to pluck
