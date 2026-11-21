@@ -1,0 +1,75 @@
+1	Oh, god...
+2	?
+3	To think I'd meet someone as beautiful as you...
+4	Blessings upon this day, and upon you.
+5	...did you need something? Father?
+6	Yes, of course... but before that,
+7	My name is Saul. And please, your name as well...?
+8	Igrene. ...and? Something else?
+9	Oh, as I expected — what a beautiful name.
+10	Igrene — hearing that name, my joy is such that, if I were to compare it to something...
+11	No need to compare it to anything, thank you.
+12	So, is there something you need?
+13	Do you know of the Elimine faith, Miss Igrene?
+14	Pray when you're in trouble and your wish comes true right away — it's hugely popular with the ladies in the neighborhood...
+15	Ah... so that's what this is about.
+16	I'm sorry to disappoint, but I don't believe in any god...
+17	Oh, that won't do.
+18	If you don't believe in the Elimine faith, a curse will fall upon you, you know.
+19	...is that the kind of god yours is, then?
+20	Ah, no, no, that was just a little joke of mine.
+21	So, how about it — shall we have some tea together, and talk about the love of god...?
+22	Um, Miss Igrene? Where are you going...?
+23	Oh, Miss Igrene!
+24	...you again?
+25	For the two of us to meet in a place like this truly is a miracle.
+26	This must surely be god's guidance, telling me to save you.
+27	Is that so. How wonderful for you.
+28	Well then, if you'll excuse me...
+29	Ah, please, wait just a little longer.
+30	Believing in something is truly a wonderful thing, you know.
+31	Yes, I know.
+32	I used to believe in a god myself, once.
+33	A different one from yours, but I believe I was fairly devoted.
+34	Oh, that's news to me.
+35	So why did you stop, then?
+36	From some years back... I stopped praying altogether.
+37	...let's see.
+38	Perhaps it was after I lost someone important to me in battle.
+39	...I see, that's what happened.
+40	Those who pray to a god expect something in return from that god.
+41	There is no return. And so people come to resent their god.
+42	Such a thing never existed in the first place...
+43	Isn't it so much easier to think that way?
+44	......
+45	You're certainly right about that.
+46	...is it alright, a man of the cloth saying such a thing?
+47	It's fine. That's just the kind of person I am.
+48	But, the Saint Elimine once said something like this as well.
+49	The reason god does not save people... is because god believes in people.
+50	Believe... in people?
+51	Yes.
+52	Father.
+53	Oh, Miss Igrene, what's the matter?
+54	Ah, I understand — you couldn't hold back your desire to see me, could you...
+55	It's about what we talked about the other day.
+56	That god doesn't save people... because he believes in people.
+57	......
+58	The Saint Elimine said this:
+59	The god who created this world is all-powerful.
+60	He could change the world for the sake of humanity.
+61	He could remake people so that they'd never even think to start a conflict.
+62	But, would that really be for the best?
+63	......
+64	A human moved purely by god's will is no different from a puppet with no will of its own.
+65	And so god believes this instead:
+66	that people can change.
+67	that they can regret their mistakes and correct them.
+68	and that they have the strength to overcome pain.
+69	......
+70	I don't believe in god, but...
+71	I respect someone who believes in something like that.
+72	Thank you for the talk, Father. Now, if you'll excuse me...
+73	No, no — being of use to you is my own joy.
+74	Now then, about the real matter of that tea...
+75	Oh? Miss Igrene? Where did you go?
