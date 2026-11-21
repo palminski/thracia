@@ -522,8 +522,11 @@ PAGE = """<!DOCTYPE html>
 </head>
 <body>
 <header class="site">
-<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
-<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Thracia 776<span class="orig" lang="ja">トラキア776</span></a><nav class="tools">{tools}</nav></div>
+<div class="bar">
+<a class="all-games" href="{rel}../index.html">← All games</a>
+<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a><a class="game-name" href="{rel}index.html">Thracia 776<span class="orig" lang="ja">トラキア776</span></a></span>
+<nav class="tools">{tools}</nav>
+</div>
 </header>
 <div class="layout">
 {sidebar}

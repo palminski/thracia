@@ -82,8 +82,8 @@ BONUS_SLUGS = {"demo", "opening", "death", "ending1", "ending2"}
 
 def sidebar(current_href, at_root):
     prefix = "chapters/" if at_root else ""
-    chapters = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES if slug not in BONUS_SLUGS]
-    bonus = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES if slug in BONUS_SLUGS]
+    chapters = [(f"{prefix}{slug}.html", f"{label} {title}") for stem, slug, label, title in PAGES if slug not in BONUS_SLUGS]
+    bonus = [(f"{prefix}{slug}.html", f"{label} {title}") for stem, slug, label, title in PAGES if slug in BONUS_SLUGS]
     supports_href = "supports/index.html" if at_root else "../supports/index.html"
     return render_sidebar(chapters, current_href, bonus=bonus, extra=(supports_href, "Support Conversations"))
 
@@ -267,8 +267,11 @@ PAGE = """<!DOCTYPE HTML>
 </head>
 <body>
 <header class="site">
-<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
-<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a><nav class="tools">{tools}</nav></div>
+<div class="bar">
+<a class="all-games" href="{rel}../index.html">← All games</a>
+<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a></span>
+<nav class="tools">{tools}</nav>
+</div>
 </header>
 <div class="layout">
 {sidebar}

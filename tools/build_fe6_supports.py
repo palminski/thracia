@@ -35,36 +35,42 @@ WEB = ROOT / "public" / "fe6"
 OUT = WEB / "supports"
 SOURCE_URL = "https://www.pegasusknight.com/mb/fe6/st_index"
 
-# Mirrors tools/build_fe6.py's PAGES (slug -> English title), just for the
-# sidebar shown on every support page too. Duplicated rather than imported
-# to avoid a circular import (build_fe6.py already imports from this module
-# for the character-grid helpers below) - FE6's story content is finished,
-# so this should rarely need updating; keep it in sync with PAGES if it ever
-# does.
+# Mirrors tools/build_fe6.py's PAGES (slug -> JP chapter label -> English
+# title), just for the sidebar shown on every support page too. Duplicated
+# rather than imported to avoid a circular import (build_fe6.py already
+# imports from this module for the character-grid helpers below) - FE6's
+# story content is finished, so this should rarely need updating; keep it
+# in sync with PAGES if it ever does.
 FE6_CHAPTERS = [
-    ("ch01", "Breath of Fate"), ("ch02", "The Princess of Bern"), ("ch03", "The Latecomer"),
-    ("ch04", "Collapse of the Alliance"), ("ch05", "The Crest of Flame"), ("ch06", "The Trap is Set"),
-    ("ch07", "The Ostia Rebellion"), ("ch08", "Reunion"), ("ch08x", "The Blazing Blade"),
-    ("ch09", "The Mist-Shrouded Isle"), ("ch10a", "Those Who Resist"), ("ch10b", "Caught Between Conflict"),
-    ("ch11a", "Hero of the West"), ("ch11b", "Escape to Freedom"), ("ch12", "The True Enemy"),
-    ("ch12x", "The Thunder Axe"), ("ch13", "Rescue Operation"), ("ch14", "Utopia"),
-    ("ch14x", "The Reason of Hellfire"), ("ch15", "Daughter of the Dragon"), ("ch16", "Reclaiming the Capital"),
-    ("ch16x", "The Supreme Light"), ("ch17a", "Teachings of the Priest"), ("ch18a", "The Law of Sacae"),
-    ("ch19a", "The Battle for Bulgar"), ("ch20a", "The Grey Wolf"), ("ch20xa", "The Gale Bow"),
-    ("ch17b", "The Sea Route"), ("ch18b", "The Frozen River"), ("ch19b", "General Winter"),
-    ("ch20b", "Liberation of Ilia"), ("ch20xb", "The Ice Lance"), ("ch21", "The Binding Blade"),
-    ("ch21x", "Darkness of Revelation"), ("ch22", "An Unending Dream"), ("ch23", "The Ghost of Bern"),
-    ("ch24", "The Truth of Legend"), ("ch25", "Beyond the Darkness"),
+    ("ch01", "第1章", "Breath of Fate"), ("ch02", "第2章", "The Princess of Bern"),
+    ("ch03", "第3章", "The Latecomer"), ("ch04", "第4章", "Collapse of the Alliance"),
+    ("ch05", "第5章", "The Crest of Flame"), ("ch06", "第6章", "The Trap is Set"),
+    ("ch07", "第7章", "The Ostia Rebellion"), ("ch08", "第8章", "Reunion"),
+    ("ch08x", "第8章外伝", "The Blazing Blade"), ("ch09", "第9章", "The Mist-Shrouded Isle"),
+    ("ch10a", "第10章A", "Those Who Resist"), ("ch10b", "第10章B", "Caught Between Conflict"),
+    ("ch11a", "第11章A", "Hero of the West"), ("ch11b", "第11章B", "Escape to Freedom"),
+    ("ch12", "第12章", "The True Enemy"), ("ch12x", "第12章外伝", "The Thunder Axe"),
+    ("ch13", "第13章", "Rescue Operation"), ("ch14", "第14章", "Utopia"),
+    ("ch14x", "第14章外伝", "The Reason of Hellfire"), ("ch15", "第15章", "Daughter of the Dragon"),
+    ("ch16", "第16章", "Reclaiming the Capital"), ("ch16x", "第16章外伝", "The Supreme Light"),
+    ("ch17a", "第17章A", "Teachings of the Priest"), ("ch18a", "第18章A", "The Law of Sacae"),
+    ("ch19a", "第19章A", "The Battle for Bulgar"), ("ch20a", "第20章A", "The Grey Wolf"),
+    ("ch20xa", "第20章外伝A", "The Gale Bow"), ("ch17b", "第17章B", "The Sea Route"),
+    ("ch18b", "第18章B", "The Frozen River"), ("ch19b", "第19章B", "General Winter"),
+    ("ch20b", "第20章B", "Liberation of Ilia"), ("ch20xb", "第20章外伝B", "The Ice Lance"),
+    ("ch21", "第21章", "The Binding Blade"), ("ch21x", "第21章外伝", "Darkness of Revelation"),
+    ("ch22", "第22章", "An Unending Dream"), ("ch23", "第23章", "The Ghost of Bern"),
+    ("ch24", "第24章", "The Truth of Legend"), ("ch25", "終章", "Beyond the Darkness"),
 ]
 FE6_BONUS = [
-    ("demo", "Demo"), ("opening", "Opening"), ("death", "Death Quotes"),
-    ("ending1", "Ending (after the Final Chapter)"), ("ending2", "Ending (after Chapter 22)"),
+    ("demo", "デモ", "Demo"), ("opening", "オープニング", "Opening"), ("death", "散り際の台詞", "Death Quotes"),
+    ("ending1", "エンディング", "Ending (after the Final Chapter)"), ("ending2", "エンディング", "Ending (after Chapter 22)"),
 ]
 
 
 def sidebar(current_href, chapter_prefix, supports_href, extra_current=True):
-    chapters = [(f"{chapter_prefix}{slug}.html", title) for slug, title in FE6_CHAPTERS]
-    bonus = [(f"{chapter_prefix}{slug}.html", title) for slug, title in FE6_BONUS]
+    chapters = [(f"{chapter_prefix}{slug}.html", f"{label} {title}") for slug, label, title in FE6_CHAPTERS]
+    bonus = [(f"{chapter_prefix}{slug}.html", f"{label} {title}") for slug, label, title in FE6_BONUS]
     return render_sidebar(chapters, current_href, bonus=bonus,
                            extra=(supports_href, "Support Conversations"), extra_current=extra_current)
 
@@ -271,8 +277,11 @@ PAGE = """<!DOCTYPE HTML>
 </head>
 <body>
 <header class="site">
-<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
-<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a><nav class="tools">{tools}</nav></div>
+<div class="bar">
+<a class="all-games" href="{rel}../index.html">← All games</a>
+<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a></span>
+<nav class="tools">{tools}</nav>
+</div>
 </header>
 <div class="layout">
 {sidebar}

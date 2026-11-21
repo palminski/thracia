@@ -47,7 +47,7 @@ PAGES = [
 
 def sidebar(current_href, at_root):
     prefix = "chapters/" if at_root else ""
-    chapters = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES]
+    chapters = [(f"{prefix}{slug}.html", f"{label} {title}") for stem, slug, label, title in PAGES]
     return render_sidebar(chapters, current_href)
 
 
@@ -221,8 +221,11 @@ PAGE = """<!DOCTYPE HTML>
 </head>
 <body>
 <header class="site">
-<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
-<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a><nav class="tools">{tools}</nav></div>
+<div class="bar">
+<a class="all-games" href="{rel}../index.html">← All games</a>
+<span class="title-group"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a><a class="game-name" href="{rel}index.html">Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a></span>
+<nav class="tools">{tools}</nav>
+</div>
 </header>
 <div class="layout">
 {sidebar}
