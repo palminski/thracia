@@ -1,0 +1,53 @@
+1	Wolt!
+2	Lord Roy, what is it?
+3	...Just Roy is fine. We grew up together like brothers, after all.
+4	I appreciate the sentiment, but keeping proper distinctions matters.
+5	Hmm, is that so?
+6	It kind of feels like you've become a stranger to me, Wolt.
+7	What are you talking about? I'm right here beside you.
+8	That's not what I meant, though?
+9	Hahaha, I know. But these things need to be done properly.
+10	......
+11	Now, don't make such a pitiful face — let's buckle down and move forward!
+12	Wolt! About the other day—
+13	Lord Roy, I believe that matter was already settled.
+14	More importantly, on this battlefield,
+15	there's no telling where someone after your life might be lurking.
+16	Please stay alert and keep watch over your surroundings at all times.
+17	Wolt, lately you've started sounding just like Marinus or Marcus.
+18	That's an honor! What high praise.
+19	I'm aiming to become as fine a retainer as those two.
+20	...Are you serious?
+21	Yes, of course!!
+22	I see.
+23	Lord Roy? Is something wrong?
+24	No, it's nothing. Just leave me alone for a bit.
+25	Lord Roy...?
+26	Lord Roy!
+27	What is it?
+28	You don't look well. Is something troubling you?
+29	Yeah, actually, there is. Wolt, would you hear me out?
+30	Of course! If I'll do, anything at all!
+31	Lately, there's someone in this army I've been getting annoyed with.
+32	What they say is perfectly reasonable, and I understand it in my head, but...
+33	I see. Understanding something and how you feel about it are two different things.
+34	Yeah, my feelings just can't seem to keep up.
+35	So I end up getting heated and wanting to complain.
+36	Then just say it! Holding it in isn't good for your health.
+37	Besides, you suddenly found yourself in an important position, Lord Roy.
+38	No one will be angry if you do something bold once in a while.
+39	You think so? Is it really all right for the commander of an army to be that selfish?
+40	If anyone complains, I'll deal with them myself!
+41	Even if everyone on earth became your enemy, I'd still be on your side, Lord Roy.
+42	Please believe that much, at least.
+43	I see. Thanks, Wolt! I'm feeling better already.
+44	Alright! Let's psych myself up and give it my best!!
+45	That's the spirit! ...By the way, Lord Roy,
+46	if you'd like, I could go have a quiet word with them myself.
+47	No, it's fine now.
+48	I-is that so? Now I'm curious...
+49	They're closer than you'd think.
+50	Huh! W-where!?
+51	......Could it... be me?
+52	Yep.
+53	Th-that's too much! That's cruel, Lord Roy!!
