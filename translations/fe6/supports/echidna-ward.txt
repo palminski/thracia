@@ -1,0 +1,74 @@
+1	Oh, you're from the west, I see.
+2	Uh... h-how'd you know that?
+3	I can tell just by looking. Your face just screams it.
+4	I-is that so? Something about that doesn't sit right with me...
+5	Once the fighting's over, are you going back to your hometown?
+6	If so, I've got a bit of a thing to talk to you about.
+7	What is it?
+8	Oh, you're interested. Well, actually...
+9	There's a plan to build a new village out west.
+10	So that people who lost their homes in the war can live in peace.
+11	So, I'd like you to help with building that village.
+12	And... what would my job be?
+13	Oh, all sorts of things — chopping firewood, laundry, cooking, and...
+14	...That's basically all chores, isn't it.
+15	Listen, I make my living as a mercenary.
+16	Sorry, but you should ask someone else...
+17	So, in other words, you'll do it.
+18	I could tell from your eyes. I knew you'd definitely help...
+19	That's not it?! Don't go deciding things on your own!
+20	...Kids these days just aren't honest with themselves.
+21	It's fine, you know. If you want to help, just say so honestly.
+22	I don't think that, and I'm not saying it!
+23	No need to be shy about it. Those eyes of yours already said you wanted to help.
+24	Geez, I said nothing of the sort, not even a trace of it!
+25	Hey, we meet again.
+26	You again... No matter how many times you come, I'm not helping.
+27	I'm telling you this for your own good — you should quit being a mercenary.
+28	Doing a job like that, you could die any day and it wouldn't be strange, and...
+29	Besides, you're weak, aren't you.
+30	Grr... y-you went and said it.
+31	You know... if you make me angry, it's not gonna end well.
+32	Oh?
+33	What's with that look?! I don't look it, but...
+34	I've even taken down a monster stronger than any human before.
+35	Oh? That's impressive.
+36	What kind of monster was it? I'd really like to hear.
+37	...Near my village there... there was this cave, nobody really understood what it was.
+38	When I was a kid, everyone said a monster came out of it.
+39	So I took that guy Lot with me and went to go slay it.
+40	Oh?
+41	Inside was damp... and there was this presence of something I couldn't quite place.
+42	Lot was scared stiff, but I was totally fine.
+43	I took the lead and went in... and suddenly, there it was right in front of me.
+44	The whole floor... was swarming, crawling with monsters.
+45	Long, slender bodies that twisted and bent... covered in mottled scales...
+46	Snakes?
+47	......
+48	...Well, they were a similar shape, I guess, but those were definitely not just ordinary snakes.
+49	They were definitely incredible monsters — poison, dancing, all kinds of tricks up their sleeves.
+50	Well... fine, whatever. So, where's this place?
+51	...What?
+52	I'll go take a look while I'm out there building the village. Now I want to see it myself.
+53	B-but, I already wiped them all out, so...
+54	There were tons of them, weren't there? Maybe at least one's still left.
+55	After all, they're not just ordinary snakes — I'd really love to see one.
+56	Grr...
+57	Hey, we meet again, yet again.
+58	So, how about it? Looking at my face is making you want to help, isn't it?
+59	Nope.
+60	Well... but once this battle's over...
+61	maybe going back to my hometown for once wouldn't be so bad.
+62	And if I end up with free time, I guess I'll help out, if I have to.
+63	Do you have family back home?
+64	Huh? There's one — a nagging older sister, for what it's worth.
+65	...Sheesh, you really are an idiot, you know.
+66	Wh-who's calling who an idiot, I'm...
+67	You've got a place to go back to, don't you?
+68	There's someone waiting for you, isn't there?
+69	Then go back home. Don't make your family worry.
+70	......
+71	As for helping our village, do it however you like.
+72	But you make sure you go back to your sister's place. Got it?
+73	I-I know that without you telling me...
+74	Tch. Feels like I've got one more older sister nagging me now...
