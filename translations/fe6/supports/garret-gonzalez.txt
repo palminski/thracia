@@ -1,0 +1,62 @@
+1	Whoa!?
+2	Uh? Ohhhh?
+3	Wh-what the hell are you! An enemy?
+4	Me, me...
+5	Me, Gonzalez.
+6	Tch, I didn't ask your damn name.
+7	Well, fine. Guess you're not an enemy, at least.
+8	Me, Gonzalez.
+9	...Still, how the hell did someone like you even get into this army.
+10	You're completely the opposite type from me...
+11	......
+12	Anyway, what's with that look of yours?
+13	You look just like a bandit — our own allies are gonna run away from you.
+14	Uuh...
+15	Well, you oughta take a page from my book, at least a little.
+16	Take a page?
+17	...From you...?
+18	...What, you got something to say about it!?
+19	No, nothing...
+20	Okay. Me, take page from you.
+21	It's not "you." It's Lord Garret.
+22	Ga... ga...?
+23	Weird... name...
+24	Look who's talking!
+25	Yo, what is it? You need something from me?
+26	You... Ga... ga...
+27	Ga...?
+28	It's Lord Garret.
+29	Right... you, that.
+30	This. Give.
+31	Oh! Thoughtful of you.
+32	You, this, like?
+33	Yeah. When I was a kid, my mom used to go up into the mountains and bring these back for me...
+34	These seeds, they're bitter and delicious too.
+35	Mom... you, parent, have.
+36	Me, not have...
+37	...I don't have one either, now.
+38	When I was a kid, bandits burned down the whole village.
+39	......
+40	But I survived.
+41	I hunted down every last one of the bastards who raided the village and made sure they got the same thing coming to them.
+42	......
+43	Took me eight years.
+44	But... after that, there was nothing left for me.
+45	Nothing at all... it was all gone.
+46	......
+47	Tch... why the hell am I telling this to someone like you.
+48	Yo, Gonzalez.
+49	You... Ga... ga...
+50	It's Lord Garret.
+51	Right. You, that.
+52	This. Give.
+53	Hey, hey... what am I supposed to do with the whole tree...
+54	You, this, like.
+55	Well, yeah, that's true, but even so...
+56	Ah, whatever. Thanks. You want some too?
+57	Me, not eat.
+58	Not know what it is, not eat.
+59	...That's a weirdly loaded way to put it.
+60	Whoa— shoot, we'd better get going soon too.
+61	C'mon, Gonzalez, quit standing around. Let's go.
+62	Mm.
