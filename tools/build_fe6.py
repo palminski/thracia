@@ -22,6 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import en  # noqa: E402  (shared editorial-label translator; falls back to Japanese)
 from fe6_parser import Fe6Parser  # noqa: E402
 from build_fe6_supports import char_grid, character_entries, parse_all  # noqa: E402
+from sidebar import render_sidebar  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source" / "fe6"
@@ -76,6 +77,16 @@ PAGES = [
     ("st_ending1", "ending1", "エンディング", "Ending (after the Final Chapter)"),
     ("st_ending2", "ending2", "エンディング", "Ending (after Chapter 22)"),
 ]
+BONUS_SLUGS = {"demo", "opening", "death", "ending1", "ending2"}
+
+
+def sidebar(current_href, at_root):
+    prefix = "chapters/" if at_root else ""
+    chapters = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES if slug not in BONUS_SLUGS]
+    bonus = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES if slug in BONUS_SLUGS]
+    supports_href = "supports/index.html" if at_root else "../supports/index.html"
+    return render_sidebar(chapters, current_href, bonus=bonus, extra=(supports_href, "Support Conversations"))
+
 
 BOX_NO = [0]
 
@@ -255,12 +266,16 @@ PAGE = """<!DOCTYPE HTML>
 }} catch (e) {{}}</script>
 </head>
 <body>
-<header class="site"><div class="bar">
-<a href="{rel}../index.html">← All games</a>
-<a href="{rel}index.html">Fire Emblem: Binding Blade <span>Japanese Script</span></a>
-<nav class="tools">{tools}</nav>
-</div></header>
+<header class="site">
+<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
+<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a><nav class="tools">{tools}</nav></div>
+</header>
+<div class="layout">
+{sidebar}
+<div class="main-col">
 {body}
+</div>
+</div>
 {scripts}
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム 封印の剣・マスターバイブル 会話集</span></a> (Pegasus Knight).</p>
@@ -345,7 +360,8 @@ def main():
         scripts = f'<script src="gloss/{slug}.js"></script>\n<script src="../js/site.js"></script>'
         (OUT / f"{slug}.html").write_text(
             PAGE.format(title=title, rel="../", tools=TOGGLES, scripts=scripts,
-                        body="\n".join(parts), source=SOURCE_URL),
+                        body="\n".join(parts), source=SOURCE_URL,
+                        sidebar=sidebar(f"{slug}.html", at_root=False)),
             encoding="utf-8")
 
     toc_rows = "\n".join(
@@ -366,7 +382,8 @@ def main():
             '<span lang="ja">（支援会話）</span>. Click a character to see their support partners.</p>'
             f'{support_grid}')
     (WEB / "index.html").write_text(
-        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL),
+        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
+                    sidebar=sidebar(None, at_root=True)),
         encoding="utf-8")
 
     (ROOT / "data" / "fe6_script.json").write_text(

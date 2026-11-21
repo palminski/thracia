@@ -24,6 +24,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import en  # noqa: E402
 from fe6_support_parser import Fe6SupportParser  # noqa: E402
 from fetch_fe6_portraits import NAMES  # noqa: E402  (JP name -> English slug)
+from sidebar import render_sidebar  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source" / "fe6" / "support"
@@ -33,6 +34,40 @@ SUPPORT_TR = ROOT / "translations" / "fe6" / "supports"
 WEB = ROOT / "public" / "fe6"
 OUT = WEB / "supports"
 SOURCE_URL = "https://www.pegasusknight.com/mb/fe6/st_index"
+
+# Mirrors tools/build_fe6.py's PAGES (slug -> English title), just for the
+# sidebar shown on every support page too. Duplicated rather than imported
+# to avoid a circular import (build_fe6.py already imports from this module
+# for the character-grid helpers below) - FE6's story content is finished,
+# so this should rarely need updating; keep it in sync with PAGES if it ever
+# does.
+FE6_CHAPTERS = [
+    ("ch01", "Breath of Fate"), ("ch02", "The Princess of Bern"), ("ch03", "The Latecomer"),
+    ("ch04", "Collapse of the Alliance"), ("ch05", "The Crest of Flame"), ("ch06", "The Trap is Set"),
+    ("ch07", "The Ostia Rebellion"), ("ch08", "Reunion"), ("ch08x", "The Blazing Blade"),
+    ("ch09", "The Mist-Shrouded Isle"), ("ch10a", "Those Who Resist"), ("ch10b", "Caught Between Conflict"),
+    ("ch11a", "Hero of the West"), ("ch11b", "Escape to Freedom"), ("ch12", "The True Enemy"),
+    ("ch12x", "The Thunder Axe"), ("ch13", "Rescue Operation"), ("ch14", "Utopia"),
+    ("ch14x", "The Reason of Hellfire"), ("ch15", "Daughter of the Dragon"), ("ch16", "Reclaiming the Capital"),
+    ("ch16x", "The Supreme Light"), ("ch17a", "Teachings of the Priest"), ("ch18a", "The Law of Sacae"),
+    ("ch19a", "The Battle for Bulgar"), ("ch20a", "The Grey Wolf"), ("ch20xa", "The Gale Bow"),
+    ("ch17b", "The Sea Route"), ("ch18b", "The Frozen River"), ("ch19b", "General Winter"),
+    ("ch20b", "Liberation of Ilia"), ("ch20xb", "The Ice Lance"), ("ch21", "The Binding Blade"),
+    ("ch21x", "Darkness of Revelation"), ("ch22", "An Unending Dream"), ("ch23", "The Ghost of Bern"),
+    ("ch24", "The Truth of Legend"), ("ch25", "Beyond the Darkness"),
+]
+FE6_BONUS = [
+    ("demo", "Demo"), ("opening", "Opening"), ("death", "Death Quotes"),
+    ("ending1", "Ending (after the Final Chapter)"), ("ending2", "Ending (after Chapter 22)"),
+]
+
+
+def sidebar(current_href, chapter_prefix, supports_href, extra_current=True):
+    chapters = [(f"{chapter_prefix}{slug}.html", title) for slug, title in FE6_CHAPTERS]
+    bonus = [(f"{chapter_prefix}{slug}.html", title) for slug, title in FE6_BONUS]
+    return render_sidebar(chapters, current_href, bonus=bonus,
+                           extra=(supports_href, "Support Conversations"), extra_current=extra_current)
+
 
 BOX_NO = [0]
 CURRENT_EN = {}
@@ -235,12 +270,16 @@ PAGE = """<!DOCTYPE HTML>
 }} catch (e) {{}}</script>
 </head>
 <body>
-<header class="site"><div class="bar">
-<a href="{rel}../index.html">← All games</a>
-<a href="{rel}index.html">Fire Emblem: Binding Blade <span>Japanese Script</span></a>
-<nav class="tools">{tools}</nav>
-</div></header>
+<header class="site">
+<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
+<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Binding Blade<span class="orig" lang="ja">封印の剣</span></a><nav class="tools">{tools}</nav></div>
+</header>
+<div class="layout">
+{sidebar}
+<div class="main-col">
 {body}
+</div>
+</div>
 {scripts}
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム 封印の剣・マスターバイブル 支援会話</span></a> (Pegasus Knight).</p>
@@ -382,7 +421,8 @@ def main():
             encoding="utf-8")
         scripts = f'<script src="gloss/{pslug}.js"></script>\n<script src="../../js/site.js"></script>'
         (OUT / "pair" / f"{pslug}.html").write_text(
-            PAGE.format(title=title, rel="../../", tools=TOGGLES, scripts=scripts, body=body, source=SOURCE_URL),
+            PAGE.format(title=title, rel="../../", tools=TOGGLES, scripts=scripts, body=body, source=SOURCE_URL,
+                        sidebar=sidebar(None, "../../chapters/", "../index.html")),
             encoding="utf-8")
 
     # --- per-character partner-index pages ---
@@ -400,7 +440,8 @@ def main():
                 f'<h1><span class="num">Support Partners</span><span lang="ja">{esc(jp_name)}</span></h1>'
                 f'{grid}')
         (OUT / "char" / f"{slug}.html").write_text(
-            PAGE.format(title=f"{jp_name} Supports", rel="../../", tools="", scripts="", body=body, source=SOURCE_URL),
+            PAGE.format(title=f"{jp_name} Supports", rel="../../", tools="", scripts="", body=body, source=SOURCE_URL,
+                        sidebar=sidebar(None, "../../chapters/", "../index.html")),
             encoding="utf-8")
 
     # --- top-level support index ---
@@ -415,7 +456,8 @@ def main():
             'support partners.</p>'
             f'{grid}')
     (OUT / "index.html").write_text(
-        PAGE.format(title="Support Conversations", rel="../", tools="", scripts="", body=body, source=SOURCE_URL),
+        PAGE.format(title="Support Conversations", rel="../", tools="", scripts="", body=body, source=SOURCE_URL,
+                    sidebar=sidebar(None, "../chapters/", "index.html")),
         encoding="utf-8")
 
     (ROOT / "data" / "fe6_supports.json").write_text(

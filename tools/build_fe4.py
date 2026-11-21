@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import en  # noqa: E402
 from fe4_parser import Fe4Parser  # noqa: E402
+from sidebar import render_sidebar  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source" / "fe4"
@@ -42,6 +43,13 @@ PAGES = [
     ("st_map11", "ch11", "終章", "The Final Holy War"),
     ("st_ending", "ending", "エンディング", "Ending"),
 ]
+
+
+def sidebar(current_href, at_root):
+    prefix = "chapters/" if at_root else ""
+    chapters = [(f"{prefix}{slug}.html", title) for stem, slug, label, title in PAGES]
+    return render_sidebar(chapters, current_href)
+
 
 BOX_NO = [0]
 
@@ -212,12 +220,16 @@ PAGE = """<!DOCTYPE HTML>
 }} catch (e) {{}}</script>
 </head>
 <body>
-<header class="site"><div class="bar">
-<a href="{rel}../index.html">← All games</a>
-<a href="{rel}index.html">Fire Emblem: Genealogy of the Holy War <span>Japanese Script</span></a>
-<nav class="tools">{tools}</nav>
-</div></header>
+<header class="site">
+<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
+<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a><nav class="tools">{tools}</nav></div>
+</header>
+<div class="layout">
+{sidebar}
+<div class="main-col">
 {body}
+</div>
+</div>
 {scripts}
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム 聖戦の系譜・マスターバイブル 会話集</span></a> (Pegasus Knight).</p>
@@ -302,7 +314,8 @@ def main():
         scripts = f'<script src="gloss/{slug}.js"></script>\n<script src="../js/site.js"></script>'
         (OUT / f"{slug}.html").write_text(
             PAGE.format(title=title, rel="../", tools=TOGGLES, scripts=scripts,
-                        body="\n".join(parts), source=SOURCE_URL),
+                        body="\n".join(parts), source=SOURCE_URL,
+                        sidebar=sidebar(f"{slug}.html", at_root=False)),
             encoding="utf-8")
 
     toc_rows = "\n".join(
@@ -316,7 +329,8 @@ def main():
             'Hand-written study notes and English translations are in progress, chapter by chapter.</p>'
             f'<ol class="chapters">{toc_rows}</ol>')
     (WEB / "index.html").write_text(
-        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL),
+        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
+                    sidebar=sidebar(None, at_root=True)),
         encoding="utf-8")
 
     (ROOT / "data" / "fe4_script.json").write_text(

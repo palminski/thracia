@@ -17,6 +17,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 import en
+from sidebar import render_sidebar
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source"
@@ -71,6 +72,27 @@ PAGES = [
     ("st_others", "others", "その他", ""),
 ]
 EXTRA_FROM = "ending"  # pages from here on are listed under "その他" on the index
+_SPLIT = next(i for i, p in enumerate(PAGES) if p[1] == EXTRA_FROM)
+CHAPTER_SLUGS = [p[1] for p in PAGES[:_SPLIT]]
+BONUS_SLUGS = [p[1] for p in PAGES[_SPLIT:]]
+
+
+def _chapter_label(slug):
+    en_label, en_title = en.CHAPTERS[slug]
+    return f"{en_label} {en_title}".strip() if en_title else en_label
+
+
+def sidebar(current_href, at_root):
+    """at_root: True for index.html/grammar.html/vocab.html (game root, so
+    chapter links need a "chapters/" prefix); False for pages inside
+    chapters/ itself (siblings, no prefix needed)."""
+    chapter_prefix = "chapters/" if at_root else ""
+    root_prefix = "" if at_root else "../"
+    chapters = [(f"{chapter_prefix}{s}.html", _chapter_label(s)) for s in CHAPTER_SLUGS]
+    bonus = [(f"{chapter_prefix}{s}.html", _chapter_label(s)) for s in BONUS_SLUGS]
+    bonus += [(f"{root_prefix}grammar.html", "Grammar"), (f"{root_prefix}vocab.html", "Vocabulary")]
+    return render_sidebar(chapters, current_href, bonus=bonus)
+
 
 TOKEN = re.compile(r"<[^>]*>|[^<]+")
 # Headings like 「ワイズマン初戦時」: the unlabelled quote belongs to that unit.
@@ -499,12 +521,16 @@ PAGE = """<!DOCTYPE html>
 }} catch (e) {{}}</script>
 </head>
 <body>
-<header class="site"><div class="bar">
-<a href="{rel}../index.html">← All games</a>
-<a href="{rel}index.html">Fire Emblem: Thracia 776 <span>Japanese Script</span></a>
-<nav class="tools"><a href="{rel}grammar.html">Grammar</a><a href="{rel}vocab.html">Vocabulary</a>{tools}</nav>
-</div></header>
+<header class="site">
+<div class="bar bar-top"><a class="site-title" href="{rel}../index.html">Fire Emblem<span>Fan Translations</span></a></div>
+<div class="bar bar-game"><a class="game-name" href="{rel}index.html">Thracia 776<span class="orig" lang="ja">トラキア776</span></a><nav class="tools">{tools}</nav></div>
+</header>
+<div class="layout">
+{sidebar}
+<div class="main-col">
 {body}
+</div>
+</div>
 {scripts}
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム トラキア776・マスターバイブル 会話集</span></a> (Pegasus Knight).</p>
@@ -542,7 +568,8 @@ def write_reference_pages(studied):
             f'<p class="lead">Every grammar note used in the per-bubble notes so far ({esc(done)}). '
             'Click a speech bubble in a chapter to see which ones apply to it.</p>\n<main>' + rows + '</main>')
     (WEB / "grammar.html").write_text(
-        PAGE.format(title="Grammar points", rel="", body=body, source=SOURCE_URL, tools="", scripts=""),
+        PAGE.format(title="Grammar points", rel="", body=body, source=SOURCE_URL, tools="", scripts="",
+                    sidebar=sidebar("grammar.html", at_root=True)),
         encoding="utf-8")
     rows = "\n".join(
         f'<tr><td lang="ja"><a href="https://jisho.org/search/{quote(key.split("#")[0])}" '
@@ -554,7 +581,8 @@ def write_reference_pages(studied):
             'in order of first appearance.</p>\n<main><table class="vocab"><thead><tr><th>Word</th>'
             '<th>Reading</th><th>Meaning</th></tr></thead><tbody>' + rows + '</tbody></table></main>')
     (WEB / "vocab.html").write_text(
-        PAGE.format(title="Vocabulary", rel="", body=body, source=SOURCE_URL, tools="", scripts=""),
+        PAGE.format(title="Vocabulary", rel="", body=body, source=SOURCE_URL, tools="", scripts="",
+                    sidebar=sidebar("vocab.html", at_root=True)),
         encoding="utf-8")
 
 
@@ -625,7 +653,8 @@ def main():
             encoding="utf-8")
         scripts = f'<script src="gloss/{slug}.js"></script>\n<script src="../js/site.js"></script>'
         (OUT / f"{slug}.html").write_text(
-            PAGE.format(title=f"{en_label} {en_title}".strip(), rel="../", tools=FURI_TOGGLE + EN_TOGGLE, scripts=scripts, body="\n".join(parts), source=SOURCE_URL),
+            PAGE.format(title=f"{en_label} {en_title}".strip(), rel="../", tools=FURI_TOGGLE + EN_TOGGLE, scripts=scripts, body="\n".join(parts), source=SOURCE_URL,
+                        sidebar=sidebar(f"{slug}.html", at_root=False)),
             encoding="utf-8")
 
     # index
@@ -645,7 +674,8 @@ def main():
         '<h2 class="idx">Main story</h2>\n<ol class="chapters">\n' + "\n".join(li(p) for p in PAGES[:split]) + "\n</ol>\n"
         '<h2 class="idx">Ending &amp; extras</h2>\n<ol class="chapters">\n' + "\n".join(li(p) for p in PAGES[split:]) + "\n</ol>")
     (WEB / "index.html").write_text(
-        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL), encoding="utf-8")
+        PAGE.format(title="Contents", rel="", tools="", scripts="", body=body, source=SOURCE_URL,
+                    sidebar=sidebar(None, at_root=True)), encoding="utf-8")
 
     # machine-readable copy of the script (handy for the translation feature later)
     (ROOT / "data").mkdir(exist_ok=True)

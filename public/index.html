@@ -17,6 +17,13 @@ body {
   font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", "Noto Sans CJK JP", Meiryo, sans-serif;
   font-size: 17px; line-height: 1.6;
 }
+header.site {
+  position: sticky; top: 0; z-index: 10; background: rgba(50, 35, 28, 0.95); backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line); font-size: 0.9rem; letter-spacing: 0.08em;
+}
+header.site .bar { width: min(640px, 100% - 32px); margin-inline: auto; display: flex; align-items: center; min-height: 44px; }
+.site-title { font-weight: 700; letter-spacing: 0.1em; color: var(--muted); text-decoration: none; }
+.site-title span { margin-left: 8px; font-weight: 400; font-size: 0.85em; letter-spacing: 0.08em; color: var(--gold); }
 main { width: min(640px, 100% - 32px); margin-inline: auto; padding: 48px 0 64px; }
 h1 { margin: 0 0 6px; font-size: 1.5rem; font-weight: 700; color: var(--paper); }
 h1 span { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); margin-bottom: 8px; }
@@ -56,6 +63,7 @@ footer p { margin: 4px 0; }
 </style>
 </head>
 <body>
+<header class="site"><div class="bar"><a class="site-title" href="index.html">Fire Emblem<span>Fan Translations</span></a></div></header>
 <main>
 <h1><span>Fan translation projects</span>Fire Emblem, untranslated</h1>
 <p class="lead">The mainline Fire Emblem games that never got an official English release
