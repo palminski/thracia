@@ -6742,3 +6742,6 @@
 感傷|かんしょう|sentiment, sentimentality
 ひたる|ひたる|to be immersed in, to be absorbed in (feelings)
 格好つける|かっこうつける|to show off, to try to look cool
+見習い|みならい|apprentice, trainee
+いてもたってもいられない|いてもたってもいられない|unable to sit still (from worry/anxiety)
+注意する|ちゅういする|to be careful, to pay attention
