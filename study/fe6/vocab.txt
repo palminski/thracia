@@ -6710,3 +6710,9 @@
 さびしい|さびしい|lonely
 枠|わく|frame, bounds, scope
 目覚め|めざめ|waking up, awakening
+くっつく|くっつく|to stick to, to press up against
+抱きつく|だきつく|to embrace, to cling to
+不滅|ふめつ|immortal, indestructible
+逸らす|そらす|to avert, to turn away (eyes, attention)
+むやみに|むやみに|recklessly, thoughtlessly
+避ける#yokeru|よける|to dodge, to evade
