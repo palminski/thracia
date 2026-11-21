@@ -1,0 +1,60 @@
+1	Alright, next enemy's... huh? Hey, Shanna!
+2	Oh, it's Ward. What's up?
+3	Quit flittin' around the front lines so much.
+4	Wh-what's that supposed to mean?!
+5	A weak little archer like you, who'd get shot down in no time—
+6	—buzzin' around like that just gets in the way of the fight. In the way!
+7	What are you talking about?!
+8	Well excuse me, but having some slow fighter whose only good point is brute strength fighting right next to me—
+9	—is a huge liability! You don't even try to dodge enemy attacks.
+10	Say what?! You lookin' for a fight?!
+11	You're the one picking the fight here.
+12	Well, "fight" or not, that axe of yours couldn't even reach me anyway.
+13	Wha—! Shanna, that's a dirty trick!
+14	Get down here!
+15	No way. If it bugs you that much, come up here and get me~
+16	Dammit, that little—!
+17	Why does she always throw me off my game like that?!
+18	Phew...
+19	What're you lettin' your guard down for?!
+20	Ow! What was that for? No need to just smack me out of nowhere!
+21	There was an enemy archer takin' aim at you from behind cover.
+22	Huh...?
+23	Geez, and there you were takin' a leisurely breather, you idiot.
+24	I-idiot? What do you mean, idiot?!
+25	If lettin' your guard down on a battlefield ain't idiotic, then what is?
+26	Lucky for you I "happened" to be passin' by.
+27	Otherwise, you'd be six feet under by now.
+28	Excuse me?!
+29	Hmph, I could've handled an archer like that myself.
+30	And here you go, being all smug about saving me.
+31	Oh, is that so! My bad, then.
+32	I'll just keep my mouth shut and watch next time.
+33	Well, see ya!
+34	Ugh, that idiot.
+35	I never even got to say thanks, now...
+36	Geez, where the hell did she run off to?
+37	Huh, it's Ward. Why are you all the way out here?
+38	I thought you said you'd leave this side to me.
+39	That's no excuse for runnin' off on your own!
+40	At a time like this, you gotta wait for the leader's orders.
+41	Huh? If I did that, I'd miss my chance to win.
+42	You idiot!
+43	What if you went alone and there was an enemy archer somewhere out there?!
+44	Jeez, with a scatterbrain like you around...
+45	Huh?
+46	Wait, aren't you mad about me running off on my own?
+47	Of course I am! Fighting's about teamwork, and—
+48	But just now you said something about an archer—
+49	Gah! T-that's, um...
+50	...Ward, were you maybe worried about me?
+51	Wh-wh-what the hell are you sayin'? Th-there's no way!
+52	I was just, j-just talkin' about, uh, one of the b-basic rules of c-combat—
+53	Ward, you're biting your tongue.
+54	Ugh.
+55	Hehe, Ward.
+56	What?
+57	Thanks.
+58	...Idiot. Don't go sayin' sappy stuff like that.
+59	It don't suit you.
+60	Hehe... guess not.
