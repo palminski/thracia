@@ -1,0 +1,79 @@
+1	Hey, you're from the west, aren't you?
+2	Yeah... that's right, but how'd you know?
+3	Easy. Your face. Your face.
+4	Men from the west all have that kind of face, don't they?
+5	...Is that so?
+6	Hey, once the fighting's over, are you going back to your hometown?
+7	If so, I've got a bit of a favor to ask.
+8	A favor?
+9	There's a plan to build a new village out west.
+10	Can't just leave the people whose villages got burned in this war, right?
+11	So, I'd like you to help with building that village.
+12	Understood. If it's something I can do...
+13	Really? That's a huge help.
+14	Though I can't make any promises.
+15	That's assuming I'm still alive when the fighting's over.
+16	What an unlucky thing to say.
+17	No... I'm just speaking of it as a possibility.
+18	Since I could die at any moment, careless words are...
+19	You're quite the worrier for someone so young.
+20	You'll age fast with a personality like that.
+21	...Is that so?
+22	Oh, it's you.
+23	You mentioned something about building a village...
+24	Ah, right, the plan's moving forward.
+25	A free village that turns no one away...
+26	That's my dream right now.
+27	Do you have the funds for it?
+28	...Jumping straight to practical matters, huh.
+29	Well, actually... not really, no.
+30	There's a rumor of an ore vein nearby, so I was thinking of trying to strike it big with that...
+31	That sounds like a pipe dream in itself, but...
+32	Come to think of it... I do know of one abandoned mine.
+33	Really?
+34	Yeah. I went there once with Ward when we were kids.
+35	There was a rumor monsters came out of it, so nobody from the village would go in.
+36	Oh?
+37	Ward was oddly scared. He must've taken the rumor seriously.
+38	After we went in a ways, he suddenly let out a scream...
+39	and ran off toward the entrance. So I chased after him.
+40	What was in there?
+41	Snakes. Enough of them to cover the ground.
+42	I was wondering why there were snakes there, but...
+43	Anyway, apparently that's why the mine got closed.
+44	Hmm... so it's not that the vein ran dry, then.
+45	Interesting. Maybe I could earn the funds for the village there after all.
+46	So, when the time comes, will you take me there?
+47	I don't mind, but... it's dangerous.
+48	Nah, I'll be fine.
+49	Isn't that exactly what you're there for, for times like that?
+50	...Me?
+51	Hey. You doing well?
+52	Yeah, still alive.
+53	Don't let your guard down. I'm counting on your help, you know.
+54	Right, I don't intend to.
+55	I left my little sister back home, and besides...
+56	Besides, what?
+57	No, it's nothing.
+58	Ah, I get it. You've got a sweetheart, huh.
+59	Looking all serious like that — what a sly one, you.
+60	......
+61	Anyway, I plan to go back sometime soon — assuming I manage to survive, that is...
+62	What, more weak talk?
+63	...The enemy's strength keeps growing greater and greater.
+64	I wonder how long we can keep holding out if we keep fighting like this...
+65	......
+66	No, of course, in the end we'll win — that much I'm sure of, but...
+67	It's just... maybe I won't be able to go back.
+68	...Sheesh, you're an idiot.
+69	An idiot... am I?
+70	At your age, you should live more carefree, you know.
+71	Knowing you, you're probably worrying about your sister and all sorts of other things.
+72	You should run around freely, however you like...
+73	and bump into all kinds of walls, bash your head against them — that's fine too.
+74	Bashing my head isn't quite the same thing, is it.
+75	Even if you die, I'll take care of things afterward.
+76	So go die with a clear mind! ...Just kidding.
+77	......
+78	...I feel like what you're saying is different from how you started, but...
+79	Maybe... were you trying to encourage me?
