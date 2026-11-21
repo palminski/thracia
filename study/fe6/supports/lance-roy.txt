@@ -24,7 +24,7 @@
 24||tekuru,to-quote,toomou,nda
 25||
 26||wakedehanai
-27|引きつける|wakedehanai,demo-even
+27|ひきつける>引きつける|wakedehanai,demo-even
 28||to-conditional
 29||
 30||no-nominal,kamoshirenai
@@ -39,10 +39,10 @@
 39|まちがってらっしゃる>間違う|teiru,koto
 40||
 41|とりたてて|
-42|引きつける|
+42|ひきつける>引きつける|
 43||
 44||
-45|引きつけられる>引きつける|passive,noda
+45|ひきつけられる>引きつける|passive,noda
 46|ひきつける>引きつける,あずける|nado,teoru
 47||
 48|無礼,承知|dake
