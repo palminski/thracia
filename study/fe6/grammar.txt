@@ -248,6 +248,7 @@ tatan|〜た途端（に）|"The instant, just as ...": B happens right when A d
 monoka|〜ものか|"As if I would ...!; there's no way ...": a strong, defiant rhetorical denial.|https://bunpro.jp/grammar_points/503
 youganai|verb stem + ようがない|"There's no way to ...; it's impossible to ...": no method exists for doing it.|https://bunpro.jp/grammar_points/434
 monoda|〜ものだ|"That's just how it is; supposed to be ...": states something as an obvious, expected general truth. Negative with ではない/じゃない. Casual もん.|https://bunpro.jp/grammar_points/223
+kuseni|〜くせに|"Even though ..., and yet ...": criticizes someone for acting against what the preceding clause would lead you to expect.|https://bunpro.jp/grammar_points/295
 monaku|〜もなく〜も〜ない|"Neither ... nor ...": lists two qualities side by side and denies both (良くもなく悪くもない = "neither good nor bad"). (Checked; not in Bunpro's catalog as its own point — nearby but distinct: までもなく, なくもない.)|
 kotoyara|〜ことやら|"I wonder ...": a musing, slightly uncertain question about how something will turn out. (Checked; not in Bunpro's catalog — nearest relatives are ことか and やら〜やら, neither a match.)|
 kimatteiru|〜に決まっている|"Of course, it's bound to be ...": states the speaker's confident subjective judgment as if it were settled fact.|https://bunpro.jp/grammar_points/524
