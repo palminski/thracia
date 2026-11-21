@@ -1,0 +1,50 @@
+1	Hey, Trec... oh?
+2	Huh, that's strange, he was just here until a moment ago...
+3	Huh? What's this... I wonder.
+4	Did Trec drop this?
+5	There's a lot written in here, in pretty small handwriting...
+6	Let's see, this is... I wonder what it says.
+7	...'Turned into a horse.'
+8	...'Tried running.'
+9	...'Got tired.'
+10	??
+11	Oh, Trec, good timing.
+12	Huh, oh, hey, Juno.
+13	Heh... sleepy-looking as always, I see.
+14	Oh, right, this... is this yours?
+15	Huh?
+16	Ah... yeah, it's mine.
+17	I dropped it somewhere the other day...
+18	I thought so.
+19	Sorry, I peeked inside a little, but...
+20	What's written in it?
+21	Ah... well, this is where I write down what kind of dreams I had.
+22	Dreams...?
+23	Yeah. If I look back over it, I remember all the dreams I had...
+24	And I sleep well because of it, haah...
+25	Oh, I see. That sounds kind of nice, somehow...
+26	Maybe I should start keeping one myself.
+27	Hey, Trec.
+28	Hm, yeah?
+29	Could you show me that dream diary again sometime?
+30	It's strange, but I can't stop thinking about it...
+31	Haah... sure, go ahead.
+32	Thank you.
+33	Let's see...
+34	'Got praised by General Zealot.'
+35	Oh, that man showed up in your dream? Heh...
+36	Haah...
+37	Um, and then...
+38	'The war ended.'
+39	'It became peaceful.'
+40	'Spring came to Ilia.'
+41	'And everyone got to sleep in peace, nice and relaxed...'
+42	.......
+43	Huh? Something wrong, Juno?
+44	...No, sorry.
+45	I'm being silly, aren't I.
+46	Show it to me again sometime, Trec.
+47	Haah... that's kind of embarrassing.
+48	But, well, all right, got it.
+49	I'll go to sleep right now, so you can read it as soon as possible.
+50	Oh... hehehe.

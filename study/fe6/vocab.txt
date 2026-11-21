@@ -6595,3 +6595,9 @@
 なでる|なでる|to stroke, to pat
 さびしがり屋|さびしがりや|a person prone to loneliness
 つっけんどん|つっけんどん|curt, blunt
+落とし物|おとしもの|a lost/dropped item
+細かい|こまかい|detailed, fine, minute
+眠い|ねむい|sleepy
+覗く|のぞく|to peek, to peer in
+寝る|ねる|to sleep, to go to bed
+日記|にっき|diary, journal
