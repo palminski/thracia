@@ -1,0 +1,63 @@
+1	Got a moment?
+2	Need something, General Klein?
+3	Dieck... don't tell me you don't recognize me?
+4	...Well, I'm surprised. I didn't think you'd remember me.
+5	I knew you the moment I saw you!
+6	And here I thought I'd try calling out to you since you didn't seem to notice me...
+7	Thirteen years, huh... so that little Master Klein grew up into this.
+8	I wish you'd stop with the "little master." I'm already nineteen this year.
+9	His Majesty entrusted me with a unit of my own. I'm carrying out my duties as a general now.
+10	Yeah, I know. You've really grown into something... How are Lord Pent and his wife doing?
+11	Oh, Father and Mother are just as easygoing as ever.
+12	Even with a coup going on, nothing throws them off their own pace.
+13	Even as their son, I sometimes find myself impressed by it.
+14	I'd say you're pretty impressive yourself, for what it's worth.
+15	What? What do you mean by that?
+16	No, well — some other time, when we've got more time.
+17	Dieck! And here we finally got to meet again...
+18	Klein! It's dangerous, don't come out so far ahead!
+19	This much is fine.
+20	No — you archers should be aiming at the enemy from behind us.
+21	There's no need to go putting yourself in danger.
+22	Dieck, I keep telling you — I'm not a child anymore.
+23	I've commanded my own army and fought on the front lines all this time.
+24	Sorry, but to me you're still that little "Master Klein."
+25	If I'm around and something happens that leaves a scar on you,
+26	I wouldn't be able to face Lord Pent and the others.
+27	...If you care about it that much, I wish you'd just come back to the manor.
+28	That's it — once this battle's over, why don't we go back together?
+29	Father and the others would surely be happy...
+30	Klein, I'll just accept the feeling behind that.
+31	But if you care about your family's standing, someone like me, a former gladiator,
+32	shouldn't be someone you casually associate with. Stop it — it'll hurt your future.
+33	What—? That's not...
+34	Let's just keep this to the middle of the chaos of war, understand?
+35	......
+36	Dieck.
+37	...Klein, I told you the other day not to get too close to me.
+38	...I wanted to talk. Since it's a time like this, I want you to listen.
+39	...This is a story from fifteen years ago now. At the greatest arena in Aquleia,
+40	there was an accident where a noble's child, there as a guest, was attacked by a lion kept for entertainment.
+41	......
+42	The one who saved the noble's child was a boy gladiator with a reputation there.
+43	Normally he was a boy who could easily beat grown men twice his size,
+44	but even he couldn't come away unscathed against a lion.
+45	He took countless wounds all over his body, and his face in particular was left with four noticeable scars.
+46	......
+47	The noble took the boy who'd saved his son's life into his household right away.
+48	For a few years, the boy made a name for himself in the arena as that family's exclusive gladiator,
+49	and then, one day, out of nowhere, he bought out his own contract and left.
+50	The child who'd looked up to him like a real older brother thought he'd been betrayed, and was heartbroken.
+51	...But I understand now. That, too, was out of concern for us, for our family... wasn't it?
+52	...Your family was far too kind to me, a mere servant.
+53	Even when warnings, slander, and harassment came from all around, Lord Pent and his wife wouldn't listen to any of it.
+54	They doted on me as good as a son... That's why I left.
+55	...I understand how you felt. But even so, I still can't accept it.
+56	What—?
+57	You seem to only worry about us, Dieck,
+58	but won't you think about how much we worry about you too?
+59	A relationship where we pretend not to know each other even when we meet — I absolutely hate that...
+60	...It seems this was all just my own self-righteousness, after all.
+61	Then — from now on, we can be like family again, right?
+62	Yeah. You win, Master Klein.
+63	I'll make a point to go pay my respects to Lord Pent and the others, when I get the chance.
