@@ -13,440 +13,440 @@
 13	More than a year had passed since the uprising in Isaac began,
 14	and the Twelve Crusaders had been split between light and darkness, their tragic battles seeing blood relatives struck down against each other.
 15	And now, the final holy war had begun...
-16	(Julius): So father is dead, is he...
-17	(Manfroy): The emperor was already a useless man. You've saved me the trouble of killing him myself.
-18	(Julius): Heh, father really was a pitiable thing — used and used again by you, and once you had no more use for him, discarded without mercy.
-19	(Manfroy): It was all for Your Highness's sake.
-20	(Manfroy): Lord Arvis, though he inherited the blood of Loptr, opposed the resurrection of the Empire the whole time.
-21	(Manfroy): He carried the temperament of Fala, the flame holy warrior, so strongly that sooner or later, he would have turned against Your Highness.
-22	(Julius): I know that already. By the way, I hear the rebels have reached Chalphy. Is the capital's defense secure?
-23	(Manfroy): Please, rest assured. I've ordered Bishop Rodan of Edda and Prince Brian of Dozel to retake Chalphy.
-24	(Manfroy): There's no need to worry.
-25	(Julius): I see... by the way, how is Julia doing?
-26	(Manfroy): She's held in this castle's dungeon. Someone, bring Princess Julia here!
-27	(Julia): .........
-28	(Julius): Julia, it's been a while. Do you remember me?
-29	(Julia): Brother Julius.........
-30	(Julius): Oh ho, so you do remember. It's already been seven years since you vanished.
-31	(Julia): I've remembered everything. As if it were only yesterday...
-32	(Julius): Hehehe, that's good to hear. Do you remember our kind mother too?
-33	(Julia): ...who are you?
-34	(Julia): At that time... when Archbishop Manfroy brought that eerie black scripture... everything changed completely.
-35	(Julia): My kind brother disappeared forever from that day on,
-36	(Julia): and all that was left was a devil's child with a terrifying power.
-37	(Julia): You took not only mother from me, but my brother too.
-38	(Julia): Just who are you!? Why do you torment us like this!!
-39	(Julius): I am the one who inherits the power of House Loptr, the ruler of this world.
-40	(Julius): Julia, as the one who inherits the power of Naga, my sworn enemy — I must have you die here.
-41	(Manfroy): Please wait, Lord Julius. This girl still has her uses. Leave the rest to me.
-42	(Julius): It seems you've thought of something amusing. Understood, I'll withdraw to Belhalla.
-43	(Julius): I'll leave the rest to you. But don't let your guard down!
-44	(Rodan): By Prince Julius's orders, the warrior-monk and mercenary corps will hold this ground to the death!
-45	(Rodan): The mixed knight corps will retake Chalphy Castle!!
+16	So father is dead, is he...
+17	The emperor was already a useless man. You've saved me the trouble of killing him myself.
+18	Heh, father really was a pitiable thing — used and used again by you, and once you had no more use for him, discarded without mercy.
+19	It was all for Your Highness's sake.
+20	Lord Arvis, though he inherited the blood of Loptr, opposed the resurrection of the Empire the whole time.
+21	He carried the temperament of Fala, the flame holy warrior, so strongly that sooner or later, he would have turned against Your Highness.
+22	I know that already. By the way, I hear the rebels have reached Chalphy. Is the capital's defense secure?
+23	Please, rest assured. I've ordered Bishop Rodan of Edda and Prince Brian of Dozel to retake Chalphy.
+24	There's no need to worry.
+25	I see... by the way, how is Julia doing?
+26	She's held in this castle's dungeon. Someone, bring Princess Julia here!
+27	.........
+28	Julia, it's been a while. Do you remember me?
+29	Brother Julius.........
+30	Oh ho, so you do remember. It's already been seven years since you vanished.
+31	I've remembered everything. As if it were only yesterday...
+32	Hehehe, that's good to hear. Do you remember our kind mother too?
+33	...who are you?
+34	At that time... when Archbishop Manfroy brought that eerie black scripture... everything changed completely.
+35	My kind brother disappeared forever from that day on,
+36	and all that was left was a devil's child with a terrifying power.
+37	You took not only mother from me, but my brother too.
+38	Just who are you!? Why do you torment us like this!!
+39	I am the one who inherits the power of House Loptr, the ruler of this world.
+40	Julia, as the one who inherits the power of Naga, my sworn enemy — I must have you die here.
+41	Please wait, Lord Julius. This girl still has her uses. Leave the rest to me.
+42	It seems you've thought of something amusing. Understood, I'll withdraw to Belhalla.
+43	I'll leave the rest to you. But don't let your guard down!
+44	By Prince Julius's orders, the warrior-monk and mercenary corps will hold this ground to the death!
+45	The mixed knight corps will retake Chalphy Castle!!
 46	(Levin (Strategist)): This is it, Celice. The final holy war begins.
-47	(Celice): A holy war? Is this really...
+47	A holy war? Is this really...
 48	(Levin (Strategist)): That's right. As a descendant of House Loptr, Julius is plotting to resurrect the dark empire.
 49	(Levin (Strategist)): We must stop him, no matter what it takes.
-50	(Celice): Levin, it seems you know everything about all this.
-51	(Celice): Please, tell me. Just what in the world is going on!
+50	Levin, it seems you know everything about all this.
+51	Please, tell me. Just what in the world is going on!
 52	(Levin (Strategist)): I'm sorry, Celice. I apologize for keeping this from you until now.
 53	(Levin (Strategist)): These past ten-odd years, I've traveled in search of the world's truth, and I finally arrived at a great secret.
-54	(Celice): A secret...?
+54	A secret...?
 55	(Levin (Strategist)): Bishop Gale, founder of the Loptr Empire, is said to have crossed the sea in his youth and traveled the world.
 56	(Levin (Strategist)): His purpose was to drink the blood of a certain legendary creature,
 57	(Levin (Strategist)): and obtain a power beyond anything attainable by mere humans.
-58	(Celice): Don't tell me, the blood of the ancient dragon tribe!? But surely that's just superstition!
+58	Don't tell me, the blood of the ancient dragon tribe!? But surely that's just superstition!
 59	(Levin (Strategist)): And yet... when Bishop Gale returned from his journey, he possessed a mysterious power.
 60	(Levin (Strategist)): Gale, ambitious by nature to begin with, used that power to indoctrinate young followers,
 61	(Levin (Strategist)): and built up an army of devils who moved entirely at his will.
-62	(Celice): Then what exactly is the dark god Loptous?
+62	Then what exactly is the dark god Loptous?
 63	(Levin (Strategist)): Probably one of the ancient dragon tribe. And Gale's descendants have inherited that dragon blood ever since.
 64	(Levin (Strategist)): The wicked power of House Loptr is nothing other than the power of the dragon tribe.
-65	(Celice): Then, the holy warriors, our own ancestors...
+65	Then, the holy warriors, our own ancestors...
 66	(Levin (Strategist)): Legend says the gods descended upon the twelve warriors of the Liberation Army at the fortress of Darna.
 67	(Levin (Strategist)): However...
-68	(Celice): However?
+68	However?
 69	(Levin (Strategist)): Celice, let's save the rest of this for later. Right now, we need to prepare for the enemy's attack.
-70	(Arthur): Tinny, we're almost at mother's homeland, Friege.
-71	(Tinny): Yeah, but I don't have very good memories of it. I imagine it's the same for you, brother.
-72	(Arthur): That's true... House Friege, who took you and mother from me — I've held a grudge against them this whole time.
-73	(Arthur): I wanted to crush them with my own hands.
-74	(Tinny): But you know, uncle Bloom, and Ishtar and brother Ishtore too — they weren't really such bad people.
-75	(Tinny): At least, they were kind to me and to mother.
-76	(Arthur): The one who drove mother to her death was Hilda, wasn't it.
-77	(Tinny): Yeah, that woman alone, I can't forgive. If I could, I wanted to settle it with my own hands...
-78	(Arthur): Tinny, I won't let you feel that sadness anymore. I'll protect you, alright, Tinny!
-79	(Amid): Linda, we're almost at mother's homeland, Friege.
-80	(Linda): Yeah, but I don't have very good memories of it. I imagine it's the same for you, brother.
-81	(Amid): That's true... House Friege, who took you and mother from me — I've held a grudge against them this whole time.
-82	(Amid): I wanted to crush them with my own hands.
-83	(Linda): Say, brother, why did our mother betray her country and join Sigurd's army?
-84	(Amid): Because her close friend, her elder sister, joined Sigurd's army and died in battle.
-85	(Linda): Our aunt?
-86	(Amid): Yeah, someone named Tiltyu, apparently.
-87	(Linda): I see... she died in battle... how sad for her...
+70	Tinny, we're almost at mother's homeland, Friege.
+71	Yeah, but I don't have very good memories of it. I imagine it's the same for you, brother.
+72	That's true... House Friege, who took you and mother from me — I've held a grudge against them this whole time.
+73	I wanted to crush them with my own hands.
+74	But you know, uncle Bloom, and Ishtar and brother Ishtore too — they weren't really such bad people.
+75	At least, they were kind to me and to mother.
+76	The one who drove mother to her death was Hilda, wasn't it.
+77	Yeah, that woman alone, I can't forgive. If I could, I wanted to settle it with my own hands...
+78	Tinny, I won't let you feel that sadness anymore. I'll protect you, alright, Tinny!
+79	Linda, we're almost at mother's homeland, Friege.
+80	Yeah, but I don't have very good memories of it. I imagine it's the same for you, brother.
+81	That's true... House Friege, who took you and mother from me — I've held a grudge against them this whole time.
+82	I wanted to crush them with my own hands.
+83	Say, brother, why did our mother betray her country and join Sigurd's army?
+84	Because her close friend, her elder sister, joined Sigurd's army and died in battle.
+85	Our aunt?
+86	Yeah, someone named Tiltyu, apparently.
+87	I see... she died in battle... how sad for her...
 88	— (if Celice is your sweetheart)
-89	(Tinny): Lord Celice...
-90	(Celice): Tinny! Be careful, you mustn't go to the front!
-91	(Tinny): But I want to help too. I want to be of use to you, Lord Celice!
-92	(Celice): But... I don't want to lose you!
-93	(Tinny): I will stay by your side, Lord Celice. I don't want to meet the same fate as Lady Deirdre.
-94	(Tinny): Lord Celice, please — let me stay by your side!
-95	(Celice): I'm sorry, you're right. We mustn't be apart.
-96	(Celice): Tinny, let's go together — I want you to lend me your strength.
-97	(Tinny): Yes! Lord Celice...
+89	Lord Celice...
+90	Tinny! Be careful, you mustn't go to the front!
+91	But I want to help too. I want to be of use to you, Lord Celice!
+92	But... I don't want to lose you!
+93	I will stay by your side, Lord Celice. I don't want to meet the same fate as Lady Deirdre.
+94	Lord Celice, please — let me stay by your side!
+95	I'm sorry, you're right. We mustn't be apart.
+96	Tinny, let's go together — I want you to lend me your strength.
+97	Yes! Lord Celice...
 98	— (if Leaf is your sweetheart)
-99	(Tinny): Lord Leaf, are you alright?
-100	(Leaf): Yeah, don't worry about me. You be careful too, Tinny — the enemy here is formidable.
-101	(Tinny): Yes, but as long as you're here with me, I'll be alright.
-102	(Leaf): We have a great task waiting for us — the unification of Thracia. We can't afford to die in a place like this.
-103	(Tinny): Yes, I want to return to Alster too, and work for everyone's sake.
-104	(Leaf): Yeah, but it's not just Alster — you'll need to help me as the queen of the new kingdom of Thracia.
-105	(Tinny): Yes, Lord Leaf!
+99	Lord Leaf, are you alright?
+100	Yeah, don't worry about me. You be careful too, Tinny — the enemy here is formidable.
+101	Yes, but as long as you're here with me, I'll be alright.
+102	We have a great task waiting for us — the unification of Thracia. We can't afford to die in a place like this.
+103	Yes, I want to return to Alster too, and work for everyone's sake.
+104	Yeah, but it's not just Alster — you'll need to help me as the queen of the new kingdom of Thracia.
+105	Yes, Lord Leaf!
 106	— (if Sety is your sweetheart)
-107	(Tinny): Lord Sety, are you alright?
-108	(Sety): Yeah, don't worry about me. But you be careful too, Tinny — the enemy here is formidable.
-109	(Tinny): Yes, as long as you're here with me, I'll be alright.
-110	(Sety): Tinny, you're so lovely... my treasure...
-111	(Tinny): ...Lord Sety, when you say things like that, I don't know what to do with myself.
-112	(Sety): Hahaha, sorry. But I wanted to say it while I still could — I'd hate to regret not saying it later...
-113	(Tinny): Lord Sety... please, stay safe...
+107	Lord Sety, are you alright?
+108	Yeah, don't worry about me. But you be careful too, Tinny — the enemy here is formidable.
+109	Yes, as long as you're here with me, I'll be alright.
+110	Tinny, you're so lovely... my treasure...
+111	...Lord Sety, when you say things like that, I don't know what to do with myself.
+112	Hahaha, sorry. But I wanted to say it while I still could — I'd hate to regret not saying it later...
+113	Lord Sety... please, stay safe...
 114	— (if Celice is your sweetheart)
-115	(Patty): Lord Celice, here, please.
-116	(Celice): Oh, a boxed lunch? Did you make this, Patty? Thank you.
-117	(Patty): Lord Celice, this too.
-118	(Celice): Oh, you even prepared something to drink? You really do notice everything.
-119	(Patty): And while we're at it, this too...
-120	(Celice): Ugh... that's...
-121	(Patty): It's Patty's own handmade energy drink. I'm sure it'll give you energy — drink it all, now.
-122	(Celice): Y-, yeah...
+115	Lord Celice, here, please.
+116	Oh, a boxed lunch? Did you make this, Patty? Thank you.
+117	Lord Celice, this too.
+118	Oh, you even prepared something to drink? You really do notice everything.
+119	And while we're at it, this too...
+120	Ugh... that's...
+121	It's Patty's own handmade energy drink. I'm sure it'll give you energy — drink it all, now.
+122	Y-, yeah...
 123	— (if Shanan is your sweetheart)
-124	(Patty): Lord Shanan~
-125	(Shanan): Mm...
-126	(Patty): "Mm" isn't an answer — look, a boxed lunch, I made it myself.
-127	(Shanan): You... you act like we're on some kind of picnic.
-128	(Patty): Well, I'm bored, you know — I haven't had much to do lately.
-129	(Shanan): That's no excuse to get in my way. This is a battlefield.
-130	(Patty): Ah, how awful... even you, Lord Shanan, treating me like a burden.
-131	(Patty): And here I put my whole heart into making this lunch... fine, forget it!
-132	(Shanan): Hey, Patty... sorry, I spoke too harshly. Forgive me...
-133	(Patty): So, will you eat the lunch? Really? Ah, I'm so glad... Lord Shanan, I love you!
+124	Lord Shanan~
+125	Mm...
+126	"Mm" isn't an answer — look, a boxed lunch, I made it myself.
+127	You... you act like we're on some kind of picnic.
+128	Well, I'm bored, you know — I haven't had much to do lately.
+129	That's no excuse to get in my way. This is a battlefield.
+130	Ah, how awful... even you, Lord Shanan, treating me like a burden.
+131	And here I put my whole heart into making this lunch... fine, forget it!
+132	Hey, Patty... sorry, I spoke too harshly. Forgive me...
+133	So, will you eat the lunch? Really? Ah, I'm so glad... Lord Shanan, I love you!
 134	— (if Lester is your sweetheart)
-135	(Patty): Lester, here!
-136	(Lester): Oh, Patty, I've been waiting — my stomach's so empty I feel dizzy.
-137	(Patty): I thought you'd say that, so I made it extra big today. So, is it good?
-138	(Lester): Delicious! Patty's lunch is the best.
-139	(Patty): Heheh, of course it is!
+135	Lester, here!
+136	Oh, Patty, I've been waiting — my stomach's so empty I feel dizzy.
+137	I thought you'd say that, so I made it extra big today. So, is it good?
+138	Delicious! Patty's lunch is the best.
+139	Heheh, of course it is!
 140	— (if Dimna is your sweetheart)
-141	(Daisy): Dimna, what are you doing?
-142	(Dimna): Oh, Daisy... I somehow feel empty inside...
-143	(Daisy): Why's that?
-144	(Dimna): Don't you think our presence is kind of thin...
-145	(Daisy): Now that you mention it... we really don't have much of a presence.
-146	(Dimna): Right... I'm going back to my country. I'll just live an ordinary life in Isaac...
-147	(Daisy): Yeah, once this war is over, let's go back together, the two of us. I'm tired too...
-148	(Dimna): We're pretty pathetic, huh...
-149	(Robert): What a prize bounty this is. Sorry, but you'll have to die!
-150	(Robert): Guh... how could this be...
-151	(Boyce): Must I cut down yet another worthless thing...
-152	(Boyce): Ohh... what a terrifying fellow...
-153	(Rodan): Wh-, what is the meaning of this... damn you!
-154	(Rodan): Guh... this too, must be divine punishment...
-155	(Jupheel): Kufufu... foolish humans... become prey to my dark magic!
-156	(Jupheel): Ngh... Lord Julius... forgive me...
+141	Dimna, what are you doing?
+142	Oh, Daisy... I somehow feel empty inside...
+143	Why's that?
+144	Don't you think our presence is kind of thin...
+145	Now that you mention it... we really don't have much of a presence.
+146	Right... I'm going back to my country. I'll just live an ordinary life in Isaac...
+147	Yeah, once this war is over, let's go back together, the two of us. I'm tired too...
+148	We're pretty pathetic, huh...
+149	What a prize bounty this is. Sorry, but you'll have to die!
+150	Guh... how could this be...
+151	Must I cut down yet another worthless thing...
+152	Ohh... what a terrifying fellow...
+153	Wh-, what is the meaning of this... damn you!
+154	Guh... this too, must be divine punishment...
+155	Kufufu... foolish humans... become prey to my dark magic!
+156	Ngh... Lord Julius... forgive me...
 157	(Levin (Strategist)): So this is Edda... if only Father Claud were still alive, he'd surely be pleased...
-158	(Celice): Yes... so Father Claud also died trying to save father. But what of the priest's own child...
+158	Yes... so Father Claud also died trying to save father. But what of the priest's own child...
 159	— (if Celice is your sweetheart)
-160	(Nanna): Lord Celice...
-161	(Celice): Demaggio, this is a hard battle, but don't push yourself too hard.
-162	(Nanna): Yes, I understand. But I'm worried about you, Lord Celice. Please don't push yourself either.
-163	(Celice): Yeah, but you know, we've come this far — just a little more, let's do our best.
-164	(Nanna): All I can really do is watch over you, but I'll keep praying for you the whole time...
-165	(Celice): Thank you, Demaggio. I can feel your strength. Please, keep watching over me.
-166	(Nanna): Yes, Lord Celice...
+160	Lord Celice...
+161	Demaggio, this is a hard battle, but don't push yourself too hard.
+162	Yes, I understand. But I'm worried about you, Lord Celice. Please don't push yourself either.
+163	Yeah, but you know, we've come this far — just a little more, let's do our best.
+164	All I can really do is watch over you, but I'll keep praying for you the whole time...
+165	Thank you, Demaggio. I can feel your strength. Please, keep watching over me.
+166	Yes, Lord Celice...
 167	— (if Leaf is your sweetheart, Nanna)
-168	(Nanna): Lord Leaf, when will this battle end, I wonder?
-169	(Leaf): Even I don't know that. But one thing is certain — victory is close at hand.
-170	(Nanna): You'll be returning to Leonster, won't you, Lord Leaf?
-171	(Leaf): Yeah, that's my intention. Building a unified nation on this war-torn Thracia Peninsula was my father's dream.
-172	(Leaf): I intend to carry on his will. I want you to be prepared for that too, Demaggio.
-173	(Nanna): Yes, I'll follow you anywhere, Lord Leaf — even to the ends of the earth...
+168	Lord Leaf, when will this battle end, I wonder?
+169	Even I don't know that. But one thing is certain — victory is close at hand.
+170	You'll be returning to Leonster, won't you, Lord Leaf?
+171	Yeah, that's my intention. Building a unified nation on this war-torn Thracia Peninsula was my father's dream.
+172	I intend to carry on his will. I want you to be prepared for that too, Demaggio.
+173	Yes, I'll follow you anywhere, Lord Leaf — even to the ends of the earth...
 174	— (if Leaf is your sweetheart, Jeanne)
-175	(Jeanne): Lord Leaf!
-176	(Leaf): Ah, Jeanne. I told you to stay in the castle.
-177	(Jeanne): But...
-178	(Leaf): This battle can only be fought by those with the blood of the holy warriors. It's too much for you.
-179	(Jeanne): I know I'd only be a burden. But surely it's alright if I just use a staff?
-180	(Leaf): I suppose so... but promise me you'll never push yourself too hard. You'll need to help me as the queen of the new kingdom of Thracia.
-181	(Leaf): I'd be in real trouble if you died in a place like this.
-182	(Jeanne): Yes, Lord Leaf...
+175	Lord Leaf!
+176	Ah, Jeanne. I told you to stay in the castle.
+177	But...
+178	This battle can only be fought by those with the blood of the holy warriors. It's too much for you.
+179	I know I'd only be a burden. But surely it's alright if I just use a staff?
+180	I suppose so... but promise me you'll never push yourself too hard. You'll need to help me as the queen of the new kingdom of Thracia.
+181	I'd be in real trouble if you died in a place like this.
+182	Yes, Lord Leaf...
 183	— (if Ares is your sweetheart, Nanna)
-184	(Nanna): Ares, don't be reckless. You still have a great task ahead of you — rebuilding Agustria.
-185	(Ares): Yeah, I know. I have no intention of dying in a fight like this.
-186	(Ares): I'll carry on my father's will and make Agustria into a splendid nation.
-187	(Nanna): I'm glad, that's just like you, Ares. I'm sure King Eltshan and mother Lachesis would be so pleased.
-188	(Ares): But Demaggio, I can't do it alone. I need your help too.
-189	(Nanna): Of course. I've decided to live my life with you — I won't make the same mistake as my mother.
-190	(Ares): I wonder... did my aunt truly love my father, Eltshan?...
-191	(Nanna): Yes, they were half-siblings, after all — there's nothing so strange about it, is there.
-192	(Ares): Come to think of it, you and I are cousins.
-193	(Nanna): Heheh, that's even less strange, isn't it.
-194	(Mana): Asaello, are you alright? I understand how you feel, but don't push yourself too hard.
-195	(Asaello): If only I had the power of the holy warriors too, I could do so much more... damn it, this isn't fair!
-196	(Mana): Yeah... I think so too, but it's alright, isn't it.
-197	(Mana): We've been doing our best together with everyone, up until now.
-198	(Mana): We have our own pride, as commoners.
-199	(Asaello): Commoners, huh... everyone around us is royalty, nobility... what an unpleasant world, really.
-200	(Mana): That's true... but cheer up! There are so many children back home waiting for you to return.
-201	(Asaello): You're right... this isn't the time to complain... and besides, I have you too, Mana...
-202	(Mana): Heheh, oh, Asaello...
+184	Ares, don't be reckless. You still have a great task ahead of you — rebuilding Agustria.
+185	Yeah, I know. I have no intention of dying in a fight like this.
+186	I'll carry on my father's will and make Agustria into a splendid nation.
+187	I'm glad, that's just like you, Ares. I'm sure King Eltshan and mother Lachesis would be so pleased.
+188	But Demaggio, I can't do it alone. I need your help too.
+189	Of course. I've decided to live my life with you — I won't make the same mistake as my mother.
+190	I wonder... did my aunt truly love my father, Eltshan?...
+191	Yes, they were half-siblings, after all — there's nothing so strange about it, is there.
+192	Come to think of it, you and I are cousins.
+193	Heheh, that's even less strange, isn't it.
+194	Asaello, are you alright? I understand how you feel, but don't push yourself too hard.
+195	If only I had the power of the holy warriors too, I could do so much more... damn it, this isn't fair!
+196	Yeah... I think so too, but it's alright, isn't it.
+197	We've been doing our best together with everyone, up until now.
+198	We have our own pride, as commoners.
+199	Commoners, huh... everyone around us is royalty, nobility... what an unpleasant world, really.
+200	That's true... but cheer up! There are so many children back home waiting for you to return.
+201	You're right... this isn't the time to complain... and besides, I have you too, Mana...
+202	Heheh, oh, Asaello...
 203	(Philip (purple)): Damn you, I'll knock that head clean off!!
 204	(Philip (purple)): Wh-, what in the world...
-205	(Brian): How dare you kill my father — three generations of House Dozel's grudge, know it well!
-206	(Brian): To think the axe of Swanchika could be defeated this easily... was this really the right thing to do...
-207	(Jupheel): Kufufu... foolish humans... become prey to my dark magic!
-208	(Jupheel): Ngh... Lord Julius... forgive me...
+205	How dare you kill my father — three generations of House Dozel's grudge, know it well!
+206	To think the axe of Swanchika could be defeated this easily... was this really the right thing to do...
+207	Kufufu... foolish humans... become prey to my dark magic!
+208	Ngh... Lord Julius... forgive me...
 209	(Levin (Strategist)): Even House Dozel was one of the holy warriors, and yet, what a foolish thing.
 210	(Levin (Strategist)): This too is all Lord Langobalt's responsibility...
-211	(Celice): So then, Levin, who gave the holy warriors their power? Just who exactly were these gods...
+211	So then, Levin, who gave the holy warriors their power? Just who exactly were these gods...
 212	(Levin (Strategist)): I don't know for certain, but it seems someone, realizing that this continent's turmoil was caused by the power of the dragon tribe,
 213	(Levin (Strategist)): came from another world to save us.
 214	(Levin (Strategist)): Those beings are said to have suddenly appeared at the fortress of Darna, on the verge of falling.
-215	(Celice): The descent of the goddess Naga and the eleven gods, as told in the scripture.
+215	The descent of the goddess Naga and the eleven gods, as told in the scripture.
 216	(Levin (Strategist)): The gods had taken on human form — the light goddess Naga as a young girl, the fire god Salamander as an old man, and so on.
 217	(Levin (Strategist)): And they exchanged a pact of blood with the twelve chosen warriors.
-218	(Celice): A pact of blood?
+218	A pact of blood?
 219	(Levin (Strategist)): The gods cut their own fingertips, drew blood, and gave that blood to the warriors.
-220	(Celice): !?...
+220	!?...
 221	(Levin (Strategist)): In other words, the gods spoken of in the scripture were also of the ancient dragon tribe, just like Loptous.
 222	(Levin (Strategist)): The warriors of the Liberation Army took the dragon tribe's blood into their own bodies, and were reborn as holy warriors.
 223	(Levin (Strategist)): The dragon tribe gave the newborn holy warriors weapons sealed with their own power,
 224	(Levin (Strategist)): and then, leaving behind a few warnings, they departed.
-225	(Celice): So that's how it was... the power of the holy warriors belongs to the dragon tribe...
+225	So that's how it was... the power of the holy warriors belongs to the dragon tribe...
 226	(Levin (Strategist)): Loptous is the most wicked and terrifying of the dragon tribe.
 227	(Levin (Strategist)): The dragon king Naga gave her own blood to Bishop Heim, the Liberation Army's leader,
 228	(Levin (Strategist)): intending for him to stand against the power of Loptr.
-229	(Celice): In other words, no other dragon tribe member could defeat Loptous?
+229	In other words, no other dragon tribe member could defeat Loptous?
 230	(Levin (Strategist)): It would be quite difficult, I'd imagine. We would need everyone's combined cooperation, and on top of that, Naga's own power.
 231	(Levin (Strategist)): But... of Heim's descendants, who should have inherited that power, the only ones still alive today
 232	(Levin (Strategist)): are Princess Deirdre's three children.
 233	(Levin (Strategist)): But neither Celice, the first prince, nor Julius, the second prince, have inherited Naga's blood.
 234	(Levin (Strategist)): I've only recently learned that the one who inherited it was Julius's twin sister... Princess Julia, and only her.
-235	(Celice): Wh-, what did you say!?
+235	Wh-, what did you say!?
 236	(Levin (Strategist)): Yes, I didn't realize it myself either, but Julia is Prince Julius's twin sister — and also your own sister...
-237	(Celice): Julia, my sister... that can't be...
+237	Julia, my sister... that can't be...
 238	(Levin (Strategist)): This solves the mystery of why Julia was captured. Celice, we must save Julia, no matter what it takes.
 239	(Levin (Strategist)): To fight Julius, Julia's power is absolutely essential!!
-240	(Hilda): What did you say! Are you telling me even Dozel has fallen!?
-241	(Hilda): Hmph, every last one of them, utterly spineless. Fine, I'll go out myself.
-242	(Hilda): I'll draw the rebels to this castle and settle the matter in one decisive blow.
-243	(Hilda): Contact Scipio of Jungby. Tell him our Gelpleiter will draw the enemy in,
-244	(Hilda): while Scipio's Baigeleiter strikes from behind.
-245	(Hilda): We'll catch them in a pincer and kill every last one of them!
-246	(Scipio): Heh, the rebels have taken the bait. Alright, cut through the forest and circle around behind the enemy!
-247	(Scipio): Coordinate with the Friege army and surround the enemy!
+240	What did you say! Are you telling me even Dozel has fallen!?
+241	Hmph, every last one of them, utterly spineless. Fine, I'll go out myself.
+242	I'll draw the rebels to this castle and settle the matter in one decisive blow.
+243	Contact Scipio of Jungby. Tell him our Gelpleiter will draw the enemy in,
+244	while Scipio's Baigeleiter strikes from behind.
+245	We'll catch them in a pincer and kill every last one of them!
+246	Heh, the rebels have taken the bait. Alright, cut through the forest and circle around behind the enemy!
+247	Coordinate with the Friege army and surround the enemy!
 248	— (if Celice is your sweetheart)
-249	(Nanna): Lord Celice, just a little further.
-250	(Celice): Yeah, you've done so well too, Nanna. Thank you.
-251	(Nanna): No, I haven't been of any help at all.
-252	(Nanna): But just being at your side, Lord Celice, is enough to make me happy.
-253	(Celice): We've known each other a long time now, Nanna. We've been together ever since we were small.
-254	(Nanna): Yes, we played together so often. Those memories are nothing but joyful ones... but to think it would come to this...
-255	(Celice): But I've liked you, Nanna, ever since I was small.
-256	(Nanna): Lord Celice... when you say things like that, my heart grows weak. I feel so sorry toward Lady Julia...
-257	(Celice): Nanna.........
+249	Lord Celice, just a little further.
+250	Yeah, you've done so well too, Nanna. Thank you.
+251	No, I haven't been of any help at all.
+252	But just being at your side, Lord Celice, is enough to make me happy.
+253	We've known each other a long time now, Nanna. We've been together ever since we were small.
+254	Yes, we played together so often. Those memories are nothing but joyful ones... but to think it would come to this...
+255	But I've liked you, Nanna, ever since I was small.
+256	Lord Celice... when you say things like that, my heart grows weak. I feel so sorry toward Lady Julia...
+257	Nanna.........
 258	— (if Scathach is your sweetheart)
-259	(Nanna): Scathach...
-260	(Scathach): Mm...?
-261	(Nanna): You are my pride.
-262	(Scathach): Whoa, what's brought this on so suddenly?
-263	(Nanna): Don't die, Scathach.
-264	(Scathach): Yeah, I can't die and leave you behind.
-265	(Nanna): ...Scathach, I...
-266	(Scathach): Hm?
-267	(Nanna): .........I love you.
+259	Scathach...
+260	Mm...?
+261	You are my pride.
+262	Whoa, what's brought this on so suddenly?
+263	Don't die, Scathach.
+264	Yeah, I can't die and leave you behind.
+265	...Scathach, I...
+266	Hm?
+267	.........I love you.
 268	— (if Fabal is your sweetheart, Nanna)
-269	(Nanna): Fabal...
-270	(Fabal): Mm...?
-271	(Nanna): You are my pride.
-272	(Fabal): Whoa, what's brought this on so suddenly?
-273	(Nanna): Don't die, Fabal.
-274	(Fabal): Yeah, I can't die and leave you behind.
-275	(Nanna): Fabal, I...
-276	(Fabal): Mm?
-277	(Nanna): .........I love you.
+269	Fabal...
+270	Mm...?
+271	You are my pride.
+272	Whoa, what's brought this on so suddenly?
+273	Don't die, Fabal.
+274	Yeah, I can't die and leave you behind.
+275	Fabal, I...
+276	Mm?
+277	.........I love you.
 278	— (if Celice is your sweetheart)
-279	(Lakche): Lord Celice, please wait!
-280	(Celice): Lakche...?
-281	(Lakche): I'm coming with you too!
-282	(Celice): Hm? That's fine, but why?
-283	(Lakche): Somehow, I'm just so frightened...
-284	(Celice): It's unusual for you to say something like that, Lakche.
-285	(Lakche): I...
-286	(Celice): I understand. Let's go together — I feel reassured having you by my side.
-287	(Lakche): Lord Celice...
+279	Lord Celice, please wait!
+280	Lakche...?
+281	I'm coming with you too!
+282	Hm? That's fine, but why?
+283	Somehow, I'm just so frightened...
+284	It's unusual for you to say something like that, Lakche.
+285	I...
+286	I understand. Let's go together — I feel reassured having you by my side.
+287	Lord Celice...
 288	— (if Shanan is your sweetheart)
-289	(Lakche): Lord Shanan, we've finally made it this far.
-290	(Shanan): Mm, it's been a long road.
-291	(Lakche): I wonder how the people of Isaac are doing right now. I hope nothing's changed for the worse.
-292	(Shanan): Have you started missing home, Lakche?
-293	(Lakche): That's not it at all! I'm not a child anymore, you know!
-294	(Shanan): Is that so? You still look like a child to me.
-295	(Lakche): Lord Shanan!!
-296	(Shanan): Hahaha, don't make such a scary face. It'll ruin that beautiful face of yours.
-297	(Lakche): L-, Lord Shanan...
+289	Lord Shanan, we've finally made it this far.
+290	Mm, it's been a long road.
+291	I wonder how the people of Isaac are doing right now. I hope nothing's changed for the worse.
+292	Have you started missing home, Lakche?
+293	That's not it at all! I'm not a child anymore, you know!
+294	Is that so? You still look like a child to me.
+295	Lord Shanan!!
+296	Hahaha, don't make such a scary face. It'll ruin that beautiful face of yours.
+297	L-, Lord Shanan...
 298	— (if Johan is your sweetheart)
-299	(Lakche): Johan, are you alright?
-300	(Johan): Even I find it hard to keep up with this fight.
-301	(Johan): But as long as I have your love, I'll endure it, you'll see.
-302	(Lakche): Honestly, you... but, I've fallen in love with you, so there's no helping it...
-303	(Johan): There's no need for regret in love. Lakche, smile and send me off.
-304	(Lakche): Yeah, do your best, Johan.
-305	(Johan): Ah, Lakche...
+299	Johan, are you alright?
+300	Even I find it hard to keep up with this fight.
+301	But as long as I have your love, I'll endure it, you'll see.
+302	Honestly, you... but, I've fallen in love with you, so there's no helping it...
+303	There's no need for regret in love. Lakche, smile and send me off.
+304	Yeah, do your best, Johan.
+305	Ah, Lakche...
 306	— (if Johalva is your sweetheart)
-307	(Lakche): Johalva, are you really alright?
-308	(Johalva): Ugh, even I find this fight hard to bear.
-309	(Johalva): But now that we've taken back the Dozel duchy too, I'll try to hold on a bit longer.
-310	(Lakche): Yeah, but don't be reckless. You have a duty to rebuild your country.
-311	(Johalva): Yeah, I know that already.
-312	(Johalva): That's the only way my late old man and brother can rest in peace.
-313	(Johalva): Lakche, you'll help me, won't you.
-314	(Lakche): Yes, you've done so much for me, after all.
-315	(Johalva): Whoa, I'm so grateful. I love you, Lakche!!
-316	(Lakche): Oh, honestly, Johalva, you fool!
-317	(Scipio): My father Andrey's grudge — now, I shall finally avenge it!!
-318	(Scipio): Tch... how could this be...
-319	(Hilda): Hmph, to think I'd be defeated so many times over, it's unbearable!
-320	(Hilda): Guh, how infuriating... Ishtar... avenge this grudge for me...
-321	(Jupheel): Kufufu... foolish humans... become prey to my dark magic!
-322	(Jupheel): Ngh... Lord Julius... forgive me...
-323	(Celice): Levin, we've finally made it to Friege.
-324	(Celice): But I wonder if the children sent to Belhalla are alright. I hope they're safe...
+307	Johalva, are you really alright?
+308	Ugh, even I find this fight hard to bear.
+309	But now that we've taken back the Dozel duchy too, I'll try to hold on a bit longer.
+310	Yeah, but don't be reckless. You have a duty to rebuild your country.
+311	Yeah, I know that already.
+312	That's the only way my late old man and brother can rest in peace.
+313	Lakche, you'll help me, won't you.
+314	Yes, you've done so much for me, after all.
+315	Whoa, I'm so grateful. I love you, Lakche!!
+316	Oh, honestly, Johalva, you fool!
+317	My father Andrey's grudge — now, I shall finally avenge it!!
+318	Tch... how could this be...
+319	Hmph, to think I'd be defeated so many times over, it's unbearable!
+320	Guh, how infuriating... Ishtar... avenge this grudge for me...
+321	Kufufu... foolish humans... become prey to my dark magic!
+322	Ngh... Lord Julius... forgive me...
+323	Levin, we've finally made it to Friege.
+324	But I wonder if the children sent to Belhalla are alright. I hope they're safe...
 325	(Levin (Strategist)): Mm, it seems this person wants to speak with us about that very matter.
-326	(Celice): And you are?
+326	And you are?
 327	(Palmarch (red)): I was a close aide of Emperor Arvis. My name is Felipe.
 328	(Palmarch (red)): In truth, under the emperor's secret orders, I've been sheltering the captured children here in the town of Friege.
-329	(Celice): Eh!? Is that really true! Are all the children safe!!
+329	Eh!? Is that really true! Are all the children safe!!
 330	(Palmarch (red)): Yes, all of them are well, hidden away in the town's convent.
-331	(Celice): But how did they stay safe, with that Hilda ruling over Friege?
+331	But how did they stay safe, with that Hilda ruling over Friege?
 332	(Palmarch (red)): Actually... Princess Ishtar secretly helped us.
 333	(Palmarch (red)): The soldiers feared the princess so much, they couldn't even approach the convent.
-334	(Celice): Princess Ishtar!? But why...
+334	Princess Ishtar!? But why...
 335	(Palmarch (red)): Lady Ishtar was originally a kind-hearted person.
 336	(Palmarch (red)): For this matter too, she cooperated with us entirely of her own will.
 337	(Palmarch (red)): It was Lady Ishtar herself who led the children out of the Belhalla palace...
-338	(Celice): I see... but I'm glad. Once people learn the children are safe, they'll surely rejoice.
-339	(Celice): Sir Felipe, thank you.
+338	I see... but I'm glad. Once people learn the children are safe, they'll surely rejoice.
+339	Sir Felipe, thank you.
 340	(Levin (Strategist)): Celice, well done. One of our goals has been achieved — this fight wasn't meaningless after all.
-341	(Celice): Yeah, but Levin, we still haven't found Julia. Where could she be...
+341	Yeah, but Levin, we still haven't found Julia. Where could she be...
 342	(Levin (Strategist)): Mm, if she's not here either, then it must be either the capital Belhalla or Veltomer.
-343	(Celice): Julius is at Belhalla...
+343	Julius is at Belhalla...
 344	(Levin (Strategist)): That's right. We must find Julia before we fight him.
 345	(Levin (Strategist)): Without Julia's power, we won't stand a chance.
-346	(Celice): I wonder if Julia can even fight... against her own twin brother, Julius...
+346	I wonder if Julia can even fight... against her own twin brother, Julius...
 347	(Levin (Strategist)): That... depends entirely on you.
-348	(Ishtar): Then, Lord Julius, I'll take the White Knights and strengthen the capital's defenses.
-349	(Ishtar): Please forgive me for leaving your side for a while.
-350	(Julius): Heh, what's wrong, Ishtar? What are you so flustered about?
-351	(Julius): No matter how many of them come, defeating me is simply impossible. There was no need for you to go out yourself.
-352	(Ishtar): Yes... I understand that well. But I too am a proud mage warrior of House Friege.
-353	(Ishtar): With my parents and siblings killed, I cannot simply go on living shamefully. Please, grant me the chance to fight.
-354	(Julius): You seem to be rushing toward death. Why, Ishtar — have you grown tired of me?
-355	(Ishtar): No... that's not it at all... I love you, Lord Julius...
-356	(Julius): Heheh, well, fine. Fight if you wish to fight — I won't stop you.
-357	(Ishtar): Yes... forgive me. Meng, Breg, Mabel, move out — come with me!
-358	(Meng): Yes ma'am, Lady Ishtar.
-359	(Julius): Then let's settle this all at once. Twelve Demon Generals, you too, move out! Order Arion's mercenary corps to attack as well!
-360	(Julius): Playtime is over. With all our strength, we will finish off the rebels!!
-361	(Manfroy): Fohoho... how noisy it's gotten. Julia, it's your turn. Go finish off those who would defy the Empire.
+348	Then, Lord Julius, I'll take the White Knights and strengthen the capital's defenses.
+349	Please forgive me for leaving your side for a while.
+350	Heh, what's wrong, Ishtar? What are you so flustered about?
+351	No matter how many of them come, defeating me is simply impossible. There was no need for you to go out yourself.
+352	Yes... I understand that well. But I too am a proud mage warrior of House Friege.
+353	With my parents and siblings killed, I cannot simply go on living shamefully. Please, grant me the chance to fight.
+354	You seem to be rushing toward death. Why, Ishtar — have you grown tired of me?
+355	No... that's not it at all... I love you, Lord Julius...
+356	Heheh, well, fine. Fight if you wish to fight — I won't stop you.
+357	Yes... forgive me. Meng, Breg, Mabel, move out — come with me!
+358	Yes ma'am, Lady Ishtar.
+359	Then let's settle this all at once. Twelve Demon Generals, you too, move out! Order Arion's mercenary corps to attack as well!
+360	Playtime is over. With all our strength, we will finish off the rebels!!
+361	Fohoho... how noisy it's gotten. Julia, it's your turn. Go finish off those who would defy the Empire.
 362	(Julia (possessed)): Yes... Archbishop Manfroy...
-363	(Arion): We no longer have any home to return to. All troops, follow me.
-364	(Arion): We'll take Chalphy Castle as a foothold to retake our homeland.
-365	(Arion): Show them well the last pride of the Thracian dragon knights!!
+363	We no longer have any home to return to. All troops, follow me.
+364	We'll take Chalphy Castle as a foothold to retake our homeland.
+365	Show them well the last pride of the Thracian dragon knights!!
 366	— (if Manfroy is still alive)
-367	(Celice): Julia, pull yourself together! What on earth is wrong with you!!
+367	Julia, pull yourself together! What on earth is wrong with you!!
 368	(Julia (possessed)): Kukuku... those who defy Lord Manfroy, all of them, die...
 369	(Levin (Strategist)): No good, Celice, Julia is being controlled by dark magic.
 370	(Levin (Strategist)): Defeat Manfroy first, and then try speaking to her once more!
 371	— (if Manfroy has died)
-372	(Celice): Julia!! Pull yourself together!
+372	Julia!! Pull yourself together!
 373	(Julia (possessed)): ...
 374	(Julia (possessed)): Hah... Lord Celice!? What... what happened to me?
-375	(Celice): You were under Manfroy's spell, being controlled by him.
-376	(Julia): Manfroy... that's right, I was captured by that man...
-377	(Celice): But I'm so glad, that you're safe.
-378	(Julia): Lord Celice, I...
-379	(Celice): You don't need to say anything more. I've heard everything from Levin.
-380	(Celice): Julia... I'm sorry. If only I'd been stronger...
-381	(Julia): No, this was for the best. I've finally learned, for the first time, the reason I've lived all this time.
-382	(Julia): I will fight. I won't run away.
-383	(Celice): I see... you really are strong, Julia. But you're right.
-384	(Celice): It's a sad fate, but we can't run from it. We mustn't give up, not until the very end.
-385	(Altena): Brother! Enough of this already! Why won't you understand my feelings!!
-386	(Arion): Altena!?
-387	(Altena): Brother, you're a coward! Clinging to pride and appearances, you've lost sight of what truly matters.
-388	(Arion): What do you want me to do?
-389	(Altena): Look at Prince Celice!
-390	(Altena): Think, even just a little, about what he's fighting for, who he's suffering for.
-391	(Arion): You're saying justice lies with Prince Celice...
-392	(Altena): Brother... I can't fight anymore. If you truly won't understand, then defeat me first before you go.
-393	(Altena): If I'm to die by your hand, brother... I have no regrets.
-394	(Arion): Altena... I understand... say no more. I was the one who was wrong...
-395	(Arion): My final work as a mercenary will be for Celice's sake — no, Altena, I'll fight for your sake.
-396	(Altena): Arion... brother.........
+375	You were under Manfroy's spell, being controlled by him.
+376	Manfroy... that's right, I was captured by that man...
+377	But I'm so glad, that you're safe.
+378	Lord Celice, I...
+379	You don't need to say anything more. I've heard everything from Levin.
+380	Julia... I'm sorry. If only I'd been stronger...
+381	No, this was for the best. I've finally learned, for the first time, the reason I've lived all this time.
+382	I will fight. I won't run away.
+383	I see... you really are strong, Julia. But you're right.
+384	It's a sad fate, but we can't run from it. We mustn't give up, not until the very end.
+385	Brother! Enough of this already! Why won't you understand my feelings!!
+386	Altena!?
+387	Brother, you're a coward! Clinging to pride and appearances, you've lost sight of what truly matters.
+388	What do you want me to do?
+389	Look at Prince Celice!
+390	Think, even just a little, about what he's fighting for, who he's suffering for.
+391	You're saying justice lies with Prince Celice...
+392	Brother... I can't fight anymore. If you truly won't understand, then defeat me first before you go.
+393	If I'm to die by your hand, brother... I have no regrets.
+394	Altena... I understand... say no more. I was the one who was wrong...
+395	My final work as a mercenary will be for Celice's sake — no, Altena, I'll fight for your sake.
+396	Arion... brother.........
 397	— (if Celice is your sweetheart)
-398	(Fee): Lord Celice, shall I go scout the enemy's movements?
-399	(Celice): No, don't be reckless. This battle is different from anything before. Fee, don't leave my side.
-400	(Fee): Yes.........
-401	(Celice): Fee, are you worried about Silesse?
-402	(Fee): Yeah, a little. The fighting must have started there too, I imagine.
-403	(Celice): It seems the people there have risen up. I hear the fighting is going favorably.
-404	(Fee): Really!? Ah, I'm so glad...
-405	(Celice): Do you want to go back to Silesse, Fee?
-406	(Fee): No, not at all! Being by your side, Lord Celice, is the best place for me.
-407	(Celice): I see... thank you, Fee. Having you here makes me feel so much stronger.
-408	(Fee): You're my dream, Lord Celice... I want to stay by your side forever...
+398	Lord Celice, shall I go scout the enemy's movements?
+399	No, don't be reckless. This battle is different from anything before. Fee, don't leave my side.
+400	Yes.........
+401	Fee, are you worried about Silesse?
+402	Yeah, a little. The fighting must have started there too, I imagine.
+403	It seems the people there have risen up. I hear the fighting is going favorably.
+404	Really!? Ah, I'm so glad...
+405	Do you want to go back to Silesse, Fee?
+406	No, not at all! Being by your side, Lord Celice, is the best place for me.
+407	I see... thank you, Fee. Having you here makes me feel so much stronger.
+408	You're my dream, Lord Celice... I want to stay by your side forever...
 409	— (if Arthur is your sweetheart)
-410	(Fee): Arthur, what are you doing?
-411	(Arthur): What do you mean, what am I doing — I'm fighting, obviously. Must be nice being so carefree, Fee.
-412	(Fee): Well, how rude!
-413	(Arthur): See, you're pouting again already. That's exactly why you...
-414	(Fee): You're going to say I'm not cute, aren't you! How mean!
-415	(Arthur): No, I mean people misunderstand you, that's all. You're cute, Fee — you're precious to me.
-416	(Fee): A-, Arthur... stop it!
-417	(Arthur): Fee, let's be together. Once this war is over, let's go back to Silesse and live together.
-418	(Fee): Arthur... you really mean it... yeah, I'm happy... thank you...
+410	Arthur, what are you doing?
+411	What do you mean, what am I doing — I'm fighting, obviously. Must be nice being so carefree, Fee.
+412	Well, how rude!
+413	See, you're pouting again already. That's exactly why you...
+414	You're going to say I'm not cute, aren't you! How mean!
+415	No, I mean people misunderstand you, that's all. You're cute, Fee — you're precious to me.
+416	A-, Arthur... stop it!
+417	Fee, let's be together. Once this war is over, let's go back to Silesse and live together.
+418	Arthur... you really mean it... yeah, I'm happy... thank you...
 419	— (if Oifey is your sweetheart, Fee)
-420	(Fee): Mr. Oifey, shall I go scout the enemy's movements?
-421	(Oifey): Fee, don't — you'd be shot down by their archers.
-422	(Fee): Say, Mr. Oifey...
-423	(Oifey): Mm...?
-424	(Fee): I think you're really admirable. You sacrificed your own life, living only for the prince's sake, didn't you.
-425	(Oifey): Mm... in the last war, we survived against our own wishes.
-426	(Oifey): And the mission left to us was something more painful than death itself. That was true for your father and mother too...
-427	(Fee): Lately, I've started to understand, just a little, the way my father and mother chose to live.
-428	(Fee): I was a child. But talking with you, Mr. Oifey, I've started to see so many things.
-429	(Oifey): I see... I was indebted to Lady Fury in the past too. Perhaps I've been able to repay a little of that debt now.
-430	(Fee): Um... Mr. Oifey, please keep teaching me all sorts of things from now on too. I want to become more grown-up.
-431	(Oifey): You don't need to force yourself to grow up so fast. It's fine to become an adult little by little.
-432	(Fee): No! If I do that, you'll end up an old man, Mr. Oifey!
-433	(Oifey): Hey now, Fee...
-434	(Meng): Sorry, but you're going to die!
-435	(Meng): Lady Ishtar, good fortune in battle...
-436	(Meng): .........die!
-437	(Meng): Lady Ishtar... sister...
-438	(Mabel): Take this, my certain-kill blade!!
-439	(Mabel): Lady Ishtar, please forgive me...
-440	(Ishtar): There's nothing left to say... I'll show you the final battle of Ishtar, the Thunder God!
-441	(Ishtar): Lord Julius... I...
+420	Mr. Oifey, shall I go scout the enemy's movements?
+421	Fee, don't — you'd be shot down by their archers.
+422	Say, Mr. Oifey...
+423	Mm...?
+424	I think you're really admirable. You sacrificed your own life, living only for the prince's sake, didn't you.
+425	Mm... in the last war, we survived against our own wishes.
+426	And the mission left to us was something more painful than death itself. That was true for your father and mother too...
+427	Lately, I've started to understand, just a little, the way my father and mother chose to live.
+428	I was a child. But talking with you, Mr. Oifey, I've started to see so many things.
+429	I see... I was indebted to Lady Fury in the past too. Perhaps I've been able to repay a little of that debt now.
+430	Um... Mr. Oifey, please keep teaching me all sorts of things from now on too. I want to become more grown-up.
+431	You don't need to force yourself to grow up so fast. It's fine to become an adult little by little.
+432	No! If I do that, you'll end up an old man, Mr. Oifey!
+433	Hey now, Fee...
+434	Sorry, but you're going to die!
+435	Lady Ishtar, good fortune in battle...
+436	.........die!
+437	Lady Ishtar... sister...
+438	Take this, my certain-kill blade!!
+439	Lady Ishtar, please forgive me...
+440	There's nothing left to say... I'll show you the final battle of Ishtar, the Thunder God!
+441	Lord Julius... I...
 442	(Julia (possessed)): Kukuku.........
 443	(Julia (possessed)): Uugh.........
-444	(Julia): Ahh......... Lord Celice.........
-445	(Arion): Forgive me...
-446	(Arion): Ngh... Altena...
-447	(Manfroy): How foolish... everything I've built over my entire lifetime... ngh, I will not forgive you!!
-448	(Manfroy): Lord Julius... please, the Loptr Empire, I beg you...
-449	(Celice): Levin, is it true that the Scripture of Naga is hidden in this castle?
+444	Ahh......... Lord Celice.........
+445	Forgive me...
+446	Ngh... Altena...
+447	How foolish... everything I've built over my entire lifetime... ngh, I will not forgive you!!
+448	Lord Julius... please, the Loptr Empire, I beg you...
+449	Levin, is it true that the Scripture of Naga is hidden in this castle?
 450	(Levin (Strategist)): Yes, it seems Emperor Arvis took it from the Belhalla palace and hid it here.
 451	(Levin (Strategist)): Isn't that right, Sir Felipe?
 452	(Palmarch (red)): Yes, it should be in this treasury. But it can't be opened without the key.
@@ -455,25 +455,25 @@
 455	(Palmarch (red)): If only we had that circlet, we could open it...
 456	(Levin (Strategist)): Queen Deirdre's circlet...
 457	(Levin (Strategist)): Julia, this is the treasury. Try holding the circlet's ornament against that hollow there.
-458	(Julia): Yes...
+458	Yes...
 459	(Levin (Strategist)): It opened, just as I thought... ah, there it is! This is the Scripture of Naga!! Julia, here, take it!
-460	(Julia): So this is... ahh, I feel such a strange sensation.
-461	(Julia): Something so nostalgic somehow... a warm feeling...
-462	(Julius): Hehehe... have you lost your senses? A mere thing like you could never defeat me.
-463	(Julius): Gwaaaaaaaaaaaah
-464	(Elder): Descendants of the brave, let me recite for you the poem of the holy warriors.
-465	(Elder): ~ The Black Knight Hezul, with the cursed blade Mystletainn, cleaves through the darkness,
-466	(Elder): the Holy Swordsman Od, with the holy sword Balmung, drives away the darkness,
-467	(Elder): the Holy Knight Baldr, with the holy sword Tyrfing, illuminates the darkness,
-468	(Elder): and finally, the saint Heim, with the Scripture of Naga, prays to the heavens.
-469	(Elder): That prayer becomes light, and the light becomes a white dragon, challenging the dark dragon to battle.
-470	(Elder): The white dragon and the black dragon, light and darkness, a long battle with no end in sight,
-471	(Elder): leading to either victory, or death.
-472	(Elder): But I shall not fear, even should our battle end in defeat.
-473	(Elder): The light we sought shall never be lost.
-474	(Elder): I believe in those who will carry on our hearts.
-475	(Elder): I believe in those who will carry on our light ~
-476	(Elder): How was that, quite a pleasant ring to it, wouldn't you say?
-477	(Elder): Brave ones, descendants of the holy warriors — whether this battle is a true holy war or not rests entirely in your hands.
-478	(Elder): Throw everything — all the strength and courage you've gathered until now — into this battle.
-479	(Elder): And believe that your future lies where those two lights shine!
+460	So this is... ahh, I feel such a strange sensation.
+461	Something so nostalgic somehow... a warm feeling...
+462	Hehehe... have you lost your senses? A mere thing like you could never defeat me.
+463	Gwaaaaaaaaaaaah
+464	Descendants of the brave, let me recite for you the poem of the holy warriors.
+465	~ The Black Knight Hezul, with the cursed blade Mystletainn, cleaves through the darkness,
+466	the Holy Swordsman Od, with the holy sword Balmung, drives away the darkness,
+467	the Holy Knight Baldr, with the holy sword Tyrfing, illuminates the darkness,
+468	and finally, the saint Heim, with the Scripture of Naga, prays to the heavens.
+469	That prayer becomes light, and the light becomes a white dragon, challenging the dark dragon to battle.
+470	The white dragon and the black dragon, light and darkness, a long battle with no end in sight,
+471	leading to either victory, or death.
+472	But I shall not fear, even should our battle end in defeat.
+473	The light we sought shall never be lost.
+474	I believe in those who will carry on our hearts.
+475	I believe in those who will carry on our light ~
+476	How was that, quite a pleasant ring to it, wouldn't you say?
+477	Brave ones, descendants of the holy warriors — whether this battle is a true holy war or not rests entirely in your hands.
+478	Throw everything — all the strength and courage you've gathered until now — into this battle.
+479	And believe that your future lies where those two lights shine!

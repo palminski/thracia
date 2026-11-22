@@ -10,74 +10,74 @@
 10	At the same time, in order to solve the root of the problem, they decided to also attack the Kingdom of Bern lying behind it.
 11	Roy, not wanting to stand in the shadow of the Lycian Alliance, and also considering the effect on Etruria's knightly orders and the like,
 12	deliberately chose to call it the "Etrurian Army," becoming commander of the coalition force.
-13	With the cooperation of the Church of Elimine,
-14	they set out on the expedition.
-15	But in addition to the temperament of the people of Sacae, who would not tolerate another nation's intrusion,
-16	the largest tribe, the Djute, had been brought under the command of General Brunnya, one of Bern's Three Dragon Generals,
-17	and so her formidable Bern western army stood in Roy and company's way.
-18	In the midst of all this, Roy and his group, as night fell, approached the border between Etruria and Sacae.
-19	(Brunnya): ...In other words, you're saying Narcian fell at Aquleia.
-20	(Soldier): Yes. It seems there's no mistake about it.
-21	(Brunnya): I see...
-22	(Roartz): B-Brunnya, my lady... What's going to become of us?
-23	(Brunnya): Don't worry.
-24	(Brunnya): I won't abandon those who have cooperated with me.
-25	(Brunnya): That much I, Brunnya, promise in the name of Bern's Three Dragon Generals.
-26	(Arcardo): Oh, how grateful I am...
-27	(Brunnya): Lord Arcardo, I'll leave Taras to you. Lord Roartz, I'll leave the land of Bulgar to you.
-28	(Brunnya): I'll entrust each of you with your own.
-29	(Arcardo): Wha— Wait just a moment!
-30	(Arcardo): So close to the capital, the enemy will come attacking right away, won't they!
-31	(Brunnya): Then you'll just have to repel them.
-32	(Brunnya): Also, being close to the capital is convenient when the time comes to go on the attack.
-33	(Arcardo): T-that's... true, but...
-34	(Roartz): Bulgar is the land of the foreign nation Sacae... I hear the nomads' resistance there is fierce...
-35	(Brunnya): Isn't making them submit exactly the kind of thing your skill is for?
-36	(Roartz): Mmm...
-37	(Brunnya): I hear that the enemy general, some boy called Roy, rebuilt the Lycian Alliance that we had crushed,
-38	(Brunnya): and overcame countless plots besides, growing into the force he is today.
-39	(Brunnya): Compared to that, the two of you now are practically living in heaven, aren't you?
-40	(Arcardo): Ugh...
-41	(Brunnya): Well then, I'll take my leave.
-42	(Brunnya): I pray that you'll manage to retake Etruria.
-43	(Soldier): ......
-44	(Soldier): ...Are you certain about this?
-45	(Brunnya): To cowards who abandoned their own country and fled in shame,
-46	(Brunnya): there's no reason to show them any more favor than is necessary.
-47	(Soldier): ......
-48	(Yodel): We'll soon be at Etruria's border.
-49	(Roy): Thank you so much, truly, for everything, Priest Yodel.
-50	(Roy): Thanks to you and the Church of Elimine, the preparations for the expedition went off without a hitch.
-51	(Yodel): Not at all. If Lord Roy hadn't retaken the capital Aquleia for us,
-52	(Yodel): we'd still be suffering under Bern's oppression even now, I'd say.
-53	(Yodel): When you think of it that way, this much is nothing.
-54	(Roy): I'm glad I could be of help.
-55	(Yodel): Lord Roy, actually, there's something I wanted to ask of you, if I may.
-56	(Roy): What is it? If it's something I can do...
-57	(Yodel): If, where you're headed from here, you learn anything new about the "dragons"...
-58	(Roy): I understand. I'll let Priest Yodel know each time something comes up.
-59	(Yodel): I'm grateful! I'll be counting on you.
-60	(Yodel): Oh, and there's one more thing I must tell you.
-61	(Yodel): As for the terrain around here, the roads grow narrow, hemmed in by mountains.
-62	(Yodel): And right now, it's night...
-63	(Roy): In other words, the perfect spot for an ambush.
-64	(Yodel): Yes. Past the road between the mountains lies Taras Castle, which is under Bern's control.
-65	(Roy): Understood. I'll make sure to proceed carefully.
-66	(Yodel): Well then.
-67	(Yodel): May fortune in war, and the blessing of the holy maiden Elimine, be upon the Etrurian army!
-68	(Civilian): You folks... are you going to fight against Bern's army?
-69	(Civilian): If so, please, take this staff with you.
-70	(Civilian): They say it's a staff that some famous princess once used...
-71	(Old man): Well, well. It's rare for anyone to come all the way out to this backwater.
-72	(Old man): What? The enemy's been eyeing this place?
-73	(Old man): I see... Then I must thank you properly.
-74	(Old man): Now, there should have been something here, a book for research purposes...
-75	(Civilian): Among Bern's soldiers, there was one strange fellow mixed in.
-76	(Civilian): That one's surely a thief.
-77	(Civilian): If we don't do something about it soon, the village is going to be in trouble, isn't it?
-78	(Civilian): Way, way to the northeast, there's supposed to be a village.
-79	(Civilian): From here, it's too far, so nobody's ever been there.
-80	(Civilian): I wonder if anyone's even living there after all?
+13	With the cooperation of the Church of Elimine, they set out on the expedition.
+14	But in addition to the temperament of the people of Sacae, who would not tolerate another nation's intrusion,
+15	the largest tribe, the Djute, had been brought under the command of General Brunnya, one of Bern's Three Dragon Generals,
+16	and so her formidable Bern western army stood in Roy and company's way.
+17	In the midst of all this, Roy and his group, as night fell, approached the border between Etruria and Sacae.
+18	...In other words, you're saying Narcian fell at Aquleia.
+19	Yes. It seems there's no mistake about it.
+20	I see...
+21	B-Brunnya, my lady... What's going to become of us?
+22	Don't worry.
+23	I won't abandon those who have cooperated with me.
+24	That much I, Brunnya, promise in the name of Bern's Three Dragon Generals.
+25	Oh, how grateful I am...
+26	Lord Arcardo, I'll leave Taras to you. Lord Roartz, I'll leave the land of Bulgar to you.
+27	I'll entrust each of you with your own.
+28	Wha— Wait just a moment!
+29	So close to the capital, the enemy will come attacking right away, won't they!
+30	Then you'll just have to repel them.
+31	Also, being close to the capital is convenient when the time comes to go on the attack.
+32	T-that's... true, but...
+33	Bulgar is the land of the foreign nation Sacae... I hear the nomads' resistance there is fierce...
+34	Isn't making them submit exactly the kind of thing your skill is for?
+35	Mmm...
+36	I hear that the enemy general, some boy called Roy, rebuilt the Lycian Alliance that we had crushed,
+37	and overcame countless plots besides, growing into the force he is today.
+38	Compared to that, the two of you now are practically living in heaven, aren't you?
+39	Ugh...
+40	Well then, I'll take my leave.
+41	I pray that you'll manage to retake Etruria.
+42	......
+43	...Are you certain about this?
+44	To cowards who abandoned their own country and fled in shame,
+45	there's no reason to show them any more favor than is necessary.
+46	They ought to be grateful I'm lending them land and troops at all.
+47	......
+48	We'll soon be at Etruria's border.
+49	Thank you so much, truly, for everything, Priest Yodel.
+50	Thanks to you and the Church of Elimine, the preparations for the expedition went off without a hitch.
+51	Not at all. If Lord Roy hadn't retaken the capital Aquleia for us,
+52	we'd still be suffering under Bern's oppression even now, I'd say.
+53	When you think of it that way, this much is nothing.
+54	I'm glad I could be of help.
+55	Lord Roy, actually, there's something I wanted to ask of you, if I may.
+56	What is it? If it's something I can do...
+57	If, where you're headed from here, you learn anything new about the "dragons"...
+58	I understand. I'll let Priest Yodel know each time something comes up.
+59	I'm grateful! I'll be counting on you.
+60	Oh, and there's one more thing I must tell you.
+61	As for the terrain around here, the roads grow narrow, hemmed in by mountains.
+62	And right now, it's night...
+63	In other words, the perfect spot for an ambush.
+64	Yes. Past the road between the mountains lies Taras Castle, which is under Bern's control.
+65	Understood. I'll make sure to proceed carefully.
+66	Well then.
+67	May fortune in war, and the blessing of the holy maiden Elimine, be upon the Etrurian army!
+68	You folks... are you going to fight against Bern's army?
+69	If so, please, take this staff with you.
+70	They say it's a staff that some famous princess once used...
+71	Well, well. It's rare for anyone to come all the way out to this backwater.
+72	What? The enemy's been eyeing this place?
+73	I see... Then I must thank you properly.
+74	Now, there should have been something here, a book for research purposes...
+75	Among Bern's soldiers, there was one strange fellow mixed in.
+76	That one's surely a thief.
+77	If we don't do something about it soon, the village is going to be in trouble, isn't it?
+78	Way, way to the northeast, there's supposed to be a village.
+79	From here, it's too far, so nobody's ever been there.
+80	I wonder if anyone's even living there after all?
 81	Wh— Why has it come to this!
 82	[If attacked with Klein] You, Klein! Betraying me, of all people—
 83	It's you who betrayed the nation of Etruria.
@@ -86,31 +86,31 @@
 86	So you ended up turning traitor to the enemy too? Damn you!!
 87	I... I am a... noble of Etruria.
 88	In... in a place like this... guh!...
-89	(Marinus): Lord Arcardo...
-90	(Marinus): Even someone who once served as Governor-General of Etruria's Western Isles,
-91	(Marinus): meets such an anticlimactic end in the end.
-92	(Roy): Yeah... A year ago, we couldn't have imagined we'd be standing here like this now either.
-93	(Roy): Maybe that's just how people's fates are.
-94	(Roy): And that goes for the King of Bern too, I'd think...
-95	(Marinus): ...Oh my, Lord Roy, that thing you're holding in your hand, what is it, might I ask?
-96	(Roy): This? They say this is the "Fire Emblem."
-97	(Marinus): My, my, this little jewel is...
-98	(Roy): I was entrusted with it by Princess Guinivere.
-99	(Roy): When she handed it over to me... she looked really pained.
-100	(Roy): I bet, right up to the end, she wanted to make King Zephiel reconsider...
-101	(Marinus): Hmm... the bond between brother and sister, is it?
-102	(Marinus): Honestly, I'd always thought it a rather unreasonable thing to hope for.
-103	(Roy): Why's that?
-104	(Marinus): The other party is none other than Bern's King Zephiel!
-105	(Marinus): After all, he's a man suspected of even having laid hands on his own father.
-106	(Marinus): For him to be moved by family ties is... hardly likely.
-107	(Roy): Wh— What did you say! His own father?
-108	(Marinus): Oh my, did Lord Roy not know?
-109	(Marinus): Zephiel came to sit on the throne as the current king through the death of Bern's previous king.
-110	(Marinus): As for the previous king of Bern, his death was so sudden
-111	(Marinus): that all sorts of dark rumors have been circulating.
-112	(Roy): And one of those is that his own son, the current king Zephiel...
-113	(Marinus): Assassinated him, yes.
-114	(Roy): ...I wonder if Princess Guinivere knows about that.
-115	(Marinus): That she wouldn't know at all seems... quite unlikely.
-116	(Roy): ......
+89	Lord Arcardo...
+90	Even someone who once served as Governor-General of Etruria's Western Isles,
+91	meets such an anticlimactic end in the end.
+92	Yeah... A year ago, we couldn't have imagined we'd be standing here like this now either.
+93	Maybe that's just how people's fates are.
+94	And that goes for the King of Bern too, I'd think...
+95	...Oh my, Lord Roy, that thing you're holding in your hand, what is it, might I ask?
+96	This? They say this is the "Fire Emblem."
+97	My, my, this little jewel is...
+98	I was entrusted with it by Princess Guinivere.
+99	When she handed it over to me... she looked really pained.
+100	I bet, right up to the end, she wanted to make King Zephiel reconsider...
+101	Hmm... the bond between brother and sister, is it?
+102	Honestly, I'd always thought it a rather unreasonable thing to hope for.
+103	Why's that?
+104	The other party is none other than Bern's King Zephiel!
+105	After all, he's a man suspected of even having laid hands on his own father.
+106	For him to be moved by family ties is... hardly likely.
+107	Wh— What did you say! His own father?
+108	Oh my, did Lord Roy not know?
+109	Zephiel came to sit on the throne as the current king through the death of Bern's previous king.
+110	As for the previous king of Bern, his death was so sudden
+111	that all sorts of dark rumors have been circulating.
+112	And one of those is that his own son, the current king Zephiel...
+113	Assassinated him, yes.
+114	...I wonder if Princess Guinivere knows about that.
+115	That she wouldn't know at all seems... quite unlikely.
+116	......

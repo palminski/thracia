@@ -9,337 +9,337 @@
 9	but he had failed to accomplish that purpose.
 10	The mine of death, Eblacum...
 11	There, the moans of people rounded up against their will echo on.
-12	(Miledy): I see...
-13	(Miledy): In other words, neither on this island of Fibernia nor on either of the other two islands—
-14	(Miledy): there's no chance the princess is there. That's what you're saying?
-15	(Orlo): Yes. As you asked,
-16	(Orlo): I had the Lycian Alliance army here investigated as well,
-17	(Orlo): but it seems no woman who could be Princess Guinivere was found.
-18	(Miledy): I see... Understood. I'll look elsewhere.
-19	(Miledy): Father Orlo, thank you for your consideration toward Bern.
-20	(Orlo): I'll pray that you're able to meet Princess Guinivere safely.
-21	(Miledy): Then, excuse me.
-22	(Soldier): Father Orlo, who was that just now...?
-23	(Orlo): A Bern dragon knight. Miledy, I believe she called herself.
-24	(Orlo): It seems she's searching for her liege, Princess Guinivere.
-25	(Soldier): Did you tell her anything?
-26	(Orlo): Of course not. I told her nothing. Naturally.
-27	(Orlo): Princess Guinivere is a precious hostage—our trump card as pro-Bern sympathizers.
-28	(Orlo): "The princess is hidden away by the mage general Cecilia, in Aquleia..."
-29	(Orlo): When Chancellor Roartz got hold of this information,
-30	(Orlo): his delight was about as great as when the assassination of Prince Mildain succeeded.
-31	(Orlo): So I heard from Lord Arcard.
-32	(Soldier): O— Father Orlo! Please don't say such reckless things as "assassination"—
-33	(Orlo): Ah, oops. My tongue slipped there.
-34	(Orlo): In any case, that's how valuable it is.
-35	(Soldier): Y-yes, I see...
-36	(Orlo): Anyway, what is it? Did you need something?
-37	(Soldier): Yes sir! About that village where the leader of the resistance is said to be hiding—
-38	(Soldier): preparations for the attack are complete, so I've come to report it.
-39	(Orlo): I see. Then attack at once—before any unwelcome interference arrives...
-40	(Roy): The resistance's hideout is somewhere in this town, right?
-41	(Larum): Yeah.
-42	(Larum): But the lord's men might already be closing in.
-43	(Marinus): But what a dreadful man—that lord, Orlo, is.
-44	(Marinus): A priest is supposed to preach god's teachings and relieve the people's suffering, isn't he?
-45	(Marinus): Instead of relieving it, he makes it worse—that is utterly unforgivable!!
-46	(Roy): I really should wait for a reply from Cecilia, but...
-47	(Soldier): Lord Roy!
-48	(Soldier): Soldiers have come out of the castle and are attacking the village!!
-49	(Marinus): Wh— what did you say!? Lord Roy, what will you do?
-50	(Roy): If I wait for instructions from Cecilia, we won't make it in time...
-51	(Roy): I want to help the people of this village.
-52	(Roy): Even if it worsens our relationship with Etruria because of it...
-53	(Roy): If all we think about is our own country's safety, we're no different from the lords ruling here.
-54	(Larum): Lord Roy...
-55	(Roy): Let's fight! So we can go back to Lycia with our heads held high!
-56	(Gale): So, Miledy—have you learned anything of Princess Guinivere's whereabouts?
-57	(Miledy): No...
-58	(Miledy): It seems she parted ways with the Lycian Alliance army.
-59	(Miledy): And just when I thought I'd finally gotten a lead...
-60	(Gale): So, in other words, searching the three western isles is pointless?
-61	(Miledy): Gale... I'm sorry.
-62	(Miledy): His Majesty ordered that the search for Lady Guinivere be kept secret,
-63	(Miledy): to be carried out by my unit alone, and yet—
-64	(Miledy): I've gone and dragged you into so much of it...
-65	(Gale): Don't bother yourself with pointless worries.
-66	(Miledy): But you're a commander directly under General Murdock, the foremost of the "Three Dragon Generals," aren't you?
-67	(Gale): Murdock has already approved of me helping you, Miledy.
-68	(Gale): Still, if that's the case—there's a good chance she's still on the continent.
-69	(Gale): In that case, that falls under General Narcian's jurisdiction... Shall I ask him for help?
-70	(Miledy): You mean bowing your head to General Narcian?
-71	(Gale): Hm? Of course—he's one of the "Three Dragon Generals," the pinnacle of Bern's army.
-72	(Gale): He's the commander of the "Bern Southern Army," which oversees the Lycia and Etruria region.
-73	(Miledy): ...Gale—doesn't it frustrate you?
-74	(Gale): What do you mean?
-75	(Miledy): One of the "Three Dragon Generals"... by skill alone, that should rightfully be you.
-76	(Miledy): Asking a favor of someone who stole the post with the excuse "you're not even Bernese"...
-77	(Gale): It's the truth. There's nothing to be done about it.
-78	(Miledy): But...
-79	(Gale): I'm perfectly satisfied with the position I have now.
-80	(Gale): His Majesty, and General Murdock too, value me highly even though I'm from another country.
-81	(Gale): I couldn't ask for anything more than that.
-82	(Miledy): Gale...
-83	(Orlo): Kukukuk, I've thought of a fine plan—is anyone there?
-84	(Soldier): You called?
-85	(Orlo): Tell the "bandits" that the town is in chaos.
-86	(Orlo): Have them use the confusion to make off with the treasures.
-87	(Soldier): Yes sir, but... are you sure that's wise?
-88	(Soldier): If this ever comes to light later...
-89	(Orlo): I am god's spokesman.
-90	(Orlo): If anyone were to doubt me, that would be as good as defying god himself...
-91	(Orlo): There isn't a single person on this island who could pass judgment on me.
-92	(Orlo): Besides, it's meaningless unless it's done while the chaos lasts—so hurry!
-93	(Soldier): Yes sir.
-94	(Klein): So that's the Lycian Alliance army.
-95	(Thea): Originally, they're the army that came at Etruria's request to put down the "bandits"... correct?
-96	(Klein): That's right. According to Lord Arcard, they're supposedly in league with the "bandits," tormenting the island's people.
-97	(Klein): Why would they do the opposite of the orders they were given... I can't understand it.
-98	(Thea): Yes sir.
-99	(Klein): Thea, would you lead the pegasus unit and circle around to the north?
-100	(Klein): I'll press the attack from here.
-101	(Thea): Understood. Then, if you'll excuse me—
-102	(Klein): Oh, Thea!
-103	(Thea): Yes, what is it?
-104	(Klein): I heard that you have sisters.
-105	(Thea): Yes, I have one older and one younger sister.
-106	(Klein): Are they all pegasus knights?
-107	(Thea): That's right. Why do you ask, so suddenly...?
-108	(Klein): Hm... actually, I have a younger sister myself.
-109	(Thea): She must be quite lovely, if she's General Klein's sister.
-110	(Klein): Thank you. She's got a stubborn streak, but she's a sweet girl.
-111	(Klein): But lately, it seems she got caught up in some incident, and... we don't know where she is.
-112	(Thea): What!? That's terrible...
-113	(Klein): I've had people searching for her all this time, but we haven't found her.
-114	(Klein): It's frustrating—if I didn't have this duty, I could search for her myself.
-115	(Thea): ......
-116	(Klein): Thea, take care of your life—for the sake of the family who cares about you too.
-117	(Thea): Yes. Thank you very much.
-118	(Klein): Well then—let's go!
-119	(Soldier): Are you certain, sir?
-120	(Klein): Certain of what?
-121	(Soldier): By Lord Arcard's orders, we're to put Ilia's mercenary pegasus unit at the front line,
-122	(Soldier): and have our own Etrurian main force avoid taking damage as much as possible...
-123	(Klein): Don't say such nonsense. They're comrades I trust.
-124	(Klein): My unit will also sortie at the same time—no, even ahead of them. Understood?
-125	(Soldier): Yes sir.
-126	(Klein): ...Still, Lord Arcard's story does seem rather unnatural.
-127	(Klein): Would an army that just arrived from Lycia suddenly turn out to be in league with "bandits"...?
-128	(Scollan): You're telling me we can attack the town as much as we like, really?
-129	(Soldier): You know the deal already—but in exchange...
-130	(Scollan): Half the treasure goes to the castle, right? Greedy as ever, that priest.
-131	(Soldier): Well then, I'll leave it to you.
-132	(Scollan): All right, boys! No need to hold back—grab every bit of treasure worth taking!
-133	(Soldier): Lord Roy! There's a report that what looks like "bandits" have appeared from the eastern mountains!
-134	(Roy): Using the chaos of battle to attack the town, are they? I won't let that happen!
-135	(Roy): I have to help the villagers.
-136	(Thea): Everyone ready? We're pushing south!
-137	(Soldier): ...Captain Thea, are you sure this is really all right?
-138	(Thea): Hm?
-139	(Soldier): I wonder if the Etrurian army intends to put us on the front line and use us as expendable...
-140	(Thea): Who told you such a thing?
-141	(Soldier): One of our men heard that rumor from the Etrurian main force in the south.
-142	(Thea): If we take every little rumor like that to heart, we won't be able to do anything.
-143	(Soldier): But...
-144	(Thea): Even if that story were true, General Klein surely wouldn't allow it.
-145	(Soldier): You really think so...?
-146	(Thea): The general isn't that kind of man. I believe in him.
-147	(Soldier): ...Understood. Then we'll believe in him too.
-148	(Soldier): Because we believe in you, Captain.
-149	(Thea): Thank you. Now, let's go.
-150	(Soldier): Listen, Echidna! We've surrounded this house completely!!
-151	(Soldier): We already know you're hiding here, thanks to a tip from one of the villagers!!
-152	(Soldier): There's no escaping now—drop your weapons and come out!!
-153	(Echidna): ......
-154	(Soldier): The resistance's leader, Echidna, I presume!?
-155	(Villager): I'm sorry! Echidna—my family was taken hostage, so...
-156	(Echidna): I understand. Forget about this—hurry back to your family.
-157	(Villager): I'm sorry. Really, I'm so sorry...
-158	(Soldier): If you surrender quietly, Father Orlo might show you mercy.
-159	(Echidna): Unfortunately, giving up just isn't my style.
-160	(Soldier): So you intend to resist? Then there's nothing for it.
-161	(Soldier): Get her!
-162	(Orlo): What in the world is going on!?
-163	(Orlo): Crushing the resistance shouldn't take this much time...
-164	(Soldier): It's the Lycian Alliance army!
-165	(Soldier): It seems they're fighting in support of the resistance...
-166	(Orlo): What did you say! The Lycian Alliance army?
-167	(Orlo): Do those people intend to raise a flag of rebellion against Etruria?
-168	(Soldier): Just now, a fast rider arrived from the governor's office in Juteau!
-169	(Soldier): "The Lycian Alliance army is suspected of murdering Lord Nord and plotting treason against Etruria"
-170	(Soldier): "Given the high likelihood they're also in league with the 'bandits,' capture them—and if necessary, killing them is acceptable"
-171	(Soldier): is what it says.
-172	(Orlo): So, Lord Nord... I see.
-173	(Orlo): In any case, it seems we now have a fine pretext to deal with the Lycian Alliance army.
-174	(Orlo): Claiming they're in league with "bandits"—what a forced excuse... kukukuk.
-175	(Soldier): Also, Lord Arcard of the governor's office has sent reinforcements of cavalry
-176	(Soldier): in order to capture the Lycian Alliance army!
-177	(Soldier): They should be arriving here shortly!!
-178	(Orlo): I see! Even "capture them" is probably just a pretext, after all...
-179	(Orlo): Let's crush the Lycian Alliance army here, once and for all—understood!
-180	(Soldier): Yes sir!
-181	(Roy): Please, wait! You're a general of Etruria, aren't you?
-182	(Roy): Why are you attacking us!?
-183	(Klein): By order of Lord Arcard, Governor-General of the Three Western Isles.
-184	(Klein): Prepare yourself.
-185	(Roy): You fight because you were ordered to? Closing your eyes to the horror right in front of you?
-186	(Roy): The people of this village are right now being cruelly mistreated by the very lord who should protect their livelihoods.
-187	(Roy): Aren't you ashamed, as a warrior, to be lending a hand to that?
-188	(Klein): ...Wait just a moment. Are you saying you're protecting the villagers?
-189	(Roy): Yes. Under the pretense of searching for the resistance, this land's lord
-190	(Roy): has his men attacking the village, and we're fighting to stop that.
-191	(Roy): And yet, you're trying to side with that lord—so...
-192	(Klein): I have no such intention.
-193	(Klein): I was told that you, the Lycian Alliance army, were in league with "bandits," committing crimes.
-194	(Roy): What!? That's ridiculous!
-195	(Roy): What reason would we have to team up with "bandits"!?
-196	(Roy): All we want is to help these three western isles, and then return to Lycia as soon as possible!
-197	(Klein): ...So I've been made a fool of.
-198	(Roy): Huh!?
-199	(Klein): It seems Lord Arcard has underestimated me.
-200	(Klein): My eyes aren't so clouded that I can't tell which side is the real "bandits"...
-201	(Roy): ...Do you mean you understand now?
-202	(Klein): I am Klein, of House Reglay, of the Kingdom of Etruria.
-203	(Klein): Though I didn't know the circumstances, I apologize for attacking you.
-204	(Roy): Oh— thank you very much!
-205	(Roy): I'm Roy of the Lycian Alliance, of House Pherae.
-206	(Klein): Lord Roy, I don't know what the full situation is, but—
-207	(Klein): since you've made an enemy of Lord Arcard, you'd best be careful.
-208	(Klein): Every lord on these three western isles, along with all their men,
-209	(Klein): will likely move to take your life.
-210	(Roy): I see, so it's come to that...
-211	(Klein): ...If you don't mind, let me accompany the Lycian Alliance army.
-212	(Roy): What! Are you sure!?
-213	(Klein): Yes. As we fight together,
-214	(Klein): I'll observe your conduct as an Etrurian soldier,
-215	(Klein): and that way, when the time comes, I believe I can be of help.
-216	(Roy): Thank you very much.
-217	(Clarine): Brother Klein!!
-218	(Klein): Clarine, is that you!
-219	(Klein): You're safe—what a relief.
-220	(Klein): When I heard you'd suddenly vanished from the manor, I was so worried...
-221	(Clarine): I'm sorry.
-222	(Clarine): I just... really wanted to see you, Brother...
-223	(Klein): Honestly, what reckless behavior—but I'm glad we got to meet like this.
-224	(Klein): ...Come to think of it, how did you get all the way out west? Did you hire someone trustworthy?
-225	(Clarine): No. I've been fighting alongside the Lycian Alliance, all the way here.
-226	(Klein): The Lycian Alliance, you say!?
-227	(Clarine): Yes. I've healed so many people with my healing staff.
-228	(Klein): ...I see. No wonder your eyes look so steady now.
-229	(Clarine): Hehe, I'm quite the proper lady now, you know.
-230	(Klein): ...There's one thing I'd like to ask.
-231	(Klein): In your eyes, Clarine—what sort of person is General Roy?
-232	(Clarine): Hm? Well, let's see... he's a bit lacking in refinement, for a noble.
-233	(Clarine): Especially that hair of his—it could use a little more grooming, I think...
-234	(Klein): ...I asked the wrong way.
-235	(Klein): Let me ask plainly—is General Roy the sort of person who'd team up with "bandits" and torment the people of this island?
-236	(Clarine): No way! Absolutely not, never!
-237	(Clarine): Because we've been wiping out "bandits" the whole time we've been here!
-238	(Klein): I see...
-239	(Clarine): The Etrurians stationed here were all rotten to the core.
-240	(Clarine): I was so ashamed... Brother, are you siding with those people?
-241	(Klein): No—hearing what you've said, Clarine, I already have my answer.
-242	(Clarine): Huh?
-243	(Klein): I was dispatched from Etruria to protect the people living in this western region.
-244	(Klein): To fulfill that duty, from this moment on, I will act together with the Lycian Alliance.
-245	(Clarine): Brother!
-246	(Klein): Let's go together, Clarine—you'll introduce me to General Roy, won't you?
-247	(Clarine): Yes! Yes, of course!! Oh, I love you so much, Brother Klein!!
+12	I see...
+13	In other words, neither on this island of Fibernia nor on either of the other two islands—
+14	there's no chance the princess is there. That's what you're saying?
+15	Yes. As you asked,
+16	I had the Lycian Alliance army here investigated as well,
+17	but it seems no woman who could be Princess Guinivere was found.
+18	I see... Understood. I'll look elsewhere.
+19	Father Orlo, thank you for your consideration toward Bern.
+20	I'll pray that you're able to meet Princess Guinivere safely.
+21	Then, excuse me.
+22	Father Orlo, who was that just now...?
+23	A Bern dragon knight. Miledy, I believe she called herself.
+24	It seems she's searching for her liege, Princess Guinivere.
+25	Did you tell her anything?
+26	Of course not. I told her nothing. Naturally.
+27	Princess Guinivere is a precious hostage—our trump card as pro-Bern sympathizers.
+28	"The princess is hidden away by the mage general Cecilia, in Aquleia..."
+29	When Chancellor Roartz got hold of this information,
+30	his delight was about as great as when the assassination of Prince Mildain succeeded.
+31	So I heard from Lord Arcard.
+32	O— Father Orlo! Please don't say such reckless things as "assassination"—
+33	Ah, oops. My tongue slipped there.
+34	In any case, that's how valuable it is.
+35	Y-yes, I see...
+36	Anyway, what is it? Did you need something?
+37	Yes sir! About that village where the leader of the resistance is said to be hiding—
+38	preparations for the attack are complete, so I've come to report it.
+39	I see. Then attack at once—before any unwelcome interference arrives...
+40	The resistance's hideout is somewhere in this town, right?
+41	Yeah.
+42	But the lord's men might already be closing in.
+43	But what a dreadful man—that lord, Orlo, is.
+44	A priest is supposed to preach god's teachings and relieve the people's suffering, isn't he?
+45	Instead of relieving it, he makes it worse—that is utterly unforgivable!!
+46	I really should wait for a reply from Cecilia, but...
+47	Lord Roy!
+48	Soldiers have come out of the castle and are attacking the village!!
+49	Wh— what did you say!? Lord Roy, what will you do?
+50	If I wait for instructions from Cecilia, we won't make it in time...
+51	I want to help the people of this village.
+52	Even if it worsens our relationship with Etruria because of it...
+53	If all we think about is our own country's safety, we're no different from the lords ruling here.
+54	Lord Roy...
+55	Let's fight! So we can go back to Lycia with our heads held high!
+56	So, Miledy—have you learned anything of Princess Guinivere's whereabouts?
+57	No...
+58	It seems she parted ways with the Lycian Alliance army.
+59	And just when I thought I'd finally gotten a lead...
+60	So, in other words, searching the three western isles is pointless?
+61	Gale... I'm sorry.
+62	His Majesty ordered that the search for Lady Guinivere be kept secret,
+63	to be carried out by my unit alone, and yet—
+64	I've gone and dragged you into so much of it...
+65	Don't bother yourself with pointless worries.
+66	But you're a commander directly under General Murdock, the foremost of the "Three Dragon Generals," aren't you?
+67	Murdock has already approved of me helping you, Miledy.
+68	Still, if that's the case—there's a good chance she's still on the continent.
+69	In that case, that falls under General Narcian's jurisdiction... Shall I ask him for help?
+70	You mean bowing your head to General Narcian?
+71	Hm? Of course—he's one of the "Three Dragon Generals," the pinnacle of Bern's army.
+72	He's the commander of the "Bern Southern Army," which oversees the Lycia and Etruria region.
+73	...Gale—doesn't it frustrate you?
+74	What do you mean?
+75	One of the "Three Dragon Generals"... by skill alone, that should rightfully be you.
+76	Asking a favor of someone who stole the post with the excuse "you're not even Bernese"...
+77	It's the truth. There's nothing to be done about it.
+78	But...
+79	I'm perfectly satisfied with the position I have now.
+80	His Majesty, and General Murdock too, value me highly even though I'm from another country.
+81	I couldn't ask for anything more than that.
+82	Gale...
+83	Kukukuk, I've thought of a fine plan—is anyone there?
+84	You called?
+85	Tell the "bandits" that the town is in chaos.
+86	Have them use the confusion to make off with the treasures.
+87	Yes sir, but... are you sure that's wise?
+88	If this ever comes to light later...
+89	I am god's spokesman.
+90	If anyone were to doubt me, that would be as good as defying god himself...
+91	There isn't a single person on this island who could pass judgment on me.
+92	Besides, it's meaningless unless it's done while the chaos lasts—so hurry!
+93	Yes sir.
+94	So that's the Lycian Alliance army.
+95	Originally, they're the army that came at Etruria's request to put down the "bandits"... correct?
+96	That's right. According to Lord Arcard, they're supposedly in league with the "bandits," tormenting the island's people.
+97	Why would they do the opposite of the orders they were given... I can't understand it.
+98	Yes sir.
+99	Thea, would you lead the pegasus unit and circle around to the north?
+100	I'll press the attack from here.
+101	Understood. Then, if you'll excuse me—
+102	Oh, Thea!
+103	Yes, what is it?
+104	I heard that you have sisters.
+105	Yes, I have one older and one younger sister.
+106	Are they all pegasus knights?
+107	That's right. Why do you ask, so suddenly...?
+108	Hm... actually, I have a younger sister myself.
+109	She must be quite lovely, if she's General Klein's sister.
+110	Thank you. She's got a stubborn streak, but she's a sweet girl.
+111	But lately, it seems she got caught up in some incident, and... we don't know where she is.
+112	What!? That's terrible...
+113	I've had people searching for her all this time, but we haven't found her.
+114	It's frustrating—if I didn't have this duty, I could search for her myself.
+115	......
+116	Thea, take care of your life—for the sake of the family who cares about you too.
+117	Yes. Thank you very much.
+118	Well then—let's go!
+119	Are you certain, sir?
+120	Certain of what?
+121	By Lord Arcard's orders, we're to put Ilia's mercenary pegasus unit at the front line,
+122	and have our own Etrurian main force avoid taking damage as much as possible...
+123	Don't say such nonsense. They're comrades I trust.
+124	My unit will also sortie at the same time—no, even ahead of them. Understood?
+125	Yes sir.
+126	...Still, Lord Arcard's story does seem rather unnatural.
+127	Would an army that just arrived from Lycia suddenly turn out to be in league with "bandits"...?
+128	You're telling me we can attack the town as much as we like, really?
+129	You know the deal already—but in exchange...
+130	Half the treasure goes to the castle, right? Greedy as ever, that priest.
+131	Well then, I'll leave it to you.
+132	All right, boys! No need to hold back—grab every bit of treasure worth taking!
+133	Lord Roy! There's a report that what looks like "bandits" have appeared from the eastern mountains!
+134	Using the chaos of battle to attack the town, are they? I won't let that happen!
+135	I have to help the villagers.
+136	Everyone ready? We're pushing south!
+137	...Captain Thea, are you sure this is really all right?
+138	Hm?
+139	I wonder if the Etrurian army intends to put us on the front line and use us as expendable...
+140	Who told you such a thing?
+141	One of our men heard that rumor from the Etrurian main force in the south.
+142	If we take every little rumor like that to heart, we won't be able to do anything.
+143	But...
+144	Even if that story were true, General Klein surely wouldn't allow it.
+145	You really think so...?
+146	The general isn't that kind of man. I believe in him.
+147	...Understood. Then we'll believe in him too.
+148	Because we believe in you, Captain.
+149	Thank you. Now, let's go.
+150	Listen, Echidna! We've surrounded this house completely!!
+151	We already know you're hiding here, thanks to a tip from one of the villagers!!
+152	There's no escaping now—drop your weapons and come out!!
+153	......
+154	The resistance's leader, Echidna, I presume!?
+155	I'm sorry! Echidna—my family was taken hostage, so...
+156	I understand. Forget about this—hurry back to your family.
+157	I'm sorry. Really, I'm so sorry...
+158	If you surrender quietly, Father Orlo might show you mercy.
+159	Unfortunately, giving up just isn't my style.
+160	So you intend to resist? Then there's nothing for it.
+161	Get her!
+162	What in the world is going on!?
+163	Crushing the resistance shouldn't take this much time...
+164	It's the Lycian Alliance army!
+165	It seems they're fighting in support of the resistance...
+166	What did you say! The Lycian Alliance army?
+167	Do those people intend to raise a flag of rebellion against Etruria?
+168	Just now, a fast rider arrived from the governor's office in Juteau!
+169	"The Lycian Alliance army is suspected of murdering Lord Nord and plotting treason against Etruria"
+170	"Given the high likelihood they're also in league with the 'bandits,' capture them—and if necessary, killing them is acceptable"
+171	is what it says.
+172	So, Lord Nord... I see.
+173	In any case, it seems we now have a fine pretext to deal with the Lycian Alliance army.
+174	Claiming they're in league with "bandits"—what a forced excuse... kukukuk.
+175	Also, Lord Arcard of the governor's office has sent reinforcements of cavalry
+176	in order to capture the Lycian Alliance army!
+177	They should be arriving here shortly!!
+178	I see! Even "capture them" is probably just a pretext, after all...
+179	Let's crush the Lycian Alliance army here, once and for all—understood!
+180	Yes sir!
+181	Please, wait! You're a general of Etruria, aren't you?
+182	Why are you attacking us!?
+183	By order of Lord Arcard, Governor-General of the Three Western Isles.
+184	Prepare yourself.
+185	You fight because you were ordered to? Closing your eyes to the horror right in front of you?
+186	The people of this village are right now being cruelly mistreated by the very lord who should protect their livelihoods.
+187	Aren't you ashamed, as a warrior, to be lending a hand to that?
+188	...Wait just a moment. Are you saying you're protecting the villagers?
+189	Yes. Under the pretense of searching for the resistance, this land's lord
+190	has his men attacking the village, and we're fighting to stop that.
+191	And yet, you're trying to side with that lord—so...
+192	I have no such intention.
+193	I was told that you, the Lycian Alliance army, were in league with "bandits," committing crimes.
+194	What!? That's ridiculous!
+195	What reason would we have to team up with "bandits"!?
+196	All we want is to help these three western isles, and then return to Lycia as soon as possible!
+197	...So I've been made a fool of.
+198	Huh!?
+199	It seems Lord Arcard has underestimated me.
+200	My eyes aren't so clouded that I can't tell which side is the real "bandits"...
+201	...Do you mean you understand now?
+202	I am Klein, of House Reglay, of the Kingdom of Etruria.
+203	Though I didn't know the circumstances, I apologize for attacking you.
+204	Oh— thank you very much!
+205	I'm Roy of the Lycian Alliance, of House Pherae.
+206	Lord Roy, I don't know what the full situation is, but—
+207	since you've made an enemy of Lord Arcard, you'd best be careful.
+208	Every lord on these three western isles, along with all their men,
+209	will likely move to take your life.
+210	I see, so it's come to that...
+211	...If you don't mind, let me accompany the Lycian Alliance army.
+212	What! Are you sure!?
+213	Yes. As we fight together,
+214	I'll observe your conduct as an Etrurian soldier,
+215	and that way, when the time comes, I believe I can be of help.
+216	Thank you very much.
+217	Brother Klein!!
+218	Clarine, is that you!
+219	You're safe—what a relief.
+220	When I heard you'd suddenly vanished from the manor, I was so worried...
+221	I'm sorry.
+222	I just... really wanted to see you, Brother...
+223	Honestly, what reckless behavior—but I'm glad we got to meet like this.
+224	...Come to think of it, how did you get all the way out west? Did you hire someone trustworthy?
+225	No. I've been fighting alongside the Lycian Alliance, all the way here.
+226	The Lycian Alliance, you say!?
+227	Yes. I've healed so many people with my healing staff.
+228	...I see. No wonder your eyes look so steady now.
+229	Hehe, I'm quite the proper lady now, you know.
+230	...There's one thing I'd like to ask.
+231	In your eyes, Clarine—what sort of person is General Roy?
+232	Hm? Well, let's see... he's a bit lacking in refinement, for a noble.
+233	Especially that hair of his—it could use a little more grooming, I think...
+234	...I asked the wrong way.
+235	Let me ask plainly—is General Roy the sort of person who'd team up with "bandits" and torment the people of this island?
+236	No way! Absolutely not, never!
+237	Because we've been wiping out "bandits" the whole time we've been here!
+238	I see...
+239	The Etrurians stationed here were all rotten to the core.
+240	I was so ashamed... Brother, are you siding with those people?
+241	No—hearing what you've said, Clarine, I already have my answer.
+242	Huh?
+243	I was dispatched from Etruria to protect the people living in this western region.
+244	To fulfill that duty, from this moment on, I will act together with the Lycian Alliance.
+245	Brother!
+246	Let's go together, Clarine—you'll introduce me to General Roy, won't you?
+247	Yes! Yes, of course!! Oh, I love you so much, Brother Klein!!
 248	(Only if Roy recruited Klein as an NPC ally)
-249	(Clarine): Brother Klein!!
-250	(Klein): Clarine, is that you!
-251	(Klein): You're safe—what a relief.
-252	(Klein): When I heard you'd suddenly vanished from the manor, I was so worried...
-253	(Clarine): I'm sorry.
-254	(Clarine): I just... really wanted to see you, Brother...
-255	(Klein): Honestly, what reckless behavior—but I'm glad we got to meet like this.
-256	(Klein): ...Come to think of it—how did you end up here?
-257	(Clarine): I've been fighting alongside the Lycian Alliance, all the way here.
-258	(Klein): The Lycian Alliance, you say!?
-259	(Clarine): Yes.
-260	(Klein): I see... that must have been tough, Clarine.
-261	(Clarine): Hehe. I'm quite the proper lady now, you know.
-262	(Larum): Lady Echidna!
-263	(Echidna): Larum—good, you're safe.
-264	(Echidna): Thank goodness—you serve Elffin, our strategist, personally, after all.
-265	(Echidna): If anything happened to you, I couldn't face Elffin.
-266	(Larum): I'm sorry—if I hadn't been caught, I could've brought word sooner...
-267	(Echidna): It's all right, don't worry about it.
-268	(Larum): But...
-269	(Echidna): No use moping over what's done—that's not like you, Larum.
-270	(Echidna): I'm fine, safe and sound, just like this—isn't that enough?
-271	(Larum): Y-yeah.
-272	(Echidna): So? Which army is it attacking here right now?
-273	(Larum): It's Lord Roy of the Lycian Alliance army! He's come to put down the "bandits"!
-274	(Echidna): Lycia... that's quite a long way to come, isn't it.
-275	(Echidna): Well, if they're a strong army, I suppose it doesn't matter either way.
-276	(Echidna): So, do you think they'll fight alongside us?
-277	(Larum): Yeah—they helped me too, after all!
-278	(Echidna): All right! Then I'll fight with them too—that's fine, isn't it?
-279	(Larum): Really?
-280	(Larum): If Lady Echidna joins us, Lord Roy will be absolutely delighted!
-281	(Shanna): Big sister!
-282	(Thea): Shanna... why are you here?
-283	(Shanna): Same goes for you, big sister.
-284	(Thea): ...I signed a contract with Etruria's General Klein.
-285	(Thea): Shanna, did you also come as a mercenary for the Lycian Alliance army?
-286	(Shanna): Yeah.
-287	(Thea): I see... then there's only one answer.
-288	(Thea): Ready your lance, Shanna.
-289	(Shanna): No, wait—we don't have to fight!
-290	(Shanna): General Klein said he'd become our ally.
-291	(Thea): What! Really?
-292	(Shanna): Yeah.
-293	(Thea): ...I understand.
-294	(Thea): In that case, in this battle, I'll side with you and Shanna.
-295	(Shanna): Thank you! Big sister.
+249	Brother Klein!!
+250	Clarine, is that you!
+251	You're safe—what a relief.
+252	When I heard you'd suddenly vanished from the manor, I was so worried...
+253	I'm sorry.
+254	I just... really wanted to see you, Brother...
+255	Honestly, what reckless behavior—but I'm glad we got to meet like this.
+256	...Come to think of it—how did you end up here?
+257	I've been fighting alongside the Lycian Alliance, all the way here.
+258	The Lycian Alliance, you say!?
+259	Yes.
+260	I see... that must have been tough, Clarine.
+261	Hehe. I'm quite the proper lady now, you know.
+262	Lady Echidna!
+263	Larum—good, you're safe.
+264	Thank goodness—you serve Elffin, our strategist, personally, after all.
+265	If anything happened to you, I couldn't face Elffin.
+266	I'm sorry—if I hadn't been caught, I could've brought word sooner...
+267	It's all right, don't worry about it.
+268	But...
+269	No use moping over what's done—that's not like you, Larum.
+270	I'm fine, safe and sound, just like this—isn't that enough?
+271	Y-yeah.
+272	So? Which army is it attacking here right now?
+273	It's Lord Roy of the Lycian Alliance army! He's come to put down the "bandits"!
+274	Lycia... that's quite a long way to come, isn't it.
+275	Well, if they're a strong army, I suppose it doesn't matter either way.
+276	So, do you think they'll fight alongside us?
+277	Yeah—they helped me too, after all!
+278	All right! Then I'll fight with them too—that's fine, isn't it?
+279	Really?
+280	If Lady Echidna joins us, Lord Roy will be absolutely delighted!
+281	Big sister!
+282	Shanna... why are you here?
+283	Same goes for you, big sister.
+284	...I signed a contract with Etruria's General Klein.
+285	Shanna, did you also come as a mercenary for the Lycian Alliance army?
+286	Yeah.
+287	I see... then there's only one answer.
+288	Ready your lance, Shanna.
+289	No, wait—we don't have to fight!
+290	General Klein said he'd become our ally.
+291	What! Really?
+292	Yeah.
+293	...I understand.
+294	In that case, in this battle, I'll side with you and Shanna.
+295	Thank you! Big sister.
 296	(Only if Klein has already joined)
-297	(Klein): Thea.
-298	(Thea): General Klein! What brings you here?
-299	(Klein): From here on, we're going to fight on Lord Roy's side.
-300	(Thea): ! ...Understood. Then, we will too.
-301	(Klein): Won't you ask the reason why?
-302	(Thea): We're mercenaries.
-303	(Thea): If our employer, General Klein, has made that decision,
-304	(Thea): then we'll follow it. Besides that...
-305	(Klein): Besides that?
-306	(Thea): I believe in General Klein—that he'd never make the wrong call.
-307	(Klein): Thank you, Thea.
-308	(Villager): Our lives under Orlo's rule have been a miserable thing.
-309	(Villager): Robbed of all future and hope—just barely kept alive, nothing more...
-310	(Villager): Please—let me too lend a hand somehow.
-311	(Child): Here, take this.
-312	(Child): This feather has magic on it, you know—use it, and you'll get a lot faster.
-313	(Child): It's no lie, really, it's true.
-314	(Child): You've got to believe it from the bottom of your heart, or it won't make you faster.
-315	(Child): I'm the one who has to deliver the village's money to the castle.
-316	(Child): If I don't deliver it properly, the village will get burned down by those guys.
-317	(Child): But, this money—I'll give it to you.
-318	(Child): I don't want to keep living trampled on anymore.
-319	(Child): Watching you all—that's what made me decide.
-320	(Villager): This staff was originally meant to be handed over to Orlo.
-321	(Villager): Those men are equipped with some fairly powerful weapons, bought with money stolen from us.
-322	(Villager): There may be even more terrifying weapons waiting for you out there...
-323	(Villager): Please don't lose—for our sake too.
-324	(Villager): Oh, you must be with the resistance!
-325	(Villager): No? Ah... I see—well, one never knows where enemy eyes might be watching.
-326	(Villager): Here, please take this—before the soldiers arrive.
-327	(Villager): We believe in you.
-328	(Villager): Staffs~ Anyone need a staff~?
-329	(Villager): Huh, have we met somewhere before~? Maybe it's just my imagination...
-330	(Villager): Oh, how about a staff~? Works great, you know~
-331	(Villager): No, it can't heal wounds at all—it restores conditions back to normal.
-332	(Villager): Huh? You don't want it? Oh, come on~
-333	(Villager): I'll throw one in for free, just this once~ so buy from me next time, okay~
-334	(Villager): That dusty old lance? Sure, take it, it's yours.
-335	(Villager): It's the one my idiot big brother used to use, back when he was alive.
-336	(Villager): Weak as he was, going on about "fighting for justice" and acting all cool.
-337	(Villager): And then he got himself killed just like that. What an idiot.
-338	(Villager): Really... he was such an idiot.
-339	(Villager): You all are outsiders, and yet you're working this hard for us.
-340	(Villager): We can't just sit around twiddling our thumbs either.
-341	(Villager): If you've got an archer among your allies, this should come in handy.
-342	(Villager): It's nothing much, but please, use it if you'd like.
+297	Thea.
+298	General Klein! What brings you here?
+299	From here on, we're going to fight on Lord Roy's side.
+300	! ...Understood. Then, we will too.
+301	Won't you ask the reason why?
+302	We're mercenaries.
+303	If our employer, General Klein, has made that decision,
+304	then we'll follow it. Besides that...
+305	Besides that?
+306	I believe in General Klein—that he'd never make the wrong call.
+307	Thank you, Thea.
+308	Our lives under Orlo's rule have been a miserable thing.
+309	Robbed of all future and hope—just barely kept alive, nothing more...
+310	Please—let me too lend a hand somehow.
+311	Here, take this.
+312	This feather has magic on it, you know—use it, and you'll get a lot faster.
+313	It's no lie, really, it's true.
+314	You've got to believe it from the bottom of your heart, or it won't make you faster.
+315	I'm the one who has to deliver the village's money to the castle.
+316	If I don't deliver it properly, the village will get burned down by those guys.
+317	But, this money—I'll give it to you.
+318	I don't want to keep living trampled on anymore.
+319	Watching you all—that's what made me decide.
+320	This staff was originally meant to be handed over to Orlo.
+321	Those men are equipped with some fairly powerful weapons, bought with money stolen from us.
+322	There may be even more terrifying weapons waiting for you out there...
+323	Please don't lose—for our sake too.
+324	Oh, you must be with the resistance!
+325	No? Ah... I see—well, one never knows where enemy eyes might be watching.
+326	Here, please take this—before the soldiers arrive.
+327	We believe in you.
+328	Staffs~ Anyone need a staff~?
+329	Huh, have we met somewhere before~? Maybe it's just my imagination...
+330	Oh, how about a staff~? Works great, you know~
+331	No, it can't heal wounds at all—it restores conditions back to normal.
+332	Huh? You don't want it? Oh, come on~
+333	I'll throw one in for free, just this once~ so buy from me next time, okay~
+334	That dusty old lance? Sure, take it, it's yours.
+335	It's the one my idiot big brother used to use, back when he was alive.
+336	Weak as he was, going on about "fighting for justice" and acting all cool.
+337	And then he got himself killed just like that. What an idiot.
+338	Really... he was such an idiot.
+339	You all are outsiders, and yet you're working this hard for us.
+340	We can't just sit around twiddling our thumbs either.
+341	If you've got an archer among your allies, this should come in handy.
+342	It's nothing much, but please, use it if you'd like.
 343	(If attacked by Elen) You... though you're one who serves god...
 344	So what if I am.
 345	Before the words of "god," everything is forgiven...
@@ -355,93 +355,93 @@
 355	Receive divine punishment!
 356	Th— this blasphemer...
 357	I am... god's spokesman, you know... guh...
-358	(Marinus): Lord Roy! There's a young man here claiming to be one of the resistance...
-359	(Roy): Of course I'll see him. Show him in.
-360	(Elffin): Lord Roy, I presume. This is our first meeting—I am Elffin.
-361	(Elffin): I serve as the resistance's strategist.
-362	(Roy): I'm Roy, of the Lycian Alliance army.
-363	(Elffin): Thank you for saving this village.
-364	(Roy): No, we only did what was natural to do.
-365	(Elffin): Natural? Through this battle, your army
-366	(Elffin): has, in effect, raised a "rebellion" against Etruria, you know.
-367	(Elffin): I imagine you must have considered that, haven't you?
-368	(Roy): Even so, it doesn't matter.
-369	(Roy): It's true that, if you look only at the facts of the action we took,
-370	(Roy): it could well be taken as "rebellion," and that can't be helped.
-371	(Roy): But if people learn the true state of this island, that suspicion should vanish.
-372	(Roy): There wasn't time to return and explain the reason, so I sent a messenger to someone I trust.
-373	(Roy): If that person acts on it, I believe the situation will improve.
-374	(Elffin): That's... I wonder about that.
-375	(Roy): What do you mean?
-376	(Elffin): The request for the Lycian Alliance army to "subdue the bandits"... didn't you find that odd?
-377	(Roy): That... of course I did.
-378	(Elffin): This is purely my own hypothesis—please listen with that in mind.
-379	(Elffin): The ones who, behind the scenes, requested that you "subdue the bandits" were
-380	(Elffin): Chancellor Roartz and Arcard, Governor-General of the Three Western Isles...
-381	(Roy): Ho— how do you know that?
-382	(Elffin): Why would these two have needed to drive you all the way out here to the far west—
-383	(Elffin): to a place so far removed from the continent?
-384	(Elffin): Would it be a problem for them if you were in Lycia?
-385	(Elffin): Or perhaps there's some other reason?
-386	(Roy): I've never thought about it that way before...
-387	(Elffin): Among Etruria's chief vassals, there's even a rumor that those two are actually in league with Bern...
-388	(Roy): Wh— what did you say!? If that's true, then Lycia is in danger...
-389	(Marinus): R— Lord Roy!!
-390	(Elffin): Perhaps your homeland is in crisis?
-391	(Elffin): Shouldn't you leave this island behind and return?
-392	(Marinus): T— that's right!! This fellow seems to be quite the sharp one.
-393	(Marinus): If the Kingdom of Bern has its sights on Lycia and drove us away, we must return as soon as possible...
-394	(Roy): ...I'm not going back.
-395	(Marinus): Lord Roy!? Whatever for—
-396	(Elffin): ......
-397	(Roy): Right now, it's very hard to judge what the right thing to do is.
-398	(Roy): At times like this, the most dangerous thing is to take the information put in front of you at face value.
-399	(Roy): I learned a great deal back in Ostia.
-400	(Roy): That when the information you have is nothing but uncertain, you should try to see through to whatever's closest to the truth.
-401	(Roy): I am worried about Lycia... but still—
-402	(Roy): Father is there in Lycia, and Cecilia is watching over things too.
-403	(Roy): But here, there's no one but us.
-404	(Marinus): That is... well, true, but...
-405	(Roy): If we abandon this place and go home as it stands, everything we've accomplished here
-406	(Roy): would become a complete lie. Don't you think so too?
-407	(Elffin): ...It seems you've been blessed with a fine teacher.
-408	(Roy): Huh?
-409	(Elffin): Lord Roy—please forgive my rudeness in testing you like that.
-410	(Marinus): What!? Testing him!? You scoundrel—have you been lying to us this whole time!!
-411	(Elffin): I haven't spoken a single falsehood... but
-412	(Elffin): I did dangle in front of you the answer I thought you'd be tempted to jump at.
-413	(Elffin): And yet, Lord Roy, you never lost sight of yourself...
-414	(Elffin): This is someone I'd like to entrust my life to—that's what I think.
-415	(Elffin): Lord Roy, please, take me on as one of your retainers.
-416	(Roy): ...Being tested like that wasn't a pleasant feeling, but—
-417	(Roy): if you'll lend us your strength, I welcome you.
-418	(Elffin): Well then...
-419	(Roy): Yes—let's fight together!
-420	(Roy): Now then, right away—what should we do to save this western region?
-421	(Elffin): I think we should head for Juteau.
-422	(Elffin): To help all the people of these three western isles, we must strike at the root cause tormenting them—
-423	(Elffin): the governor's office that Etruria has set up there.
-424	(Roy): Understood.
-425	(Roy): Let's go! To the Etrurian governor's office in Juteau!
-426	(Roy): To save the people of the west! To fight our true enemy!!
+358	Lord Roy! There's a young man here claiming to be one of the resistance...
+359	Of course I'll see him. Show him in.
+360	Lord Roy, I presume. This is our first meeting—I am Elffin.
+361	I serve as the resistance's strategist.
+362	I'm Roy, of the Lycian Alliance army.
+363	Thank you for saving this village.
+364	No, we only did what was natural to do.
+365	Natural? Through this battle, your army
+366	has, in effect, raised a "rebellion" against Etruria, you know.
+367	I imagine you must have considered that, haven't you?
+368	Even so, it doesn't matter.
+369	It's true that, if you look only at the facts of the action we took,
+370	it could well be taken as "rebellion," and that can't be helped.
+371	But if people learn the true state of this island, that suspicion should vanish.
+372	There wasn't time to return and explain the reason, so I sent a messenger to someone I trust.
+373	If that person acts on it, I believe the situation will improve.
+374	That's... I wonder about that.
+375	What do you mean?
+376	The request for the Lycian Alliance army to "subdue the bandits"... didn't you find that odd?
+377	That... of course I did.
+378	This is purely my own hypothesis—please listen with that in mind.
+379	The ones who, behind the scenes, requested that you "subdue the bandits" were
+380	Chancellor Roartz and Arcard, Governor-General of the Three Western Isles...
+381	Ho— how do you know that?
+382	Why would these two have needed to drive you all the way out here to the far west—
+383	to a place so far removed from the continent?
+384	Would it be a problem for them if you were in Lycia?
+385	Or perhaps there's some other reason?
+386	I've never thought about it that way before...
+387	Among Etruria's chief vassals, there's even a rumor that those two are actually in league with Bern...
+388	Wh— what did you say!? If that's true, then Lycia is in danger...
+389	R— Lord Roy!!
+390	Perhaps your homeland is in crisis?
+391	Shouldn't you leave this island behind and return?
+392	T— that's right!! This fellow seems to be quite the sharp one.
+393	If the Kingdom of Bern has its sights on Lycia and drove us away, we must return as soon as possible...
+394	...I'm not going back.
+395	Lord Roy!? Whatever for—
+396	......
+397	Right now, it's very hard to judge what the right thing to do is.
+398	At times like this, the most dangerous thing is to take the information put in front of you at face value.
+399	I learned a great deal back in Ostia.
+400	That when the information you have is nothing but uncertain, you should try to see through to whatever's closest to the truth.
+401	I am worried about Lycia... but still—
+402	Father is there in Lycia, and Cecilia is watching over things too.
+403	But here, there's no one but us.
+404	That is... well, true, but...
+405	If we abandon this place and go home as it stands, everything we've accomplished here
+406	would become a complete lie. Don't you think so too?
+407	...It seems you've been blessed with a fine teacher.
+408	Huh?
+409	Lord Roy—please forgive my rudeness in testing you like that.
+410	What!? Testing him!? You scoundrel—have you been lying to us this whole time!!
+411	I haven't spoken a single falsehood... but
+412	I did dangle in front of you the answer I thought you'd be tempted to jump at.
+413	And yet, Lord Roy, you never lost sight of yourself...
+414	This is someone I'd like to entrust my life to—that's what I think.
+415	Lord Roy, please, take me on as one of your retainers.
+416	...Being tested like that wasn't a pleasant feeling, but—
+417	if you'll lend us your strength, I welcome you.
+418	Well then...
+419	Yes—let's fight together!
+420	Now then, right away—what should we do to save this western region?
+421	I think we should head for Juteau.
+422	To help all the people of these three western isles, we must strike at the root cause tormenting them—
+423	the governor's office that Etruria has set up there.
+424	Understood.
+425	Let's go! To the Etrurian governor's office in Juteau!
+426	To save the people of the west! To fight our true enemy!!
 427	(Only if all villages were visited)
-428	(Villager): Oh, so you're General Roy.
-429	(Roy): That's right, but...
-430	(Villager): Thanks to you, this town has been saved.
-431	(Villager): This is a token of everyone's gratitude—please, accept it.
+428	Oh, so you're General Roy.
+429	That's right, but...
+430	Thanks to you, this town has been saved.
+431	This is a token of everyone's gratitude—please, accept it.
 432	(Only if all of Klein's unit (NPC) survived)
-433	(Soldier): General Klein.
-434	(Soldier): As you ordered, we'll remain here to handle matters after the battle.
-435	(Klein): I'm counting on you.
-436	(Soldier): It's a shame we won't be able to fight alongside you, General, but...
-437	(Soldier): This arrow we were keeping for you—please take it with you, General.
-438	(Soldier): Good luck out there.
-439	(Klein): Thank you.
+433	General Klein.
+434	As you ordered, we'll remain here to handle matters after the battle.
+435	I'm counting on you.
+436	It's a shame we won't be able to fight alongside you, General, but...
+437	This arrow we were keeping for you—please take it with you, General.
+438	Good luck out there.
+439	Thank you.
 440	(Only if all of Thea's unit (NPC) survived)
-441	(Soldier): Captain Thea!
-442	(Soldier): We're going to return to Ilia once to make our report.
-443	(Thea): Yes, I'm counting on you.
-444	(Soldier): Ah—also, this...
-445	(Soldier): Before we set out, your big sister entrusted this to us.
-446	(Soldier): Please, take care of yourself...
-447	(Thea): You too.
+441	Captain Thea!
+442	We're going to return to Ilia once to make our report.
+443	Yes, I'm counting on you.
+444	Ah—also, this...
+445	Before we set out, your big sister entrusted this to us.
+446	Please, take care of yourself...
+447	You too.

@@ -5,218 +5,218 @@
 5	If Fae should fall into the hands of the coup faction — and Bern lurking behind them — it would be a disaster.
 6	Roy and the others traced Fae's whereabouts
 7	and headed for a small fort near the Etrurian border.
-8	(Soldier): General Raith.
-9	(Soldier): It's about that strange girl we caught earlier.
-10	(Raith): The girl? ...Ah, the one who was said to be loitering around the castle.
-11	(Raith): What, you're still dealing with that thing?
-12	(Raith): Just throw her out of the castle already!
-13	(Soldier): W-well, the thing is, that girl had this on her...
-14	(Raith): Hm? ...Is this a Dragonstone?
-15	(Soldier): ...I thought so too, which is why I came to report it.
-16	(Raith): You've seen a Dragonstone before?
-17	(Soldier): Yes, during the invasion of Lycia...
-18	(Soldier): "Dragons" always carried one when in human form.
-19	(Raith): ...But it feels a little different from the ones they had.
-20	(Raith): Either way, this concerns the "dragons."
-21	(Raith): It would be best to report to His Majesty Zephiel and receive instructions.
-22	(Raith): Make sure that girl doesn't escape the castle! Keep close watch!
+8	General Raith.
+9	It's about that strange girl we caught earlier.
+10	The girl? ...Ah, the one who was said to be loitering around the castle.
+11	What, you're still dealing with that thing?
+12	Just throw her out of the castle already!
+13	W-well, the thing is, that girl had this on her...
+14	Hm? ...Is this a Dragonstone?
+15	...I thought so too, which is why I came to report it.
+16	You've seen a Dragonstone before?
+17	Yes, during the invasion of Lycia...
+18	"Dragons" always carried one when in human form.
+19	...But it feels a little different from the ones they had.
+20	Either way, this concerns the "dragons."
+21	It would be best to report to His Majesty Zephiel and receive instructions.
+22	Make sure that girl doesn't escape the castle! Keep close watch!
 23	*Only if Perceval was not recruited in Chapter 13
-24	(Douglas): Percival, there's no need to push yourself.
-25	(Perceval): Lord Douglas, please don't worry about me. Please return to King Mordred's side.
-26	(Douglas): Putting down the Lycian Alliance army
-27	(Douglas): isn't work that calls for a "Knight-General" to show up in person.
-28	(Douglas): Leaving it entirely to you... that cunning Roartz.
-29	(Perceval): I imagine he's wary of my betraying him.
-30	(Perceval): If I stay in the royal capital, who knows when my throat might be slit, he must think.
-31	(Douglas): That man, wary of betrayal from his own kin? Ha! Don't make me laugh.
-32	(Douglas): That man was the first to betray his loyalty to His Majesty!
-33	(Perceval): Lord Douglas, there is no one whose loyalty runs as deep as yours.
-34	(Douglas): If we're saying that, Percival, you're no different.
-35	(Perceval): ...When Prince Myrddin was still alive, I never once wavered.
-36	(Perceval): I believed I would serve the Kingdom of Etruria for life and never lose sight of my loyalty.
-37	(Perceval): To fulfill my duty for His Majesty's life... that alone should be reason enough to fight, and yet—
-38	(Douglas): Are you having doubts?
-39	(Perceval): A little.
-40	(Perceval): But it's no problem. Nothing changes because of it.
-41	(Douglas): I see...
-42	(Douglas): Percival, from here on, this is just me talking to myself. Even if you can hear me, don't answer.
-43	(Perceval): ......
-44	(Douglas): Etruria, you see...
-45	(Douglas): will perish along with His Majesty, without waiting for this war to end...
-46	(Perceval): ! Lord Douglas!?
-47	(Douglas): Listen!
-48	(Douglas): No matter what happens, I will remain by His Majesty's side until my final day.
-49	(Douglas): No matter what happens.
-50	(Douglas): But Percival, you are different. You're the man who must carry the next Etruria on his shoulders.
-51	(Douglas): I can't say it now, but someday, without fail, a day will come when glory returns to Etruria.
-52	(Douglas): So leave Etruria soon, and wait for your time.
-53	(Perceval): Lord Douglas! Just what do you—
-54	(Soldier): General Percival, sir! We've spotted the Lycian Alliance army ahead!
-55	(Soldier): Your orders!!
-56	(Douglas): Go. I'll return to Aquleia as well.
-57	(Perceval): ...After the Lycian Alliance army! Forward!!
-58	(Roy): That dragon girl named Fae, is that castle where she was taken?
-59	(Marinus): Yes, people from around here say they saw it happen.
-60	(Igrene): Sir Roy, I'm sorry for the trouble our village's people have caused...
-61	(Igrene): My apologies, even though you're hurrying along the road to the royal capital Aquleia.
-62	(Roy): No, it would be a disaster if that girl fell into enemy hands.
-63	(Igrene): As long as the Dragonstone isn't found, I think she should be safe while in human form.
-64	(Roy): What exactly is this "Dragonstone"?
-65	(Igrene): While in human form,
-66	(Igrene): it's a stone that seals away a "dragon's" true power.
-67	(Igrene): To maintain a "dragon's" true form in this world apparently requires a tremendous amount of power.
-68	(Igrene): Normally, by taking "human" form, the loss of power is kept to a minimum.
-69	(Roy): I wonder if the "one who is not human" took human form for the same reason.
-70	(Igrene): From what you told me the other day, I'd guess that's likely so.
-71	(Igrene): Apparently, it was after the "War of Dragons and Men" that "dragons" started taking human form.
-72	(Roy): From that long ago...
-73	(Igrene): Yes.
-74	(Marinus): Sir Roy.
-75	(Marinus): The one I sent to scout the castle has returned.
-76	(Roy): How did it go?
-77	(Marinus): Well, it seems quite a number of soldiers came out from the castle just now.
-78	(Marinus): They appear to be heightening their guard.
-79	(Roy): I see... if that's so, they may have found out she's a "dragon."
-80	(Marinus): And to make matters worse, it seems the army guarding the border has noticed us.
-81	(Roy): We need to rescue that girl quickly.
-82	(Garret): So this is going to be a battlefield too, huh...
-83	(Bandit): So, what do we do, Boss Garret!
-84	(Garret): The army's lot is going to take it anyway.
-85	(Garret): So there's no harm in us taking it for ourselves.
-86	(Garret): Let's go ahead and clean out the treasures from the villages around here.
-87	(Bandit): Yes, sir!
-88	(Garret): But don't you go killing anyone you don't need to.
-89	(Bandit): Yes, sir...
-90	(Bandit): You're too soft, really.
-91	(Bandit): Well, if it comes to it, we can just blame the army's lot.
-92	(Soldier): Lord Raith, the reinforcements are ready!
-93	(Raith): Good, tell them to deploy in order.
-94	(Soldier): Yes, sir.
-95	(Larum): Lord Perceval~! It's Lord Perceval, right~?
-96	(Larum): Oh good, I've been looking for you~ I'm, you see~...
-97	(Larum): Wah, hey! Wait a second!! Stop your horse and listen to me!
-98	(Perceval): ...Who are you?
-99	(Larum): Shocked... We should've met a few times already!
-100	(Perceval): ...I feel like I saw you at Lord Douglas's mansion.
-101	(Larum): Yes! That's it! See, you do know me after all!
-102	(Perceval): The one I saw there was a bit more... ordinary-looking girl.
-103	(Larum): What? What's that supposed to mean!?
-104	(Larum): Well, never mind that, more importantly—
-105	(Larum): I'm Larum! I've come on an errand from Prince Myrddin!
-106	(Perceval): Prince... Myrddin, you say?
-107	(Perceval): Don't talk nonsense. The prince died in an accident a year ago.
-108	(Larum): Heh heh heh...
-109	(Larum): Ta-dah! Doesn't this crest catch your eye?
-110	(Perceval): !! That's... the prince's...!
-111	(Larum): Heh, seems I've impressed you.
-112	(Larum): Then look at this letter too! The prince wrote it for you, Lord Perceval!
-113	(Perceval): ...... ...... ......
-114	(Perceval): This is certainly... the prince's handwriting.
-115	(Perceval): I see... so he was alive after all... Then there's no need to hesitate any longer!
-116	(Perceval): If the prince is with the Lycian Alliance, then there's only one path for me to take.
-117	(Larum): Eh? Already?
-118	(Larum): Mmm... I had so much more prepared for this~
-119	(Larum): I was planning to say something dramatic like "If you'll still fight, then cut me down instead!"~
-120	(Roy): General Perceval!
-121	(Perceval): General Roy.
-122	(Perceval): Allow me to lend you my strength as well.
-123	(Perceval): Would that be all right?
-124	(Roy): Of course!
-125	(Roy): To have someone of General Perceval's caliber join our side—
-126	(Roy): there's nothing more reassuring than that. But why the sudden change of heart?
-127	(Perceval): ...Must I give a reason?
-128	(Roy): No, if there are circumstances you can't speak of, I won't force it out of you.
-129	(Perceval): I'm sorry... When the time comes, I'll tell you.
-130	(Lilina): Wait!
-131	(Garret): What's this, who are you?
-132	(Lilina): Why? Why do you people attack villages like this?
-133	(Garret): Huh? What, who are you?
-134	(Lilina): Please, tell me the reason you attack villages!
-135	(Garret): A reason... a reason, huh.
-136	(Garret): Well, if I had to say, maybe it's your fault.
-137	(Lilina): Our... fault?
-138	(Garret): That's right. Thanks to you lot running your war,
-139	(Garret): more and more people like us, who can't eat without stealing, keep piling up.
-140	(Lilina): We're fighting in order to help people like that.
-141	(Garret): Heh, heh. Everyone says that, all in chorus.
-142	(Garret): But what's the reality? All talk, and nothing you actually do for us.
-143	(Garret): In the end, you lot just can't see the people who get trampled underfoot.
-144	(Garret): So, once you understand that, hurry up and get out of the way.
-145	(Lilina): ...I won't.
-146	(Garret): What did you say!? Hey, you'd better quit it before—
-147	(Lilina): I'm not moving from here.
-148	(Lilina): If you want to attack, go ahead and do as you please...
-149	(Garret): Wha...
-150	(Lilina): If I move from here now... I'll become one of those people who are nothing but empty talk, just like you say.
-151	(Lilina): But I'm telling the truth! We really are fighting to save people!
-152	(Garret): You...
-153	(Garret): ...Heh heh. To think there's someone these days who seriously believes such a pointless thing.
-154	(Lilina): Pointless... is it?
-155	(Lilina): Our... feelings...
-156	(Garret): Still, you know, it's not bad, that kind of thing.
-157	(Lilina): ! Ah... then—
-158	(Garret): ...You win. I lose to you.
-159	(Garret): Since I've lost, let me fight alongside you too.
-160	(Garret): Let's see this "truth" you're talking about.
-161	(Lilina): Thank you.
-162	(Lilina): It'll be fine. If we keep fighting together, I believe people will come to understand, surely.
-163	(Garret): Heh, quite the confidence you've got there.
-164	(Garret): Name's Garret. Anyway, nice to meet ya... uh, what was it again?
-165	(Lilina): Lilina.
-166	(Garret): Nice to meet you, Lilina.
-167	(Civilian): That little one who was wandering around in front of our house...
-168	(Civilian): Poor thing, she got taken off to the castle.
-169	(Civilian): Here, I'll give you this, so won't you do something about it for us?
-170	(Civilian): It's a book the priest who used to live in our village treasured.
-171	(Civilian): That priest too... got caught by the people at the castle, and never came back after that.
-172	(Civilian): This is Mahamane's Rod, a rod that repairs your belongings.
-173	(Civilian): It restores any weapon, tome, or rod to brand new condition.
-174	(Civilian): But there's just one thing it can't fix, you know what that is?
-175	(Civilian): That's right, this rod itself.
-176	(Civilian): It repairs everything... while it alone just withers away.
-177	(Elder): Rumor has it that the Three Generals of Etruria have scattered to the winds, I heard...
-178	(Elder): The hearts of us common folk too have become completely shattered.
-179	(Elder): I just hope it doesn't come to the same Three Generals fighting one another...
-180	(Civilian): Lately, it seems bandits have been showing up around here.
-181	(Civilian): It's dangerous, isn't it... surely some heartless, merciless fellow.
+24	Percival, there's no need to push yourself.
+25	Lord Douglas, please don't worry about me. Please return to King Mordred's side.
+26	Putting down the Lycian Alliance army
+27	isn't work that calls for a "Knight-General" to show up in person.
+28	Leaving it entirely to you... that cunning Roartz.
+29	I imagine he's wary of my betraying him.
+30	If I stay in the royal capital, who knows when my throat might be slit, he must think.
+31	That man, wary of betrayal from his own kin? Ha! Don't make me laugh.
+32	That man was the first to betray his loyalty to His Majesty!
+33	Lord Douglas, there is no one whose loyalty runs as deep as yours.
+34	If we're saying that, Percival, you're no different.
+35	...When Prince Myrddin was still alive, I never once wavered.
+36	I believed I would serve the Kingdom of Etruria for life and never lose sight of my loyalty.
+37	To fulfill my duty for His Majesty's life... that alone should be reason enough to fight, and yet—
+38	Are you having doubts?
+39	A little.
+40	But it's no problem. Nothing changes because of it.
+41	I see...
+42	Percival, from here on, this is just me talking to myself. Even if you can hear me, don't answer.
+43	......
+44	Etruria, you see...
+45	will perish along with His Majesty, without waiting for this war to end...
+46	! Lord Douglas!?
+47	Listen!
+48	No matter what happens, I will remain by His Majesty's side until my final day.
+49	No matter what happens.
+50	But Percival, you are different. You're the man who must carry the next Etruria on his shoulders.
+51	I can't say it now, but someday, without fail, a day will come when glory returns to Etruria.
+52	So leave Etruria soon, and wait for your time.
+53	Lord Douglas! Just what do you—
+54	General Percival, sir! We've spotted the Lycian Alliance army ahead!
+55	Your orders!!
+56	Go. I'll return to Aquleia as well.
+57	...After the Lycian Alliance army! Forward!!
+58	That dragon girl named Fae, is that castle where she was taken?
+59	Yes, people from around here say they saw it happen.
+60	Sir Roy, I'm sorry for the trouble our village's people have caused...
+61	My apologies, even though you're hurrying along the road to the royal capital Aquleia.
+62	No, it would be a disaster if that girl fell into enemy hands.
+63	As long as the Dragonstone isn't found, I think she should be safe while in human form.
+64	What exactly is this "Dragonstone"?
+65	While in human form,
+66	it's a stone that seals away a "dragon's" true power.
+67	To maintain a "dragon's" true form in this world apparently requires a tremendous amount of power.
+68	Normally, by taking "human" form, the loss of power is kept to a minimum.
+69	I wonder if the "one who is not human" took human form for the same reason.
+70	From what you told me the other day, I'd guess that's likely so.
+71	Apparently, it was after the "War of Dragons and Men" that "dragons" started taking human form.
+72	From that long ago...
+73	Yes.
+74	Sir Roy.
+75	The one I sent to scout the castle has returned.
+76	How did it go?
+77	Well, it seems quite a number of soldiers came out from the castle just now.
+78	They appear to be heightening their guard.
+79	I see... if that's so, they may have found out she's a "dragon."
+80	And to make matters worse, it seems the army guarding the border has noticed us.
+81	We need to rescue that girl quickly.
+82	So this is going to be a battlefield too, huh...
+83	So, what do we do, Boss Garret!
+84	The army's lot is going to take it anyway.
+85	So there's no harm in us taking it for ourselves.
+86	Let's go ahead and clean out the treasures from the villages around here.
+87	Yes, sir!
+88	But don't you go killing anyone you don't need to.
+89	Yes, sir...
+90	You're too soft, really.
+91	Well, if it comes to it, we can just blame the army's lot.
+92	Lord Raith, the reinforcements are ready!
+93	Good, tell them to deploy in order.
+94	Yes, sir.
+95	Lord Perceval~! It's Lord Perceval, right~?
+96	Oh good, I've been looking for you~ I'm, you see~...
+97	Wah, hey! Wait a second!! Stop your horse and listen to me!
+98	...Who are you?
+99	Shocked... We should've met a few times already!
+100	...I feel like I saw you at Lord Douglas's mansion.
+101	Yes! That's it! See, you do know me after all!
+102	The one I saw there was a bit more... ordinary-looking girl.
+103	What? What's that supposed to mean!?
+104	Well, never mind that, more importantly—
+105	I'm Larum! I've come on an errand from Prince Myrddin!
+106	Prince... Myrddin, you say?
+107	Don't talk nonsense. The prince died in an accident a year ago.
+108	Heh heh heh...
+109	Ta-dah! Doesn't this crest catch your eye?
+110	!! That's... the prince's...!
+111	Heh, seems I've impressed you.
+112	Then look at this letter too! The prince wrote it for you, Lord Perceval!
+113	...... ...... ......
+114	This is certainly... the prince's handwriting.
+115	I see... so he was alive after all... Then there's no need to hesitate any longer!
+116	If the prince is with the Lycian Alliance, then there's only one path for me to take.
+117	Eh? Already?
+118	Mmm... I had so much more prepared for this~
+119	I was planning to say something dramatic like "If you'll still fight, then cut me down instead!"~
+120	General Perceval!
+121	General Roy.
+122	Allow me to lend you my strength as well.
+123	Would that be all right?
+124	Of course!
+125	To have someone of General Perceval's caliber join our side—
+126	there's nothing more reassuring than that. But why the sudden change of heart?
+127	...Must I give a reason?
+128	No, if there are circumstances you can't speak of, I won't force it out of you.
+129	I'm sorry... When the time comes, I'll tell you.
+130	Wait!
+131	What's this, who are you?
+132	Why? Why do you people attack villages like this?
+133	Huh? What, who are you?
+134	Please, tell me the reason you attack villages!
+135	A reason... a reason, huh.
+136	Well, if I had to say, maybe it's your fault.
+137	Our... fault?
+138	That's right. Thanks to you lot running your war,
+139	more and more people like us, who can't eat without stealing, keep piling up.
+140	We're fighting in order to help people like that.
+141	Heh, heh. Everyone says that, all in chorus.
+142	But what's the reality? All talk, and nothing you actually do for us.
+143	In the end, you lot just can't see the people who get trampled underfoot.
+144	So, once you understand that, hurry up and get out of the way.
+145	...I won't.
+146	What did you say!? Hey, you'd better quit it before—
+147	I'm not moving from here.
+148	If you want to attack, go ahead and do as you please...
+149	Wha...
+150	If I move from here now... I'll become one of those people who are nothing but empty talk, just like you say.
+151	But I'm telling the truth! We really are fighting to save people!
+152	You...
+153	...Heh heh. To think there's someone these days who seriously believes such a pointless thing.
+154	Pointless... is it?
+155	Our... feelings...
+156	Still, you know, it's not bad, that kind of thing.
+157	! Ah... then—
+158	...You win. I lose to you.
+159	Since I've lost, let me fight alongside you too.
+160	Let's see this "truth" you're talking about.
+161	Thank you.
+162	It'll be fine. If we keep fighting together, I believe people will come to understand, surely.
+163	Heh, quite the confidence you've got there.
+164	Name's Garret. Anyway, nice to meet ya... uh, what was it again?
+165	Lilina.
+166	Nice to meet you, Lilina.
+167	That little one who was wandering around in front of our house...
+168	Poor thing, she got taken off to the castle.
+169	Here, I'll give you this, so won't you do something about it for us?
+170	It's a book the priest who used to live in our village treasured.
+171	That priest too... got caught by the people at the castle, and never came back after that.
+172	This is Mahamane's Rod, a rod that repairs your belongings.
+173	It restores any weapon, tome, or rod to brand new condition.
+174	But there's just one thing it can't fix, you know what that is?
+175	That's right, this rod itself.
+176	It repairs everything... while it alone just withers away.
+177	Rumor has it that the Three Generals of Etruria have scattered to the winds, I heard...
+178	The hearts of us common folk too have become completely shattered.
+179	I just hope it doesn't come to the same Three Generals fighting one another...
+180	Lately, it seems bandits have been showing up around here.
+181	It's dangerous, isn't it... surely some heartless, merciless fellow.
 182	Hm, I don't understand this... why attack this castle now?
 183	There's something going on here, isn't there? Something...
 184	I thought as much... that girl... she isn't human, is she.
 185	Her goal is the same as ours... to make use of the dragon... I'd wager.
-186	(Marinus): Sir Roy, I found the dragon girl!
-187	(Elder): You found her! I'm coming now!
-188	(Marinus): There now, girl, won't you greet Sir Roy properly?
-189	(Fae): Sniff, sniff...
-190	(Roy): It's all right, Marinus.
-191	(Roy): ...Why did you go and follow us off on your own like that?
-192	(Fae): Because... I wanted to see outside, that's why...
-193	(Marinus): What did you say!? Just for that reason...
-194	(Marinus): Do you have any idea how much of an uproar this caused!
-195	(Fae): But, but
-196	(Fae): Fae was never, ever, ever let outside!
-197	(Fae): ...I wasn't supposed to be seen by people's eyes, and I was always, always
-198	(Fae): always in a dark room, that's why...
-199	(Roy): ......
-200	(Marinus): Sir Roy, what will you do?
-201	(Roy): ...You must have had it rough too, huh. But still,
-202	(Roy): because of that, you caused trouble for the village elder and a lot of other people, you understand that, right?
-203	(Fae): I-I'm sorry...
-204	(Roy): Do you really regret it?
-205	(Fae): Yeah.
-206	(Roy): Then from here on, you can come along with us if you want.
-207	(Fae): Eh! Really?
-208	(Marinus): ...Are you sure?
-209	(Roy): There's a chance the enemy has already learned this child exists.
-210	(Roy): Rather than send her back as she is, it'd be better to keep her where we can watch over her.
-211	(Fae): Yay, yay!
-212	(Marinus): Now don't you go getting carried away!
-213	(Roy): But you can't go wandering off on your own anymore, understand?
-214	(Fae): Okay! Fae promises!
+186	Sir Roy, I found the dragon girl!
+187	You found her! I'm coming now!
+188	There now, girl, won't you greet Sir Roy properly?
+189	Sniff, sniff...
+190	It's all right, Marinus.
+191	...Why did you go and follow us off on your own like that?
+192	Because... I wanted to see outside, that's why...
+193	What did you say!? Just for that reason...
+194	Do you have any idea how much of an uproar this caused!
+195	But, but
+196	Fae was never, ever, ever let outside!
+197	...I wasn't supposed to be seen by people's eyes, and I was always, always
+198	always in a dark room, that's why...
+199	......
+200	Sir Roy, what will you do?
+201	...You must have had it rough too, huh. But still,
+202	because of that, you caused trouble for the village elder and a lot of other people, you understand that, right?
+203	I-I'm sorry...
+204	Do you really regret it?
+205	Yeah.
+206	Then from here on, you can come along with us if you want.
+207	Eh! Really?
+208	...Are you sure?
+209	There's a chance the enemy has already learned this child exists.
+210	Rather than send her back as she is, it'd be better to keep her where we can watch over her.
+211	Yay, yay!
+212	Now don't you go getting carried away!
+213	But you can't go wandering off on your own anymore, understand?
+214	Okay! Fae promises!
 215	*Only if the entire Knight-General unit of NPCs survives
-216	(Soldier): General Perceval.
-217	(Soldier): Until further orders, we will stand by at this castle and prepare for an attack from the coup faction.
-218	(Perceval): I'm counting on you.
-219	(Soldier): This is treasure we found within the castle. Please, take it.
-220	(Soldier): Then, General... regarding Etruria... please, we beg you.
-221	(Perceval): I understand. Leave it to me.
-222	(Soldier): Yes, sir!
+216	General Perceval.
+217	Until further orders, we will stand by at this castle and prepare for an attack from the coup faction.
+218	I'm counting on you.
+219	This is treasure we found within the castle. Please, take it.
+220	Then, General... regarding Etruria... please, we beg you.
+221	I understand. Leave it to me.
+222	Yes, sir!

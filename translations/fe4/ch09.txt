@@ -12,351 +12,351 @@
 12	and were ready to take up arms themselves to fight them.
 13	Was there any justice in this fight? For whose sake were they fighting?
 14	For Celice and his companions, this was their first true trial...
-15	(Travant): Altena! What is the meaning of this! Why didn't you attack Manster!?
-16	(Altena): Father... but...
-17	(Travant): I don't want to hear excuses! Altena, don't you dare take me for a fool.
-18	(Travant): Even though you're a woman, you excel at the art of war, and I expected you, together with Arion, to serve as my hands and feet.
-19	(Travant): And yet, look at this — you ignored my orders, lost your men for nothing, and came crawling back here,
-20	(Travant): I'm... utterly disappointed in you.
-21	(Altena): I'm sorry, but, father! Is it really happiness for the people of Thracia
-22	(Altena): to grow rich by oppressing the people of other nations? Father, what you're doing is simply too...
-23	(Arion): Silence, Altena. This isn't something for the likes of you to speak up about. Be quiet and obey father for now!
-24	(Arion): Father, Altena is still young. Facing real battle for the first time, her emotions must simply be running high.
-25	(Arion): Please, just this once, forgive her.
-26	(Travant): Arion, it's because you coddle her like this that Altena gets so full of herself.
-27	(Travant): Altena, I'll give you one more chance. Lead the dragon knight corps and retake Miloah.
-28	(Travant): If you fail again this time, I won't show mercy even to my own daughter. Understood?
-29	(Altena): Yes.........
-30	(Travant): Heh, blood is a frightening thing... that girl hates me...
-31	(Arion): Father, Altena is still a child. Spoiled by you, she just lashes out with whatever resentful words come to mind...
-32	(Travant): Enough of that... I'm going to Capathogia Castle. That Hannibal fellow seems unhappy with my methods.
-33	(Travant): I need to take precautions, in case he betrays us.
-34	(Arion): ...father is afraid... whatever has happened to him...
-35	(Travant): General Hannibal, the rebels have seized Miloah Castle. Altena is already moving to attack.
-36	(Travant): You too, send out your armored knight corps.
-37	(Hannibal): Your Majesty, as I've said many times already, this fight is meaningless.
-38	(Hannibal): We should make peace with the Liberation Army and focus on building up our national strength for now.
-39	(Hannibal): Joining hands with the Empire is out of the question — it would turn the people against us.
-40	(Travant): Don't talk nonsense! They killed my men and stole Miloah Castle!
-41	(Travant): There's no making peace now!
-42	(Hannibal): I see... there's no helping it, then.
-43	(Travant): You're not planning to betray me, are you, Hannibal?
-44	(Hannibal): I am a warrior of some renown myself. There's no way I would ever betray you!
-45	(Travant): Is that so. Then, let me see proof of that loyalty.
-46	(Travant): Until this battle is over, I'll be keeping your son with me.
-47	(Hannibal): King Travant! Do you not trust me at all!?
-48	(Travant): If you have no intention of betraying me, then you have no reason to worry about your son's life.
-49	(Hannibal): What in the world...
-50	(Travant): Bring Hannibal's son here!
-51	(Coirpre): Father...
-52	(Hannibal): Coirpre... I'm sorry...
-53	(Travant): Don't worry. Once this battle is over, I'll give him back.
-54	(Travant): But Hannibal, he isn't even your real child, is he — and yet you dote on him this much?
-55	(Hannibal): Coirpre is my treasure. Blood ties have nothing to do with it...
-56	(Travant): Hahaha, so even Thracia's great general has a weakness for children. Well then, I'm counting on you, Hannibal!
-57	(Travant): Dislar, the battle is about to begin. Is the castle's defense without fault?
-58	(Dislar): Why, Your Majesty Travant, welcome. What an honor to have you visit.
-59	(Dislar): Lutecia Castle's defenses are perfect — please, rest assured.
-60	(Travant): I'm counting on you. That Hannibal of Capathogia can't be trusted.
-61	(Travant): I've taken his son hostage. Keep watch over him here at Lutecia Castle.
-62	(Dislar): Yes, leave it to me. But, should Hannibal ever try to betray us...
-63	(Travant): At that time, kill the boy. Just because he's a child, show no mercy.
-64	(Dislar): Yes sir, understood.
-65	(Travant): Lord Judah, as per our long-standing pact, Emperor Arvis will be sending reinforcements, won't he?
-66	(Judah): King Travant, you really are a cautious man. Rest assured — the Imperial Knights are already on their way here.
-67	(Travant): I see, then good. I'll leave the defense of this castle in your hands.
-68	(Travant): Watch out, so the rebels don't catch you off guard!
+15	Altena! What is the meaning of this! Why didn't you attack Manster!?
+16	Father... but...
+17	I don't want to hear excuses! Altena, don't you dare take me for a fool.
+18	Even though you're a woman, you excel at the art of war, and I expected you, together with Arion, to serve as my hands and feet.
+19	And yet, look at this — you ignored my orders, lost your men for nothing, and came crawling back here,
+20	I'm... utterly disappointed in you.
+21	I'm sorry, but, father! Is it really happiness for the people of Thracia
+22	to grow rich by oppressing the people of other nations? Father, what you're doing is simply too...
+23	Silence, Altena. This isn't something for the likes of you to speak up about. Be quiet and obey father for now!
+24	Father, Altena is still young. Facing real battle for the first time, her emotions must simply be running high.
+25	Please, just this once, forgive her.
+26	Arion, it's because you coddle her like this that Altena gets so full of herself.
+27	Altena, I'll give you one more chance. Lead the dragon knight corps and retake Miloah.
+28	If you fail again this time, I won't show mercy even to my own daughter. Understood?
+29	Yes.........
+30	Heh, blood is a frightening thing... that girl hates me...
+31	Father, Altena is still a child. Spoiled by you, she just lashes out with whatever resentful words come to mind...
+32	Enough of that... I'm going to Capathogia Castle. That Hannibal fellow seems unhappy with my methods.
+33	I need to take precautions, in case he betrays us.
+34	...father is afraid... whatever has happened to him...
+35	General Hannibal, the rebels have seized Miloah Castle. Altena is already moving to attack.
+36	You too, send out your armored knight corps.
+37	Your Majesty, as I've said many times already, this fight is meaningless.
+38	We should make peace with the Liberation Army and focus on building up our national strength for now.
+39	Joining hands with the Empire is out of the question — it would turn the people against us.
+40	Don't talk nonsense! They killed my men and stole Miloah Castle!
+41	There's no making peace now!
+42	I see... there's no helping it, then.
+43	You're not planning to betray me, are you, Hannibal?
+44	I am a warrior of some renown myself. There's no way I would ever betray you!
+45	Is that so. Then, let me see proof of that loyalty.
+46	Until this battle is over, I'll be keeping your son with me.
+47	King Travant! Do you not trust me at all!?
+48	If you have no intention of betraying me, then you have no reason to worry about your son's life.
+49	What in the world...
+50	Bring Hannibal's son here!
+51	Father...
+52	Coirpre... I'm sorry...
+53	Don't worry. Once this battle is over, I'll give him back.
+54	But Hannibal, he isn't even your real child, is he — and yet you dote on him this much?
+55	Coirpre is my treasure. Blood ties have nothing to do with it...
+56	Hahaha, so even Thracia's great general has a weakness for children. Well then, I'm counting on you, Hannibal!
+57	Dislar, the battle is about to begin. Is the castle's defense without fault?
+58	Why, Your Majesty Travant, welcome. What an honor to have you visit.
+59	Lutecia Castle's defenses are perfect — please, rest assured.
+60	I'm counting on you. That Hannibal of Capathogia can't be trusted.
+61	I've taken his son hostage. Keep watch over him here at Lutecia Castle.
+62	Yes, leave it to me. But, should Hannibal ever try to betray us...
+63	At that time, kill the boy. Just because he's a child, show no mercy.
+64	Yes sir, understood.
+65	Lord Judah, as per our long-standing pact, Emperor Arvis will be sending reinforcements, won't he?
+66	King Travant, you really are a cautious man. Rest assured — the Imperial Knights are already on their way here.
+67	I see, then good. I'll leave the defense of this castle in your hands.
+68	Watch out, so the rebels don't catch you off guard!
 69	(Levin (Strategist)): It seems the dragon knight corps has set out from Thracia. This is it, Celice — don't let your guard down.
-70	(Celice): But Levin, our enemy is supposed to be the Empire. Is there really any meaning to this fight?
+70	But Levin, our enemy is supposed to be the Empire. Is there really any meaning to this fight?
 71	(Levin (Strategist)): Whether there's meaning in it or not depends entirely on how you fight it.
 72	(Levin (Strategist)): This battle can no longer be avoided. There's no turning back now.
-73	(Celice): But that dragon knight who watched us from the mountains of Manster... she looked so terribly sad.
-74	(Celice): To think we might have to fight someone like that...
+73	But that dragon knight who watched us from the mountains of Manster... she looked so terribly sad.
+74	To think we might have to fight someone like that...
 75	(Levin (Strategist)): Celice! Enough of that!! This is war.
 76	(Levin (Strategist)): If you've grown sick of fighting, then go back to Tirnanog!
-77	(Celice): Levin.........
-78	(Hannibal): Hmm... it seems the rebels have begun their advance.
-79	(Kanatz): Lord Hannibal, please give the order to attack.
-80	(Hannibal): No, wait. We'll focus solely on defending the castle. We must avoid any needless fighting.
-81	(Kanatz): But, in that case...
-82	(Hannibal): I know about my son's situation... .........but, in any case, let's watch how things go for now.
-83	(Hannibal): Kanatz, sorry, but I need you to guard the castle.
-84	(Kanatz): Yes sir, as you command!
-85	(Altena): From here, I will retake Miloah Castle. All troops, attack the rebels!
-86	(Dislar): Who'd have thought, at my age, I'd end up babysitting some brat...
-87	(Coirpre): Mister Dislar, please let me go. My father doesn't want to fight.
-88	(Coirpre): I don't want him to force himself to fight for my sake!
-89	(Dislar): Quiet! Be silent!!
-90	(Dislar): That man was once called the Shield of Thracia — for him to try to run away now would be laughable. He'll fight alongside us to the very end!
-91	(Coirpre): Father... I'm sorry.
-92	(Fabal): Hey, Patty! Are you still stealing things!?
-93	(Patty): Yeah, now and then, just a little.
-94	(Fabal): Enough already. No matter how much you say it's from the enemy, I don't like it.
-95	(Patty): It's not like I do it because I want to, you know.
-96	(Patty): But when I think of the Liberation Army's finances, there's no helping it!
-97	(Fabal): But still... there are people out there who find it amusing, saying things like "a pirate's child really is a thief after all."
-98	(Fabal): Of course, I punched them out, but...
-99	(Patty): Let those who want to talk, talk — I don't care.
-100	(Patty): Because our mother was a warrior descended from the blood of the holy warrior Ulir, you know.
-101	(Patty): When I heard that story from Levin, I was so happy I cried.
-102	(Fabal): Yeah, me too... I mean, we were orphans, and we'd lived such a miserable life all this time.
-103	(Fabal): I never imagined mother was someone so noble. Patty, do you remember anything about mother?
-104	(Patty): No, nothing at all... what about you, brother?
-105	(Fabal): I... just a little... she was so beautiful... and such a kind person...
-106	(Patty): So mother... did Mother Brigid die?
-107	(Fabal): I don't know that. Patty, once this war is over, let's go search for her together.
-108	(Fabal): Mother Brigid... and... our father too, whose name we still don't even know...
-109	(Asaello): Hey, Daisy! Are you still stealing things!?
-110	(Daisy): Yeah, now and then, just a little.
-111	(Asaello): Enough already. No matter how much you say it's from the enemy, I don't like it.
-112	(Daisy): It's not like I do it because I want to, you know.
-113	(Daisy): But when I think about the Liberation Army's finances, there's no helping it!
-114	(Asaello): But still...
-115	(Daisy): And besides, I have to send money to the children I left behind in Conote too — it's hard for me too, you know.
-116	(Asaello): Yeah, that's true... I wonder if they're doing alright.
-117	(Daisy): Asaello, you'd better pitch in too. Even if you win prize money at the arena, don't go wasting it!
-118	(Asaello): Ugh, I think that backfired on me...
-119	(Leaf): Please wait! Sister!!
-120	(Altena): Sister, you say!? ...who are you! Why are you calling me your sister!
-121	(Leaf): I'm... Leaf of Leonster.
-122	(Altena): Leaf? I see, so you're the prince of Leonster.
-123	(Altena): I am Travant's daughter, Altena. Please don't say such sleepy nonsense.
-124	(Leaf): You are the child of my own parents, Quan and Ethlyn. Seventeen years ago, the two of them were killed by Travant.
-125	(Leaf): My sister, who was still young at the time, went missing, along with Leonster's treasure, the Gaebolg.
-126	(Leaf): That lance you're holding right now — that is Leonster's Gaebolg.
-127	(Altena): What did you say!?
-128	(Altena): Then, the man I believed to be my father was actually my real father's enemy... surely not... that can't be...
-129	(Leaf): Please, look at me. Whether what I've said is a lie or not — you should be able to tell just by looking.
-130	(Leaf): Sister, please...
-131	(Altena): Ngh... why!? Why can't I say your words are a lie!!
-132	(Leaf): Sister...!!
-133	(Altena): Wait! ...I'm going to go confirm this with father. Everything starts from there!!
-134	(Travant): Altena, what on earth do you think you're doing — abandoning your men again and fleeing back here alone!
-135	(Altena): Father! There's something I need to ask you. Is it true that I'm not really your daughter!?
-136	(Altena): Am I King Quan's daughter!
-137	(Travant): Heh... so you've finally learned the truth. Well, fine — I always knew a day like this would come.
-138	(Travant): You are indeed Quan's daughter. But so what?
-139	(Travant): It was I who raised you. That fact doesn't change, does it.
-140	(Altena): ...then, my real parents — father, you...
-141	(Travant): Hehehe, that's right. Your real parents, Quan and Ethlyn, I killed them myself. But what of it?
-142	(Travant): In war, one kills and is killed. There's no point in bringing that up now.
-143	(Altena): Ngh... I can't forgive this, deceiving me like this... Father! ...no, Travant!!
-144	(Arion): Stop it! Altena!
-145	(Altena): Brother! Don't try to stop me! I will kill this man. I won't let anyone get in my way!
-146	(Arion): I won't allow that! If you're going to raise your blade against father, then I will be the one to face you!
-147	(Altena): W-, wait! I can't fight you, brother!!
-148	(Arion): It's too late for that now... die, Altena!
-149	(Altena): A-, brother.........
-150	(Travant): ...Arion. Did you kill Altena? You didn't need to go that far...
-151	(Travant): Well, never mind. Arion, with things as they are, I'll have to step in myself. There's no other way left now.
-152	(Travant): I entrust the castle's defense to you.
-153	(Arion): Leave it to me, father.
-154	(Travant): I'll leave this lance in your care. Understand, you must protect Thracia.
-155	(Arion): Father, isn't this the lance Gungnir?
-156	(Arion): Just as you're about to go into battle yourself, why would you hand this to me? Could it be... father?
-157	(Travant): That's enough, I'm tired. From here, do as you see fit. They surely don't hate you as they hate me.
-158	(Arion): Are you telling me to make peace with them? I can't agree to that!
-159	(Travant): That's why I said do as you see fit. Only, don't make the people suffer any more than this. That's my only wish.
-160	(Travant): Well then, farewell, Arion!
-161	(Arion): Father...
-162	(Altena): Stop! The likes of you cannot defeat me!
-163	(Altena): Brother... brother Arion.........
-164	(Arion): Father... Altena... ...has fallen in battle.
-165	(Travant): I see... well, never mind. Arion, with things as they are, I'll have to step in myself.
-166	(Travant): There's no other way left now. I entrust the castle's defense to you.
-167	(Arion): Leave it to me, father.
-168	(Travant): I'll leave this lance in your care. Understand, you must protect Thracia.
-169	(Arion): Father, isn't this the lance Gungnir?
-170	(Arion): Just as you're about to go into battle yourself, why would you hand this to me? Could it be... father?
-171	(Travant): That's enough, I'm tired. From here, do as you see fit. They surely don't hate you as they hate me.
-172	(Arion): Are you telling me to make peace with them? I can't agree to that!
-173	(Travant): That's why I said do as you see fit. Only, don't make the people suffer any more than this. That's my only wish.
-174	(Travant): Well then, farewell, Arion!
-175	(Arion): Father...
-176	(Travant): Hahaha, you rebel small fry, I am Travant.
-177	(Travant): As a parting gift for the afterlife, remember that well!
-178	(Travant): Thracia... my beloved land... guh...
-179	(Altena): Lord Celice, I am Altena, daughter of Quan of Leonster.
-180	(Altena): Having learned the truth from my younger brother, Prince Leaf, I can no longer fight against you. Please, let me join the Liberation Army too.
-181	(Celice): Princess Altena!? Ah, so you're Prince Leaf's elder sister!
-182	(Celice): I heard the story from him, and I've been waiting. Thank you — I'm sure the prince will be overjoyed too.
-183	(Celice): Thank you for making such a brave decision.
-184	(Altena): ...I still can hardly believe it myself. But the moment I looked into Prince Leaf's eyes, I understood everything.
-185	(Altena): Those were the same gentle eyes as my father's...
-186	(Altena): And memories of being a little girl, held in my mother's arms, came flooding back to me, clear as day.
-187	(Celice): But what in the world was King Travant thinking?
-188	(Celice): To kill your parents, and yet still bring you, so young at the time, back to his own country...
-189	(Altena): I heard that my brother wanted to use the lance Gaebolg for himself.
-190	(Altena): And that's why he took me...
-191	(Celice): You mean, he only used you?
-192	(Altena): That... I don't even know myself. Travant is a frightening man, but I believed he was my father...
-193	(Celice): King Travant... he's a hard man to understand.
-194	(Altena): Lord Celice, I have a request. Arion — please, spare at least Prince Arion's life.
-195	(Celice): Yes, I've heard he's an admirable man. I don't want to fight him either. But will he listen to us?
-196	(Altena): Let me try to persuade him once more. So please, just give me a little more time!
-197	(Coirpre): Father, it's me, Coirpre. Please, stop fighting now!
-198	(Coirpre): The Liberation Army has already taken Lutecia Castle!
-199	(Hannibal): Coirpre!? You... you're safe!
-200	(Coirpre): Yeah, father. I want to join Lord Celice's Liberation Army.
-201	(Coirpre): Thracia isn't the Thracia of old anymore. I want to fight for everyone!
-202	(Hannibal): I see... so you've grown up too. Understood, Coirpre. I'll fight alongside Lord Celice as well.
-203	(Coirpre): Yeah, father! Let's liberate Thracia and stand up against the Empire together, everyone!
-204	(Celice): General Hannibal. We ended up fighting a pointless battle. My deepest apologies.
-205	(Hannibal): Lord Celice... I hear you saved my son. It is I who should be apologizing...
-206	(Celice): General, you are an honored warrior, known as the Shield of Thracia.
-207	(Celice): To force you into battle by taking a hostage... King Travant's methods are far too dishonorable.
-208	(Hannibal): That man is pitiable too. Having betrayed others again and again, he's become unable to trust anyone.
-209	(Hannibal): But doing things that way, people's hearts will never follow him...
-210	(Celice): General, please, guide us young ones. We need your strength.
-211	(Hannibal): Hmm, if an old man like me can be of use, I'll lend my strength. Lord Celice, I'm counting on you.
-212	(Lene): You must be Coirpre.
-213	(Coirpre): Ah, y-, yeah...
-214	(Lene): I hear you're an orphan too, Coirpre. Don't you have any memories from when you were small?
-215	(Coirpre): No, none at all. When father found me in the streets of Darna, I was still just a baby, or so I'm told...
-216	(Lene): You too, in Darna!?
-217	(Coirpre): Miss Lene, do you know Darna?
-218	(Lene): I grew up in a convent in that very town.
-219	(Lene): When I was about two years old, I'm told a young woman, who looked like a dancer, left me at the convent.
-220	(Lene): The reason I became a dancer is
-221	(Lene): because I thought that someday, I might be able to meet my mother again.
-222	(Lene): So, embarrassing as it is, I taught myself the dance.
-223	(Coirpre): Huh, Miss Lene, you're really something. I think I misjudged you a little.
-224	(Lene): So you don't like dancers, Coirpre?
-225	(Coirpre): Yeah, I used to hate them. But I like you, Miss Lene.
-226	(Lene): Heh, thank you, Coirpre.
-227	(Laylea): I hear your name is Charlot, is that right?
-228	(Charlot): Eh... and you, miss?
-229	(Laylea): I'm Laylea. Charlot, have you never seen a dancer before?
-230	(Charlot): Um... not yet...
-231	(Laylea): Heheh, come visit again sometime, when you're free — I'll show you my dance.
-232	(Charlot): U-, um, okay...
-233	(Patty): Hmm, so you're Coirpre?
-234	(Patty): I heard you were General Hannibal's child and wondered what kind of impressive person you'd be, but — huh, you're just an ordinary kid.
-235	(Coirpre): You're a kid yourself, aren't you.
-236	(Patty): Well, how rude. Are you saying I look like a child to you?
-237	(Coirpre): Yeah, you do.
-238	(Patty): Hmph... you... you're not cute at all!
-239	(Hannibal): So, it seems I must fight after all... this too, is for Thracia's sake... there's no helping it...
-240	(Hannibal): My son... please, live on...
-241	(Kanatz): This castle was entrusted to me by Lord Hannibal.
-242	(Kanatz): Even at the cost of my life, I will not yield it!
-243	(Kanatz): Lord Hannibal... please, forgive me.
-244	(Dislar): What... the rebels!? Damn it, I let my guard down!
-245	(Dislar): Lord Travant......... ...forgive me...
+77	Levin.........
+78	Hmm... it seems the rebels have begun their advance.
+79	Lord Hannibal, please give the order to attack.
+80	No, wait. We'll focus solely on defending the castle. We must avoid any needless fighting.
+81	But, in that case...
+82	I know about my son's situation... .........but, in any case, let's watch how things go for now.
+83	Kanatz, sorry, but I need you to guard the castle.
+84	Yes sir, as you command!
+85	From here, I will retake Miloah Castle. All troops, attack the rebels!
+86	Who'd have thought, at my age, I'd end up babysitting some brat...
+87	Mister Dislar, please let me go. My father doesn't want to fight.
+88	I don't want him to force himself to fight for my sake!
+89	Quiet! Be silent!!
+90	That man was once called the Shield of Thracia — for him to try to run away now would be laughable. He'll fight alongside us to the very end!
+91	Father... I'm sorry.
+92	Hey, Patty! Are you still stealing things!?
+93	Yeah, now and then, just a little.
+94	Enough already. No matter how much you say it's from the enemy, I don't like it.
+95	It's not like I do it because I want to, you know.
+96	But when I think of the Liberation Army's finances, there's no helping it!
+97	But still... there are people out there who find it amusing, saying things like "a pirate's child really is a thief after all."
+98	Of course, I punched them out, but...
+99	Let those who want to talk, talk — I don't care.
+100	Because our mother was a warrior descended from the blood of the holy warrior Ulir, you know.
+101	When I heard that story from Levin, I was so happy I cried.
+102	Yeah, me too... I mean, we were orphans, and we'd lived such a miserable life all this time.
+103	I never imagined mother was someone so noble. Patty, do you remember anything about mother?
+104	No, nothing at all... what about you, brother?
+105	I... just a little... she was so beautiful... and such a kind person...
+106	So mother... did Mother Brigid die?
+107	I don't know that. Patty, once this war is over, let's go search for her together.
+108	Mother Brigid... and... our father too, whose name we still don't even know...
+109	Hey, Daisy! Are you still stealing things!?
+110	Yeah, now and then, just a little.
+111	Enough already. No matter how much you say it's from the enemy, I don't like it.
+112	It's not like I do it because I want to, you know.
+113	But when I think about the Liberation Army's finances, there's no helping it!
+114	But still...
+115	And besides, I have to send money to the children I left behind in Conote too — it's hard for me too, you know.
+116	Yeah, that's true... I wonder if they're doing alright.
+117	Asaello, you'd better pitch in too. Even if you win prize money at the arena, don't go wasting it!
+118	Ugh, I think that backfired on me...
+119	Please wait! Sister!!
+120	Sister, you say!? ...who are you! Why are you calling me your sister!
+121	I'm... Leaf of Leonster.
+122	Leaf? I see, so you're the prince of Leonster.
+123	I am Travant's daughter, Altena. Please don't say such sleepy nonsense.
+124	You are the child of my own parents, Quan and Ethlyn. Seventeen years ago, the two of them were killed by Travant.
+125	My sister, who was still young at the time, went missing, along with Leonster's treasure, the Gaebolg.
+126	That lance you're holding right now — that is Leonster's Gaebolg.
+127	What did you say!?
+128	Then, the man I believed to be my father was actually my real father's enemy... surely not... that can't be...
+129	Please, look at me. Whether what I've said is a lie or not — you should be able to tell just by looking.
+130	Sister, please...
+131	Ngh... why!? Why can't I say your words are a lie!!
+132	Sister...!!
+133	Wait! ...I'm going to go confirm this with father. Everything starts from there!!
+134	Altena, what on earth do you think you're doing — abandoning your men again and fleeing back here alone!
+135	Father! There's something I need to ask you. Is it true that I'm not really your daughter!?
+136	Am I King Quan's daughter!
+137	Heh... so you've finally learned the truth. Well, fine — I always knew a day like this would come.
+138	You are indeed Quan's daughter. But so what?
+139	It was I who raised you. That fact doesn't change, does it.
+140	...then, my real parents — father, you...
+141	Hehehe, that's right. Your real parents, Quan and Ethlyn, I killed them myself. But what of it?
+142	In war, one kills and is killed. There's no point in bringing that up now.
+143	Ngh... I can't forgive this, deceiving me like this... Father! ...no, Travant!!
+144	Stop it! Altena!
+145	Brother! Don't try to stop me! I will kill this man. I won't let anyone get in my way!
+146	I won't allow that! If you're going to raise your blade against father, then I will be the one to face you!
+147	W-, wait! I can't fight you, brother!!
+148	It's too late for that now... die, Altena!
+149	A-, brother.........
+150	...Arion. Did you kill Altena? You didn't need to go that far...
+151	Well, never mind. Arion, with things as they are, I'll have to step in myself. There's no other way left now.
+152	I entrust the castle's defense to you.
+153	Leave it to me, father.
+154	I'll leave this lance in your care. Understand, you must protect Thracia.
+155	Father, isn't this the lance Gungnir?
+156	Just as you're about to go into battle yourself, why would you hand this to me? Could it be... father?
+157	That's enough, I'm tired. From here, do as you see fit. They surely don't hate you as they hate me.
+158	Are you telling me to make peace with them? I can't agree to that!
+159	That's why I said do as you see fit. Only, don't make the people suffer any more than this. That's my only wish.
+160	Well then, farewell, Arion!
+161	Father...
+162	Stop! The likes of you cannot defeat me!
+163	Brother... brother Arion.........
+164	Father... Altena... ...has fallen in battle.
+165	I see... well, never mind. Arion, with things as they are, I'll have to step in myself.
+166	There's no other way left now. I entrust the castle's defense to you.
+167	Leave it to me, father.
+168	I'll leave this lance in your care. Understand, you must protect Thracia.
+169	Father, isn't this the lance Gungnir?
+170	Just as you're about to go into battle yourself, why would you hand this to me? Could it be... father?
+171	That's enough, I'm tired. From here, do as you see fit. They surely don't hate you as they hate me.
+172	Are you telling me to make peace with them? I can't agree to that!
+173	That's why I said do as you see fit. Only, don't make the people suffer any more than this. That's my only wish.
+174	Well then, farewell, Arion!
+175	Father...
+176	Hahaha, you rebel small fry, I am Travant.
+177	As a parting gift for the afterlife, remember that well!
+178	Thracia... my beloved land... guh...
+179	Lord Celice, I am Altena, daughter of Quan of Leonster.
+180	Having learned the truth from my younger brother, Prince Leaf, I can no longer fight against you. Please, let me join the Liberation Army too.
+181	Princess Altena!? Ah, so you're Prince Leaf's elder sister!
+182	I heard the story from him, and I've been waiting. Thank you — I'm sure the prince will be overjoyed too.
+183	Thank you for making such a brave decision.
+184	...I still can hardly believe it myself. But the moment I looked into Prince Leaf's eyes, I understood everything.
+185	Those were the same gentle eyes as my father's...
+186	And memories of being a little girl, held in my mother's arms, came flooding back to me, clear as day.
+187	But what in the world was King Travant thinking?
+188	To kill your parents, and yet still bring you, so young at the time, back to his own country...
+189	I heard that my brother wanted to use the lance Gaebolg for himself.
+190	And that's why he took me...
+191	You mean, he only used you?
+192	That... I don't even know myself. Travant is a frightening man, but I believed he was my father...
+193	King Travant... he's a hard man to understand.
+194	Lord Celice, I have a request. Arion — please, spare at least Prince Arion's life.
+195	Yes, I've heard he's an admirable man. I don't want to fight him either. But will he listen to us?
+196	Let me try to persuade him once more. So please, just give me a little more time!
+197	Father, it's me, Coirpre. Please, stop fighting now!
+198	The Liberation Army has already taken Lutecia Castle!
+199	Coirpre!? You... you're safe!
+200	Yeah, father. I want to join Lord Celice's Liberation Army.
+201	Thracia isn't the Thracia of old anymore. I want to fight for everyone!
+202	I see... so you've grown up too. Understood, Coirpre. I'll fight alongside Lord Celice as well.
+203	Yeah, father! Let's liberate Thracia and stand up against the Empire together, everyone!
+204	General Hannibal. We ended up fighting a pointless battle. My deepest apologies.
+205	Lord Celice... I hear you saved my son. It is I who should be apologizing...
+206	General, you are an honored warrior, known as the Shield of Thracia.
+207	To force you into battle by taking a hostage... King Travant's methods are far too dishonorable.
+208	That man is pitiable too. Having betrayed others again and again, he's become unable to trust anyone.
+209	But doing things that way, people's hearts will never follow him...
+210	General, please, guide us young ones. We need your strength.
+211	Hmm, if an old man like me can be of use, I'll lend my strength. Lord Celice, I'm counting on you.
+212	You must be Coirpre.
+213	Ah, y-, yeah...
+214	I hear you're an orphan too, Coirpre. Don't you have any memories from when you were small?
+215	No, none at all. When father found me in the streets of Darna, I was still just a baby, or so I'm told...
+216	You too, in Darna!?
+217	Miss Lene, do you know Darna?
+218	I grew up in a convent in that very town.
+219	When I was about two years old, I'm told a young woman, who looked like a dancer, left me at the convent.
+220	The reason I became a dancer is
+221	because I thought that someday, I might be able to meet my mother again.
+222	So, embarrassing as it is, I taught myself the dance.
+223	Huh, Miss Lene, you're really something. I think I misjudged you a little.
+224	So you don't like dancers, Coirpre?
+225	Yeah, I used to hate them. But I like you, Miss Lene.
+226	Heh, thank you, Coirpre.
+227	I hear your name is Charlot, is that right?
+228	Eh... and you, miss?
+229	I'm Laylea. Charlot, have you never seen a dancer before?
+230	Um... not yet...
+231	Heheh, come visit again sometime, when you're free — I'll show you my dance.
+232	U-, um, okay...
+233	Hmm, so you're Coirpre?
+234	I heard you were General Hannibal's child and wondered what kind of impressive person you'd be, but — huh, you're just an ordinary kid.
+235	You're a kid yourself, aren't you.
+236	Well, how rude. Are you saying I look like a child to you?
+237	Yeah, you do.
+238	Hmph... you... you're not cute at all!
+239	So, it seems I must fight after all... this too, is for Thracia's sake... there's no helping it...
+240	My son... please, live on...
+241	This castle was entrusted to me by Lord Hannibal.
+242	Even at the cost of my life, I will not yield it!
+243	Lord Hannibal... please, forgive me.
+244	What... the rebels!? Damn it, I let my guard down!
+245	Lord Travant......... ...forgive me...
 246	(Levin (Strategist)): Celice, it seems General Hannibal had his son taken hostage, and was forced to fight us against his will.
-247	(Celice): So that's how it was... I've made a mistake that can never be undone... please forgive me, General Hannibal.
+247	So that's how it was... I've made a mistake that can never be undone... please forgive me, General Hannibal.
 248	— (only if Hannibal is still alive)
 249	(Levin (Strategist)): Celice, it seems there was a child held captive in the dungeon.
-250	(Celice): Who are you? ...what on earth happened to you?
-251	(Coirpre): I'm Coirpre, General Hannibal's son. And you are...?
-252	(Coirpre): Ah, you're Lord Celice of the Liberation Army!?
-253	(Celice): Yeah, that's right. So you're General Hannibal's son — but why were you locked in a dungeon like this?
-254	(Coirpre): King Travant took me hostage.
-255	(Coirpre): My father didn't want to fight Lord Celice, but he was forced to, for my sake...
-256	(Coirpre): Lord Celice, please! Take me to my father.
-257	(Coirpre): If he knows I'm safe, father should stop fighting. Please, save my father!!
-258	(Celice): So that's how it was...
-259	(Celice): Understood. Let's hurry to General Hannibal at once. There should still be time!
+250	Who are you? ...what on earth happened to you?
+251	I'm Coirpre, General Hannibal's son. And you are...?
+252	Ah, you're Lord Celice of the Liberation Army!?
+253	Yeah, that's right. So you're General Hannibal's son — but why were you locked in a dungeon like this?
+254	King Travant took me hostage.
+255	My father didn't want to fight Lord Celice, but he was forced to, for my sake...
+256	Lord Celice, please! Take me to my father.
+257	If he knows I'm safe, father should stop fighting. Please, save my father!!
+258	So that's how it was...
+259	Understood. Let's hurry to General Hannibal at once. There should still be time!
 260	— (only if Hannibal has died)
 261	(Levin (Strategist)): Celice, it seems General Hannibal's son was held captive in this castle as a hostage.
-262	(Celice): Then Hannibal was forced to fight, against his will, for the sake of his child! What a terrible thing...
+262	Then Hannibal was forced to fight, against his will, for the sake of his child! What a terrible thing...
 263	(Levin (Strategist)): I hear that same Coirpre vanished upon hearing of his father's death.
 264	(Levin (Strategist)): He must hate us now... how tragic.
-265	(Celice): Ngh...
-266	(Judah): Capathogia has fallen into enemy hands!? Hmph, are the people of Thracia nothing but cowards?
-267	(Judah): There's no helping it — strengthen the castle's defenses! We'll hold this castle to the death, until reinforcements arrive from the homeland!
-268	(Musar): So this is Thracia... heh, what an awful wasteland.
-269	(Musar): Well, no matter. We can't let the rebels run wild any longer. All troops, charge!
-270	(Musar): Whoever takes the enemy's head will receive a reward from the Emperor himself. Don't waste this chance!
-271	(Musar): Die, you rebels! Those who defy the Empire deserve nothing but death!
-272	(Musar): Long live the Grannvale Empire...!
-273	(Judah): Damn you... what is this "Liberation Army" nonsense... this world has no need for light.
-274	(Judah): The darkness of Lord Loptous shall rule over all!
-275	(Judah): Fuhaha... once Lord Loptous is resurrected... ...the likes of you...
-276	(Celice): Levin, does Arion still intend to keep fighting?
+265	Ngh...
+266	Capathogia has fallen into enemy hands!? Hmph, are the people of Thracia nothing but cowards?
+267	There's no helping it — strengthen the castle's defenses! We'll hold this castle to the death, until reinforcements arrive from the homeland!
+268	So this is Thracia... heh, what an awful wasteland.
+269	Well, no matter. We can't let the rebels run wild any longer. All troops, charge!
+270	Whoever takes the enemy's head will receive a reward from the Emperor himself. Don't waste this chance!
+271	Die, you rebels! Those who defy the Empire deserve nothing but death!
+272	Long live the Grannvale Empire...!
+273	Damn you... what is this "Liberation Army" nonsense... this world has no need for light.
+274	The darkness of Lord Loptous shall rule over all!
+275	Fuhaha... once Lord Loptous is resurrected... ...the likes of you...
+276	Levin, does Arion still intend to keep fighting?
 277	(Levin (Strategist)): We've sent envoys to propose a truce many times, but he won't listen.
 278	(Levin (Strategist)): For the pride of the dragon knights, he says he'll fight to the very end.
 279	(Levin (Strategist)): Arion of Thracia... I thought he was a somewhat wiser man than this...
 280	(Levin (Strategist)): Celice, there's no helping it now. All that's left is the final battle.
-281	(Celice): Ngh... why... why must it come to this...
-282	(Julia): Lord Celice, are you injured anywhere?
-283	(Celice): No, I'm fine. You be careful too, Julia.
-284	(Julia): Lord Celice...
-285	(Celice): Hm? What's wrong?
-286	(Julia): No, it's nothing.........
-287	(Celice): You're acting a little strange today, Julia. Is there something on your mind?
-288	(Julia): ...somehow, I feel uneasy... I feel as though, if I'm ever separated from you, Lord Celice, we'll never be able to meet again.
-289	(Julia): I'm... scared...
-290	(Celice): It's alright, Julia.
-291	(Celice): I told you before, didn't I — I decided I would protect you. So please, trust me.
-292	(Julia): Yes... I do trust you... I'm sorry, Lord Celice... I keep troubling you like this.
-293	(Celice): It's a long journey — the exhaustion is catching up with you.
-294	(Celice): Once this battle is over, we'll go to the free city of Miletos, so you can rest there for a while.
-295	(Celice): Oh, that's right — why don't the two of us go shopping in town? I'll buy you whatever you like.
-296	(Celice): But nothing too expensive, alright — Levin would scold me for it.
-297	(Julia): Oh, Lord Celice... but, I'm happy... thank you...
-298	(Celice): You finally smiled — I'm glad.
-299	(Julia): Lord Celice, please close your eyes for just a moment...
-300	(Celice): Hm? ...what's wrong...?
-301	(Julia): I'm going to cast the Magic Shield spell on you, to raise your magic defense.
-302	(Celice): Eh!? But if you use that spell, won't it put you in danger?
-303	(Julia): It's alright... please, think of it as my last little selfishness, and just do as I ask.
-304	(Celice): Julia...
-305	(Julia): May the gods' protection be upon you, Lord Celice...
-306	(Finn): Lady Altena, I am Finn, a knight of Leonster. Please, allow me to introduce myself.
-307	(Altena): So you're Sir Finn. I've heard about you from Leaf.
-308	(Altena): Thank you for protecting my brother all this time. Let me offer you my thanks.
-309	(Finn): No, Lady Altena... it is I who must apologize to you.
-310	(Finn): Never imagining you were still alive, I lived right next door in a neighboring country, and yet could not save you.
-311	(Finn): Now, all I can do is regret it deeply.........
-312	(Altena): Sir Finn... are you... crying...? Why...
-313	(Finn): This is... I've shown you an unbecoming sight. I'm very sorry.........
-314	(Altena): I have a faint memory... Finn... I loved you so much... I always used to cling to you...
-315	(Altena): That's right, isn't it, Sir Finn...
-316	(Finn): Lady Altena, I...
-317	(Hannibal): Why, Lady Altena, I've heard your story. You too have had a hard time of it.
-318	(Altena): General Hannibal... so you're cooperating with the Liberation Army too?
-319	(Altena): I'm so glad... if even you had become an enemy, I don't think I could have fought.
-320	(Hannibal): Mm, and so, what of Lord Arion? What has become of him?
-321	(Altena): My brother... no, Arion, won't listen to a word I say. If possible, I'd like you to be the one to persuade him, General.
-322	(Hannibal): If even the princess's words won't work, there's no other way left.
-323	(Hannibal): Lord Arion wishes to die as a warrior, I imagine. It's best to give up on changing his mind.
-324	(Altena): But, General Hannibal!
-325	(Hannibal): I understand how you feel... but that's just the way men are.
-326	(Hannibal): Lord Arion doesn't want to show you an unbecoming sight, Princess — you must understand that, Princess Altena...
-327	(Hannibal): Charlot.........
-328	(Charlot): Eh? Ah, father, what's wrong?
-329	(Hannibal): I'm sorry about the other day, putting you through such an awful ordeal for my sake...
-330	(Hannibal): Perhaps it would have been better for you to be raised in an ordinary household, rather than by a soldier like me...
-331	(Charlot): Father! That's not true at all! I feel so fulfilled right now.
-332	(Charlot): Because I can put my strength to use for the sake of peace. There's nothing that makes me happier than that.
-333	(Hannibal): I see...
-334	(Charlot): And you know,
-335	(Hannibal): ...hm?
-336	(Charlot): I'm proud of you, father.
-337	(Charlot): The people of Capathogia adore you, and besides, you raised me, an orphan, as your own.
-338	(Hannibal): I see... thank you... you've grown into a fine person...
-339	(Hannibal): That reminds me, I meant to give you this staff. It had been sleeping deep within the castle, but you should be able to use it.
-340	(Charlot): Wow, this looks like an amazing staff. Thank you, father.
-341	(Arion): So you've come... alright, let's go! Victory, or death... that depends entirely on how you fight!
-342	(Arion): All troops, charge the enemy!!
-343	(Arion): Heh... how foolish... can you not see this heavenly lance Gungnir before your very eyes...
-344	(Arion): Wh-, what... how could this be... ngh, how regrettable... Altena...
-345	(Julius): Arion, I cannot let you die just yet... come to me... hahahaha...
-346	(Celice): Levin, is it true that Arion has vanished?
+281	Ngh... why... why must it come to this...
+282	Lord Celice, are you injured anywhere?
+283	No, I'm fine. You be careful too, Julia.
+284	Lord Celice...
+285	Hm? What's wrong?
+286	No, it's nothing.........
+287	You're acting a little strange today, Julia. Is there something on your mind?
+288	...somehow, I feel uneasy... I feel as though, if I'm ever separated from you, Lord Celice, we'll never be able to meet again.
+289	I'm... scared...
+290	It's alright, Julia.
+291	I told you before, didn't I — I decided I would protect you. So please, trust me.
+292	Yes... I do trust you... I'm sorry, Lord Celice... I keep troubling you like this.
+293	It's a long journey — the exhaustion is catching up with you.
+294	Once this battle is over, we'll go to the free city of Miletos, so you can rest there for a while.
+295	Oh, that's right — why don't the two of us go shopping in town? I'll buy you whatever you like.
+296	But nothing too expensive, alright — Levin would scold me for it.
+297	Oh, Lord Celice... but, I'm happy... thank you...
+298	You finally smiled — I'm glad.
+299	Lord Celice, please close your eyes for just a moment...
+300	Hm? ...what's wrong...?
+301	I'm going to cast the Magic Shield spell on you, to raise your magic defense.
+302	Eh!? But if you use that spell, won't it put you in danger?
+303	It's alright... please, think of it as my last little selfishness, and just do as I ask.
+304	Julia...
+305	May the gods' protection be upon you, Lord Celice...
+306	Lady Altena, I am Finn, a knight of Leonster. Please, allow me to introduce myself.
+307	So you're Sir Finn. I've heard about you from Leaf.
+308	Thank you for protecting my brother all this time. Let me offer you my thanks.
+309	No, Lady Altena... it is I who must apologize to you.
+310	Never imagining you were still alive, I lived right next door in a neighboring country, and yet could not save you.
+311	Now, all I can do is regret it deeply.........
+312	Sir Finn... are you... crying...? Why...
+313	This is... I've shown you an unbecoming sight. I'm very sorry.........
+314	I have a faint memory... Finn... I loved you so much... I always used to cling to you...
+315	That's right, isn't it, Sir Finn...
+316	Lady Altena, I...
+317	Why, Lady Altena, I've heard your story. You too have had a hard time of it.
+318	General Hannibal... so you're cooperating with the Liberation Army too?
+319	I'm so glad... if even you had become an enemy, I don't think I could have fought.
+320	Mm, and so, what of Lord Arion? What has become of him?
+321	My brother... no, Arion, won't listen to a word I say. If possible, I'd like you to be the one to persuade him, General.
+322	If even the princess's words won't work, there's no other way left.
+323	Lord Arion wishes to die as a warrior, I imagine. It's best to give up on changing his mind.
+324	But, General Hannibal!
+325	I understand how you feel... but that's just the way men are.
+326	Lord Arion doesn't want to show you an unbecoming sight, Princess — you must understand that, Princess Altena...
+327	Charlot.........
+328	Eh? Ah, father, what's wrong?
+329	I'm sorry about the other day, putting you through such an awful ordeal for my sake...
+330	Perhaps it would have been better for you to be raised in an ordinary household, rather than by a soldier like me...
+331	Father! That's not true at all! I feel so fulfilled right now.
+332	Because I can put my strength to use for the sake of peace. There's nothing that makes me happier than that.
+333	I see...
+334	And you know,
+335	...hm?
+336	I'm proud of you, father.
+337	The people of Capathogia adore you, and besides, you raised me, an orphan, as your own.
+338	I see... thank you... you've grown into a fine person...
+339	That reminds me, I meant to give you this staff. It had been sleeping deep within the castle, but you should be able to use it.
+340	Wow, this looks like an amazing staff. Thank you, father.
+341	So you've come... alright, let's go! Victory, or death... that depends entirely on how you fight!
+342	All troops, charge the enemy!!
+343	Heh... how foolish... can you not see this heavenly lance Gungnir before your very eyes...
+344	Wh-, what... how could this be... ngh, how regrettable... Altena...
+345	Arion, I cannot let you die just yet... come to me... hahahaha...
+346	Levin, is it true that Arion has vanished?
 347	(Levin (Strategist)): Yes. Someone saw Prince Julius — it seems he rescued him and carried him away.
-348	(Celice): Prince Julius? Emperor Arvis's son?
+348	Prince Julius? Emperor Arvis's son?
 349	(Levin (Strategist)): Mm, and he's your half-brother, on your mother's side.
-350	(Celice): The same mother as me...
+350	The same mother as me...
 351	(Levin (Strategist)): That's right... Princess Deirdre. Prince Julius inherited his power as a shaman from his mother.
 352	(Levin (Strategist)): That's why Return and Recover come to him as naturally as breathing.
 353	(Levin (Strategist)): But that's not all... Prince Julius's true power is...
-354	(Celice): Eh...?
+354	Eh...?
 355	(Levin (Strategist)): ...the dark god, Loptous...
-356	(Elder): Is it true that a priest of the dark cult has come to Grutia?
-357	(Elder): I understand King Travant's feelings, but still,
-358	(Elder): joining hands with the Loptr cult is something he absolutely must never do... ahh, the king has made a grave mistake!
-359	(Elder): I'll give you this Barrier Ring. Please, I beg you, save Thracia!
+356	Is it true that a priest of the dark cult has come to Grutia?
+357	I understand King Travant's feelings, but still,
+358	joining hands with the Loptr cult is something he absolutely must never do... ahh, the king has made a grave mistake!
+359	I'll give you this Barrier Ring. Please, I beg you, save Thracia!
 360	(Villager (man)): General Dislar of Lutecia is nothing but Travant's lapdog.
 361	(Villager (man)): He throws his weight around despite having no real power — he's a truly unpleasant fellow!
 362	— (only before Musar is defeated)
@@ -365,18 +365,18 @@
 365	(Villager (man)): He seems to hate you all, so be careful.
 366	— (after Musar is defeated)
 367	(Villager (man)): Wow, you all are really something — did you really defeat those reinforcements that came from the Empire?
-368	(Auntie): General Hannibal of Capathogia is one of the one or two greatest generals in all of Thracia.
-369	(Auntie): He's been charging across battlefields since he was young, so he never married, but a dozen or so years ago, he took in an orphan,
-370	(Auntie): and raised him like his own child ever since. He's truly such a kind man.
-371	(Old woman): King Travant is a cold-hearted man, but Prince Arion and Princess Altena are both such kind children.
-372	(Old woman): The two of them have been close ever since they were small — I just hope nothing terrible happens to them...
+368	General Hannibal of Capathogia is one of the one or two greatest generals in all of Thracia.
+369	He's been charging across battlefields since he was young, so he never married, but a dozen or so years ago, he took in an orphan,
+370	and raised him like his own child ever since. He's truly such a kind man.
+371	King Travant is a cold-hearted man, but Prince Arion and Princess Altena are both such kind children.
+372	The two of them have been close ever since they were small — I just hope nothing terrible happens to them...
 373	(Villager (man)): The villages around here used to belong peacefully to the Leonster royal family, as their territory.
 374	(Villager (man)): But after the last war, we ended up occupied by the Thracian army.
 375	(Villager (man)): Heh heh heh ♥
-376	(Hawk): .........?
+376	.........?
 377	(Villager (man)): The other day, I got confessed to by a girl, under the tree in the square, you see...
 378	(Villager (man)): I'd like to share this happy feeling with you too.
-379	(Hawk): ..........
+379	..........
 380	(Villager (man)): That's right! You're with the Liberation Army, aren't you — here, take this secret scroll and medicine passed down in our village!
-381	(Hawk): T-, thanks...
+381	T-, thanks...
 382	(Villager (man)): Love is a wonderful thing, isn't it... you should fall in love too.

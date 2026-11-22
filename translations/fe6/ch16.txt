@@ -11,324 +11,324 @@
 11	With their support, Roy and the others advance on the Etrurian royal palace.
 12	But inside the royal palace, one of Bern's Three Dragon Generals,
 13	the elite forces of Bern's Southern Army, commanded by General Narcian, lay in wait for Roy and the others.
-14	(Narcian): Guh... you half-dead corpses of Lycia! To think you'd come even this far...
-15	(Soldier): N-Narcian, sir.
-16	(Soldier): Lord Murdock, head of the "Three Dragon Generals," has come to Aquleia...
-17	(Narcian): What did you say!?
-18	(Narcian): Q-quickly, send someone to greet him! We must receive him with proper respect!
-19	(Soldier): The thing is, he's already right there...
-20	(Murdock): Out of my way.
-21	(Narcian): Wh-why, this is Lord Murdock... all the way from Ilia...
-22	(Murdock): Narcian. Just what is going on here?
-23	(Narcian): Wh-what do you mean?
-24	(Murdock): Princess Guinivere, who was supposed to have returned once already, has fled again.
-25	(Murdock): Your subordinate Flaer's failure on the Western Isles.
-26	(Murdock): And furthermore, the matter entrusted to you by His Majesty —
-27	(Murdock): leaving unattended the subjugation of the "hidden village" in the Nabata Desert.
-28	(Murdock): How do you intend to explain yourself!?
-29	(Narcian): Y-yes, sir.
-30	(Narcian): ...Well, you see, there are various circumstances...
-31	(Murdock): ...This is His Majesty's order. You are to be demoted from "Dragon General."
-32	(Narcian): What did you say!?
-33	(Murdock): In your place, Galle is to be promoted, by his command.
-34	(Narcian): Please wait! Just one more chance, just one more!!
-35	(Murdock): ...The Lycian Alliance army is closing in on this city of Aquleia.
-36	(Murdock): Hold them back and show me what you can do.
-37	(Murdock): If you succeed, I will put in a good word for you with His Majesty.
-38	(Narcian): Lord Murdock...
-39	(Murdock): Narcian. Don't disappoint His Majesty any further than this... and don't disappoint me either.
-40	(Narcian): How absurd! For me to be demoted...
-41	(Narcian): And of all people, my successor would be that Galle...
-42	(Narcian): I absolutely will not let that happen! B-but, wh-what should I do...
-43	(Narcian): Ahh, at this rate, my... my standing, my honor...
-44	(Soldier): Lord Narcian, the enemy forces are nearing the castle...
-45	(Narcian): Quiet! I know that already.
-46	(Narcian): ...Now that I think of it, the younger brother of Melady, who let Princess Guinivere escape, is in this castle.
-47	(Narcian): I'll have it put about that it was him leaking information to the enemy that caused this to fail,
-48	(Narcian): and dispose of him. Heh heh heh...
-49	(Soldier): Lord Narcian... is something wrong?
-50	(Narcian): Hm? Oh, you there — do you know the younger brother of the dragon knight Melady?
-51	(Soldier): Would that be Lord Zeiss?
-52	(Narcian): Ah, Zeiss, that was it. There's a chance he sold information to the enemy.
-53	(Narcian): Capture him at once and bring him here.
-54	(Soldier): Eh, but sir, Lord Zeiss wouldn't do such a thing...
-55	(Narcian): Silence! All you need to do is act as you're ordered!
-56	(Arcardo): Th-the enemy, they've already closed in on us!
-57	(Roartz): Ahh... what a thing this is... if they catch us,
-58	(Roartz): what will they do to us, the ones who started this coup...!
-59	(Douglas): ......
-60	(Roartz): ...Hmph! Arcardo!
-61	(Roartz): In the first place, it's because you failed to finish off the Lycian Alliance army on the Western Isles
-62	(Roartz): that things have come to this, isn't it!
-63	(Arcardo): B-but, Lord Roartz...!
-64	(Arcardo): No, there's no time to be arguing. We need to escape from here quickly.
-65	(Roartz): Even if we do, where to...
-66	(Arcardo): ...Let's rely on the Kingdom of Bern!
-67	(Arcardo): After all, it was them who brought us this plan in the first place.
-68	(Roartz): I-I suppose that's true.
-69	(Roartz): There's no way they'll abandon us, who carried out the coup exactly as planned.
-70	(Douglas): ...What do the two of you intend to do about His Majesty?
-71	(Roartz): Hmph... w-well, those people wouldn't go so far as to lay a hand on His Majesty.
-72	(Roartz): After all, King Zephiel of Bern's mother was a princess of Etruria, you know.
-73	(Roartz): More importantly, you should hurry too...
-74	(Douglas): I must decline.
-75	(Douglas): In the first place, the reason I've been fighting alongside you
-76	(Douglas): is out of concern for His Majesty's person — it was never because I agreed with your plan.
-77	(Roartz): Hmph, you stiff-necked fool! Then do as you please!
-78	(Roartz): Arcardo, let's flee quickly.
-79	(Arcardo): W-wait, please! Lord Roartz!!
-80	(Douglas): Showing your true colors at the very end... you filthy traitors...!!
-81	(Douglas): With this, there's no helping it if Bern takes advantage of the opening.
-82	(Douglas): As for those men... I'll leave them to the Lycian Alliance army.
-83	(Douglas): Someday, if Prince Myrddin, whom I had escape to the west, returns...
-84	(Douglas): Etruria will surely stand back up.
-85	(Douglas): Until the very end, I will show the loyalty of the "Great General" of Etruria's Three Generals.
-86	(Yodel): Sir Roy, this is the royal palace of Aquleia.
-87	(Yodel): According to information our church has gathered,
-88	(Yodel): the coup faction is said to be lying in wait deep within.
-89	(Roy): High Priest Yodel. Thank you for your efforts.
-90	(Roy): Thanks to you and the Elimine Church, we've been able to avoid a battle in the streets.
-91	(Yodel): No, it is we who wish to offer our thanks.
-92	(Yodel): For our church was being harshly suppressed by the coup faction.
-93	(Yodel): If the Lycian Alliance army hadn't fought for us, who knows what would have become of us by now.
-94	(Roy): Why was the coup faction suppressing your church?
-95	(Yodel): It's because of Bern's Kingdom...
-96	(Yodel): I believe it's because they were investigating the "dragons."
-97	(Yodel): Our founder, and also our last goddess, the Saint Elimine,
-98	(Yodel): is said to have left these words when she returned to the heavens.
-99	(Yodel): "The dragons must never be allowed to revive. The revival of the dragons will bring misfortune to many people."
-100	(Yodel): And so, our church has put all its effort into researching the "dragons,"
-101	(Yodel): and has been searching for a way to return them to the earth.
-102	(Roy): ...So the coup faction, which joined hands with Bern, wanted to stop that at all costs, is that it?
-103	(Yodel): Yes, surely.
-104	(Yodel): And so, this is something our church discovered through its research —
-105	(Yodel): it seems that Bern's great treasure, the "Fire Emblem," is somehow connected to the revival of the "dragons"...
-106	(Yodel): And so, we had Saul and the others pursue its trail.
-107	(Roy): I see, so that's how it was.
-108	(Yodel): Sir Roy, please, stop this coup.
-109	(Yodel): And if I may offer one piece of advice,
-110	(Yodel): it would be best to avoid any fighting that isn't strictly necessary, if you can.
-111	(Yodel): Among the Etrurian army, there must be those who, given the circumstances, have no choice but to follow the enemy against their own will.
-112	(Roy): I understand.
-113	(Yodel): May the Saint Elimine's blessing be upon you, Sir Roy, and the Lycian Alliance army...
-114	(Zeiss): It's here. What's going on? To call me out to a place like this...
-115	(Galle): There's no time to explain in detail.
-116	(Galle): Zeiss, you're to hide here for a while.
-117	(Zeiss): ...What do you mean? The enemy is right in front of us!
-118	(Galle): Zeiss, calm down and listen.
-119	(Galle): Just now, General Narcian gave an order to the whole army to capture you.
-120	(Zeiss): That's insane! Me, betraying Bern?
-121	(Galle): It seems he intends to pin all the blame for his past failures entirely on you,
-122	(Galle): saying you were conspiring with Melady, who fled taking the king's sister with her.
-123	(Zeiss): Conspiring with my sister? I don't even know where she is right now!
-124	(Galle): ...It seems Melady is with Princess Guinivere, having thrown her lot in with the enemy army.
-125	(Zeiss): !! My sister has defected to the enemy!? I can't believe such a thing...
-126	(Galle): Then go meet her directly and see for yourself.
-127	(Galle): I'd like to go with you, but I have to see this battle through
-128	(Galle): and report to General Murdock.
-129	(Galle): If you get the chance, escape,
-130	(Galle): and make contact with Melady in the Lycian Alliance.
-131	(Zeiss): Mr. Galle! I...
-132	(Galle): Zeiss, everything starts after you've heard what Melady has to say.
-133	(Galle): ......
-134	(Hugh): Whaaat? Some high-and-mighty Etrurian type ran off?
-135	(Hugh): Hey now, if that's how it is, what's gonna happen to my pay?
-136	(Hugh): I still haven't gotten paid for this battle, you know!
-137	(Cath): Having come all this way, I'm, like, calling out to you~!
-138	(Cath): Hehh, as expected, the richest family in the world, the Etrurian royal family, huh.
-139	(Cath): With a castle this grand, I bet there's treasure too, hehe... heheheh.
-140	(Cath): Since it's stuff you lot took from us anyway, I'll just help myself without any hesitation, won't I!
-141	(Hugh): Hey, you — you're the general of the army that's attacking, right?
-142	(Hugh): You're not short on mages, are you?
-143	(Roy): ? Well, having more can't hurt, but...
-144	(Hugh): Then, there's one mage who says he'd fight for you guys, if that's fine by you.
-145	(Hugh): Hey, you — wanna try hiring him?
-146	(Roy): Eh... where is he?
-147	(Hugh): Right in front of your eyes!
-148	(Roy): ......
-149	(Hugh): I may not look it, but I'm pretty darn skilled.
-150	(Hugh): I'll settle for 10,000 gold, how 'bout it.
-151	(Roy): 10,000 gold! That's expensive...
-152	(Hugh): C'mon, I'm begging you.
-153	(Hugh): I don't have money, and if I don't... my grandma...
-154	(Roy): Huh?
-155	(Roy): Your grandmother... is she sick or something?
-156	(Hugh): Uh, w-well... something like that, yeah...
-157	(Hugh): That's why I need the money. C'mon, please.
-158	(Roy): What should I do...
+14	Guh... you half-dead corpses of Lycia! To think you'd come even this far...
+15	N-Narcian, sir.
+16	Lord Murdock, head of the "Three Dragon Generals," has come to Aquleia...
+17	What did you say!?
+18	Q-quickly, send someone to greet him! We must receive him with proper respect!
+19	The thing is, he's already right there...
+20	Out of my way.
+21	Wh-why, this is Lord Murdock... all the way from Ilia...
+22	Narcian. Just what is going on here?
+23	Wh-what do you mean?
+24	Princess Guinivere, who was supposed to have returned once already, has fled again.
+25	Your subordinate Flaer's failure on the Western Isles.
+26	And furthermore, the matter entrusted to you by His Majesty —
+27	leaving unattended the subjugation of the "hidden village" in the Nabata Desert.
+28	How do you intend to explain yourself!?
+29	Y-yes, sir.
+30	...Well, you see, there are various circumstances...
+31	...This is His Majesty's order. You are to be demoted from "Dragon General."
+32	What did you say!?
+33	In your place, Galle is to be promoted, by his command.
+34	Please wait! Just one more chance, just one more!!
+35	...The Lycian Alliance army is closing in on this city of Aquleia.
+36	Hold them back and show me what you can do.
+37	If you succeed, I will put in a good word for you with His Majesty.
+38	Lord Murdock...
+39	Narcian. Don't disappoint His Majesty any further than this... and don't disappoint me either.
+40	How absurd! For me to be demoted...
+41	And of all people, my successor would be that Galle...
+42	I absolutely will not let that happen! B-but, wh-what should I do...
+43	Ahh, at this rate, my... my standing, my honor...
+44	Lord Narcian, the enemy forces are nearing the castle...
+45	Quiet! I know that already.
+46	...Now that I think of it, the younger brother of Melady, who let Princess Guinivere escape, is in this castle.
+47	I'll have it put about that it was him leaking information to the enemy that caused this to fail,
+48	and dispose of him. Heh heh heh...
+49	Lord Narcian... is something wrong?
+50	Hm? Oh, you there — do you know the younger brother of the dragon knight Melady?
+51	Would that be Lord Zeiss?
+52	Ah, Zeiss, that was it. There's a chance he sold information to the enemy.
+53	Capture him at once and bring him here.
+54	Eh, but sir, Lord Zeiss wouldn't do such a thing...
+55	Silence! All you need to do is act as you're ordered!
+56	Th-the enemy, they've already closed in on us!
+57	Ahh... what a thing this is... if they catch us,
+58	what will they do to us, the ones who started this coup...!
+59	......
+60	...Hmph! Arcardo!
+61	In the first place, it's because you failed to finish off the Lycian Alliance army on the Western Isles
+62	that things have come to this, isn't it!
+63	B-but, Lord Roartz...!
+64	No, there's no time to be arguing. We need to escape from here quickly.
+65	Even if we do, where to...
+66	...Let's rely on the Kingdom of Bern!
+67	After all, it was them who brought us this plan in the first place.
+68	I-I suppose that's true.
+69	There's no way they'll abandon us, who carried out the coup exactly as planned.
+70	...What do the two of you intend to do about His Majesty?
+71	Hmph... w-well, those people wouldn't go so far as to lay a hand on His Majesty.
+72	After all, King Zephiel of Bern's mother was a princess of Etruria, you know.
+73	More importantly, you should hurry too...
+74	I must decline.
+75	In the first place, the reason I've been fighting alongside you
+76	is out of concern for His Majesty's person — it was never because I agreed with your plan.
+77	Hmph, you stiff-necked fool! Then do as you please!
+78	Arcardo, let's flee quickly.
+79	W-wait, please! Lord Roartz!!
+80	Showing your true colors at the very end... you filthy traitors...!!
+81	With this, there's no helping it if Bern takes advantage of the opening.
+82	As for those men... I'll leave them to the Lycian Alliance army.
+83	Someday, if Prince Myrddin, whom I had escape to the west, returns...
+84	Etruria will surely stand back up.
+85	Until the very end, I will show the loyalty of the "Great General" of Etruria's Three Generals.
+86	Sir Roy, this is the royal palace of Aquleia.
+87	According to information our church has gathered,
+88	the coup faction is said to be lying in wait deep within.
+89	High Priest Yodel. Thank you for your efforts.
+90	Thanks to you and the Elimine Church, we've been able to avoid a battle in the streets.
+91	No, it is we who wish to offer our thanks.
+92	For our church was being harshly suppressed by the coup faction.
+93	If the Lycian Alliance army hadn't fought for us, who knows what would have become of us by now.
+94	Why was the coup faction suppressing your church?
+95	It's because of Bern's Kingdom...
+96	I believe it's because they were investigating the "dragons."
+97	Our founder, and also our last goddess, the Saint Elimine,
+98	is said to have left these words when she returned to the heavens.
+99	"The dragons must never be allowed to revive. The revival of the dragons will bring misfortune to many people."
+100	And so, our church has put all its effort into researching the "dragons,"
+101	and has been searching for a way to return them to the earth.
+102	...So the coup faction, which joined hands with Bern, wanted to stop that at all costs, is that it?
+103	Yes, surely.
+104	And so, this is something our church discovered through its research —
+105	it seems that Bern's great treasure, the "Fire Emblem," is somehow connected to the revival of the "dragons"...
+106	And so, we had Saul and the others pursue its trail.
+107	I see, so that's how it was.
+108	Sir Roy, please, stop this coup.
+109	And if I may offer one piece of advice,
+110	it would be best to avoid any fighting that isn't strictly necessary, if you can.
+111	Among the Etrurian army, there must be those who, given the circumstances, have no choice but to follow the enemy against their own will.
+112	I understand.
+113	May the Saint Elimine's blessing be upon you, Sir Roy, and the Lycian Alliance army...
+114	It's here. What's going on? To call me out to a place like this...
+115	There's no time to explain in detail.
+116	Zeiss, you're to hide here for a while.
+117	...What do you mean? The enemy is right in front of us!
+118	Zeiss, calm down and listen.
+119	Just now, General Narcian gave an order to the whole army to capture you.
+120	That's insane! Me, betraying Bern?
+121	It seems he intends to pin all the blame for his past failures entirely on you,
+122	saying you were conspiring with Melady, who fled taking the king's sister with her.
+123	Conspiring with my sister? I don't even know where she is right now!
+124	...It seems Melady is with Princess Guinivere, having thrown her lot in with the enemy army.
+125	!! My sister has defected to the enemy!? I can't believe such a thing...
+126	Then go meet her directly and see for yourself.
+127	I'd like to go with you, but I have to see this battle through
+128	and report to General Murdock.
+129	If you get the chance, escape,
+130	and make contact with Melady in the Lycian Alliance.
+131	Mr. Galle! I...
+132	Zeiss, everything starts after you've heard what Melady has to say.
+133	......
+134	Whaaat? Some high-and-mighty Etrurian type ran off?
+135	Hey now, if that's how it is, what's gonna happen to my pay?
+136	I still haven't gotten paid for this battle, you know!
+137	Having come all this way, I'm, like, calling out to you~!
+138	Hehh, as expected, the richest family in the world, the Etrurian royal family, huh.
+139	With a castle this grand, I bet there's treasure too, hehe... heheheh.
+140	Since it's stuff you lot took from us anyway, I'll just help myself without any hesitation, won't I!
+141	Hey, you — you're the general of the army that's attacking, right?
+142	You're not short on mages, are you?
+143	? Well, having more can't hurt, but...
+144	Then, there's one mage who says he'd fight for you guys, if that's fine by you.
+145	Hey, you — wanna try hiring him?
+146	Eh... where is he?
+147	Right in front of your eyes!
+148	......
+149	I may not look it, but I'm pretty darn skilled.
+150	I'll settle for 10,000 gold, how 'bout it.
+151	10,000 gold! That's expensive...
+152	C'mon, I'm begging you.
+153	I don't have money, and if I don't... my grandma...
+154	Huh?
+155	Your grandmother... is she sick or something?
+156	Uh, w-well... something like that, yeah...
+157	That's why I need the money. C'mon, please.
+158	What should I do...
 159	*If "No" is chosen
-160	(Roy): Sorry, but I can't spend 10,000 gold on just one person.
-161	(Hugh): Wh-what did you say!
-162	(Hugh): ...W-well, actually, 8,000 gold would be fine too...
-163	(Roy): Eh...
-164	(Hugh): C'mon, I'm begging you.
-165	(Roy): What should I do...
+160	Sorry, but I can't spend 10,000 gold on just one person.
+161	Wh-what did you say!
+162	...W-well, actually, 8,000 gold would be fine too...
+163	Eh...
+164	C'mon, I'm begging you.
+165	What should I do...
 166	*If "No" is chosen
-167	(Roy): Sorry, but...
-168	(Hugh): E-even this won't do?
-169	(Hugh): Well... if it's 6,000 gold, that should get me by for now, at least...
-170	(Roy): Hmm...
-171	(Hugh): I'm begging you. With this, somehow...
-172	(Roy): What should I do...
+167	Sorry, but...
+168	E-even this won't do?
+169	Well... if it's 6,000 gold, that should get me by for now, at least...
+170	Hmm...
+171	I'm begging you. With this, somehow...
+172	What should I do...
 173	*If "No" is chosen
-174	(Roy): ......
-175	(Hugh): Ugh...
-176	(Hugh): Alright, like leaping off the back of a wyvern, 5,000 gold, how about this!
-177	(Roy): ......
-178	(Hugh): This is it! I'm begging you, hire me for this!
-179	(Roy): What should I do...
+174	......
+175	Ugh...
+176	Alright, like leaping off the back of a wyvern, 5,000 gold, how about this!
+177	......
+178	This is it! I'm begging you, hire me for this!
+179	What should I do...
 180	*If "No" is chosen
-181	(Roy): ...I really can't, after all.
-182	(Hugh): Th-that's...
-183	(Hugh): ...C'mon, I'm begging you. I'll definitely be of use, I swear.
-184	(Roy): This army's money belongs to everyone. It's not mine to spend as I please just to hire someone.
-185	(Hugh): Ah-ha-ha, is that how it is!
-186	(Hugh): Tch, I thought you were such a big shot, but you're a real tightwad...
-187	(Roy): ......
+181	...I really can't, after all.
+182	Th-that's...
+183	...C'mon, I'm begging you. I'll definitely be of use, I swear.
+184	This army's money belongs to everyone. It's not mine to spend as I please just to hire someone.
+185	Ah-ha-ha, is that how it is!
+186	Tch, I thought you were such a big shot, but you're a real tightwad...
+187	......
 188	*If "Yes" is chosen (at any point)
-189	(Roy): Alright, if your grandmother is sick, then you'll need the money...
-190	(Hugh): Oh, I'm so glad — her illness, well, it's especially bad pain around her hips, you know.
-191	(Roy): Huh? Hip pain, isn't that... your hip that hurts?
-192	(Hugh): Ah, no, well, that's... just a figure of speech, a figure of speech.
-193	(Hugh): Well then, I'll gladly take it.
-194	(Hugh): I'll work hard, so look forward to it!
-195	(Roy): ......
-196	(Elffin): Douglas!
-197	(Douglas): Prince Myrddin!!
-198	(Douglas): So you really did return safely! ...Oh, and you've gotten so well again.
-199	(Elffin): It's all thanks to you. I caused you so much hardship.
-200	(Douglas): You've come back alive — that alone makes my hardships seem like nothing...
-201	(Elffin): Douglas, I am now with the Lycian Alliance army.
-202	(Douglas): Is that so!
-203	(Douglas): Then, if we can just drive the Bernese army out of this royal palace, everything should go well.
-204	(Elffin): And what will you do?
-205	(Douglas): His Majesty is still in the enemy's hands.
-206	(Douglas): No matter how much Prince Myrddin has returned, if it becomes known that I've sided with Lycia,
-207	(Douglas): His Majesty's life may well be taken...
-208	(Elffin): ......
-209	(Douglas): But now that the prince has returned, there's nothing left for me to regret.
-210	(Douglas): Even if I should be struck down by the Lycian Alliance army like this,
-211	(Elffin): Douglas... I'm sorry. For my father's sake...
-212	(Douglas): My prince, if I can become the cornerstone of this nation, that is all I could wish for.
-213	(Elffin): ......
-214	(Douglas): I'm glad that, at the very end, I got to see the prince's face safe and well, even if only once.
-215	(Elffin): You protected me at great risk to yourself, and entrusted me to my foster family to flee to the west.
-216	(Elffin): No matter what happens from here, I will never forget that... never.
-217	(Douglas): ...How foolish of me.
-218	(Douglas): Seeing the prince's face like this, I find myself thinking... somehow... to His Majesty... and so on.
-219	(Elffin): Douglas, to the very end, I will not give up.
-220	(Elffin): If it is Sir Roy of the Lycian Alliance army, then perhaps...
-221	(Larum): Father!
-222	(Douglas): ! Isn't this Larum? Why are you here?
-223	(Larum): I'm accompanying Prince Myrddin, together with the Lycian Alliance army...
-224	(Douglas): I see! So the prince has returned!!
-225	(Douglas): Oh... with this, Etruria is safe...
-226	(Larum): Father... I'm so glad.
-227	(Douglas): Larum... I've put you through so much hardship.
-228	(Douglas): Back then, so as not to draw the attention of the assassins...
-229	(Douglas): I entrusted the prince to you alone and sent you off to the west.
-230	(Larum): That's not true at all! That was something I wanted to do myself.
-231	(Douglas): But to you, who escaped from such a hard life,
-232	(Douglas): I've even had you keep up the act of being a dancer once again.
-233	(Larum): ...Back then, you took me in, when I had nothing to eat
-234	(Larum): and was collapsed on the roadside.
-235	(Larum): More than that, you even raised me as your own daughter.
-236	(Larum): From that time on, I decided in my heart
-237	(Larum): that someday I'd be of use to you, Father — that someday, without fail, I'd repay the favor.
-238	(Douglas): Larum...
-239	(Larum): So, right now, I'm really happy.
-240	(Larum): Because I'm being of use to you, Father.
-241	(Douglas): Larum, thank you.
-242	(Douglas): ...From now on too, I leave Prince Myrddin in your care.
-243	(Larum): What about you, Father? Won't you come along with us?
-244	(Douglas): His Majesty is still in the enemy's hands.
-245	(Douglas): No matter how much Prince Myrddin, or you, have returned,
-246	(Douglas): if it becomes known that I've sided with Lycia, His Majesty's life may well be taken...
-247	(Larum): ...But—
-248	(Douglas): Now that the prince has returned, there's nothing left for me to regret.
-249	(Douglas): Even if I should be struck down by the Lycian Alliance army like this.
-250	(Larum): ......
-251	(Douglas): Now, go.
-252	(Douglas): If you stay with me, you'll be suspected of things you shouldn't be.
-253	(Douglas): Wherever you are, whenever it may be, I think of you as my true daughter.
-254	(Larum): Father...
-255	(Douglas): May there be happiness in your life from here on.
-256	(Klein): Lord Douglas...
-257	(Douglas): Klein, is it. You, whom I've known since you were a babe,
-258	(Douglas): to think the day would come that we'd face each other as enemies like this.
-259	(Klein): Lord Douglas, please reconsider!
-260	(Klein): Aren't you the one called the "Great General," the model for every soldier of Etruria!?
-261	(Klein): How could you, of all people, side with those who've become mere puppets of Bern...
-262	(Douglas): The answer to that is exactly what you just said yourself.
-263	(Douglas): It's because I am a soldier.
-264	(Klein): Eh...
-265	(Douglas): His Majesty the king is held captive by Bern. To abandon that and turn traitor to the enemy — that, I absolutely cannot do.
-266	(Klein): B-but, still...
-267	(Douglas): ...This is a world where many people throw away their honor and pride for their own gain.
-268	(Douglas): Precisely because it's a world like this,
-269	(Douglas): isn't it fine for at least one person to hold fast to the "way" of a soldier?
-270	(Klein): ......
-271	(Douglas): My generation has already come to an end.
-272	(Douglas): From here on, the Etrurian army belongs to the generation of you young people.
-273	(Douglas): Lead it well, so as not to tarnish the glory of the past.
-274	(Klein): Lord Douglas...
-275	(Douglas): Now, go, Klein.
-276	(Perceval): Lord Douglas!
-277	(Douglas): Percival, is it... your face shows your doubts have cleared.
-278	(Perceval): Lord Douglas, it's thanks to you.
-279	(Perceval): Because you helped Prince Myrddin,
-280	(Perceval): I was able to become, once again, an Etrurian knight with pride.
-281	(Douglas): I see.
-282	(Perceval): Lord Douglas, what will you do?
-283	(Douglas): His Majesty is still in the enemy's hands.
-284	(Douglas): No matter how much Prince Myrddin has returned, if it becomes known that I've sided with Lycia,
-285	(Douglas): His Majesty's life may well be taken...
-286	(Perceval): ......
-287	(Douglas): Now that the prince has returned, there's nothing left for me to regret.
-288	(Douglas): Even if I should be struck down by the Lycian Alliance army like this.
-289	(Perceval): I thought you might say something like that.
-290	(Douglas): You and I have walked the same path, after all.
-291	(Douglas): Percival.
-292	(Douglas): I entrust Prince Myrddin, and the Kingdom of Etruria, to you.
-293	(Perceval): Yes, sir. Even if it costs me my life.
-294	(Douglas): Cecilia, is it...
-295	(Cecilia): Lord Douglas, how could someone like you side with the likes of the coup faction...?
-296	(Douglas): It's for the sake of His Majesty's person, and for no other reason.
-297	(Cecilia): But at this rate, the nation of Etruria itself
-298	(Cecilia): will become nothing more than a shell before Bern's power.
-299	(Cecilia): Isn't it the nation that makes His Majesty who he is? If the nation is lost, that power too will be lost,
-300	(Cecilia): and as the flow of time passes, it may well fade away from the hearts of the people!
-301	(Douglas): If the nation's fate has already run its course, then that too is unavoidable.
-302	(Cecilia): How could... that's just an excuse!
-303	(Cecilia): To fight, even at the cost of casting aside yourself, for the sake of the country and the people — that is our duty.
-304	(Cecilia): The Etrurian royal army exists for the sake of the country. It is not His Majesty's private army!
-305	(Douglas): ...It's a difference in our way of thinking. No, perhaps I should say, a difference in our way of life.
-306	(Douglas): You go your own way. I will walk my own way of life.
-307	(Zeiss): Sister!!
-308	(Melady): Zeiss!? Why are you in a place like this...
-309	(Zeiss): ...I'm being pursued, suspected of treason against Bern.
-310	(Melady): ! Don't tell me... is it my fault?
-311	(Zeiss): I heard from Mr. Galle that you and the others have apparently thrown your lot in with the enemy army now.
-312	(Zeiss): I couldn't believe it until I saw it with my own eyes, but... it really was true!
-313	(Zeiss): Sister! Why, why did you betray Bern!
-314	(Melady): I never meant to betray anyone. I only wanted to help Lady Guinivere.
-315	(Zeiss): You abandoned your homeland, your family, even your lover, for the sake of Lady Guinivere.
-316	(Zeiss): For the sake of such a selfish princess, who'd betray her own brother like that...!
-317	(Melady): Zeiss! Even from you, I will not allow
-318	(Melady): any insult to Lady Guinivere!!
-319	(Zeiss): ......
-320	(Melady): The one who truly thinks of Bern isn't His Majesty the king — it's Lady Guinivere.
-321	(Melady): It's true that when the princess disappeared without a word of consultation, I did resent her for a time.
-322	(Melady): But now, being at her side like this, I've come to be all the more certain
-323	(Melady): that the path Lady Guinivere has taken is never the wrong one.
-324	(Zeiss): ...So what Mr. Galle said was true, after all.
-325	(Melady): ?
-326	(Zeiss): "Meet your sister and see for yourself with your own eyes. Everything starts from there" — that's what he said.
-327	(Melady): Galle... said that?
-328	(Zeiss): I still haven't accepted everything, but, I'll believe in you, sister.
-329	(Melady): Zeiss! Then!?
-330	(Zeiss): If this army's commander gives permission, I'll come along too.
-331	(Zeiss): I want to see for myself the "conviction" of Lady Guinivere that my sister came to believe in.
+189	Alright, if your grandmother is sick, then you'll need the money...
+190	Oh, I'm so glad — her illness, well, it's especially bad pain around her hips, you know.
+191	Huh? Hip pain, isn't that... your hip that hurts?
+192	Ah, no, well, that's... just a figure of speech, a figure of speech.
+193	Well then, I'll gladly take it.
+194	I'll work hard, so look forward to it!
+195	......
+196	Douglas!
+197	Prince Myrddin!!
+198	So you really did return safely! ...Oh, and you've gotten so well again.
+199	It's all thanks to you. I caused you so much hardship.
+200	You've come back alive — that alone makes my hardships seem like nothing...
+201	Douglas, I am now with the Lycian Alliance army.
+202	Is that so!
+203	Then, if we can just drive the Bernese army out of this royal palace, everything should go well.
+204	And what will you do?
+205	His Majesty is still in the enemy's hands.
+206	No matter how much Prince Myrddin has returned, if it becomes known that I've sided with Lycia,
+207	His Majesty's life may well be taken...
+208	......
+209	But now that the prince has returned, there's nothing left for me to regret.
+210	Even if I should be struck down by the Lycian Alliance army like this,
+211	Douglas... I'm sorry. For my father's sake...
+212	My prince, if I can become the cornerstone of this nation, that is all I could wish for.
+213	......
+214	I'm glad that, at the very end, I got to see the prince's face safe and well, even if only once.
+215	You protected me at great risk to yourself, and entrusted me to my foster family to flee to the west.
+216	No matter what happens from here, I will never forget that... never.
+217	...How foolish of me.
+218	Seeing the prince's face like this, I find myself thinking... somehow... to His Majesty... and so on.
+219	Douglas, to the very end, I will not give up.
+220	If it is Sir Roy of the Lycian Alliance army, then perhaps...
+221	Father!
+222	! Isn't this Larum? Why are you here?
+223	I'm accompanying Prince Myrddin, together with the Lycian Alliance army...
+224	I see! So the prince has returned!!
+225	Oh... with this, Etruria is safe...
+226	Father... I'm so glad.
+227	Larum... I've put you through so much hardship.
+228	Back then, so as not to draw the attention of the assassins...
+229	I entrusted the prince to you alone and sent you off to the west.
+230	That's not true at all! That was something I wanted to do myself.
+231	But to you, who escaped from such a hard life,
+232	I've even had you keep up the act of being a dancer once again.
+233	...Back then, you took me in, when I had nothing to eat
+234	and was collapsed on the roadside.
+235	More than that, you even raised me as your own daughter.
+236	From that time on, I decided in my heart
+237	that someday I'd be of use to you, Father — that someday, without fail, I'd repay the favor.
+238	Larum...
+239	So, right now, I'm really happy.
+240	Because I'm being of use to you, Father.
+241	Larum, thank you.
+242	...From now on too, I leave Prince Myrddin in your care.
+243	What about you, Father? Won't you come along with us?
+244	His Majesty is still in the enemy's hands.
+245	No matter how much Prince Myrddin, or you, have returned,
+246	if it becomes known that I've sided with Lycia, His Majesty's life may well be taken...
+247	...But—
+248	Now that the prince has returned, there's nothing left for me to regret.
+249	Even if I should be struck down by the Lycian Alliance army like this.
+250	......
+251	Now, go.
+252	If you stay with me, you'll be suspected of things you shouldn't be.
+253	Wherever you are, whenever it may be, I think of you as my true daughter.
+254	Father...
+255	May there be happiness in your life from here on.
+256	Lord Douglas...
+257	Klein, is it. You, whom I've known since you were a babe,
+258	to think the day would come that we'd face each other as enemies like this.
+259	Lord Douglas, please reconsider!
+260	Aren't you the one called the "Great General," the model for every soldier of Etruria!?
+261	How could you, of all people, side with those who've become mere puppets of Bern...
+262	The answer to that is exactly what you just said yourself.
+263	It's because I am a soldier.
+264	Eh...
+265	His Majesty the king is held captive by Bern. To abandon that and turn traitor to the enemy — that, I absolutely cannot do.
+266	B-but, still...
+267	...This is a world where many people throw away their honor and pride for their own gain.
+268	Precisely because it's a world like this,
+269	isn't it fine for at least one person to hold fast to the "way" of a soldier?
+270	......
+271	My generation has already come to an end.
+272	From here on, the Etrurian army belongs to the generation of you young people.
+273	Lead it well, so as not to tarnish the glory of the past.
+274	Lord Douglas...
+275	Now, go, Klein.
+276	Lord Douglas!
+277	Percival, is it... your face shows your doubts have cleared.
+278	Lord Douglas, it's thanks to you.
+279	Because you helped Prince Myrddin,
+280	I was able to become, once again, an Etrurian knight with pride.
+281	I see.
+282	Lord Douglas, what will you do?
+283	His Majesty is still in the enemy's hands.
+284	No matter how much Prince Myrddin has returned, if it becomes known that I've sided with Lycia,
+285	His Majesty's life may well be taken...
+286	......
+287	Now that the prince has returned, there's nothing left for me to regret.
+288	Even if I should be struck down by the Lycian Alliance army like this.
+289	I thought you might say something like that.
+290	You and I have walked the same path, after all.
+291	Percival.
+292	I entrust Prince Myrddin, and the Kingdom of Etruria, to you.
+293	Yes, sir. Even if it costs me my life.
+294	Cecilia, is it...
+295	Lord Douglas, how could someone like you side with the likes of the coup faction...?
+296	It's for the sake of His Majesty's person, and for no other reason.
+297	But at this rate, the nation of Etruria itself
+298	will become nothing more than a shell before Bern's power.
+299	Isn't it the nation that makes His Majesty who he is? If the nation is lost, that power too will be lost,
+300	and as the flow of time passes, it may well fade away from the hearts of the people!
+301	If the nation's fate has already run its course, then that too is unavoidable.
+302	How could... that's just an excuse!
+303	To fight, even at the cost of casting aside yourself, for the sake of the country and the people — that is our duty.
+304	The Etrurian royal army exists for the sake of the country. It is not His Majesty's private army!
+305	...It's a difference in our way of thinking. No, perhaps I should say, a difference in our way of life.
+306	You go your own way. I will walk my own way of life.
+307	Sister!!
+308	Zeiss!? Why are you in a place like this...
+309	...I'm being pursued, suspected of treason against Bern.
+310	! Don't tell me... is it my fault?
+311	I heard from Mr. Galle that you and the others have apparently thrown your lot in with the enemy army now.
+312	I couldn't believe it until I saw it with my own eyes, but... it really was true!
+313	Sister! Why, why did you betray Bern!
+314	I never meant to betray anyone. I only wanted to help Lady Guinivere.
+315	You abandoned your homeland, your family, even your lover, for the sake of Lady Guinivere.
+316	For the sake of such a selfish princess, who'd betray her own brother like that...!
+317	Zeiss! Even from you, I will not allow
+318	any insult to Lady Guinivere!!
+319	......
+320	The one who truly thinks of Bern isn't His Majesty the king — it's Lady Guinivere.
+321	It's true that when the princess disappeared without a word of consultation, I did resent her for a time.
+322	But now, being at her side like this, I've come to be all the more certain
+323	that the path Lady Guinivere has taken is never the wrong one.
+324	...So what Mr. Galle said was true, after all.
+325	?
+326	"Meet your sister and see for yourself with your own eyes. Everything starts from there" — that's what he said.
+327	Galle... said that?
+328	I still haven't accepted everything, but, I'll believe in you, sister.
+329	Zeiss! Then!?
+330	If this army's commander gives permission, I'll come along too.
+331	I want to see for myself the "conviction" of Lady Guinivere that my sister came to believe in.
 332	I am strong... I am wise... I am beautiful... I am righteous...
 333	More than anyone... more than anyone else!!
 334	*If fighting with Clarine — You're that little girl from back then!
@@ -358,57 +358,57 @@
 358	Damn you... damn you...
 359	To be beaten by the likes of you... to be beaten by the likes of you...!
 360	*When Douglas survives
-361	(Priest): Oh, so it was you... the one who saved me...
-362	(Roy): I lead the Lycian Alliance. My name is Roy.
-363	(Priest): I see...
-364	(Roy): ......
-365	(Priest): ...I'm sorry to ask, but I have a request.
-366	(Priest): It seems those who lent their strength to Bern are still holed up in the "Saint's Tower."
-367	(Roy): The "Saint's Tower"...
-368	(Roy): Where one of the Eight Legends, the Saint Elimine, is enshrined...
-369	(Priest): That's right...
-370	(Priest): That place is a symbol of Etruria.
-371	(Priest): I'm sorry to ask, but could you take it back for us?
-372	(Roy): If it's within my power.
-373	(Priest): I'm grateful.
-374	(Priest): ...Whatever is inside the tower, you're free to use as you wish.
-375	(Priest): I don't know if it can repay your efforts, but...
-376	(Roy): His Majesty the king... he still hasn't... lost the prince...
-377	(Marinus): It's no wonder the enemy was able to take advantage of that.
-378	(Roy): Is there nothing we can do... to be of some help to him?
-379	(Elffin): ...Father. I'm sorry... not yet, not just now...
-380	(Elffin): When the time comes... someday, without fail, I will return...
+361	Oh, so it was you... the one who saved me...
+362	I lead the Lycian Alliance. My name is Roy.
+363	I see...
+364	......
+365	...I'm sorry to ask, but I have a request.
+366	It seems those who lent their strength to Bern are still holed up in the "Saint's Tower."
+367	The "Saint's Tower"...
+368	Where one of the Eight Legends, the Saint Elimine, is enshrined...
+369	That's right...
+370	That place is a symbol of Etruria.
+371	I'm sorry to ask, but could you take it back for us?
+372	If it's within my power.
+373	I'm grateful.
+374	...Whatever is inside the tower, you're free to use as you wish.
+375	I don't know if it can repay your efforts, but...
+376	His Majesty the king... he still hasn't... lost the prince...
+377	It's no wonder the enemy was able to take advantage of that.
+378	Is there nothing we can do... to be of some help to him?
+379	...Father. I'm sorry... not yet, not just now...
+380	When the time comes... someday, without fail, I will return...
 381	*When Douglas has died
-382	(Roy): Princess Guinivere, there is something I need to speak with you about.
-383	(Guinivere): ...That you intend to attack Bern together with the Kingdom of Etruria... is that it?
-384	(Roy): ! Did someone tell you?
-385	(Guinivere): No... but, I had thought it would eventually come to this.
-386	(Roy): ...We cannot simply leave Bern as it is.
-387	(Roy): It must be painful for you, to see your own country invaded, but... please.
-388	(Guinivere): ...I will entrust this to you, Sir Roy.
-389	(Roy): What is this?
-390	(Guinivere): It is Bern's great treasure, the "Fire Emblem."
-391	(Roy): What!
-392	(Guinivere): To the south of the Kingdom of Bern, there stands a building called the "Shrine of Seals."
-393	(Guinivere): There, a sword used by Bern's founding king, Hartmut, is kept.
-394	(Roy): Is that one of the "Divine Weapons"?
-395	(Guinivere): That is what is said.
-396	(Guinivere): However, that sword — in order to defeat the chieftain of the dragon clan, who was overwhelmingly powerful,
-397	(Guinivere): the "Demon Dragon" — is said to have been forged as a weapon of especially great power.
-398	(Guinivere): That's why, after the "War of Dragons and Men," it was sealed away, made unusable.
-399	(Guinivere): And this "Fire Emblem" is the key that unlocks that seal.
-400	(Roy): To unlock the seal... the key...
-401	(Guinivere): Sir Roy, my brother... Bern's king... is trying to rule the world by force.
-402	(Guinivere): No matter what his purpose may be, it is something that can never be forgiven...
-403	(Roy): ......
-404	(Guinivere): The only way left to stop my brother's rampage is to go to the Kingdom of Bern
-405	(Guinivere): and defeat my brother and the "dragon" at his side...
-406	(Roy): Princess Guinivere...
-407	(Guinivere): ...I will leave behind a stain on Bern's history, won't I.
-408	(Guinivere): As "the woman who sold her country"...
-409	(Roy): That's not true...
-410	(Guinivere): I will likely be hated for the rest of my life, as a traitor.
-411	(Guinivere): Sir Roy. There's just one thing I ask you to promise.
-412	(Guinivere): Even if you march on Bern itself, please, to the people of Bern... just the people...
-413	(Roy): To the people of Bern, I will never lay a hand. Please believe me.
-414	(Guinivere): Sir Roy... thank you.
+382	Princess Guinivere, there is something I need to speak with you about.
+383	...That you intend to attack Bern together with the Kingdom of Etruria... is that it?
+384	! Did someone tell you?
+385	No... but, I had thought it would eventually come to this.
+386	...We cannot simply leave Bern as it is.
+387	It must be painful for you, to see your own country invaded, but... please.
+388	...I will entrust this to you, Sir Roy.
+389	What is this?
+390	It is Bern's great treasure, the "Fire Emblem."
+391	What!
+392	To the south of the Kingdom of Bern, there stands a building called the "Shrine of Seals."
+393	There, a sword used by Bern's founding king, Hartmut, is kept.
+394	Is that one of the "Divine Weapons"?
+395	That is what is said.
+396	However, that sword — in order to defeat the chieftain of the dragon clan, who was overwhelmingly powerful,
+397	the "Demon Dragon" — is said to have been forged as a weapon of especially great power.
+398	That's why, after the "War of Dragons and Men," it was sealed away, made unusable.
+399	And this "Fire Emblem" is the key that unlocks that seal.
+400	To unlock the seal... the key...
+401	Sir Roy, my brother... Bern's king... is trying to rule the world by force.
+402	No matter what his purpose may be, it is something that can never be forgiven...
+403	......
+404	The only way left to stop my brother's rampage is to go to the Kingdom of Bern
+405	and defeat my brother and the "dragon" at his side...
+406	Princess Guinivere...
+407	...I will leave behind a stain on Bern's history, won't I.
+408	As "the woman who sold her country"...
+409	That's not true...
+410	I will likely be hated for the rest of my life, as a traitor.
+411	Sir Roy. There's just one thing I ask you to promise.
+412	Even if you march on Bern itself, please, to the people of Bern... just the people...
+413	To the people of Bern, I will never lay a hand. Please believe me.
+414	Sir Roy... thank you.

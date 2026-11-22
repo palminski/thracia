@@ -1,8 +1,8 @@
 1	(Levin (Strategist)): Celice, well done.
 2	(Levin (Strategist)): You endured such suffering, to make it all the way here.
-3	(Celice): Levin, the battle has ended in victory, but
-4	(Celice): the world has been left in ruins.
-5	(Celice): What should we do from here, I wonder.
+3	Levin, the battle has ended in victory, but
+4	the world has been left in ruins.
+5	What should we do from here, I wonder.
 6	(Levin (Strategist)): To rebuild these devastated nations,
 7	(Levin (Strategist)): everyone must join their strength together,
 8	(Levin (Strategist)): and share in each other's hardships.
@@ -12,13 +12,13 @@
 12	(Levin (Strategist)): And then, with everyone cooperating together,
 13	(Levin (Strategist)): you will build a new world
 14	(Levin (Strategist)): where everyone can find happiness.
-15	(Celice): A new world...
+15	A new world...
 16	(Levin (Strategist)): That's right. And Celice,
 17	(Levin (Strategist)): you will become the king of this Grannvale.
 18	(Levin (Strategist)): As King of Grannvale, you bear
 19	(Levin (Strategist)): the responsibility of guiding
 20	(Levin (Strategist)): this entire world.
-21	(Celice): Me, king of Grannvale!?
+21	Me, king of Grannvale!?
 22	— (if Julia is alive) (Levin (Strategist)): That's right.
 23	(Levin (Strategist)): Those who carry on the blood of the Grannvale royal family
 24	(Levin (Strategist)): are now only the two of you.
@@ -26,15 +26,15 @@
 26	(Levin (Strategist)): must carry on the will of those who were lost.
 27	(Levin (Strategist)): The people are watching over you.
 28	(Levin (Strategist)): Never forget the light they sought.
-29	(Celice): Yes.........
-30	(Celice): Understood, King Levin.
-31	(Celice): I'll do everything within my power to try. Julia,
-32	(Celice): you too, are you with me?
-33	(Julia): Yes, I too...
-34	(Julia): Lord Celice.........
-35	(Julia): No — I want to help my brother.
-36	(Julia): No matter how painful it may be,
-37	(Julia): I will not run away.........
+29	Yes.........
+30	Understood, King Levin.
+31	I'll do everything within my power to try. Julia,
+32	you too, are you with me?
+33	Yes, I too...
+34	Lord Celice.........
+35	No — I want to help my brother.
+36	No matter how painful it may be,
+37	I will not run away.........
 38	— (if Julia has died) (Levin (Strategist)): That's right.
 39	(Levin (Strategist)): Those who carry on the blood of the Grannvale royal family
 40	(Levin (Strategist)): are now only you and Julia — no, only you remain.
@@ -53,27 +53,27 @@
 53	(Levin (Strategist)): of those who were lost.
 54	(Levin (Strategist)): The people are watching over you.
 55	(Levin (Strategist)): Never forget the light they sought.
-56	(Celice): Yes.........
-57	(Celice): Understood, King Levin.
-58	(Celice): To make up for Julia too,
-59	(Celice): I'll do everything within my power to try.
+56	Yes.........
+57	Understood, King Levin.
+58	To make up for Julia too,
+59	I'll do everything within my power to try.
 60	(Levin (Strategist)): ...Well then, Celice, it pains me to part,
 61	(Levin (Strategist)): but I too shall set out on my own journey now.
-62	(Celice): Levin... thank you...
-63	(Celice): You, who watched over us
-64	(Celice): while we were still young, the whole time —
-65	(Celice): I am truly grateful.
+62	Levin... thank you...
+63	You, who watched over us
+64	while we were still young, the whole time —
+65	I am truly grateful.
 66	(Levin (Strategist)): I merely fulfilled my own duty, that's all.
 67	(Levin (Strategist)): I am the wind — the wind that guides a warm light.
 68	(Levin (Strategist)): And that light,
 69	(Levin (Strategist)): lives within the heart of each and every one of you.
-70	(Celice): Yes, I understand.
-71	(Celice): I've heard that the dragon tribe fears
-72	(Celice): involving itself in the affairs of the human world.
-73	(Celice): And yet, you broke that very law
-74	(Celice): to guide us all this way.
-75	(Celice): For as long as this earth endures,
-76	(Celice): we will never forget the debt we owe you.
-77	(Celice): Levin... no...
-78	(Celice): far-traveled warrior of a distant land,
-79	(Celice): Forseti of the wind.........
+70	Yes, I understand.
+71	I've heard that the dragon tribe fears
+72	involving itself in the affairs of the human world.
+73	And yet, you broke that very law
+74	to guide us all this way.
+75	For as long as this earth endures,
+76	we will never forget the debt we owe you.
+77	Levin... no...
+78	far-traveled warrior of a distant land,
+79	Forseti of the wind.........

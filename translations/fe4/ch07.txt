@@ -15,472 +15,472 @@
 15	were preparing to set out to save their distant comrades in Leonster.
 16	Each carrying their own private hopes in their hearts,
 17	Celice and his companions' new battle was now about to begin.
-18	(Leaf): Finn, how do things stand? Is there still no word from the unit we sent ahead?
-19	(Finn): ...Unfortunately, the uprising has failed. The unit that went to attack Alster was wiped out entirely.
-20	(Finn): We no longer have a single soldier left.
-21	(Leaf): No... just when our chance had finally come, was it all for nothing...
-22	(Leaf): Damn it, Bloom... next time, I'll be the one who faces you!
-23	(Finn): Prince Leaf, please calm yourself. This isn't over yet. Remember the promise we made with Lord Levin —
-24	(Finn): that Lord Celice's Liberation Army is heading for Leonster, and that until then, we must hold on no matter what.
-25	(Leaf): Prince Celice... the orphaned child of Lord Sigurd, my father's close friend, and Princess Deirdre, they say...
-26	(Leaf): I'd like to meet him... if we join our strength together, we might be able to save the people suffering under the Empire's tyranny.
-27	(Nanna): That's right, Lord Leaf. If we lose you here too, the soldiers' deaths will have been for nothing.
-28	(Nanna): For now, let's abandon this castle and go into hiding somewhere around the church to the west.
-29	(Leaf): I suppose... that might be one option.
-30	(Leaf): Alright, in any case, let's hold out a little longer... at least until I can meet Prince Celice...
-31	(Bloom): What is going on? Why can't you take even such a small castle? Are you lot even trying!
-32	(Philip): Haa... but, breaking through the enemy's defensive line has proven extremely difficult...
-33	(Bloom): Fools! I don't want to hear excuses — hurry up and take Leonster Castle!
-34	(Bloom): If we dawdle, the Isaac rebels will come!
-35	(Philip): Yes sir, we'll set out at once.
-36	(Patty): Just as the rumors said, there was a ton of treasure here — it's been a good while since I've had such a good haul.
-37	(Patty): Well, no time to stand around admiring it — better make a quick getaway.
-38	(Shanan): Hey, wait. Everything else can go, but that sword — hand it over to me.
-39	(Patty): What's with you? You trying to swipe my hard-earned loot?
-40	(Patty): No way, this sword was the one I worked hardest for — if you want it, come and get it, you dummy.
-41	(Shanan): W-, wait!
-42	(Kutuzov): What? The treasury's been ransacked by thieves, you say?
-43	(Kutuzov): Even the Balmung was stolen!? You fools, chase after them at once!
-44	(Dark Priest): Hah, but Lord Kutuzov,
-45	(Dark Priest): with your dark sorcery, surely mere thieves would be dealt with in a single blow, wouldn't they?
-46	(Kutuzov): The magic of Fenrir, you mean... I know that well enough, but I can't find the tome. I've ordered my men to search for it, but...
-47	(Dark Priest): Understood. Then let us and the mercenaries go after them.
-48	(Dark Priest): There's no need to worry. We'll retrieve the stolen treasure in no time.
-49	(Celice): To reach Leonster, we have to cross this vast desert, don't we...
+18	Finn, how do things stand? Is there still no word from the unit we sent ahead?
+19	...Unfortunately, the uprising has failed. The unit that went to attack Alster was wiped out entirely.
+20	We no longer have a single soldier left.
+21	No... just when our chance had finally come, was it all for nothing...
+22	Damn it, Bloom... next time, I'll be the one who faces you!
+23	Prince Leaf, please calm yourself. This isn't over yet. Remember the promise we made with Lord Levin —
+24	that Lord Celice's Liberation Army is heading for Leonster, and that until then, we must hold on no matter what.
+25	Prince Celice... the orphaned child of Lord Sigurd, my father's close friend, and Princess Deirdre, they say...
+26	I'd like to meet him... if we join our strength together, we might be able to save the people suffering under the Empire's tyranny.
+27	That's right, Lord Leaf. If we lose you here too, the soldiers' deaths will have been for nothing.
+28	For now, let's abandon this castle and go into hiding somewhere around the church to the west.
+29	I suppose... that might be one option.
+30	Alright, in any case, let's hold out a little longer... at least until I can meet Prince Celice...
+31	What is going on? Why can't you take even such a small castle? Are you lot even trying!
+32	Haa... but, breaking through the enemy's defensive line has proven extremely difficult...
+33	Fools! I don't want to hear excuses — hurry up and take Leonster Castle!
+34	If we dawdle, the Isaac rebels will come!
+35	Yes sir, we'll set out at once.
+36	Just as the rumors said, there was a ton of treasure here — it's been a good while since I've had such a good haul.
+37	Well, no time to stand around admiring it — better make a quick getaway.
+38	Hey, wait. Everything else can go, but that sword — hand it over to me.
+39	What's with you? You trying to swipe my hard-earned loot?
+40	No way, this sword was the one I worked hardest for — if you want it, come and get it, you dummy.
+41	W-, wait!
+42	What? The treasury's been ransacked by thieves, you say?
+43	Even the Balmung was stolen!? You fools, chase after them at once!
+44	Hah, but Lord Kutuzov,
+45	with your dark sorcery, surely mere thieves would be dealt with in a single blow, wouldn't they?
+46	The magic of Fenrir, you mean... I know that well enough, but I can't find the tome. I've ordered my men to search for it, but...
+47	Understood. Then let us and the mercenaries go after them.
+48	There's no need to worry. We'll retrieve the stolen treasure in no time.
+49	To reach Leonster, we have to cross this vast desert, don't we...
 50	(Levin (Strategist)): That's right... and on top of that, the Temple of Yied is now under the Loptr cult's control,
 51	(Levin (Strategist)): and they say dark sorcerers there show no mercy to anyone who tries to cross the desert.
 52	(Levin (Strategist)): These days the Yied Desert is known as the Desert of Death.
-53	(Celice): Then travelers must be in real trouble. Isn't there some way we could take the Temple of Yied?
+53	Then travelers must be in real trouble. Isn't there some way we could take the Temple of Yied?
 54	(Levin (Strategist)): Heh... I thought you'd say that. There is a way, but it won't be easy — we'll have to be prepared for considerable losses.
-55	(Celice): I understand that. But I can't just leave it be.
-56	(Celice): Shanan's safety weighs on my mind too — first, let's aim to take Yied. Everything starts from there!
-57	(Soldier): Lord Bramsel, it seems the Isaac rebels have made their move.
-58	(Bramsel): The rebels, you say? That brat they call Celice? Hehehe... now this is interesting.
-59	(Bramsel): There's a hefty bounty on that fellow's head — I'd love to be the one to finish him off myself.
-60	(Bramsel): Alright, I have a good plan. For now, let's seal the border and watch how things go — the moment they tire themselves out from fighting will be our chance.
-61	(Bramsel): Tell Jabarro's mercenaries not to slack off on their preparations!
-62	(Lene): Hmm, things have gotten noisy around here lately. Could it be that a war's started or something?
-63	(Ares): It's nothing that grand. We're just preparing in case the Isaac rebels show up.
-64	(Lene): Oh, I see, that's good. I was a little worried whether you'd be going too, Ares.
-65	(Ares): If it comes to a fight, I'll go — I am a mercenary, after all. And besides, I hear the one leading the rebels is that Sigurd's son...
-66	(Ares): If I can, I'd like to be the one to strike him down with my own hand. He's my father's enemy, after all...
-67	(Lene): Ahaha, you're still saying things like that. Silly man,
-68	(Lene): your father, and that Sigurd fellow too, were both knights, weren't they.
-69	(Lene): In that case, isn't killing people just their job?
-70	(Lene): Even I don't like dancing in front of those sleazy men, but I put up with it because it's my job too.
-71	(Lene): There's no helping it if you want to go on living — holding a grudge over that isn't very manly, if you ask me.
-72	(Ares): Lene... alright, I understand. I'll think about it a little more. I... I know, really...
-73	(Dark Priest): Lord Kutuzov, we've found the Fenrir tome.
-74	(Kutuzov): What? You finally found it! Hehehe... this is the end for them now.
-75	(Kutuzov): Let them learn well just how terrifying Fenrir truly is.
-76	(Patty): Eek, stop it! I won't be able to get married!
-77	(Shanan): Don't be absurd, I'm not going to do anything to you. I just want that sword back.
-78	(Patty): Give it back... wait, this is yours?
-79	(Shanan): That's right, it's the holy sword Balmung, passed down in my family for generations.
-80	(Shanan): No one but me can use it — it's worthless in your hands.
-81	(Patty): But then, how did this sword-whatchamacallit end up in Yied?
-82	(Shanan): When Grannvale invaded Isaac, my father fell in battle, and the sword was carried off somewhere.
-83	(Shanan): I only recently heard that it was here in Yied. So I came to take it back.
-84	(Patty): Wait, could it be... you're that Prince Shanan of Isaac?
-85	(Shanan): That's right...
-86	(Patty): Ehh, really!? Whoa, lucky me!
-87	(Shanan): .........
-88	(Patty): You know, I've always admired Prince Shanan — I thought, just once, I'd love to meet him... or something like that.
-89	(Shanan): .........
-90	(Patty): But to actually get to meet you for real, how wonderful is that.
-91	(Shanan): ...Alright, I understand that already. So, my sword, please.
-92	(Patty): Oh, sorry, here, this is it, right.
-93	(Shanan): Balmung... finally back in my hands... this is... the holy sword's... ah, what power...
-94	(Patty): Ahh, swoon...
-95	(Oifey): Delmud, I heard your sister is in Leonster?
-96	(Delmud): Yes, we were separated when we were small, but recently I learned she's with Finn, the Leonster knight.
-97	(Oifey): I see, so it's with Lord Finn... you must want to see her, then.
-98	(Delmud): Yes, as soon as possible!
-99	(Oifey): Mm, then you'll need to work hard too. Let me teach you a bit of swordsmanship.
-100	(Delmud): Yes! Please do!!
-101	(Celice): Shanan! Thank goodness, you're safe!
-102	(Shanan): Yeah, sorry to have worried you.
-103	(Shanan): I hear that while I was away, you took back Isaac. My thanks, Celice.
-104	(Celice): No, that was all thanks to your strength too, Shanan. Because you were there, everyone was able to do their best.
-105	(Shanan): You've grown strong, Celice. I see... so this is finally...
-106	(Celice): Shanan...?
-107	(Shanan): Hm? ...no, it's nothing. Don't worry about it.
-108	(Celice): Shanan, I'm going to fight the Empire! Is that alright with you?
-109	(Shanan): Heh, of course, Celice. I've been waiting for this day too.
-110	(Celice): Shanan, thank you!
-111	(Lakche): Prince Shanan!! Thank goodness... you're safe!
-112	(Shanan): Lakche — it seems things were quite difficult here. Sorry for leaving you all behind.
-113	(Lakche): No, as long as you're safe, Lord Shanan, I...
-114	(Shanan): Has your swordsmanship improved a little?
-115	(Lakche): I still can't hold a candle to you, my prince.
-116	(Shanan): Then let me teach you a bit. It looks like you're lacking strength — put more spirit into your swing.
-117	(Lakche): Ah, yes! Like this...?
-118	(Soldier): By Lord Bramsel's orders, we can't let you pass through here — best you leave at once.
-119	(Kutuzov): You rebels... defiling the sacred Temple of Yied!
-120	(Kutuzov): Damn you, I'll have you buried in dark magic!
-121	(Kutuzov): To the Loptr Empire... glory be...
-122	(Celice): So this is the Temple of Yied... what terrible ruin...
+55	I understand that. But I can't just leave it be.
+56	Shanan's safety weighs on my mind too — first, let's aim to take Yied. Everything starts from there!
+57	Lord Bramsel, it seems the Isaac rebels have made their move.
+58	The rebels, you say? That brat they call Celice? Hehehe... now this is interesting.
+59	There's a hefty bounty on that fellow's head — I'd love to be the one to finish him off myself.
+60	Alright, I have a good plan. For now, let's seal the border and watch how things go — the moment they tire themselves out from fighting will be our chance.
+61	Tell Jabarro's mercenaries not to slack off on their preparations!
+62	Hmm, things have gotten noisy around here lately. Could it be that a war's started or something?
+63	It's nothing that grand. We're just preparing in case the Isaac rebels show up.
+64	Oh, I see, that's good. I was a little worried whether you'd be going too, Ares.
+65	If it comes to a fight, I'll go — I am a mercenary, after all. And besides, I hear the one leading the rebels is that Sigurd's son...
+66	If I can, I'd like to be the one to strike him down with my own hand. He's my father's enemy, after all...
+67	Ahaha, you're still saying things like that. Silly man,
+68	your father, and that Sigurd fellow too, were both knights, weren't they.
+69	In that case, isn't killing people just their job?
+70	Even I don't like dancing in front of those sleazy men, but I put up with it because it's my job too.
+71	There's no helping it if you want to go on living — holding a grudge over that isn't very manly, if you ask me.
+72	Lene... alright, I understand. I'll think about it a little more. I... I know, really...
+73	Lord Kutuzov, we've found the Fenrir tome.
+74	What? You finally found it! Hehehe... this is the end for them now.
+75	Let them learn well just how terrifying Fenrir truly is.
+76	Eek, stop it! I won't be able to get married!
+77	Don't be absurd, I'm not going to do anything to you. I just want that sword back.
+78	Give it back... wait, this is yours?
+79	That's right, it's the holy sword Balmung, passed down in my family for generations.
+80	No one but me can use it — it's worthless in your hands.
+81	But then, how did this sword-whatchamacallit end up in Yied?
+82	When Grannvale invaded Isaac, my father fell in battle, and the sword was carried off somewhere.
+83	I only recently heard that it was here in Yied. So I came to take it back.
+84	Wait, could it be... you're that Prince Shanan of Isaac?
+85	That's right...
+86	Ehh, really!? Whoa, lucky me!
+87	.........
+88	You know, I've always admired Prince Shanan — I thought, just once, I'd love to meet him... or something like that.
+89	.........
+90	But to actually get to meet you for real, how wonderful is that.
+91	...Alright, I understand that already. So, my sword, please.
+92	Oh, sorry, here, this is it, right.
+93	Balmung... finally back in my hands... this is... the holy sword's... ah, what power...
+94	Ahh, swoon...
+95	Delmud, I heard your sister is in Leonster?
+96	Yes, we were separated when we were small, but recently I learned she's with Finn, the Leonster knight.
+97	I see, so it's with Lord Finn... you must want to see her, then.
+98	Yes, as soon as possible!
+99	Mm, then you'll need to work hard too. Let me teach you a bit of swordsmanship.
+100	Yes! Please do!!
+101	Shanan! Thank goodness, you're safe!
+102	Yeah, sorry to have worried you.
+103	I hear that while I was away, you took back Isaac. My thanks, Celice.
+104	No, that was all thanks to your strength too, Shanan. Because you were there, everyone was able to do their best.
+105	You've grown strong, Celice. I see... so this is finally...
+106	Shanan...?
+107	Hm? ...no, it's nothing. Don't worry about it.
+108	Shanan, I'm going to fight the Empire! Is that alright with you?
+109	Heh, of course, Celice. I've been waiting for this day too.
+110	Shanan, thank you!
+111	Prince Shanan!! Thank goodness... you're safe!
+112	Lakche — it seems things were quite difficult here. Sorry for leaving you all behind.
+113	No, as long as you're safe, Lord Shanan, I...
+114	Has your swordsmanship improved a little?
+115	I still can't hold a candle to you, my prince.
+116	Then let me teach you a bit. It looks like you're lacking strength — put more spirit into your swing.
+117	Ah, yes! Like this...?
+118	By Lord Bramsel's orders, we can't let you pass through here — best you leave at once.
+119	You rebels... defiling the sacred Temple of Yied!
+120	Damn you, I'll have you buried in dark magic!
+121	To the Loptr Empire... glory be...
+122	So this is the Temple of Yied... what terrible ruin...
 123	(Levin (Strategist)): For a long time, the remnants of the Loptr Empire hid away in the depths beneath this temple.
 124	(Levin (Strategist)): Because if they went up to the surface, they'd be persecuted and burned at the stake.
 125	(Levin (Strategist)): They probably weren't evil from the very start either, but the long years turned them into devils.
-126	(Celice): ...even if their ancestors cooperated with the Empire, it's too cruel to lay that sin on their descendants, all these years later.
-127	(Celice): And on top of that, to be called a dark cult, or the kin of an evil god — it must have been painful for them.
-128	(Celice): This graffiti on the wall looks like a child drew it, but it's praying for the dark god's resurrection.
-129	(Celice): To them, is Loptous really their one and only god...
+126	...even if their ancestors cooperated with the Empire, it's too cruel to lay that sin on their descendants, all these years later.
+127	And on top of that, to be called a dark cult, or the kin of an evil god — it must have been painful for them.
+128	This graffiti on the wall looks like a child drew it, but it's praying for the dark god's resurrection.
+129	To them, is Loptous really their one and only god...
 130	(Levin (Strategist)): That's right, Celice. Good and evil aren't something that can be weighed so simply.
 131	(Levin (Strategist)): What we should hate is the wicked heart, not the people themselves. Don't ever forget that...
-132	(Bramsel): So Yied has fallen, has it... hehehe... this works out well for us. Alright, open the border.
-133	(Bramsel): Let them push on ahead. Either way, there's no chance they can take Melgen — once they're worn out, we'll strike them from behind.
-134	(Bramsel): Kukuku, nothing could be simpler. Isn't that right, Jabarro?
-135	(Jabarro): Heh, as unchanged as ever, aren't you, Lord Bramsel...
-136	(Jabarro): Well, we're mercenaries too — as long as we're paid, we have no complaints. We'll put on a fine show for you.
-137	(Ishtore): What, the rebels have taken Yied, you say? Hmm, Raiza, what do you think?
-138	(Raiza): I believe they'll head to relieve Leonster.
-139	(Raiza): Your father seems fully occupied with the conquest of Leonster,
-140	(Raiza): and letting an enemy in behind Alster would be dangerous.
-141	(Raiza): I think we should meet them here at Melgen with our full strength.
-142	(Ishtore): I see... I must go help my father, Raiza — can you take command of the troops and hold our defenses firm?
-143	(Raiza): Yes, leave it to me!
-144	(Ishtore): I don't want to put you in danger, but there's no one else I can trust with this. I'm sorry, Raiza.
-145	(Raiza): You flatter me... but please, don't worry about someone like me.
-146	(Raiza): Lord Ishtore, please take care above all. Now then... Raiza's unit, moving out!
-147	(Bramsel): Ho ho ho, Lene, that was quite a fine dance. Come here, I'll give you a reward.
-148	(Lene): How rude. If you want something, come here yourself!
-149	(Bramsel): Hoho, that fiery spirit is rather charming too. But you'd better learn how to talk properly — hey, drag that little girl over here!
-150	(Lene): Wh-, what are you doing! Let go of me! You idiot!!
-151	(Ares): Stop it! You bastards!! Take your hands off her.
-152	(Bramsel): What? Who are you!? A mere mercenary, daring to defy me!?
-153	(Ares): I won't allow anyone to lay a hand on Lene!
-154	(Bramsel): Wh-, what did you say, damn it, damn it... hey, someone, finish him off!
-155	(Ares): Can't you see this sword? The cursed blade Mystletainn thirsts for human blood.
-156	(Ares): Do you really want to become its prey so needlessly?
-157	(Bramsel): Th-, the cursed blade Mystletainn, you say!? ...y-, you... could it be...
-158	(Ares): That's right. I am the Black Knight Ares.
-159	(Bramsel): I, I understand... sorry... it was just a little joke, I swear — I'll never lay a hand on this girl again, so please forgive me.
-160	(Ares): Good, as long as you understand. Lene, are you alright?
-161	(Lene): Yeah... Ares, thank you...
-162	(Bramsel): Damn, damn it, making a fool of me... just you wait...
+132	So Yied has fallen, has it... hehehe... this works out well for us. Alright, open the border.
+133	Let them push on ahead. Either way, there's no chance they can take Melgen — once they're worn out, we'll strike them from behind.
+134	Kukuku, nothing could be simpler. Isn't that right, Jabarro?
+135	Heh, as unchanged as ever, aren't you, Lord Bramsel...
+136	Well, we're mercenaries too — as long as we're paid, we have no complaints. We'll put on a fine show for you.
+137	What, the rebels have taken Yied, you say? Hmm, Raiza, what do you think?
+138	I believe they'll head to relieve Leonster.
+139	Your father seems fully occupied with the conquest of Leonster,
+140	and letting an enemy in behind Alster would be dangerous.
+141	I think we should meet them here at Melgen with our full strength.
+142	I see... I must go help my father, Raiza — can you take command of the troops and hold our defenses firm?
+143	Yes, leave it to me!
+144	I don't want to put you in danger, but there's no one else I can trust with this. I'm sorry, Raiza.
+145	You flatter me... but please, don't worry about someone like me.
+146	Lord Ishtore, please take care above all. Now then... Raiza's unit, moving out!
+147	Ho ho ho, Lene, that was quite a fine dance. Come here, I'll give you a reward.
+148	How rude. If you want something, come here yourself!
+149	Hoho, that fiery spirit is rather charming too. But you'd better learn how to talk properly — hey, drag that little girl over here!
+150	Wh-, what are you doing! Let go of me! You idiot!!
+151	Stop it! You bastards!! Take your hands off her.
+152	What? Who are you!? A mere mercenary, daring to defy me!?
+153	I won't allow anyone to lay a hand on Lene!
+154	Wh-, what did you say, damn it, damn it... hey, someone, finish him off!
+155	Can't you see this sword? The cursed blade Mystletainn thirsts for human blood.
+156	Do you really want to become its prey so needlessly?
+157	Th-, the cursed blade Mystletainn, you say!? ...y-, you... could it be...
+158	That's right. I am the Black Knight Ares.
+159	I, I understand... sorry... it was just a little joke, I swear — I'll never lay a hand on this girl again, so please forgive me.
+160	Good, as long as you understand. Lene, are you alright?
+161	Yeah... Ares, thank you...
+162	Damn, damn it, making a fool of me... just you wait...
 163	— (only shown if neither Patty nor Celice has a sweetheart)
-164	(Patty): Eek, it's Lord Celice!
-165	(Celice): Huh? And you are...?
-166	(Patty): I'm Patty, Lord Shanan's sweetheart.
-167	(Celice): Shanan's... that's a lie, isn't it.
-168	(Patty): Ahaha, caught me, huh? I used to be a thief, but I've decided to go straight now.
-169	(Patty): So I'll help out the Liberation Army.
-170	(Celice): Eh, you will? But this is an army — it's dangerous here, you know.
-171	(Patty): Oh, is that really something you should be saying? You lot don't have any money, do you — you can't fight a war without it.
-172	(Patty): If I'm around, I can earn you as much as you need.
-173	(Celice): But stealing is wrong.
-174	(Patty): You don't know anything, do you, Lord Celice. All that gold the imperial soldiers carry — they stole it from the people by force.
-175	(Patty): So why is it wrong to try and take it back!
-176	(Patty): I just want to give it back to everyone, that's all...
-177	(Celice): I see, I didn't realize... sorry, Patty.
-178	(Patty): No... sniff, sniff...
-179	(Celice): Patty, I'd like you to lend us your strength.
-180	(Patty): Eh, really? ...you mean it!?
-181	(Celice): Of course.
-182	(Patty): Lord Celice! I'll do my best, okay.
-183	(Patty): Oh, that's right! As a token of our new friendship, take this sword.
-184	(Celice): This is... quite a sword.
-185	(Patty): It's called the Hero's Sword. For Lord Celice, I give it to you, with a kiss ♥
-186	(Raiza): Rebels, is it... I'm sorry, but your advance ends here.
-187	(Raiza): As long as I, Raiza, am here, I won't let you through to Melgen Castle.
-188	(Raiza): Ahh, Lord Ishtore...
+164	Eek, it's Lord Celice!
+165	Huh? And you are...?
+166	I'm Patty, Lord Shanan's sweetheart.
+167	Shanan's... that's a lie, isn't it.
+168	Ahaha, caught me, huh? I used to be a thief, but I've decided to go straight now.
+169	So I'll help out the Liberation Army.
+170	Eh, you will? But this is an army — it's dangerous here, you know.
+171	Oh, is that really something you should be saying? You lot don't have any money, do you — you can't fight a war without it.
+172	If I'm around, I can earn you as much as you need.
+173	But stealing is wrong.
+174	You don't know anything, do you, Lord Celice. All that gold the imperial soldiers carry — they stole it from the people by force.
+175	So why is it wrong to try and take it back!
+176	I just want to give it back to everyone, that's all...
+177	I see, I didn't realize... sorry, Patty.
+178	No... sniff, sniff...
+179	Patty, I'd like you to lend us your strength.
+180	Eh, really? ...you mean it!?
+181	Of course.
+182	Lord Celice! I'll do my best, okay.
+183	Oh, that's right! As a token of our new friendship, take this sword.
+184	This is... quite a sword.
+185	It's called the Hero's Sword. For Lord Celice, I give it to you, with a kiss ♥
+186	Rebels, is it... I'm sorry, but your advance ends here.
+187	As long as I, Raiza, am here, I won't let you through to Melgen Castle.
+188	Ahh, Lord Ishtore...
 189	— (only if Raiza is still alive)
-190	(Ishtore): Heh, impressive that you've made it this far. I'll give you that much credit.
+190	Heh, impressive that you've made it this far. I'll give you that much credit.
 191	— (only if Raiza has died)
-192	(Ishtore): You rebels... how dare you... Raiza... I'll never forgive you!
-193	(Ishtore): Raiza... I...
+192	You rebels... how dare you... Raiza... I'll never forgive you!
+193	Raiza... I...
 194	(Levin (Strategist)): We've finally made it to Melgen. Celice, Leonster is close now.
-195	(Celice): Levin, how much longer will fighting like this go on...
-196	(Celice): That lady general, and Prince Ishtore too — I don't think either of them were really bad people...
+195	Levin, how much longer will fighting like this go on...
+196	That lady general, and Prince Ishtore too — I don't think either of them were really bad people...
 197	(Levin (Strategist)): But they were helping King Bloom, who tormented the people.
 198	(Levin (Strategist)): There's no mistaking that they were our enemy.
 199	(Levin (Strategist)): Celice, we're not fighting out of hatred alone — this is a war.
-200	(Celice): I know, but...
+200	I know, but...
 201	(Levin (Strategist)): Hahaha, well, it's fine. That's one of your good qualities. But don't let it weigh on you forever.
 202	(Levin (Strategist)): Right now we have a great purpose — rescuing Leonster — to focus on.
-203	(Celice): You're right, I understand, Levin. Let's go to Leonster. Everything starts from there.
-204	(Bramsel): What did you say, Melgen has fallen? Damn it, so we were too late after all! But they can't have fully recovered yet either.
-205	(Bramsel): Alright, now's our chance. Jabarro's unit, move out!
-206	(Bramsel): Strike them from behind while their guard is down, and kill every last one of them!
-207	(Jabarro): Understood!
-208	(Lene): Are you really going, no matter what? Even after all my pleading...
-209	(Ares): I owe Jabarro a debt. He took me in and raised me...
-210	(Lene): That man's just using you. I... I hate him.
-211	(Ares): ...Lene... but still...
-212	(Lene): Fine, whatever... if you like him that much, do as you please.
-213	(Lene): I don't care anymore!
-214	(Ares): Lene...
-215	(Bramsel): Kukuku... so Ares went off, did he... what a fool...
-216	(Bloom): Vampa, Fetra, Elu! Move out.
-217	(Bloom): Show them just how terrifying you three truly are.
-218	(Fetra): Yes sir, leave it to us, Lord Bloom!
-219	(Vampa): We won't disappoint you.
-220	(Elu): We have no intention of living through this shamefully without crushing the rebels!
-221	(Bloom): Good, I'm counting on you. Tinny, you'll go too, won't you.
-222	(Tinny): ...if that's what you wish, uncle...
-223	(Bloom): Mm, you lost your mother and became an orphan, and I was the one who took you in and raised you.
-224	(Bloom): I trust you haven't forgotten that debt.
-225	(Tinny): Yes...
-226	(Bloom): Good, then go. They even killed my son Ishtore — along with his sweetheart Raiza.
-227	(Bloom): You're the one to avenge that grudge.
-228	(Bloom): Alright, all of you go too — wipe out every last one of the enemy!
-229	(Fetra): Fetra, Elu, you understand, don't you — don't forget, the three of us work together.
-230	(Fetra): It's us who'll be the ones to take Celice's head! I won't lose to Tinny's unit.
-231	(Tinny): The townspeople call them the Liberation Army... but my brother Ishtore was killed by them.
-232	(Tinny): I don't understand... what should I do... tell me, mother...
-233	(Bramsel): Little girl, the other day you shamed me thoroughly — I'll make sure to pay you back in full.
-234	(Lene): What, what do you intend to do to me.
-235	(Lene): Now that Ares is gone, you've suddenly grown bold — as cowardly as ever.
-236	(Lene): But I won't let you have your way with me!
-237	(Bramsel): Damn you! Well, no matter — I'll make you regret it thoroughly later. For now, throw her in the dungeon!
-238	(Lene): Ahh......Ares...
-239	(Jabarro): Ares, for a man like you to lose your head over a woman like that — what's gotten into you.
-240	(Jabarro): Well, never mind. It's over and done with now, so let's forget about it.
-241	(Ares): Over and done with? Jabarro, what do you mean by that?
-242	(Jabarro): Hehehe... that woman, right about now, is probably with Bramsel...
-243	(Ares): Wh-, surely not... Jabarro! You knew about this and kept quiet!
-244	(Jabarro): Leave women to be played with, that's all — they're not suited for you.
-245	(Ares): You bastard! ...I've misjudged you... I'm going back to Darna! ...I'm taking Lene back!
-246	(Jabarro): That won't do. Whoever defies my orders, I show no mercy — whoever they are.
-247	(Jabarro): Ares, even if that's you.
-248	(Ares): ...I owe you a great deal. But this is where it ends.
-249	(Ares): I'm going. Anyone who tries to stop me will have to face Mystletainn!
-250	(Jabarro): Heh, you brat! Don't get carried away with yourself!!
-251	(Ares): So you're Celice...
-252	(Celice): And you are...?
-253	(Ares): The Black Knight Ares... but you'd understand better if I said I'm Eltshan's son.
-254	(Celice): Eh!? ...don't tell me, King Noddion... Eltshan's...!?
-255	(Ares): That's right! Eltshan, who was killed by your father, was my father!
-256	(Ares): My mother died still holding a grudge against Sigurd... do you understand that bitterness!
-257	(Celice): I see... but Ares, your father and my father Sigurd were close friends.
-258	(Celice): It ended in tragedy, but I'm sure they never held any grudge against each other.
-259	(Ares): Nonsense... Sigurd is my father's enemy — that's what I've believed my whole life, living by it!
-260	(Celice): Ares, give me just a little time — stay with this army for a while. I think your misunderstanding will clear up.
-261	(Celice): Just like my father, I respect King Eltshan too. Ares, please, I beg you, try to understand.
-262	(Ares): Celice... alright... I'll wait and see for a while.
-263	(Ares): But if I find out what you've said is a lie, then be ready — I'll take your life in Sigurd's place.
-264	(Ares): Got it, Celice!
-265	(Celice): If that time comes, do as you wish.
-266	(Celice): Ares... I think meeting you is something my father and the others would be happiest about, more than anything. Somehow, I can't help but feel that way...
-267	(Leaf): Lord Celice, it's an honor to meet you. I am the son of Quan, King of Leonster.
-268	(Celice): Prince Leaf, I'm glad we could meet. Thank goodness you're safe.
-269	(Leaf): In the battle of Belhalla, my parents fell by Thracia's treachery,
-270	(Leaf): and my homeland Leonster was occupied by Duke Bloom's imperial army.
-271	(Leaf): I was saved by the knight Finn, and while hidden away in a village in the countryside, I kept waiting for the day my homeland would be liberated.
-272	(Leaf): And at last, that chance came...
-273	(Celice): ...I heard that many people who rose up with you, Prince, were killed by King Bloom.
-274	(Celice): When I think that if we had come just a little sooner, I can't help but regret it deeply.
-275	(Leaf): No, Lord Celice, it was my own strength that was lacking.
-276	(Leaf): But I too am the son of Quan, known as the Knight of Nordion.
-277	(Leaf): I want to live in a way that won't shame my father.
-278	(Leaf): Please, let me join your Liberation Army.
-279	(Leaf): To bring the light back to Grannvale, I too, for whatever little I can do, wish to be of help.
-280	(Celice): Thank you, Prince Leaf.
-281	(Celice): I've heard that our fathers were close friends who shared life and death together.
-282	(Celice): And your mother is my aunt.
-283	(Celice): But both of them lost their lives trying to save my father...
-284	(Celice): Prince Leaf, I am truly sorry. Let me apologize on my father's behalf...
-285	(Leaf): Lord Celice, I am proud of my parents, and I respect Lord Sigurd too.
-286	(Leaf): The ones I hate are Emperor Arvis, and that King Travant!!
-287	(Celice): I feel the very same way...
-288	(Celice): Prince Leaf, I want to carry on our fathers' will and bring light back to this world. Please, lend me your strength.
-289	(Leaf): Yes! Lord Celice!!
+203	You're right, I understand, Levin. Let's go to Leonster. Everything starts from there.
+204	What did you say, Melgen has fallen? Damn it, so we were too late after all! But they can't have fully recovered yet either.
+205	Alright, now's our chance. Jabarro's unit, move out!
+206	Strike them from behind while their guard is down, and kill every last one of them!
+207	Understood!
+208	Are you really going, no matter what? Even after all my pleading...
+209	I owe Jabarro a debt. He took me in and raised me...
+210	That man's just using you. I... I hate him.
+211	...Lene... but still...
+212	Fine, whatever... if you like him that much, do as you please.
+213	I don't care anymore!
+214	Lene...
+215	Kukuku... so Ares went off, did he... what a fool...
+216	Vampa, Fetra, Elu! Move out.
+217	Show them just how terrifying you three truly are.
+218	Yes sir, leave it to us, Lord Bloom!
+219	We won't disappoint you.
+220	We have no intention of living through this shamefully without crushing the rebels!
+221	Good, I'm counting on you. Tinny, you'll go too, won't you.
+222	...if that's what you wish, uncle...
+223	Mm, you lost your mother and became an orphan, and I was the one who took you in and raised you.
+224	I trust you haven't forgotten that debt.
+225	Yes...
+226	Good, then go. They even killed my son Ishtore — along with his sweetheart Raiza.
+227	You're the one to avenge that grudge.
+228	Alright, all of you go too — wipe out every last one of the enemy!
+229	Fetra, Elu, you understand, don't you — don't forget, the three of us work together.
+230	It's us who'll be the ones to take Celice's head! I won't lose to Tinny's unit.
+231	The townspeople call them the Liberation Army... but my brother Ishtore was killed by them.
+232	I don't understand... what should I do... tell me, mother...
+233	Little girl, the other day you shamed me thoroughly — I'll make sure to pay you back in full.
+234	What, what do you intend to do to me.
+235	Now that Ares is gone, you've suddenly grown bold — as cowardly as ever.
+236	But I won't let you have your way with me!
+237	Damn you! Well, no matter — I'll make you regret it thoroughly later. For now, throw her in the dungeon!
+238	Ahh......Ares...
+239	Ares, for a man like you to lose your head over a woman like that — what's gotten into you.
+240	Well, never mind. It's over and done with now, so let's forget about it.
+241	Over and done with? Jabarro, what do you mean by that?
+242	Hehehe... that woman, right about now, is probably with Bramsel...
+243	Wh-, surely not... Jabarro! You knew about this and kept quiet!
+244	Leave women to be played with, that's all — they're not suited for you.
+245	You bastard! ...I've misjudged you... I'm going back to Darna! ...I'm taking Lene back!
+246	That won't do. Whoever defies my orders, I show no mercy — whoever they are.
+247	Ares, even if that's you.
+248	...I owe you a great deal. But this is where it ends.
+249	I'm going. Anyone who tries to stop me will have to face Mystletainn!
+250	Heh, you brat! Don't get carried away with yourself!!
+251	So you're Celice...
+252	And you are...?
+253	The Black Knight Ares... but you'd understand better if I said I'm Eltshan's son.
+254	Eh!? ...don't tell me, King Noddion... Eltshan's...!?
+255	That's right! Eltshan, who was killed by your father, was my father!
+256	My mother died still holding a grudge against Sigurd... do you understand that bitterness!
+257	I see... but Ares, your father and my father Sigurd were close friends.
+258	It ended in tragedy, but I'm sure they never held any grudge against each other.
+259	Nonsense... Sigurd is my father's enemy — that's what I've believed my whole life, living by it!
+260	Ares, give me just a little time — stay with this army for a while. I think your misunderstanding will clear up.
+261	Just like my father, I respect King Eltshan too. Ares, please, I beg you, try to understand.
+262	Celice... alright... I'll wait and see for a while.
+263	But if I find out what you've said is a lie, then be ready — I'll take your life in Sigurd's place.
+264	Got it, Celice!
+265	If that time comes, do as you wish.
+266	Ares... I think meeting you is something my father and the others would be happiest about, more than anything. Somehow, I can't help but feel that way...
+267	Lord Celice, it's an honor to meet you. I am the son of Quan, King of Leonster.
+268	Prince Leaf, I'm glad we could meet. Thank goodness you're safe.
+269	In the battle of Belhalla, my parents fell by Thracia's treachery,
+270	and my homeland Leonster was occupied by Duke Bloom's imperial army.
+271	I was saved by the knight Finn, and while hidden away in a village in the countryside, I kept waiting for the day my homeland would be liberated.
+272	And at last, that chance came...
+273	...I heard that many people who rose up with you, Prince, were killed by King Bloom.
+274	When I think that if we had come just a little sooner, I can't help but regret it deeply.
+275	No, Lord Celice, it was my own strength that was lacking.
+276	But I too am the son of Quan, known as the Knight of Nordion.
+277	I want to live in a way that won't shame my father.
+278	Please, let me join your Liberation Army.
+279	To bring the light back to Grannvale, I too, for whatever little I can do, wish to be of help.
+280	Thank you, Prince Leaf.
+281	I've heard that our fathers were close friends who shared life and death together.
+282	And your mother is my aunt.
+283	But both of them lost their lives trying to save my father...
+284	Prince Leaf, I am truly sorry. Let me apologize on my father's behalf...
+285	Lord Celice, I am proud of my parents, and I respect Lord Sigurd too.
+286	The ones I hate are Emperor Arvis, and that King Travant!!
+287	I feel the very same way...
+288	Prince Leaf, I want to carry on our fathers' will and bring light back to this world. Please, lend me your strength.
+289	Yes! Lord Celice!!
 290	— (only if Nanna's father is Finn)
-291	(Finn): Nanna, are you alright?
-292	(Nanna): Yes, father — there's no need to worry about me.
-293	(Finn): You're as strong-willed as ever. You're starting to resemble Lachesis more and more.
-294	(Nanna): Father, you loved mother deeply, didn't you — then why did you let her go off alone!
-295	(Finn): That business of Lachesis going to Isaac... don't bring that up again.
-296	(Finn): Even if you're my child, I'd rather you didn't pry into matters between husband and wife.
-297	(Nanna): But...
-298	(Finn): Someday you'll understand too — once you've grown up...
+291	Nanna, are you alright?
+292	Yes, father — there's no need to worry about me.
+293	You're as strong-willed as ever. You're starting to resemble Lachesis more and more.
+294	Father, you loved mother deeply, didn't you — then why did you let her go off alone!
+295	That business of Lachesis going to Isaac... don't bring that up again.
+296	Even if you're my child, I'd rather you didn't pry into matters between husband and wife.
+297	But...
+298	Someday you'll understand too — once you've grown up...
 299	— (only if Lakche's father is Finn)
-300	(Finn): ! ...you are...!?
-301	(Lakche): Eh? I'm Lakche, but...
-302	(Finn): C-, could it be...
-303	(Lakche): Is something wrong? Being stared at like that is a bit troubling.
-304	(Finn): No... sorry... you just resemble someone I knew, so closely...
-305	(Lakche): Eh? Me...?
-306	(Finn): Mm... it's an embarrassing thing to say, but you look just like someone I loved long ago.
-307	(Lakche): Was she your sweetheart?
-308	(Finn): Yes, but we were separated by the war. I've been searching for her ever since...
-309	(Lakche): I see, that's a sad story... so, what was her name...?
-310	(Finn): Ayra... she was a beautiful woman, who looked just like you...
-311	(Lakche): What, Ayra, you said!? ...c-, could it be...
+300	! ...you are...!?
+301	Eh? I'm Lakche, but...
+302	C-, could it be...
+303	Is something wrong? Being stared at like that is a bit troubling.
+304	No... sorry... you just resemble someone I knew, so closely...
+305	Eh? Me...?
+306	Mm... it's an embarrassing thing to say, but you look just like someone I loved long ago.
+307	Was she your sweetheart?
+308	Yes, but we were separated by the war. I've been searching for her ever since...
+309	I see, that's a sad story... so, what was her name...?
+310	Ayra... she was a beautiful woman, who looked just like you...
+311	What, Ayra, you said!? ...c-, could it be...
 312	— (only if Nanna's father is Finn)
-313	(Finn): ! ...you are...!?
-314	(Nanna): Eh, I'm Nanna, but... you must be Lord Finn.
-315	(Finn): You...
-316	(Nanna): Is something wrong? Being stared at like that is a bit troubling.
-317	(Finn): No... sorry... you just resemble someone I knew, so closely...
-318	(Nanna): Eh? Me...
-319	(Finn): ...it's an embarrassing thing to say, but you look just like someone I loved long ago.
-320	(Nanna): Was she your sweetheart?
-321	(Finn): Yes... but we were separated by the war. I've been searching for her ever since...
-322	(Nanna): I see... how sad for you... so, what was her name...?
-323	(Finn): Ethlyn... she was a beautiful woman, who looked just like you...
-324	(Nanna): Ethlyn!? ...mother...!?
-325	(Nanna): (Since Ethlyn's survival is confirmed, I would have liked to see Finn's reunion scene.)
-326	(Rodolvan): Hey, Tristan, listen to me for a second.
-327	(Tristan): What is it, Rodolvan? Need something?
-328	(Rodolvan): Don't say "what is it" like that!
-329	(Rodolvan): Well, never mind — by the way, don't you think we're kind of holding Lord Celice back?
-330	(Tristan): We? Wait, am I included in that too? Don't joke around — I'm doing a fine job.
-331	(Rodolvan): Oh really, then what exactly have you done so far? Go on, tell me!
-332	(Tristan): Eh, well, that's... um...
-333	(Rodolvan): See, if you have to think hard to remember, that's proof you haven't done anything worth mentioning, isn't it?
-334	(Tristan): Fine, I admit it! ...so, what do you want me to do about it?
-335	(Rodolvan): How about the two of us do some sword training together? Honestly I don't really want to, with someone like you,
-336	(Rodolvan): but it can't be helped — I want to fight on the front line! Guarding the castle is just not my thing!
-337	(Tristan): You don't even know how to ask someone a favor properly. If you're going to be so reluctant, I won't do it.
-338	(Rodolvan): F-, fine, I get it.
-339	(Rodolvan): Plea~se~ be~ my~ spar~ring~ part~ner. There, happy now!
-340	(Tristan): You've always got one word too many, don't you. Well, fine — once you see how strong I am, you won't be able to talk like that anymore.
-341	(Tristan): Alright then, here I come!
-342	(Rodolvan): Hyah!
-343	(Tristan): Take this!
-344	(Tristan): (If you look closely at the "two" in "the two of us," it's actually written in katakana, for some reason.)
-345	(Jabarro): Heh... this is the end for you. Die!
-346	(Jabarro): Damn it... Ares...
-347	(Bramsel): What!? Jabarro, you've botched it.
-348	(Bramsel): Darna is mine — I won't hand it over to anyone!
-349	(Bramsel): Ugh... Darna is mine... mine...
-350	(Celice): So this is the town of Darna...
+313	! ...you are...!?
+314	Eh, I'm Nanna, but... you must be Lord Finn.
+315	You...
+316	Is something wrong? Being stared at like that is a bit troubling.
+317	No... sorry... you just resemble someone I knew, so closely...
+318	Eh? Me...
+319	...it's an embarrassing thing to say, but you look just like someone I loved long ago.
+320	Was she your sweetheart?
+321	Yes... but we were separated by the war. I've been searching for her ever since...
+322	I see... how sad for you... so, what was her name...?
+323	Ethlyn... she was a beautiful woman, who looked just like you...
+324	Ethlyn!? ...mother...!?
+325	(Since Ethlyn's survival is confirmed, I would have liked to see Finn's reunion scene.)
+326	Hey, Tristan, listen to me for a second.
+327	What is it, Rodolvan? Need something?
+328	Don't say "what is it" like that!
+329	Well, never mind — by the way, don't you think we're kind of holding Lord Celice back?
+330	We? Wait, am I included in that too? Don't joke around — I'm doing a fine job.
+331	Oh really, then what exactly have you done so far? Go on, tell me!
+332	Eh, well, that's... um...
+333	See, if you have to think hard to remember, that's proof you haven't done anything worth mentioning, isn't it?
+334	Fine, I admit it! ...so, what do you want me to do about it?
+335	How about the two of us do some sword training together? Honestly I don't really want to, with someone like you,
+336	but it can't be helped — I want to fight on the front line! Guarding the castle is just not my thing!
+337	You don't even know how to ask someone a favor properly. If you're going to be so reluctant, I won't do it.
+338	F-, fine, I get it.
+339	Plea~se~ be~ my~ spar~ring~ part~ner. There, happy now!
+340	You've always got one word too many, don't you. Well, fine — once you see how strong I am, you won't be able to talk like that anymore.
+341	Alright then, here I come!
+342	Hyah!
+343	Take this!
+344	(If you look closely at the "two" in "the two of us," it's actually written in katakana, for some reason.)
+345	Heh... this is the end for you. Die!
+346	Damn it... Ares...
+347	What!? Jabarro, you've botched it.
+348	Darna is mine — I won't hand it over to anyone!
+349	Ugh... Darna is mine... mine...
+350	So this is the town of Darna...
 351	(Levin (Strategist)): Long ago, during the Holy War, the Liberation Army had a fortress here.
 352	(Levin (Strategist)): Before the Empire's overwhelming military might, the Liberation Army suffered defeat after defeat,
 353	(Levin (Strategist)): and in the end, only a small handful of soldiers held out in the fortress.
 354	(Levin (Strategist)): Wounded, they had resolved themselves to their final battle — but then, a miracle occurred.
 355	(Levin (Strategist)): A god descended from the heavens, and bestowed upon twelve young warriors mysterious weapons and power.
 356	(Levin (Strategist)): In time they came to be called the Twelve Crusaders, and led the Liberation Army into battle.
-357	(Celice): The legendary... miracle of Fort Darna.
+357	The legendary... miracle of Fort Darna.
 358	(Levin (Strategist)): That's right, and now, once again, a miracle has occurred.
 359	(Levin (Strategist)): With the resurrection of Loptous drawing near, the holy warriors are once more coming back to life...
-360	(Celice): Eh...?
+360	Eh...?
 361	(Levin (Strategist)): Hehehe... well, never mind. You'll understand soon enough...
-362	(Delmud): You're... Nanna?
-363	(Nanna): Yes, that's right, but who are you?
-364	(Delmud): Thank goodness! I finally found you! I'm Delmud, your brother.
-365	(Nanna): Eh? ...it can't be...
-366	(Delmud): I didn't know myself until Lord Levin told me.
-367	(Delmud): In the last war, we children fled to Isaac,
-368	(Delmud): but you, having just been born, went to Leonster together with mother, or so I heard.
-369	(Nanna): You're... my brother... then, what about mother!?
-370	(Delmud): Mother? ...Nanna, what do you mean by that?
-371	(Nanna): When I turned three years old,
-372	(Nanna): mother said she was going to go fetch my brother Delmud, and set off for Isaac.
-373	(Nanna): But she never came back after that. I've been waiting for her ever since...
-374	(Delmud): But mother never arrived here!
-375	(Nanna): That can't be... then, mother is...
-376	(Delmud): Yied is a cursed desert — it would be reckless for anyone to go there alone.
-377	(Nanna): Ahh... mother Lachesis...
-378	(Tristan): You're... Jeanne?
-379	(Jeanne): Yes, that's right, but who are you?
-380	(Tristan): Thank goodness! I finally found you! I'm Tristan, your brother.
-381	(Jeanne): Eh? ...it can't be... you're lying!
-382	(Tristan): It's not a lie. Our father was a knight of the kingdom of Noddion,
-383	(Tristan): but he died in battle during the Agustrian uprising, and we, who were still small, were taken in by Sigurd's army.
-384	(Tristan): After that we fled to Isaac, but you disappeared along the way.
-385	(Jeanne): I see... that explains it. My adoptive father was a traveling merchant, and he told me he'd picked me up in Isaac.
-386	(Tristan): Yeah, I'll bet you got lost, and he must have saved you.
-387	(Jeanne): But that adoptive father of mine was killed by imperial soldiers too. I was saved by Finn when I was seven.
-388	(Tristan): I see, so you had a hard time of it too. I'm sorry, Jeanne...
-389	(Jeanne): No, it's fine. I'm happy, really — because it turns out I had a brother too, after all.
-390	(Jeanne): Please don't go anywhere else ever again, brother Tristan...
-391	(Arthur): Wait... that pendant of yours...
-392	(Tinny): Eh? This is my mother's keepsake, but...
-393	(Arthur): I knew it! You're Tinny, aren't you! Ah, finally, I found you.
-394	(Tinny): Eh, who are you?
-395	(Arthur): Look, this — the same pendant as yours. I've worn it since I was small.
-396	(Tinny): Oh, it really is... but why is that?
-397	(Arthur): My mother was a warrior of the Liberation Army. After the battle, she fled to Silesse, taking me with her,
-398	(Arthur): but she was carried off by someone, along with my newborn little sister, and all that was left to me was this pendant.
-399	(Arthur): Just recently, I learned that it was King Bloom of Alster who took her,
-400	(Arthur): and I heard that mother has already passed away too. But my sister... Tinny, you must still be alive,
-401	(Arthur): and I wanted to see you, so... that's why I came all this way.
-402	(Tinny): That can't be... mother was forced away by uncle Bloom... I didn't know...
-403	(Tinny): But now it makes sense. I don't remember much about mother, but I remember she always seemed sad.
-404	(Tinny): So you're my brother... ahh...
-405	(Arthur): Tinny, please, more than anything, stop fighting and come with us — there's so much I want to talk to you about.
-406	(Tinny): Yes, I don't want to fight either. I'll do as you say, brother.
-407	(Tinny): Um... Lord Celice...
-408	(Celice): Hm? ...and you are?
-409	(Tinny): I'm Tinny... Arthur's little sister...
-410	(Celice): Ah, so you're Tinny. I've heard about you.
-411	(Tinny): Um... I'm so sorry!
-412	(Celice): It's fine, don't worry about it — King Bloom is your uncle, after all, so there was nothing to be done about being on opposite sides.
-413	(Tinny): Will you really forgive me?
-414	(Celice): Of course. You're not a bad person.
-415	(Tinny): Lord Celice, you really are just as I'd heard. I wish I could have met you sooner.
-416	(Celice): Thank you, Tinny. But fighting your own kin must be painful — you don't have to push yourself, you know.
-417	(Tinny): Lord Celice...
-418	(Ares): Lene! Where are you! Where!!
-419	(Lene): Ares...
-420	(Ares): Ah, Lene! Are you alright!
-421	(Lene): I'm not really alright at all... but someone from the Liberation Army saved me. Ares, you came back...
-422	(Ares): I'm sorry... I was... such a fool... I didn't listen to what you said, Lene, and because of that you went through such an awful thing...
-423	(Lene): It's fine... it's over now... Ares, you came back for me, so...
-424	(Ares): I'll never... do that again...
-425	(Lene): ...I won't talk back like a spoiled brat anymore either. So Ares, please don't ever go anywhere again.
-426	(Lene): Nice to meet you, Lord Celice.
-427	(Celice): Ah... y-, you are...
-428	(Lene): I'm Lene, a dancer.
-429	(Celice): So you're... Lene...
-430	(Lene): Oh my, is this the first time you've seen a dancer, Lord Celice?
-431	(Celice): Y-, yeah...
-432	(Lene): Heheh, oh, Lord Celice...
+362	You're... Nanna?
+363	Yes, that's right, but who are you?
+364	Thank goodness! I finally found you! I'm Delmud, your brother.
+365	Eh? ...it can't be...
+366	I didn't know myself until Lord Levin told me.
+367	In the last war, we children fled to Isaac,
+368	but you, having just been born, went to Leonster together with mother, or so I heard.
+369	You're... my brother... then, what about mother!?
+370	Mother? ...Nanna, what do you mean by that?
+371	When I turned three years old,
+372	mother said she was going to go fetch my brother Delmud, and set off for Isaac.
+373	But she never came back after that. I've been waiting for her ever since...
+374	But mother never arrived here!
+375	That can't be... then, mother is...
+376	Yied is a cursed desert — it would be reckless for anyone to go there alone.
+377	Ahh... mother Lachesis...
+378	You're... Jeanne?
+379	Yes, that's right, but who are you?
+380	Thank goodness! I finally found you! I'm Tristan, your brother.
+381	Eh? ...it can't be... you're lying!
+382	It's not a lie. Our father was a knight of the kingdom of Noddion,
+383	but he died in battle during the Agustrian uprising, and we, who were still small, were taken in by Sigurd's army.
+384	After that we fled to Isaac, but you disappeared along the way.
+385	I see... that explains it. My adoptive father was a traveling merchant, and he told me he'd picked me up in Isaac.
+386	Yeah, I'll bet you got lost, and he must have saved you.
+387	But that adoptive father of mine was killed by imperial soldiers too. I was saved by Finn when I was seven.
+388	I see, so you had a hard time of it too. I'm sorry, Jeanne...
+389	No, it's fine. I'm happy, really — because it turns out I had a brother too, after all.
+390	Please don't go anywhere else ever again, brother Tristan...
+391	Wait... that pendant of yours...
+392	Eh? This is my mother's keepsake, but...
+393	I knew it! You're Tinny, aren't you! Ah, finally, I found you.
+394	Eh, who are you?
+395	Look, this — the same pendant as yours. I've worn it since I was small.
+396	Oh, it really is... but why is that?
+397	My mother was a warrior of the Liberation Army. After the battle, she fled to Silesse, taking me with her,
+398	but she was carried off by someone, along with my newborn little sister, and all that was left to me was this pendant.
+399	Just recently, I learned that it was King Bloom of Alster who took her,
+400	and I heard that mother has already passed away too. But my sister... Tinny, you must still be alive,
+401	and I wanted to see you, so... that's why I came all this way.
+402	That can't be... mother was forced away by uncle Bloom... I didn't know...
+403	But now it makes sense. I don't remember much about mother, but I remember she always seemed sad.
+404	So you're my brother... ahh...
+405	Tinny, please, more than anything, stop fighting and come with us — there's so much I want to talk to you about.
+406	Yes, I don't want to fight either. I'll do as you say, brother.
+407	Um... Lord Celice...
+408	Hm? ...and you are?
+409	I'm Tinny... Arthur's little sister...
+410	Ah, so you're Tinny. I've heard about you.
+411	Um... I'm so sorry!
+412	It's fine, don't worry about it — King Bloom is your uncle, after all, so there was nothing to be done about being on opposite sides.
+413	Will you really forgive me?
+414	Of course. You're not a bad person.
+415	Lord Celice, you really are just as I'd heard. I wish I could have met you sooner.
+416	Thank you, Tinny. But fighting your own kin must be painful — you don't have to push yourself, you know.
+417	Lord Celice...
+418	Lene! Where are you! Where!!
+419	Ares...
+420	Ah, Lene! Are you alright!
+421	I'm not really alright at all... but someone from the Liberation Army saved me. Ares, you came back...
+422	I'm sorry... I was... such a fool... I didn't listen to what you said, Lene, and because of that you went through such an awful thing...
+423	It's fine... it's over now... Ares, you came back for me, so...
+424	I'll never... do that again...
+425	...I won't talk back like a spoiled brat anymore either. So Ares, please don't ever go anywhere again.
+426	Nice to meet you, Lord Celice.
+427	Ah... y-, you are...
+428	I'm Lene, a dancer.
+429	So you're... Lene...
+430	Oh my, is this the first time you've seen a dancer, Lord Celice?
+431	Y-, yeah...
+432	Heheh, oh, Lord Celice...
 433	— Who could it be?
-434	(Shanan): Oof!
-435	(Daisy): Hahah! Look at Lord Shanan, so surprised~
-436	(Shanan): D-, Daisy! Phew, I almost ended up killing you there...
-437	(Shanan): Don't joke around like that!
-438	(Daisy): But~, I'm too weak to fight, so I'm bo~red~.
-439	(Shanan): In that case I'll teach you some swordsmanship. There's no time for a proper, full lesson, but you should at least get a bit better.
-440	(Daisy): Yay~! I'm so happy~! A private lesson from Lord Shanan!
-441	(Shanan): I won't teach you if you're not serious about it.
-442	(Daisy): Ye~s♥ I'll be very serious about it~♥
-443	(Shanan): ......alright! First, let's start with your stance — hey, are you even listening!
-444	(Daisy): Swoon ♥
-445	(Fetra): Take this! Elfire!!
-446	(Fetra): Tch, better retreat for now.
-447	(Vampa): Take this! Elwind!!
-448	(Fetra): Tch, better retreat for now.
-449	(Elu): Take this! Elthunder!!
-450	(Fetra): Tch, better retreat for now.
-451	(Bloom): Hehehe... you little brats... with this Thoron Hammer, I have nothing to fear from the likes of you!
-452	(Bloom): Ugh, this can't be happening... it can't be helped... for now, I'll retreat to Conote...
-453	(Celice): Alright, we've taken back Leonster Castle. All that's left is Alster.
-454	(Celice): Everyone, just a little more to endure — let's do our best!
+434	Oof!
+435	Hahah! Look at Lord Shanan, so surprised~
+436	D-, Daisy! Phew, I almost ended up killing you there...
+437	Don't joke around like that!
+438	But~, I'm too weak to fight, so I'm bo~red~.
+439	In that case I'll teach you some swordsmanship. There's no time for a proper, full lesson, but you should at least get a bit better.
+440	Yay~! I'm so happy~! A private lesson from Lord Shanan!
+441	I won't teach you if you're not serious about it.
+442	Ye~s♥ I'll be very serious about it~♥
+443	......alright! First, let's start with your stance — hey, are you even listening!
+444	Swoon ♥
+445	Take this! Elfire!!
+446	Tch, better retreat for now.
+447	Take this! Elwind!!
+448	Tch, better retreat for now.
+449	Take this! Elthunder!!
+450	Tch, better retreat for now.
+451	Hehehe... you little brats... with this Thoron Hammer, I have nothing to fear from the likes of you!
+452	Ugh, this can't be happening... it can't be helped... for now, I'll retreat to Conote...
+453	Alright, we've taken back Leonster Castle. All that's left is Alster.
+454	Everyone, just a little more to endure — let's do our best!
 455	(Levin (Strategist)): Celice, splendidly done. Alster has finally been liberated.
-456	(Celice): But it seems King Bloom has fled to Conote.
+456	But it seems King Bloom has fled to Conote.
 457	(Levin (Strategist)): It can't be helped. The fighting isn't over yet.
 458	(Levin (Strategist)): We've only just gained a foothold on the Thracia Peninsula.
-459	(Celice): Still, the people welcomed us with such enthusiasm — everyone looked so happy...
+459	Still, the people welcomed us with such enthusiasm — everyone looked so happy...
 460	(Levin (Strategist)): That just shows how terrible the Empire's rule was.
 461	(Levin (Strategist)): The people are putting their hopes in you. The hard part is still ahead of us.
-462	(Celice): Yes... but I have wonderful companions with me.
-463	(Celice): No matter how hard it gets, with them beside me, I believe we can get through it.
+462	Yes... but I have wonderful companions with me.
+463	No matter how hard it gets, with them beside me, I believe we can get through it.
 464	(Levin (Strategist)): That's true... with all of you...
-465	(Old woman): Ah, the Liberation Army... Prince Leaf has finally risen up...
-466	(Old woman): Lord Quan... Lady Ethlyn... please, rejoice...
-467	(Old woman): Please, take this Speed Ring, and accept it with my blessing.
-468	(Auntie): We can't endure the Empire's rule any longer. Please, save us...
+465	Ah, the Liberation Army... Prince Leaf has finally risen up...
+466	Lord Quan... Lady Ethlyn... please, rejoice...
+467	Please, take this Speed Ring, and accept it with my blessing.
+468	We can't endure the Empire's rule any longer. Please, save us...
 469	(Villager (man)): King Bloom is the son of Duke Reptor — after the last war, he conquered this region.
 470	(Villager (man)): But his rule has been terrible... and lately, he's even been trying to take our children away.
 471	(Villager (man)): We just can't put up with it anymore!
-472	(Elder): King Bloom had two children with Queen Hilda — a daughter named Ishtar, and a son named Ishtore,
-473	(Elder): Ishtar is the lord of Manster, while Ishtore, as lord of Melgen, both help their father Bloom,
-474	(Elder): Unlike their father, they're both fine, capable young people. I suppose you'll have to fight them eventually, so be careful.
+472	King Bloom had two children with Queen Hilda — a daughter named Ishtar, and a son named Ishtore,
+473	Ishtar is the lord of Manster, while Ishtore, as lord of Melgen, both help their father Bloom,
+474	Unlike their father, they're both fine, capable young people. I suppose you'll have to fight them eventually, so be careful.
 475	(Villager (man)): The ones to fear among Bloom's forces are the three sisters, Vampa, Fetra, and Elu, and the mage
 476	(Villager (man)): Tinny. Only, Tinny, despite being Bloom's niece, is a kind-hearted girl.
 477	(Villager (man)): She's helped us out time and again — if only that girl could somehow be spared...
 478	(Villager (woman)): Count Bramsel, the lord of Darna, is just the absolute worst, you know.
 479	(Villager (woman)): He grovels before Grannvale's officials, but acts like he's king in front of us.
 480	(Villager (woman)): I wish someone would hurry up and get rid of that nasty, sleazy man, honestly!
-481	(Elder): Mind you, the mercenary knights Bramsel has hired are tough customers.
-482	(Elder): Among them, there's a man named Ares who's especially fearsome.
-483	(Elder): He's still a young knight, but he carries a cursed blade called Mystletainn.
-484	(Elder): They say he was taken in as a child by the mercenary captain Jabarro, and now he's his most trusted right hand.
-485	(Elder): You won't stand a chance fighting him head-on.
-486	(Elder): That said, I'll give you this Shield Ring — it should be of some use, ho ho ho.
+481	Mind you, the mercenary knights Bramsel has hired are tough customers.
+482	Among them, there's a man named Ares who's especially fearsome.
+483	He's still a young knight, but he carries a cursed blade called Mystletainn.
+484	They say he was taken in as a child by the mercenary captain Jabarro, and now he's his most trusted right hand.
+485	You won't stand a chance fighting him head-on.
+486	That said, I'll give you this Shield Ring — it should be of some use, ho ho ho.
