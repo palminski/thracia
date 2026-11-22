@@ -48,3 +48,120 @@
   --panel-text-soft: #d8cdbb;
   --ref-text: #ddd2c0;         /* grammar.html / vocab.html body text */
 }
+
+/* ---------- pixel borders after the game's battle-forecast windows ----------
+   Images come from tools/make_borders.py (2x game pixels, 14px thick). */
+:root {
+  --frame: 14px;
+  /* outside the centre column: near-black brown, so the textured column
+     stands out; a slight fade from --page-bg-top down to --page-bg */
+  --page-bg: #110b08;
+  --page-bg-top: #2a1c14;
+}
+
+header.site {
+  border-bottom: 0; padding-bottom: var(--frame);
+  background:
+    url("../img/border/edge-bottom.png") repeat-x left bottom / 2px var(--frame),
+    var(--column) url("../img/border/texture.png") 0 0 / 192px repeat;
+  image-rendering: pixelated;
+}
+header.site > * { image-rendering: auto; }
+
+/* centre column: a splotchy band of the column brown (texture.png), with a
+   frame stripe either side whose inner edge sits on the band's edge,
+   404px from centre. The band is a pseudo-element so the texture can be
+   clipped to it; below 840px it simply fills the width. */
+body {
+  position: relative;
+  /* fixed: the fade spans the window, not the whole (very long) page */
+  background: var(--page-bg) linear-gradient(180deg, var(--page-bg-top), var(--page-bg)) fixed;
+}
+body::before {
+  content: ""; position: absolute; z-index: -1; top: 0; bottom: 0;
+  left: max(0px, calc(50% - 404px)); right: max(0px, calc(50% - 404px));
+  background: var(--column) url("../img/border/texture.png") 0 0 / 192px repeat;
+  image-rendering: pixelated;
+}
+@media (min-width: 840px) {
+  body {
+    /* background-position % aligns the image's own midpoint, hence 404 + 7 */
+    background:
+      url("../img/border/edge-left.png") calc(50% - 411px) 0 / var(--frame) 2px repeat-y,
+      url("../img/border/edge-right.png") calc(50% + 411px) 0 / var(--frame) 2px repeat-y,
+      var(--page-bg) linear-gradient(180deg, var(--page-bg-top), var(--page-bg)) fixed;
+    image-rendering: pixelated;
+  }
+  body > * { image-rendering: auto; }
+}
+
+/* translation panel: full frame with corner knots, same splotchy fill */
+.gloss {
+  border: var(--frame) solid transparent; border-radius: 0;
+  background: var(--column) url("../img/border/texture.png") 0 0 / 192px repeat;
+  /* frame.png is hand-drawn at 1x: 8px corners around a 2px edge strip.
+     Shown at 2x (16px corners); the knots poke 1 game px (2px) out past the box. */
+  border-image: url("../img/border/frame.png") 8 / 16px / 2px repeat;
+  image-rendering: pixelated;
+}
+.gloss > * { image-rendering: auto; }
+@media (min-width: 1300px) {
+  .gloss { border-radius: 0; left: calc(50% + 418px + 20px); width: min(340px, calc(50vw - 418px - 44px)); }
+}
+
+/* chapter sidebar: hidden for now. The markup is still generated
+   (tools/sidebar.py) and styled in base.css - delete this rule to bring it back. */
+.side-nav { display: none; }
+
+/* footer: full width, styled like the header (texture + frame stripe on top) */
+footer.site {
+  width: auto; margin: 64px 0 0; padding: calc(var(--frame) + 14px) 24px 24px;
+  border-top: 0; text-align: center;
+  position: relative; z-index: 2;   /* above the fixed corner art (z-index 1), so the art slides behind it */
+  background:
+    url("../img/border/edge-top.png") repeat-x left top / 2px var(--frame),
+    var(--column) url("../img/border/texture.png") 0 0 / 192px repeat;
+  image-rendering: pixelated;
+}
+footer.site > * { image-rendering: auto; }
+footer.site p { max-width: 760px; margin: 0.3em auto; text-align: center; }
+
+/* header: the game logo (img/border/logo.png) in place of the text title */
+.title-group.logo { display: block; line-height: 0; padding: 14px 0 10px; }
+.title-group.logo img { display: block; height: 110px; width: auto; }
+/* back link + toggles sit in the top corners rather than level with the logo */
+header.site .bar { align-items: start; }
+.all-games, nav.tools { margin-top: 16px; }
+@media (max-width: 640px) {
+  /* phones: same three columns, smaller links, toggles stacked */
+  header.site .bar { gap: 8px; padding-inline: 12px; }
+  .title-group.logo { padding: 10px 0 8px; }
+  .title-group.logo img { height: 80px; }
+  .all-games, nav.tools { margin-top: 10px; }
+  .all-games { font-size: 0.75rem; letter-spacing: 0.02em; }
+  nav.tools { flex-direction: column; align-items: flex-end; gap: 6px; }
+  .furi-toggle, .en-toggle { font-size: 0.68rem; padding: 3px 9px 3px 5px; gap: 6px; }
+  .furi-toggle .knob, .en-toggle .knob { width: 22px; height: 12px; }
+  .furi-toggle .knob::after, .en-toggle .knob::after { width: 8px; height: 8px; }
+  .furi .furi-toggle .knob::after, .eng .en-toggle .knob::after { transform: translateX(10px); }
+}
+
+/* random character art in the bottom-left corner (js/art.js, images from
+   img/art/). Desktop only: it sits in the empty left margin beside the column. */
+.art-track { display: none; }
+@media (min-width: 1300px) {
+  /* runs from the page top down to the footer's top edge (js/art.js sets
+     its bottom to the footer height); the art sticks to the window bottom
+     inside it, so it rides along while scrolling and stops at the footer */
+  .art-track {
+    display: flex; flex-direction: column; justify-content: flex-end;
+    position: absolute; z-index: 1; top: 0; left: 0; bottom: 0; pointer-events: none;
+  }
+  .corner-art {
+    display: block; position: sticky; bottom: 0;
+    width: auto; height: auto; max-height: min(55vh, 460px);
+    max-width: min(300px, calc(50vw - 418px - 16px));   /* never overlap the centre column */
+    object-fit: contain; object-position: left bottom;
+    opacity: 0.55;                           /* let it blend into the background */
+  }
+}
