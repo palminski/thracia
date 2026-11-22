@@ -279,7 +279,7 @@ PAGE = """<!DOCTYPE HTML>
 <header class="site">
 <div class="bar">
 <a class="all-games" href="{rel}../index.html">← All games</a>
-<a class="title-group" href="{rel}index.html"><span class="site-title">Fire Emblem</span><span class="title-sep">-</span>Binding Blade<span class="orig" lang="ja">封印の剣</span></a>
+<a class="title-group logo" href="{rel}index.html"><img src="{rel}img/logo.png" alt="Fire Emblem: The Binding Blade (封印の剣)" width="1200" height="532"></a>
 <nav class="tools">{tools}</nav>
 </div>
 </header>
@@ -290,6 +290,7 @@ PAGE = """<!DOCTYPE HTML>
 </div>
 </div>
 {scripts}
+<script src="{rel}js/art.js"></script>
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム 封印の剣・マスターバイブル 支援会話</span></a> (Pegasus Knight).</p>
 <p>English translations of the dialogue are unofficial and written for this site.</p>

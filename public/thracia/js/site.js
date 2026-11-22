@@ -50,8 +50,9 @@ document.querySelectorAll("details[data-acc]").forEach(function (d) {
 (function () {
   var panel = document.querySelector(".gloss");
   var backdrop = document.querySelector(".gloss-backdrop");
-  var gloss = window.GLOSS, en = window.EN || {};
-  if (!panel || !gloss) return;
+  // GLOSS (automatic dictionary meanings) is only shipped for chapters without hand-written notes
+  var gloss = window.GLOSS || {}, en = window.EN || {};
+  if (!panel) return;
   var body = panel.querySelector(".gloss-body");
   var hint = body.innerHTML;
   var wide = window.matchMedia("(min-width: 1300px)");

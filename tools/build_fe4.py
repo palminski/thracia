@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import en  # noqa: E402
 from fe4_parser import Fe4Parser  # noqa: E402
+from corner_art import write_art_js  # noqa: E402
 from sidebar import render_sidebar  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -223,7 +224,7 @@ PAGE = """<!DOCTYPE HTML>
 <header class="site">
 <div class="bar">
 <a class="all-games" href="{rel}../index.html">← All games</a>
-<a class="title-group" href="{rel}index.html"><span class="site-title">Fire Emblem</span><span class="title-sep">-</span>Genealogy of the Holy War<span class="orig" lang="ja">聖戦の系譜</span></a>
+<a class="title-group logo" href="{rel}index.html"><img src="{rel}img/logo.png" alt="Fire Emblem: Genealogy of the Holy War (聖戦の系譜)" width="800" height="342"></a>
 <nav class="tools">{tools}</nav>
 </div>
 </header>
@@ -234,6 +235,7 @@ PAGE = """<!DOCTYPE HTML>
 </div>
 </div>
 {scripts}
+<script src="{rel}js/art.js"></script>
 <footer class="site">
 <p>Dialogue source: <a href="{source}"><span lang="ja">ファイアーエムブレム 聖戦の系譜・マスターバイブル 会話集</span></a> (Pegasus Knight).</p>
 <p>English translations of the dialogue and chapter titles are unofficial and written for this site.</p>
@@ -258,6 +260,7 @@ def nav(idx, pages):
 
 
 def main():
+    write_art_js(WEB)
     OUT.mkdir(parents=True, exist_ok=True)
     (WEB / "img" / "portraits").mkdir(parents=True, exist_ok=True)
     stats, studied, portraits, script_data = [], [], {}, {}

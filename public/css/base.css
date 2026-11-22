@@ -36,7 +36,11 @@ body {
   font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", "Noto Sans CJK JP", Meiryo, sans-serif;
   font-size: 17px;
   line-height: 1.7;
+  /* short pages: the content area grows to fill the window, so the footer
+     sits at the bottom instead of halfway up the screen */
+  min-height: 100vh; display: flex; flex-direction: column;
 }
+body > .layout { flex: 1 0 auto; }
 
 a { color: var(--gold); }
 

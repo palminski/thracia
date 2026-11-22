@@ -64,7 +64,8 @@ TEX = 96                                   # tile size in game pixels
 TEX_SHADES = [(0x1a, 0x12, 0x0f), (0x1f, 0x16, 0x12), (0x25, 0x1a, 0x15), (0x2a, 0x1e, 0x18)]
 
 
-def texture():
+def texture(shades=TEX_SHADES):
+    """The splotch tile; other games reuse it with their own four shades."""
     import random
     rnd = random.Random(776)
 
@@ -93,7 +94,7 @@ def texture():
     im = Image.new("RGB", (TEX, TEX))
     for y in range(TEX):
         for x in range(TEX):
-            im.putpixel((x, y), TEX_SHADES[sum(vals[y][x] > c for c in cuts)])
+            im.putpixel((x, y), shades[sum(vals[y][x] > c for c in cuts)])
     return im
 
 

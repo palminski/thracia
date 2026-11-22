@@ -53,14 +53,16 @@ site; edit the text freely and re-run `python3 tools/build.py`. The build prints
 windows are translated and warns if a file has more lines than the page has windows.
 
 **Readings and vocabulary** come from `tools/analyze.py`, which tokenizes every line and
-looks each word up in [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) (CC BY-SA 4.0,
-credited in the footer):
+looks each word up in [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) (CC BY-SA 4.0):
 
     .venv/bin/python tools/analyze.py   # needs fugashi + unidic-lite in .venv; downloads JMdict to .cache/
     python3 tools/build.py
 
 It writes `data/tokens.json` and `data/glossary.json`; the build puts each chapter's
-glossary and translations in `public/thracia/chapters/gloss/`. This part is machine output and is sometimes
+translations (and, only for chapters without hand-written notes, the automatic JMdict
+glossary) in `public/thracia/chapters/gloss/`. Every chapter has hand-written notes now, so
+no JMdict data is published; if a chapter without notes is ever added, its glossary ships
+again and the footer should credit JMdict again (CC BY-SA requires attribution). This part is machine output and is sometimes
 wrong, mainly where the game spells a word in kana that has homophones. Corrections go in
 the tables at the top of `tools/analyze.py`: `OVERRIDES` / `COMPOUNDS` (readings),
 `GLOSS_FIXES` (meanings), `PROPER` (names and places). `build.py` itself needs no packages.
